@@ -78,25 +78,28 @@ dimwishlist:item=3460122497&perks=852209214,3827198035,2726471870
 //Imperial Needle
 //notes: adam (PvE 2 / utility, reload tool / optimal)|tags:PvE
 dimwishlist:item=3460122497&perks=2801223209,3429800428,706527188,3350417888
-dimwishlist:item=3460122497&perks=2801223209,3827198035,706527188,3350417888
-dimwishlist:item=3460122497&perks=4067834857,3429800428,706527188,3350417888
-dimwishlist:item=3460122497&perks=4067834857,3827198035,706527188,3350417888
-dimwishlist:item=3460122497&perks=2801223209,706527188,3350417888
-dimwishlist:item=3460122497&perks=4067834857,706527188,3350417888
-dimwishlist:item=3460122497&perks=3429800428,706527188,3350417888
-dimwishlist:item=3460122497&perks=3827198035,706527188,3350417888
-dimwishlist:item=3460122497&perks=706527188,3350417888
-
-//Imperial Needle
-//notes: adam (PvE 2 / utility, reload tool)|tags:PvE
 dimwishlist:item=3460122497&perks=2801223209,3429800428,2450788523,3350417888
+dimwishlist:item=3460122497&perks=2801223209,3827198035,706527188,3350417888
 dimwishlist:item=3460122497&perks=2801223209,3827198035,2450788523,3350417888
+dimwishlist:item=3460122497&perks=4067834857,3429800428,706527188,3350417888
 dimwishlist:item=3460122497&perks=4067834857,3429800428,2450788523,3350417888
+dimwishlist:item=3460122497&perks=4067834857,3827198035,706527188,3350417888
 dimwishlist:item=3460122497&perks=4067834857,3827198035,2450788523,3350417888
+dimwishlist:item=3460122497&perks=3768438372,3429800428,706527188,3350417888
+dimwishlist:item=3460122497&perks=3768438372,3429800428,2450788523,3350417888
+dimwishlist:item=3460122497&perks=3768438372,3827198035,706527188,3350417888
+dimwishlist:item=3460122497&perks=3768438372,3827198035,2450788523,3350417888
+dimwishlist:item=3460122497&perks=2801223209,706527188,3350417888
 dimwishlist:item=3460122497&perks=2801223209,2450788523,3350417888
+dimwishlist:item=3460122497&perks=4067834857,706527188,3350417888
 dimwishlist:item=3460122497&perks=4067834857,2450788523,3350417888
+dimwishlist:item=3460122497&perks=3768438372,706527188,3350417888
+dimwishlist:item=3460122497&perks=3768438372,2450788523,3350417888
+dimwishlist:item=3460122497&perks=3429800428,706527188,3350417888
 dimwishlist:item=3460122497&perks=3429800428,2450788523,3350417888
+dimwishlist:item=3460122497&perks=3827198035,706527188,3350417888
 dimwishlist:item=3460122497&perks=3827198035,2450788523,3350417888
+dimwishlist:item=3460122497&perks=706527188,3350417888
 dimwishlist:item=3460122497&perks=2450788523,3350417888
 
 //Imperial Needle
@@ -172,7 +175,7 @@ dimwishlist:item=2121785039&perks=3661387068,4071163871,4049631843
 dimwishlist:item=2121785039&perks=3661387068,2779035018,4049631843
 
 //Brass Attacks
-//notes: adam (PvE 2 / high PL content, GMs / optimal): Rapid hit should be the most reliable reload perk in a GM context, this thing could be an actually useful GM Sidearm in a future season with Surprise Attack + OFA/Frenzy allowing for a massive combined damage boost to an already hard-hitting archetype.|tags:PvE
+//notes: adam (PvE 2 / high PL content, GMs / optimal): Rapid hit should be the most reliable reload perk in a GM context, this thing could be an actually useful GM Sidearm in a future season with Surprise Attack + OFA, allowing for a massive combined damage boost to an already hard-hitting archetype.|tags:PvE
 dimwishlist:item=2121785039&perks=1467527085,1087426260,247725512,4049631843
 dimwishlist:item=2121785039&perks=1467527085,1885400500,247725512,4049631843
 dimwishlist:item=2121785039&perks=3661387068,1087426260,247725512,4049631843
@@ -181,7 +184,7 @@ dimwishlist:item=2121785039&perks=1467527085,247725512,4049631843
 dimwishlist:item=2121785039&perks=3661387068,247725512,4049631843
 
 //Brass Attacks
-//notes: adam (PvE 2 / high PL content, GMs): Rapid hit should be the most reliable reload perk in a GM context, this thing could be an actually useful GM Sidearm in a future season with Surprise Attack + OFA/Frenzy allowing for a massive combined damage boost to an already hard-hitting archetype.|tags:PvE
+//notes: adam (PvE 2 / high PL content, GMs): Rapid hit should be the most reliable reload perk in a GM context, this thing could be an actually useful GM Sidearm in a future season with Surprise Attack + OFA, allowing for a massive combined damage boost to an already hard-hitting archetype.|tags:PvE
 dimwishlist:item=2121785039&perks=1467527085,1087426260,247725512,4104185692
 dimwishlist:item=2121785039&perks=1467527085,1885400500,247725512,4104185692
 dimwishlist:item=2121785039&perks=3661387068,1087426260,247725512,4104185692
@@ -286,56 +289,41 @@ dimwishlist:item=893527433&perks=1840239774,1087426260,3300816228,4104185692
 dimwishlist:item=893527433&perks=1087426260,3300816228,4104185692
 
 //Far Future
-//notes: adam (PvP / optimal): Go for Extended + Range MW with quickdraw, Fluted + Handling with Moving Target|tags:PvP
+//notes: adam (PvP / optimal): After the changes, Handling MW feels like the top pick on any sniper without Snapshot.|tags:PvP
 dimwishlist:item=893527433&perks=1467527085,3142289711,706527188,47981717
 dimwishlist:item=893527433&perks=1467527085,3142289711,706527188,2726471870
+dimwishlist:item=893527433&perks=1467527085,3142289711,588594999,47981717
+dimwishlist:item=893527433&perks=1467527085,3142289711,588594999,2726471870
 dimwishlist:item=893527433&perks=1467527085,706527188,47981717
 dimwishlist:item=893527433&perks=1467527085,706527188,2726471870
+dimwishlist:item=893527433&perks=1467527085,588594999,47981717
+dimwishlist:item=893527433&perks=1467527085,588594999,2726471870
 dimwishlist:item=893527433&perks=3142289711,706527188,47981717
 dimwishlist:item=893527433&perks=3142289711,706527188,2726471870
-dimwishlist:item=893527433&perks=706527188,47981717
-dimwishlist:item=893527433&perks=706527188,2726471870
-
-//Far Future
-//notes: adam (PvP): Go for Extended + Range MW with quickdraw, Fluted + Handling with Moving Target|tags:PvP
-dimwishlist:item=893527433&perks=1840239774,3142289711,588594999,47981717
-dimwishlist:item=893527433&perks=1840239774,3142289711,588594999,2726471870
-dimwishlist:item=893527433&perks=1840239774,588594999,47981717
-dimwishlist:item=893527433&perks=1840239774,588594999,2726471870
 dimwishlist:item=893527433&perks=3142289711,588594999,47981717
 dimwishlist:item=893527433&perks=3142289711,588594999,2726471870
+dimwishlist:item=893527433&perks=706527188,47981717
+dimwishlist:item=893527433&perks=706527188,2726471870
 dimwishlist:item=893527433&perks=588594999,47981717
 dimwishlist:item=893527433&perks=588594999,2726471870
 
 //Threaded Needle
-//notes: adam (PvE / boss DPS / optimal): Frenzy is a slightly higher damage buff but you have to make sure it's procced at the right time. I'd go for the safer option in Vorpal. Slot 2 is a tricky one with LFRs: Accelerated coils gives you the best DPS, Ionized Battery the best total damage for a single mag, Liquid Coils is a middle-ground option with more total damage than Accelerated, and faster reloads than Ionized. There is no clear winner here, the best one will be situational based on the length of the damage phase (can you empty all your ammo despite a reload penalty? — if so, Ionized Mag is the winner) and how much damage you need to do (if you don't need to go out of your way to optimize total damage output, take Accelerated)|tags:PvE
+//notes: adam (PvE / boss DPS / optimal): Slot 2 is a tricky one with LFRs: Accelerated coils gives you the best DPS, Ionized Battery the best total damage for a single mag, Liquid Coils is a middle-ground option with more total damage than Accelerated, and faster reloads than Ionized. There is no clear winner here, the best one will be situational based on the length of the damage phase (can you empty all your ammo despite a reload penalty? — if so, Ionized Mag is the winner) and how much damage you need to do (if you don't need to go out of your way to optimize total damage output, take Accelerated)|tags:PvE
 dimwishlist:item=3075224551&perks=839105230,689005463,2869569095,1546637391
 dimwishlist:item=3075224551&perks=839105230,1483536627,2869569095,1546637391
 dimwishlist:item=3075224551&perks=689005463,2869569095,1546637391
 dimwishlist:item=3075224551&perks=1483536627,2869569095,1546637391
 
 //Threaded Needle
-//notes: adam (PvE / boss DPS): Frenzy is a slightly higher damage buff but you have to make sure it's procced at the right time. I'd go for the safer option in Vorpal. Slot 2 is a tricky one with LFRs: Accelerated coils gives you the best DPS, Ionized Battery the best total damage for a single mag, Liquid Coils is a middle-ground option with more total damage than Accelerated, and faster reloads than Ionized. There is no clear winner here, the best one will be situational based on the length of the damage phase (can you empty all your ammo despite a reload penalty? — if so, Ionized Mag is the winner) and how much damage you need to do (if you don't need to go out of your way to optimize total damage output, take Accelerated)|tags:PvE
+//notes: adam (PvE / boss DPS): Slot 2 is a tricky one with LFRs: Accelerated coils gives you the best DPS, Ionized Battery the best total damage for a single mag, Liquid Coils is a middle-ground option with more total damage than Accelerated, and faster reloads than Ionized. There is no clear winner here, the best one will be situational based on the length of the damage phase (can you empty all your ammo despite a reload penalty? — if so, Ionized Mag is the winner) and how much damage you need to do (if you don't need to go out of your way to optimize total damage output, take Accelerated)|tags:PvE
 dimwishlist:item=3075224551&perks=839105230,689005463,247725512,1546637391
 dimwishlist:item=3075224551&perks=839105230,1483536627,247725512,1546637391
 dimwishlist:item=3075224551&perks=689005463,247725512,1546637391
 dimwishlist:item=3075224551&perks=1483536627,247725512,1546637391
-dimwishlist:item=3075224551&perks=839105230,689005463,2869569095,4104185692
-dimwishlist:item=3075224551&perks=839105230,1483536627,2869569095,4104185692
-dimwishlist:item=3075224551&perks=689005463,2869569095,4104185692
-dimwishlist:item=3075224551&perks=1483536627,2869569095,4104185692
-dimwishlist:item=3075224551&perks=839105230,689005463,247725512,4104185692
-dimwishlist:item=3075224551&perks=839105230,1483536627,247725512,4104185692
-dimwishlist:item=3075224551&perks=689005463,247725512,4104185692
-dimwishlist:item=3075224551&perks=1483536627,247725512,4104185692
 dimwishlist:item=3075224551&perks=839105230,1687452232,2869569095,1546637391
 dimwishlist:item=3075224551&perks=1687452232,2869569095,1546637391
 dimwishlist:item=3075224551&perks=839105230,1687452232,247725512,1546637391
 dimwishlist:item=3075224551&perks=1687452232,247725512,1546637391
-dimwishlist:item=3075224551&perks=839105230,1687452232,2869569095,4104185692
-dimwishlist:item=3075224551&perks=1687452232,2869569095,4104185692
-dimwishlist:item=3075224551&perks=839105230,1687452232,247725512,4104185692
-dimwishlist:item=3075224551&perks=1687452232,247725512,4104185692
 
 //Code Duello
 //notes: adam (PvE / optimal): This is your new best friend. Can also do boss dps if you swap back and forth with Izanagi.|tags:PvE
@@ -420,42 +408,50 @@ dimwishlist:item=432476743&perks=1168162263,4049631843
 dimwishlist:item=432476743&perks=3643424744,4049631843
 
 //The Palindrome
-//notes: adam (PvP / optimal): For Slot 1, you want Extended or Chambered with Quickdraw since the Handling penalty won't matter. With Killing Wind, go for anything that increases range without that penalty.|tags:PvP
-dimwishlist:item=432476743&perks=1467527085,1885400500,706527188,2846385770
-dimwishlist:item=432476743&perks=1467527085,1885400500,706527188,2726471870
-dimwishlist:item=432476743&perks=3661387068,1885400500,706527188,2846385770
-dimwishlist:item=432476743&perks=3661387068,1885400500,706527188,2726471870
-dimwishlist:item=432476743&perks=3250034553,1885400500,706527188,2846385770
-dimwishlist:item=432476743&perks=3250034553,1885400500,706527188,2726471870
-dimwishlist:item=432476743&perks=1885400500,706527188,2846385770
-dimwishlist:item=432476743&perks=1885400500,706527188,2726471870
-
-//The Palindrome
-//notes: adam (PvP): For Slot 1, you want Extended or Chambered with Quickdraw since the Handling penalty won't matter. With Killing Wind, go for anything that increases range without that penalty.|tags:PvP
-dimwishlist:item=432476743&perks=1467527085,1885400500,2450788523,2846385770
-dimwishlist:item=432476743&perks=1467527085,1885400500,2450788523,2726471870
-dimwishlist:item=432476743&perks=3661387068,1885400500,2450788523,2846385770
-dimwishlist:item=432476743&perks=3661387068,1885400500,2450788523,2726471870
+//notes: adam (PvP / optimal): The goal here, post Quickdraw-nerf, is to find a balance between Handling and Range boosts based on your playstyle and personal preference. Should be an easier task if you have Rangefinder, which can handle most of the Range boosting on its own.|tags:PvP
+dimwishlist:item=432476743&perks=4090651448,1885400500,2450788523,2846385770
+dimwishlist:item=432476743&perks=4090651448,1885400500,2450788523,2726471870
+dimwishlist:item=432476743&perks=1482024992,1885400500,2450788523,2846385770
+dimwishlist:item=432476743&perks=1482024992,1885400500,2450788523,2726471870
+dimwishlist:item=432476743&perks=1840239774,1885400500,2450788523,2846385770
+dimwishlist:item=432476743&perks=1840239774,1885400500,2450788523,2726471870
 dimwishlist:item=432476743&perks=3250034553,1885400500,2450788523,2846385770
 dimwishlist:item=432476743&perks=3250034553,1885400500,2450788523,2726471870
 dimwishlist:item=432476743&perks=1885400500,2450788523,2846385770
 dimwishlist:item=432476743&perks=1885400500,2450788523,2726471870
-dimwishlist:item=432476743&perks=1467527085,1561002382,706527188,2846385770
-dimwishlist:item=432476743&perks=1467527085,1561002382,706527188,2726471870
-dimwishlist:item=432476743&perks=3661387068,1561002382,706527188,2846385770
-dimwishlist:item=432476743&perks=3661387068,1561002382,706527188,2726471870
-dimwishlist:item=432476743&perks=3250034553,1561002382,706527188,2846385770
-dimwishlist:item=432476743&perks=3250034553,1561002382,706527188,2726471870
-dimwishlist:item=432476743&perks=1561002382,706527188,2846385770
-dimwishlist:item=432476743&perks=1561002382,706527188,2726471870
-dimwishlist:item=432476743&perks=1467527085,1561002382,2450788523,2846385770
-dimwishlist:item=432476743&perks=1467527085,1561002382,2450788523,2726471870
-dimwishlist:item=432476743&perks=3661387068,1561002382,2450788523,2846385770
-dimwishlist:item=432476743&perks=3661387068,1561002382,2450788523,2726471870
+
+//The Palindrome
+//notes: adam (PvP): The goal here, post Quickdraw-nerf, is to find a balance between Handling and Range boosts based on your playstyle and personal preference. Should be an easier task if you have Rangefinder, which can handle most of the Range boosting on its own.|tags:PvP
+dimwishlist:item=432476743&perks=4090651448,1885400500,706527188,2846385770
+dimwishlist:item=432476743&perks=4090651448,1885400500,706527188,2726471870
+dimwishlist:item=432476743&perks=1482024992,1885400500,706527188,2846385770
+dimwishlist:item=432476743&perks=1482024992,1885400500,706527188,2726471870
+dimwishlist:item=432476743&perks=1840239774,1885400500,706527188,2846385770
+dimwishlist:item=432476743&perks=1840239774,1885400500,706527188,2726471870
+dimwishlist:item=432476743&perks=3250034553,1885400500,706527188,2846385770
+dimwishlist:item=432476743&perks=3250034553,1885400500,706527188,2726471870
+dimwishlist:item=432476743&perks=1885400500,706527188,2846385770
+dimwishlist:item=432476743&perks=1885400500,706527188,2726471870
+dimwishlist:item=432476743&perks=4090651448,1561002382,2450788523,2846385770
+dimwishlist:item=432476743&perks=4090651448,1561002382,2450788523,2726471870
+dimwishlist:item=432476743&perks=1482024992,1561002382,2450788523,2846385770
+dimwishlist:item=432476743&perks=1482024992,1561002382,2450788523,2726471870
+dimwishlist:item=432476743&perks=1840239774,1561002382,2450788523,2846385770
+dimwishlist:item=432476743&perks=1840239774,1561002382,2450788523,2726471870
 dimwishlist:item=432476743&perks=3250034553,1561002382,2450788523,2846385770
 dimwishlist:item=432476743&perks=3250034553,1561002382,2450788523,2726471870
 dimwishlist:item=432476743&perks=1561002382,2450788523,2846385770
 dimwishlist:item=432476743&perks=1561002382,2450788523,2726471870
+dimwishlist:item=432476743&perks=4090651448,1561002382,706527188,2846385770
+dimwishlist:item=432476743&perks=4090651448,1561002382,706527188,2726471870
+dimwishlist:item=432476743&perks=1482024992,1561002382,706527188,2846385770
+dimwishlist:item=432476743&perks=1482024992,1561002382,706527188,2726471870
+dimwishlist:item=432476743&perks=1840239774,1561002382,706527188,2846385770
+dimwishlist:item=432476743&perks=1840239774,1561002382,706527188,2726471870
+dimwishlist:item=432476743&perks=3250034553,1561002382,706527188,2846385770
+dimwishlist:item=432476743&perks=3250034553,1561002382,706527188,2726471870
+dimwishlist:item=432476743&perks=1561002382,706527188,2846385770
+dimwishlist:item=432476743&perks=1561002382,706527188,2726471870
 
 //The Palindrome (Adept)
 //notes: adam (PvE / regular, non-endgame content / optimal): Subsistence feels viable on hand cannons, if you use them to clear add waves. By default, this gun gets 1 bullet back for every kill with subsistence—however, a mag increase in Slot 2 can push that to 2 per kill, which should guarantee an infinite mag without ever having to reload. Keep in mind though that the higher your mag, the more subsistence lowers your total reserves. That being said, I would look for the roll below, which covers both easy red bar clear and difficult content as well.|tags:PvE
@@ -523,42 +519,50 @@ dimwishlist:item=1481892490&perks=1168162263,4049631843
 dimwishlist:item=1481892490&perks=3643424744,4049631843
 
 //The Palindrome (Adept)
-//notes: adam (PvP / optimal): For Slot 1, you want Extended or Chambered with Quickdraw since the Handling penalty won't matter. With Killing Wind, go for anything that increases range without that penalty.|tags:PvP
-dimwishlist:item=1481892490&perks=1467527085,1885400500,706527188,2846385770
-dimwishlist:item=1481892490&perks=1467527085,1885400500,706527188,2726471870
-dimwishlist:item=1481892490&perks=3661387068,1885400500,706527188,2846385770
-dimwishlist:item=1481892490&perks=3661387068,1885400500,706527188,2726471870
-dimwishlist:item=1481892490&perks=3250034553,1885400500,706527188,2846385770
-dimwishlist:item=1481892490&perks=3250034553,1885400500,706527188,2726471870
-dimwishlist:item=1481892490&perks=1885400500,706527188,2846385770
-dimwishlist:item=1481892490&perks=1885400500,706527188,2726471870
-
-//The Palindrome (Adept)
-//notes: adam (PvP): For Slot 1, you want Extended or Chambered with Quickdraw since the Handling penalty won't matter. With Killing Wind, go for anything that increases range without that penalty.|tags:PvP
-dimwishlist:item=1481892490&perks=1467527085,1885400500,2450788523,2846385770
-dimwishlist:item=1481892490&perks=1467527085,1885400500,2450788523,2726471870
-dimwishlist:item=1481892490&perks=3661387068,1885400500,2450788523,2846385770
-dimwishlist:item=1481892490&perks=3661387068,1885400500,2450788523,2726471870
+//notes: adam (PvP / optimal): The goal here, post Quickdraw-nerf, is to find a balance between Handling and Range boosts based on your playstyle and personal preference. Should be an easier task if you have Rangefinder, which can handle most of the Range boosting on its own.|tags:PvP
+dimwishlist:item=1481892490&perks=4090651448,1885400500,2450788523,2846385770
+dimwishlist:item=1481892490&perks=4090651448,1885400500,2450788523,2726471870
+dimwishlist:item=1481892490&perks=1482024992,1885400500,2450788523,2846385770
+dimwishlist:item=1481892490&perks=1482024992,1885400500,2450788523,2726471870
+dimwishlist:item=1481892490&perks=1840239774,1885400500,2450788523,2846385770
+dimwishlist:item=1481892490&perks=1840239774,1885400500,2450788523,2726471870
 dimwishlist:item=1481892490&perks=3250034553,1885400500,2450788523,2846385770
 dimwishlist:item=1481892490&perks=3250034553,1885400500,2450788523,2726471870
 dimwishlist:item=1481892490&perks=1885400500,2450788523,2846385770
 dimwishlist:item=1481892490&perks=1885400500,2450788523,2726471870
-dimwishlist:item=1481892490&perks=1467527085,1561002382,706527188,2846385770
-dimwishlist:item=1481892490&perks=1467527085,1561002382,706527188,2726471870
-dimwishlist:item=1481892490&perks=3661387068,1561002382,706527188,2846385770
-dimwishlist:item=1481892490&perks=3661387068,1561002382,706527188,2726471870
-dimwishlist:item=1481892490&perks=3250034553,1561002382,706527188,2846385770
-dimwishlist:item=1481892490&perks=3250034553,1561002382,706527188,2726471870
-dimwishlist:item=1481892490&perks=1561002382,706527188,2846385770
-dimwishlist:item=1481892490&perks=1561002382,706527188,2726471870
-dimwishlist:item=1481892490&perks=1467527085,1561002382,2450788523,2846385770
-dimwishlist:item=1481892490&perks=1467527085,1561002382,2450788523,2726471870
-dimwishlist:item=1481892490&perks=3661387068,1561002382,2450788523,2846385770
-dimwishlist:item=1481892490&perks=3661387068,1561002382,2450788523,2726471870
+
+//The Palindrome (Adept)
+//notes: adam (PvP): The goal here, post Quickdraw-nerf, is to find a balance between Handling and Range boosts based on your playstyle and personal preference. Should be an easier task if you have Rangefinder, which can handle most of the Range boosting on its own.|tags:PvP
+dimwishlist:item=1481892490&perks=4090651448,1885400500,706527188,2846385770
+dimwishlist:item=1481892490&perks=4090651448,1885400500,706527188,2726471870
+dimwishlist:item=1481892490&perks=1482024992,1885400500,706527188,2846385770
+dimwishlist:item=1481892490&perks=1482024992,1885400500,706527188,2726471870
+dimwishlist:item=1481892490&perks=1840239774,1885400500,706527188,2846385770
+dimwishlist:item=1481892490&perks=1840239774,1885400500,706527188,2726471870
+dimwishlist:item=1481892490&perks=3250034553,1885400500,706527188,2846385770
+dimwishlist:item=1481892490&perks=3250034553,1885400500,706527188,2726471870
+dimwishlist:item=1481892490&perks=1885400500,706527188,2846385770
+dimwishlist:item=1481892490&perks=1885400500,706527188,2726471870
+dimwishlist:item=1481892490&perks=4090651448,1561002382,2450788523,2846385770
+dimwishlist:item=1481892490&perks=4090651448,1561002382,2450788523,2726471870
+dimwishlist:item=1481892490&perks=1482024992,1561002382,2450788523,2846385770
+dimwishlist:item=1481892490&perks=1482024992,1561002382,2450788523,2726471870
+dimwishlist:item=1481892490&perks=1840239774,1561002382,2450788523,2846385770
+dimwishlist:item=1481892490&perks=1840239774,1561002382,2450788523,2726471870
 dimwishlist:item=1481892490&perks=3250034553,1561002382,2450788523,2846385770
 dimwishlist:item=1481892490&perks=3250034553,1561002382,2450788523,2726471870
 dimwishlist:item=1481892490&perks=1561002382,2450788523,2846385770
 dimwishlist:item=1481892490&perks=1561002382,2450788523,2726471870
+dimwishlist:item=1481892490&perks=4090651448,1561002382,706527188,2846385770
+dimwishlist:item=1481892490&perks=4090651448,1561002382,706527188,2726471870
+dimwishlist:item=1481892490&perks=1482024992,1561002382,706527188,2846385770
+dimwishlist:item=1481892490&perks=1482024992,1561002382,706527188,2726471870
+dimwishlist:item=1481892490&perks=1840239774,1561002382,706527188,2846385770
+dimwishlist:item=1481892490&perks=1840239774,1561002382,706527188,2726471870
+dimwishlist:item=1481892490&perks=3250034553,1561002382,706527188,2846385770
+dimwishlist:item=1481892490&perks=3250034553,1561002382,706527188,2726471870
+dimwishlist:item=1481892490&perks=1561002382,706527188,2846385770
+dimwishlist:item=1481892490&perks=1561002382,706527188,2726471870
 
 //Shadow Price
 //notes: adam (PvE / regular, non-endgame content / optimal): 450 rpm auto rifles are really weak in the current sandbox and you will need a damage increase to make them viable, so Slot 4 feels absolutely essential here.|tags:PvE
@@ -1986,26 +1990,7 @@ dimwishlist:item=3473290087&perks=3300816228,2213355989
 dimwishlist:item=3473290087&perks=2284787283,2213355989
 
 //Frozen Orbit
-//notes: adam (PvP / general use / optimal): Probably the best PvP sniper at the moment, this gun lets you pick from the two best sniper perks (Snapshot and Quickdraw) and is an Aggressive Frame, giving you instant body shot kills with any damage buff depending on the opponent's resilience. Without a buff, body shots will still do enough damage to allow instant cleanups with your primary.|tags:PvP
-dimwishlist:item=3473290087&perks=1840239774,3142289711,588594999,706527188
-dimwishlist:item=3473290087&perks=839105230,3142289711,588594999,706527188
-dimwishlist:item=3473290087&perks=4090651448,3142289711,588594999,706527188
-dimwishlist:item=3473290087&perks=3142289711,588594999,706527188
-dimwishlist:item=3473290087&perks=1840239774,588594999,706527188
-dimwishlist:item=3473290087&perks=839105230,588594999,706527188
-dimwishlist:item=3473290087&perks=4090651448,588594999,706527188
-dimwishlist:item=3473290087&perks=1840239774,3142289711,706527188
-dimwishlist:item=3473290087&perks=839105230,3142289711,706527188
-dimwishlist:item=3473290087&perks=4090651448,3142289711,706527188
-dimwishlist:item=3473290087&perks=1840239774,706527188
-dimwishlist:item=3473290087&perks=839105230,706527188
-dimwishlist:item=3473290087&perks=4090651448,706527188
-dimwishlist:item=3473290087&perks=3142289711,706527188
-dimwishlist:item=3473290087&perks=588594999,706527188
-dimwishlist:item=3473290087&perks=706527188
-
-//Frozen Orbit
-//notes: adam (PvP / general use): Probably the best PvP sniper at the moment, this gun lets you pick from the two best sniper perks (Snapshot and Quickdraw) and is an Aggressive Frame, giving you instant body shot kills with any damage buff depending on the opponent's resilience. Without a buff, body shots will still do enough damage to allow instant cleanups with your primary.|tags:PvP
+//notes: adam (PvP / general use / optimal): Probably the best PvP sniper at the moment. It's an Aggressive Frame with Snapshot (the most essential sniper perk after the Quickdraw nerf), giving you instant body shot kills with any damage buff depending on the opponent's resilience. Without a buff, body shots will still do enough damage to allow instant cleanups with your primary.|tags:PvP
 dimwishlist:item=3473290087&perks=1840239774,3142289711,588594999,957782887
 dimwishlist:item=3473290087&perks=839105230,3142289711,588594999,957782887
 dimwishlist:item=3473290087&perks=4090651448,3142289711,588594999,957782887
