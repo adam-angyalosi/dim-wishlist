@@ -1,6 +1,6 @@
 
 //Extraordinary Rendition
-//notes: adam (PvE / regular, non-endgame content / optimal)|tags:PvE
+//notes: adam (PvE / regular, non-endgame content / optimal): Subsistence should work well on this one after the buff, but make sure that it's not paired with Multi Kill Clip as you can't effectively use them together.|tags:PvE
 dimwishlist:item=1097616550&perks=1482024992,1087426260,1168162263,2458213969
 dimwishlist:item=1097616550&perks=1482024992,1087426260,1168162263,4049631843
 dimwishlist:item=1097616550&perks=1482024992,106909392,1168162263,2458213969
@@ -21,25 +21,16 @@ dimwishlist:item=1097616550&perks=1168162263,2458213969
 dimwishlist:item=1097616550&perks=1168162263,4049631843
 
 //Extraordinary Rendition
-//notes: adam (PvE / regular, non-endgame content)|tags:PvE
-dimwishlist:item=1097616550&perks=1482024992,1087426260,3436462433,2458213969
-dimwishlist:item=1097616550&perks=1482024992,1087426260,3436462433,4049631843
-dimwishlist:item=1097616550&perks=1482024992,106909392,3436462433,2458213969
-dimwishlist:item=1097616550&perks=1482024992,106909392,3436462433,4049631843
-dimwishlist:item=1097616550&perks=4090651448,1087426260,3436462433,2458213969
-dimwishlist:item=1097616550&perks=4090651448,1087426260,3436462433,4049631843
-dimwishlist:item=1097616550&perks=4090651448,106909392,3436462433,2458213969
-dimwishlist:item=1097616550&perks=4090651448,106909392,3436462433,4049631843
-dimwishlist:item=1097616550&perks=1482024992,3436462433,2458213969
-dimwishlist:item=1097616550&perks=1482024992,3436462433,4049631843
-dimwishlist:item=1097616550&perks=4090651448,3436462433,2458213969
-dimwishlist:item=1097616550&perks=4090651448,3436462433,4049631843
-dimwishlist:item=1097616550&perks=1087426260,3436462433,2458213969
-dimwishlist:item=1097616550&perks=1087426260,3436462433,4049631843
-dimwishlist:item=1097616550&perks=106909392,3436462433,2458213969
-dimwishlist:item=1097616550&perks=106909392,3436462433,4049631843
-dimwishlist:item=1097616550&perks=3436462433,2458213969
-dimwishlist:item=1097616550&perks=3436462433,4049631843
+//notes: adam (PvE / regular, non-endgame content): Subsistence should work well on this one after the buff, but make sure that it's not paired with Multi Kill Clip as you can't effectively use them together.|tags:PvE
+dimwishlist:item=1097616550&perks=1482024992,1087426260,1820235745,4049631843
+dimwishlist:item=1097616550&perks=1482024992,106909392,1820235745,4049631843
+dimwishlist:item=1097616550&perks=4090651448,1087426260,1820235745,4049631843
+dimwishlist:item=1097616550&perks=4090651448,106909392,1820235745,4049631843
+dimwishlist:item=1097616550&perks=1482024992,1820235745,4049631843
+dimwishlist:item=1097616550&perks=4090651448,1820235745,4049631843
+dimwishlist:item=1097616550&perks=1087426260,1820235745,4049631843
+dimwishlist:item=1097616550&perks=106909392,1820235745,4049631843
+dimwishlist:item=1097616550&perks=1820235745,4049631843
 
 //Extraordinary Rendition
 //notes: adam (PvE 2 / build specific / optimal): If you want to use Salvager's Salvo as your main weapon, this is a good secondary for cleanups, since Overflow and Frenzy both proc while stowed. Could also come into play if a future season forces champion mods onto SMGs, as kill-based damage perks are difficult to keep up in GM.|tags:PvE
@@ -54,24 +45,46 @@ dimwishlist:item=1097616550&perks=3142289711,3643424744,4104185692
 dimwishlist:item=1097616550&perks=3643424744,4104185692
 
 //Imperial Needle
-//notes: adam (PvE 1 / primary use / optimal): Lightweight bows have a draw time stat cap of 540. Elastic String gets you to this cap by itself, making a draw time MW useless, hence its omission. If you don't have Elastic String on your roll, a Draw Time MW also becomes valuable. Archer's Tempo does give an increase beyond the cap of 540, but only a minor one—its benefits are more noticable if you haven't reached that cap, so if you have reached the cap with any combination of String + MW stat bonuses, the reload increase from Impulse Amplifier probably gives you a higher DPS increase.|tags:PvE
-dimwishlist:item=3460122497&perks=2801223209,3429800428,951095735,3592538738
+//notes: adam (PvE 1 / primary use / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=3460122497&perks=2801223209,3429800428,951095735,2726471870
-dimwishlist:item=3460122497&perks=2801223209,3827198035,951095735,3592538738
-dimwishlist:item=3460122497&perks=2801223209,3827198035,951095735,2726471870
-dimwishlist:item=3460122497&perks=2801223209,3429800428,3592538738
+dimwishlist:item=3460122497&perks=852209214,3429800428,951095735,2726471870
 dimwishlist:item=3460122497&perks=2801223209,3429800428,2726471870
-dimwishlist:item=3460122497&perks=2801223209,3827198035,3592538738
-dimwishlist:item=3460122497&perks=2801223209,3827198035,2726471870
+dimwishlist:item=3460122497&perks=852209214,3429800428,2726471870
 
 //Imperial Needle
-//notes: adam (PvE 1 / primary use): Lightweight bows have a draw time stat cap of 540. Elastic String gets you to this cap by itself, making a draw time MW useless, hence its omission. If you don't have Elastic String on your roll, a Draw Time MW also becomes valuable. Archer's Tempo does give an increase beyond the cap of 540, but only a minor one—its benefits are more noticable if you haven't reached that cap, so if you have reached the cap with any combination of String + MW stat bonuses, the reload increase from Impulse Amplifier probably gives you a higher DPS increase.|tags:PvE
+//notes: adam (PvE 1 / primary use), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=3460122497&perks=2801223209,3827198035,951095735,2726471870
+dimwishlist:item=3460122497&perks=852209214,3827198035,951095735,2726471870
+dimwishlist:item=3460122497&perks=2801223209,3827198035,2726471870
+dimwishlist:item=3460122497&perks=852209214,3827198035,2726471870
+
+//Imperial Needle
+//notes: adam (PvE 1 / primary use / optimal): Lightweight bows have a draw time stat cap of 540. Elastic String gets you to this cap by itself, making a draw time MW useless. If you don't have Elastic String on your roll, a Draw Time MW also becomes valuable. The best min/max combo is Polymer String with a Draw Time MW, as it results in a couple points of extra Accuracy but it's not worth losing sleep over, the main thing that matters is reaching the Draw Time cap. Archer's Tempo does give an increase beyond the cap of 540, but only a minor one—its benefits are more noticable if you haven't reached that cap, so if you have reached the cap with any combination of String + MW stat bonuses, the reload increase from Impulse Amplifier probably gives you a slightly higher DPS increase.|tags:PvE
+dimwishlist:item=3460122497&perks=2801223209,3429800428,951095735,3592538738
+dimwishlist:item=3460122497&perks=2801223209,3429800428,951095735,2726471870
+dimwishlist:item=3460122497&perks=2801223209,3429800428,201365942,3592538738
+dimwishlist:item=3460122497&perks=2801223209,3429800428,201365942,2726471870
+dimwishlist:item=3460122497&perks=852209214,3429800428,951095735,3592538738
+dimwishlist:item=3460122497&perks=852209214,3429800428,951095735,2726471870
 dimwishlist:item=3460122497&perks=852209214,3429800428,201365942,3592538738
 dimwishlist:item=3460122497&perks=852209214,3429800428,201365942,2726471870
-dimwishlist:item=3460122497&perks=852209214,3827198035,201365942,3592538738
-dimwishlist:item=3460122497&perks=852209214,3827198035,201365942,2726471870
+dimwishlist:item=3460122497&perks=2801223209,3429800428,3592538738
+dimwishlist:item=3460122497&perks=2801223209,3429800428,2726471870
 dimwishlist:item=3460122497&perks=852209214,3429800428,3592538738
 dimwishlist:item=3460122497&perks=852209214,3429800428,2726471870
+
+//Imperial Needle
+//notes: adam (PvE 1 / primary use)|tags:PvE
+dimwishlist:item=3460122497&perks=2801223209,3827198035,951095735,3592538738
+dimwishlist:item=3460122497&perks=2801223209,3827198035,951095735,2726471870
+dimwishlist:item=3460122497&perks=2801223209,3827198035,201365942,3592538738
+dimwishlist:item=3460122497&perks=2801223209,3827198035,201365942,2726471870
+dimwishlist:item=3460122497&perks=852209214,3827198035,951095735,3592538738
+dimwishlist:item=3460122497&perks=852209214,3827198035,951095735,2726471870
+dimwishlist:item=3460122497&perks=852209214,3827198035,201365942,3592538738
+dimwishlist:item=3460122497&perks=852209214,3827198035,201365942,2726471870
+dimwishlist:item=3460122497&perks=2801223209,3827198035,3592538738
+dimwishlist:item=3460122497&perks=2801223209,3827198035,2726471870
 dimwishlist:item=3460122497&perks=852209214,3827198035,3592538738
 dimwishlist:item=3460122497&perks=852209214,3827198035,2726471870
 
@@ -103,46 +116,46 @@ dimwishlist:item=3460122497&perks=706527188,3350417888
 dimwishlist:item=3460122497&perks=2450788523,3350417888
 
 //Imperial Needle
-//notes: adam (PvP / optimal): Haven't tested Impulse Amplifier, sounds good on paper but can't vouch for it. MW caveat applies here as well.|tags:PvP
+//notes: adam (PvP / optimal): Lightweight bows have a draw time stat cap of 540. Polymer String with a Draw Time MW gets you there with the maximum possible Accuracy but Elastic String + Accuracy MW is also a great combo, giving you the same max draw time with a couple points lower Accuracy total compared to the other combo.|tags:PvP
 dimwishlist:item=3460122497&perks=2801223209,3429800428,2450788523,4082225868
 dimwishlist:item=3460122497&perks=2801223209,3429800428,2450788523,2726471870
 dimwishlist:item=3460122497&perks=2801223209,3429800428,951095735,4082225868
 dimwishlist:item=3460122497&perks=2801223209,3429800428,951095735,2726471870
-dimwishlist:item=3460122497&perks=2801223209,3827198035,2450788523,4082225868
-dimwishlist:item=3460122497&perks=2801223209,3827198035,2450788523,2726471870
-dimwishlist:item=3460122497&perks=2801223209,3827198035,951095735,4082225868
-dimwishlist:item=3460122497&perks=2801223209,3827198035,951095735,2726471870
-dimwishlist:item=3460122497&perks=2801223209,3429800428,4082225868
-dimwishlist:item=3460122497&perks=2801223209,3429800428,2726471870
-dimwishlist:item=3460122497&perks=2801223209,3827198035,4082225868
-dimwishlist:item=3460122497&perks=2801223209,3827198035,2726471870
-
-//Imperial Needle
-//notes: adam (PvP): Haven't tested Impulse Amplifier, sounds good on paper but can't vouch for it. MW caveat applies here as well.|tags:PvP
-dimwishlist:item=3460122497&perks=2801223209,3429800428,2450788523,47981717
-dimwishlist:item=3460122497&perks=2801223209,3429800428,951095735,47981717
-dimwishlist:item=3460122497&perks=2801223209,3827198035,2450788523,47981717
-dimwishlist:item=3460122497&perks=2801223209,3827198035,951095735,47981717
-dimwishlist:item=3460122497&perks=2801223209,3429800428,47981717
-dimwishlist:item=3460122497&perks=2801223209,3827198035,47981717
 dimwishlist:item=3460122497&perks=852209214,3429800428,2450788523,4082225868
 dimwishlist:item=3460122497&perks=852209214,3429800428,2450788523,2726471870
 dimwishlist:item=3460122497&perks=852209214,3429800428,951095735,4082225868
 dimwishlist:item=3460122497&perks=852209214,3429800428,951095735,2726471870
+dimwishlist:item=3460122497&perks=2801223209,3429800428,4082225868
+dimwishlist:item=3460122497&perks=2801223209,3429800428,2726471870
+dimwishlist:item=3460122497&perks=852209214,3429800428,4082225868
+dimwishlist:item=3460122497&perks=852209214,3429800428,2726471870
+
+//Imperial Needle
+//notes: adam (PvP): Lightweight bows have a draw time stat cap of 540. Polymer String with a Draw Time MW gets you there with the maximum possible Accuracy but Elastic String + Accuracy MW is also a great combo, giving you the same max draw time with a couple points lower Accuracy total compared to the other combo.|tags:PvP
+dimwishlist:item=3460122497&perks=2801223209,3429800428,2450788523,47981717
+dimwishlist:item=3460122497&perks=2801223209,3429800428,951095735,47981717
+dimwishlist:item=3460122497&perks=852209214,3429800428,2450788523,47981717
+dimwishlist:item=3460122497&perks=852209214,3429800428,951095735,47981717
+dimwishlist:item=3460122497&perks=2801223209,3429800428,47981717
+dimwishlist:item=3460122497&perks=852209214,3429800428,47981717
 dimwishlist:item=3460122497&perks=852209214,3827198035,2450788523,4082225868
 dimwishlist:item=3460122497&perks=852209214,3827198035,2450788523,2726471870
 dimwishlist:item=3460122497&perks=852209214,3827198035,951095735,4082225868
 dimwishlist:item=3460122497&perks=852209214,3827198035,951095735,2726471870
-dimwishlist:item=3460122497&perks=852209214,3429800428,4082225868
-dimwishlist:item=3460122497&perks=852209214,3429800428,2726471870
+dimwishlist:item=3460122497&perks=2801223209,3827198035,2450788523,4082225868
+dimwishlist:item=3460122497&perks=2801223209,3827198035,2450788523,2726471870
+dimwishlist:item=3460122497&perks=2801223209,3827198035,951095735,4082225868
+dimwishlist:item=3460122497&perks=2801223209,3827198035,951095735,2726471870
 dimwishlist:item=3460122497&perks=852209214,3827198035,4082225868
 dimwishlist:item=3460122497&perks=852209214,3827198035,2726471870
-dimwishlist:item=3460122497&perks=852209214,3429800428,2450788523,47981717
-dimwishlist:item=3460122497&perks=852209214,3429800428,951095735,47981717
+dimwishlist:item=3460122497&perks=2801223209,3827198035,4082225868
+dimwishlist:item=3460122497&perks=2801223209,3827198035,2726471870
 dimwishlist:item=3460122497&perks=852209214,3827198035,2450788523,47981717
 dimwishlist:item=3460122497&perks=852209214,3827198035,951095735,47981717
-dimwishlist:item=3460122497&perks=852209214,3429800428,47981717
+dimwishlist:item=3460122497&perks=2801223209,3827198035,2450788523,47981717
+dimwishlist:item=3460122497&perks=2801223209,3827198035,951095735,47981717
 dimwishlist:item=3460122497&perks=852209214,3827198035,47981717
+dimwishlist:item=3460122497&perks=2801223209,3827198035,47981717
 
 //Brass Attacks
 //notes: adam (PvE 1 / regular, non-endgame content / optimal): Recoil barrels feel important on this one, as it has a strong sideways deviation by default, Extended/Chambered makes it very reliable and fully vertical. Wellspring is also a good option in Slot 4 if you're okay sacrificing damage perks.|tags:PvE
@@ -328,12 +341,14 @@ dimwishlist:item=3075224551&perks=1687452232,247725512,1546637391
 //Code Duello
 //notes: adam (PvE / optimal): This is your new best friend. Can also do boss dps if you swap back and forth with Izanagi.|tags:PvE
 dimwishlist:item=2496242052&perks=3525010810,3796465595,3300816228,3927722942
+dimwishlist:item=2496242052&perks=3525010810,3300816228,3927722942
 dimwishlist:item=2496242052&perks=3796465595,3300816228,3927722942
+dimwishlist:item=2496242052&perks=3300816228,3927722942
 
 //Code Duello
 //notes: adam (PvE / boss DPS / optimal): Field prep maxes reload speed as long as you're crouched. You're most likely going to use this one in a sustained raid boss phase, where you're usually stationary in a well, so staying crouched shouldn't be an issue. Impulse Amplifier also gives a reload buff, the extent of which I'm not sure about, but even if it maxes reload similar to field prep, the extra reserves granted by Field Prep greatly increase your total damage potential, making it a superior choice.|tags:PvE
 dimwishlist:item=2496242052&perks=3796465595,2869569095,3927722942
-dimwishlist:item=2496242052&perks=3796465595,2869569095,3927722942
+dimwishlist:item=2496242052&perks=2869569095,3927722942
 
 //Code Duello
 //notes: adam (PvP / optimal)|tags:PvP
@@ -343,32 +358,30 @@ dimwishlist:item=2496242052&perks=1996142143,951095735,2396489472
 dimwishlist:item=2496242052&perks=951095735,2396489472
 
 //The Palindrome
-//notes: adam (PvE / regular, non-endgame content / optimal): Subsistence feels viable on hand cannons, if you use them to clear add waves. By default, this gun gets 1 bullet back for every kill with subsistence—however, a mag increase in Slot 2 can push that to 2 per kill, which should guarantee an infinite mag without ever having to reload. Keep in mind though that the higher your mag, the more subsistence lowers your total reserves. That being said, I would look for the roll below, which covers both easy red bar clear and difficult content as well.|tags:PvE
+//notes: adam (PvE / regular, non-endgame content), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=432476743&perks=1467527085,1087426260,1168162263,4049631843
-dimwishlist:item=432476743&perks=1467527085,1087426260,1168162263,3425386926
 dimwishlist:item=432476743&perks=3250034553,1087426260,1168162263,4049631843
-dimwishlist:item=432476743&perks=3250034553,1087426260,1168162263,3425386926
 dimwishlist:item=432476743&perks=1482024992,1087426260,1168162263,4049631843
-dimwishlist:item=432476743&perks=1482024992,1087426260,1168162263,3425386926
 dimwishlist:item=432476743&perks=1467527085,1168162263,4049631843
-dimwishlist:item=432476743&perks=1467527085,1168162263,3425386926
 dimwishlist:item=432476743&perks=3250034553,1168162263,4049631843
-dimwishlist:item=432476743&perks=3250034553,1168162263,3425386926
 dimwishlist:item=432476743&perks=1482024992,1168162263,4049631843
-dimwishlist:item=432476743&perks=1482024992,1168162263,3425386926
 dimwishlist:item=432476743&perks=1087426260,1168162263,4049631843
-dimwishlist:item=432476743&perks=1087426260,1168162263,3425386926
 dimwishlist:item=432476743&perks=1168162263,4049631843
-dimwishlist:item=432476743&perks=1168162263,3425386926
 
 //The Palindrome
-//notes: adam (PvE / regular, non-endgame content): Subsistence feels viable on hand cannons, if you use them to clear add waves. By default, this gun gets 1 bullet back for every kill with subsistence—however, a mag increase in Slot 2 can push that to 2 per kill, which should guarantee an infinite mag without ever having to reload. Keep in mind though that the higher your mag, the more subsistence lowers your total reserves. That being said, I would look for the roll below, which covers both easy red bar clear and difficult content as well.|tags:PvE
+//notes: adam (PvE / regular, non-endgame content / optimal): Subsistence is great on hand cannons when used for general add clear. By default, this gun gets 1 bullet back for every kill with subsistence—however, a mag increase in Slot 2 can push that to 2 per kill, which should guarantee an infinite mag without ever having to reload.  That being said, I would look for the High PL Content roll, which covers all PvE situations really well.|tags:PvE
 dimwishlist:item=432476743&perks=1467527085,1087426260,1820235745,4049631843
 dimwishlist:item=432476743&perks=1467527085,1087426260,1820235745,3425386926
+dimwishlist:item=432476743&perks=1467527085,2420895100,1820235745,4049631843
+dimwishlist:item=432476743&perks=1467527085,2420895100,1820235745,3425386926
 dimwishlist:item=432476743&perks=3250034553,1087426260,1820235745,4049631843
 dimwishlist:item=432476743&perks=3250034553,1087426260,1820235745,3425386926
+dimwishlist:item=432476743&perks=3250034553,2420895100,1820235745,4049631843
+dimwishlist:item=432476743&perks=3250034553,2420895100,1820235745,3425386926
 dimwishlist:item=432476743&perks=1482024992,1087426260,1820235745,4049631843
 dimwishlist:item=432476743&perks=1482024992,1087426260,1820235745,3425386926
+dimwishlist:item=432476743&perks=1482024992,2420895100,1820235745,4049631843
+dimwishlist:item=432476743&perks=1482024992,2420895100,1820235745,3425386926
 dimwishlist:item=432476743&perks=1467527085,1820235745,4049631843
 dimwishlist:item=432476743&perks=1467527085,1820235745,3425386926
 dimwishlist:item=432476743&perks=3250034553,1820235745,4049631843
@@ -377,8 +390,37 @@ dimwishlist:item=432476743&perks=1482024992,1820235745,4049631843
 dimwishlist:item=432476743&perks=1482024992,1820235745,3425386926
 dimwishlist:item=432476743&perks=1087426260,1820235745,4049631843
 dimwishlist:item=432476743&perks=1087426260,1820235745,3425386926
+dimwishlist:item=432476743&perks=2420895100,1820235745,4049631843
+dimwishlist:item=432476743&perks=2420895100,1820235745,3425386926
 dimwishlist:item=432476743&perks=1820235745,4049631843
 dimwishlist:item=432476743&perks=1820235745,3425386926
+
+//The Palindrome
+//notes: adam (PvE / regular, non-endgame content): Subsistence is great on hand cannons when used for general add clear. By default, this gun gets 1 bullet back for every kill with subsistence—however, a mag increase in Slot 2 can push that to 2 per kill, which should guarantee an infinite mag without ever having to reload.  That being said, I would look for the High PL Content roll, which covers all PvE situations really well.|tags:PvE
+dimwishlist:item=432476743&perks=1467527085,1087426260,1168162263,4049631843
+dimwishlist:item=432476743&perks=1467527085,1087426260,1168162263,3425386926
+dimwishlist:item=432476743&perks=1467527085,2420895100,1168162263,4049631843
+dimwishlist:item=432476743&perks=1467527085,2420895100,1168162263,3425386926
+dimwishlist:item=432476743&perks=3250034553,1087426260,1168162263,4049631843
+dimwishlist:item=432476743&perks=3250034553,1087426260,1168162263,3425386926
+dimwishlist:item=432476743&perks=3250034553,2420895100,1168162263,4049631843
+dimwishlist:item=432476743&perks=3250034553,2420895100,1168162263,3425386926
+dimwishlist:item=432476743&perks=1482024992,1087426260,1168162263,4049631843
+dimwishlist:item=432476743&perks=1482024992,1087426260,1168162263,3425386926
+dimwishlist:item=432476743&perks=1482024992,2420895100,1168162263,4049631843
+dimwishlist:item=432476743&perks=1482024992,2420895100,1168162263,3425386926
+dimwishlist:item=432476743&perks=1467527085,1168162263,4049631843
+dimwishlist:item=432476743&perks=1467527085,1168162263,3425386926
+dimwishlist:item=432476743&perks=3250034553,1168162263,4049631843
+dimwishlist:item=432476743&perks=3250034553,1168162263,3425386926
+dimwishlist:item=432476743&perks=1482024992,1168162263,4049631843
+dimwishlist:item=432476743&perks=1482024992,1168162263,3425386926
+dimwishlist:item=432476743&perks=1087426260,1168162263,4049631843
+dimwishlist:item=432476743&perks=1087426260,1168162263,3425386926
+dimwishlist:item=432476743&perks=2420895100,1168162263,4049631843
+dimwishlist:item=432476743&perks=2420895100,1168162263,3425386926
+dimwishlist:item=432476743&perks=1168162263,4049631843
+dimwishlist:item=432476743&perks=1168162263,3425386926
 
 //The Palindrome
 //notes: adam (PvE / high PL content, GMs / optimal): One For All is a no-brainer as a GM damage perk. Subsistence would be extremely punishing partly because of the hit your reserves take, and with how tanky enemies are, you'd need to use more bullets per kill than what is auto-reloaded in return. Due to how hard it can be to kill GM enemies with a primary (and with the RNG-factor involved with Overflow), it should be worth stacking reload stat increases in Slot 2 and with your Masterwork in case you can't proc your reload perk.|tags:PvE
@@ -452,6 +494,17 @@ dimwishlist:item=432476743&perks=3250034553,1561002382,706527188,2846385770
 dimwishlist:item=432476743&perks=3250034553,1561002382,706527188,2726471870
 dimwishlist:item=432476743&perks=1561002382,706527188,2846385770
 dimwishlist:item=432476743&perks=1561002382,706527188,2726471870
+
+//The Palindrome (Adept)
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=1481892490&perks=1467527085,1087426260,1168162263,4049631843
+dimwishlist:item=1481892490&perks=3250034553,1087426260,1168162263,4049631843
+dimwishlist:item=1481892490&perks=1482024992,1087426260,1168162263,4049631843
+dimwishlist:item=1481892490&perks=1467527085,1168162263,4049631843
+dimwishlist:item=1481892490&perks=3250034553,1168162263,4049631843
+dimwishlist:item=1481892490&perks=1482024992,1168162263,4049631843
+dimwishlist:item=1481892490&perks=1087426260,1168162263,4049631843
+dimwishlist:item=1481892490&perks=1168162263,4049631843
 
 //The Palindrome (Adept)
 //notes: adam (PvE / regular, non-endgame content / optimal): Subsistence feels viable on hand cannons, if you use them to clear add waves. By default, this gun gets 1 bullet back for every kill with subsistence—however, a mag increase in Slot 2 can push that to 2 per kill, which should guarantee an infinite mag without ever having to reload. Keep in mind though that the higher your mag, the more subsistence lowers your total reserves. That being said, I would look for the roll below, which covers both easy red bar clear and difficult content as well.|tags:PvE
@@ -565,7 +618,19 @@ dimwishlist:item=1481892490&perks=1561002382,706527188,2846385770
 dimwishlist:item=1481892490&perks=1561002382,706527188,2726471870
 
 //Shadow Price
-//notes: adam (PvE / regular, non-endgame content / optimal): 450 rpm auto rifles are really weak in the current sandbox and you will need a damage increase to make them viable, so Slot 4 feels absolutely essential here.|tags:PvE
+//notes: adam (PvE / regular, non-endgame content), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2633186522&perks=839105230,1087426260,3643424744,4049631843
+dimwishlist:item=2633186522&perks=839105230,106909392,3643424744,4049631843
+dimwishlist:item=2633186522&perks=1467527085,1087426260,3643424744,4049631843
+dimwishlist:item=2633186522&perks=1467527085,106909392,3643424744,4049631843
+dimwishlist:item=2633186522&perks=839105230,3643424744,4049631843
+dimwishlist:item=2633186522&perks=1467527085,3643424744,4049631843
+dimwishlist:item=2633186522&perks=1087426260,3643424744,4049631843
+dimwishlist:item=2633186522&perks=106909392,3643424744,4049631843
+dimwishlist:item=2633186522&perks=3643424744,4049631843
+
+//Shadow Price
+//notes: adam (PvE / regular, non-endgame content / optimal): While recently buffed for parity in PvP, 450 rpm auto rifles are still relatively weak in the current PvE sandbox and you will need a damage increase to make them viable, so Slot 4 feels absolutely essential here.|tags:PvE
 dimwishlist:item=2633186522&perks=839105230,1087426260,2779035018,4082225868
 dimwishlist:item=2633186522&perks=839105230,1087426260,2779035018,4049631843
 dimwishlist:item=2633186522&perks=839105230,106909392,2779035018,4082225868
@@ -586,7 +651,7 @@ dimwishlist:item=2633186522&perks=2779035018,4082225868
 dimwishlist:item=2633186522&perks=2779035018,4049631843
 
 //Shadow Price
-//notes: adam (PvE / regular, non-endgame content): 450 rpm auto rifles are really weak in the current sandbox and you will need a damage increase to make them viable, so Slot 4 feels absolutely essential here.|tags:PvE
+//notes: adam (PvE / regular, non-endgame content): While recently buffed for parity in PvP, 450 rpm auto rifles are still relatively weak in the current PvE sandbox and you will need a damage increase to make them viable, so Slot 4 feels absolutely essential here.|tags:PvE
 dimwishlist:item=2633186522&perks=839105230,1087426260,3643424744,4082225868
 dimwishlist:item=2633186522&perks=839105230,1087426260,3643424744,4049631843
 dimwishlist:item=2633186522&perks=839105230,106909392,3643424744,4082225868
@@ -607,7 +672,7 @@ dimwishlist:item=2633186522&perks=3643424744,4082225868
 dimwishlist:item=2633186522&perks=3643424744,4049631843
 
 //Shadow Price
-//notes: adam (PvE / high PL content, GMs / optimal): You won't be able to get any real benefits out of Feeding Frenzy in a GM, Overflow could guarantee easy champion stuns without having to worry about mag size.  Disruption Break is great if you use this as an Anti-Barrier utility weapon (your kinetic special deals more damage to the champion after the stun) while One For All is a strong damage perk that makes the weapon more viable against the adds in the nightfall. Choose your preference accordingly.|tags:PvE
+//notes: adam (PvE / high PL content, GMs / optimal): You won't be able to get any real benefits out of Feeding Frenzy in a GM; Overflow could guarantee easy champion stuns without having to worry about mag size.  Disruption Break is great if you use this as an Anti-Barrier utility weapon (your kinetic special deals more damage to the champion after the stun) while One For All is a strong damage perk that makes the weapon more viable against the adds in the nightfall. Choose your preference accordingly.|tags:PvE
 dimwishlist:item=2633186522&perks=839105230,1087426260,3643424744,1683379515
 dimwishlist:item=2633186522&perks=839105230,1087426260,3643424744,4049631843
 dimwishlist:item=2633186522&perks=839105230,106909392,3643424744,1683379515
@@ -628,7 +693,7 @@ dimwishlist:item=2633186522&perks=3643424744,1683379515
 dimwishlist:item=2633186522&perks=3643424744,4049631843
 
 //Shadow Price
-//notes: adam (PvP / optimal)|tags:PvP
+//notes: adam (PvP / optimal): 450s might be the best AR archetype in PvP after the S14 buff so if you like auto rifles, this could be worth keeping.|tags:PvP
 dimwishlist:item=2633186522&perks=839105230,3142289711,2450788523,4082225868
 dimwishlist:item=2633186522&perks=839105230,3142289711,2450788523,2726471870
 dimwishlist:item=2633186522&perks=839105230,3142289711,4082225868
@@ -639,7 +704,7 @@ dimwishlist:item=2633186522&perks=839105230,4082225868
 dimwishlist:item=2633186522&perks=839105230,2726471870
 
 //Shadow Price
-//notes: adam (PvP)|tags:PvP
+//notes: adam (PvP): 450s might be the best AR archetype in PvP after the S14 buff so if you like auto rifles, this could be worth keeping.|tags:PvP
 dimwishlist:item=2633186522&perks=1467527085,3142289711,2450788523,4082225868
 dimwishlist:item=2633186522&perks=1467527085,3142289711,2450788523,2726471870
 dimwishlist:item=2633186522&perks=1467527085,3142289711,4082225868
@@ -650,7 +715,19 @@ dimwishlist:item=2633186522&perks=1467527085,4082225868
 dimwishlist:item=2633186522&perks=1467527085,2726471870
 
 //Shadow Price (Adept)
-//notes: adam (PvE / regular, non-endgame content / optimal): 450 rpm auto rifles are really weak in the current sandbox and you will need a damage increase to make them viable, so Slot 4 feels absolutely essential here.|tags:PvE
+//notes: adam (PvE / regular, non-endgame content), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2147010335&perks=839105230,1087426260,3643424744,4049631843
+dimwishlist:item=2147010335&perks=839105230,106909392,3643424744,4049631843
+dimwishlist:item=2147010335&perks=1467527085,1087426260,3643424744,4049631843
+dimwishlist:item=2147010335&perks=1467527085,106909392,3643424744,4049631843
+dimwishlist:item=2147010335&perks=839105230,3643424744,4049631843
+dimwishlist:item=2147010335&perks=1467527085,3643424744,4049631843
+dimwishlist:item=2147010335&perks=1087426260,3643424744,4049631843
+dimwishlist:item=2147010335&perks=106909392,3643424744,4049631843
+dimwishlist:item=2147010335&perks=3643424744,4049631843
+
+//Shadow Price (Adept)
+//notes: adam (PvE / regular, non-endgame content / optimal): While recently buffed for parity in PvP, 450 rpm auto rifles are still relatively weak in the current PvE sandbox and you will need a damage increase to make them viable, so Slot 4 feels absolutely essential here.|tags:PvE
 dimwishlist:item=2147010335&perks=839105230,1087426260,2779035018,4082225868
 dimwishlist:item=2147010335&perks=839105230,1087426260,2779035018,4049631843
 dimwishlist:item=2147010335&perks=839105230,106909392,2779035018,4082225868
@@ -671,7 +748,7 @@ dimwishlist:item=2147010335&perks=2779035018,4082225868
 dimwishlist:item=2147010335&perks=2779035018,4049631843
 
 //Shadow Price (Adept)
-//notes: adam (PvE / regular, non-endgame content): 450 rpm auto rifles are really weak in the current sandbox and you will need a damage increase to make them viable, so Slot 4 feels absolutely essential here.|tags:PvE
+//notes: adam (PvE / regular, non-endgame content): While recently buffed for parity in PvP, 450 rpm auto rifles are still relatively weak in the current PvE sandbox and you will need a damage increase to make them viable, so Slot 4 feels absolutely essential here.|tags:PvE
 dimwishlist:item=2147010335&perks=839105230,1087426260,3643424744,4082225868
 dimwishlist:item=2147010335&perks=839105230,1087426260,3643424744,4049631843
 dimwishlist:item=2147010335&perks=839105230,106909392,3643424744,4082225868
@@ -692,7 +769,7 @@ dimwishlist:item=2147010335&perks=3643424744,4082225868
 dimwishlist:item=2147010335&perks=3643424744,4049631843
 
 //Shadow Price (Adept)
-//notes: adam (PvE / high PL content, GMs / optimal): You won't be able to get any real benefits out of Feeding Frenzy in a GM, Overflow could guarantee easy champion stuns without having to worry about mag size.  Disruption Break is great if you use this as an Anti-Barrier utility weapon (your kinetic special deals more damage to the champion after the stun) while One For All is a strong damage perk that makes the weapon more viable against the adds in the nightfall. Choose your preference accordingly.|tags:PvE
+//notes: adam (PvE / high PL content, GMs / optimal): You won't be able to get any real benefits out of Feeding Frenzy in a GM; Overflow could guarantee easy champion stuns without having to worry about mag size.  Disruption Break is great if you use this as an Anti-Barrier utility weapon (your kinetic special deals more damage to the champion after the stun) while One For All is a strong damage perk that makes the weapon more viable against the adds in the nightfall. Choose your preference accordingly.|tags:PvE
 dimwishlist:item=2147010335&perks=839105230,1087426260,3643424744,1683379515
 dimwishlist:item=2147010335&perks=839105230,1087426260,3643424744,4049631843
 dimwishlist:item=2147010335&perks=839105230,106909392,3643424744,1683379515
@@ -713,7 +790,7 @@ dimwishlist:item=2147010335&perks=3643424744,1683379515
 dimwishlist:item=2147010335&perks=3643424744,4049631843
 
 //Shadow Price (Adept)
-//notes: adam (PvP / optimal)|tags:PvP
+//notes: adam (PvP / optimal): 450s might be the best AR archetype in PvP after the S14 buff so if you like auto rifles, this could be worth keeping.|tags:PvP
 dimwishlist:item=2147010335&perks=839105230,3142289711,2450788523,4082225868
 dimwishlist:item=2147010335&perks=839105230,3142289711,2450788523,2726471870
 dimwishlist:item=2147010335&perks=839105230,3142289711,4082225868
@@ -724,7 +801,7 @@ dimwishlist:item=2147010335&perks=839105230,4082225868
 dimwishlist:item=2147010335&perks=839105230,2726471870
 
 //Shadow Price (Adept)
-//notes: adam (PvP)|tags:PvP
+//notes: adam (PvP): 450s might be the best AR archetype in PvP after the S14 buff so if you like auto rifles, this could be worth keeping.|tags:PvP
 dimwishlist:item=2147010335&perks=1467527085,3142289711,2450788523,4082225868
 dimwishlist:item=2147010335&perks=1467527085,3142289711,2450788523,2726471870
 dimwishlist:item=2147010335&perks=1467527085,3142289711,4082225868
@@ -943,6 +1020,30 @@ dimwishlist:item=4156253727&perks=1482024992,2779035018,2848615171
 dimwishlist:item=4156253727&perks=1885400500,2779035018,2848615171
 dimwishlist:item=4156253727&perks=1561002382,2779035018,2848615171
 dimwishlist:item=4156253727&perks=2779035018,2848615171
+dimwishlist:item=4156253727&perks=839105230,1885400500,1820235745,4049631843
+dimwishlist:item=4156253727&perks=839105230,1561002382,1820235745,4049631843
+dimwishlist:item=4156253727&perks=1467527085,1885400500,1820235745,4049631843
+dimwishlist:item=4156253727&perks=1467527085,1561002382,1820235745,4049631843
+dimwishlist:item=4156253727&perks=1482024992,1885400500,1820235745,4049631843
+dimwishlist:item=4156253727&perks=1482024992,1561002382,1820235745,4049631843
+dimwishlist:item=4156253727&perks=839105230,1820235745,4049631843
+dimwishlist:item=4156253727&perks=1467527085,1820235745,4049631843
+dimwishlist:item=4156253727&perks=1482024992,1820235745,4049631843
+dimwishlist:item=4156253727&perks=1885400500,1820235745,4049631843
+dimwishlist:item=4156253727&perks=1561002382,1820235745,4049631843
+dimwishlist:item=4156253727&perks=1820235745,4049631843
+dimwishlist:item=4156253727&perks=839105230,1885400500,1820235745,2848615171
+dimwishlist:item=4156253727&perks=839105230,1561002382,1820235745,2848615171
+dimwishlist:item=4156253727&perks=1467527085,1885400500,1820235745,2848615171
+dimwishlist:item=4156253727&perks=1467527085,1561002382,1820235745,2848615171
+dimwishlist:item=4156253727&perks=1482024992,1885400500,1820235745,2848615171
+dimwishlist:item=4156253727&perks=1482024992,1561002382,1820235745,2848615171
+dimwishlist:item=4156253727&perks=839105230,1820235745,2848615171
+dimwishlist:item=4156253727&perks=1467527085,1820235745,2848615171
+dimwishlist:item=4156253727&perks=1482024992,1820235745,2848615171
+dimwishlist:item=4156253727&perks=1885400500,1820235745,2848615171
+dimwishlist:item=4156253727&perks=1561002382,1820235745,2848615171
+dimwishlist:item=4156253727&perks=1820235745,2848615171
 
 //The Third Axiom
 //notes: adam (PvE / high PL content, GMs / optimal): One For All should make this hit hard in GMs, and Disruption Break can help you prime barrier champions for kills with your kinetic. Since the only traditional reload perk available is Feeding Frenzy—which really suffers in a GM context—you will want to go for reload stat increases here. If you can't get that perfect stat package, you should probably only pull this out if you specifically need an arc pulse for match game shield management—which suddenly makes Genesis desirable considering the use case.|tags:PvE
@@ -1051,6 +1152,11 @@ dimwishlist:item=4156253727&perks=3661387068,1561002382,3425386926
 dimwishlist:item=4156253727&perks=3661387068,1561002382,2726471870
 dimwishlist:item=4156253727&perks=1482024992,1561002382,3425386926
 dimwishlist:item=4156253727&perks=1482024992,1561002382,2726471870
+
+//Xenoclast IV
+//notes: adam (PvE / ability engine primary / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2891672170&perks=1047830412,791862061,1866048759,2726471870
+dimwishlist:item=2891672170&perks=1047830412,791862061,2726471870
 
 //Xenoclast IV
 //notes: adam (PvE / single target dps / optimal)|tags:PvE
@@ -1196,19 +1302,21 @@ dimwishlist:item=2891672170&perks=1332244541,3142289711,2726471870
 //Royal Entry
 //notes: adam (PvE / optimal): The undisputed best rocket launcher in the entire game, it has intrinsic, built-in tracking and all the best rocket perks. The Auto-Loading roll is the same as with Code Duello but with the tracking on top to make sure you can't miss.|tags:PvE
 dimwishlist:item=2448907086&perks=3525010810,3796465595,3300816228,3927722942
+dimwishlist:item=2448907086&perks=3525010810,3300816228,3927722942
 dimwishlist:item=2448907086&perks=3796465595,3300816228,3927722942
+dimwishlist:item=2448907086&perks=3300816228,3927722942
 
 //Royal Entry
 //notes: adam (PvE / boss DPS / optimal): [object Object]|tags:PvE
 dimwishlist:item=2448907086&perks=3796465595,2869569095,2284787283
-dimwishlist:item=2448907086&perks=3796465595,2869569095,2284787283
+dimwishlist:item=2448907086&perks=2869569095,2284787283
 
 //Royal Entry
 //notes: adam (PvE / boss DPS): [object Object]|tags:PvE
 dimwishlist:item=2448907086&perks=3796465595,2869569095,3927722942
-dimwishlist:item=2448907086&perks=3796465595,2869569095,3927722942
+dimwishlist:item=2448907086&perks=2869569095,3927722942
 dimwishlist:item=2448907086&perks=3796465595,2869569095,4049631843
-dimwishlist:item=2448907086&perks=3796465595,2869569095,4049631843
+dimwishlist:item=2448907086&perks=2869569095,4049631843
 
 //Royal Entry
 //notes: adam (PvP / optimal): Should be a great legendary option thanks to the combo of tracking + Chain Reaction. There is still no definitive info on how Impulse Amplifier's velocity increase corresponds to the velocity stat. If it turns out that it fully maxes velocity, the Slot 1, Slot 2, and Masterwork options should be focused entirely on blast radius. See my Code Duello PvP roll for what that would look like.|tags:PvP
@@ -1223,140 +1331,186 @@ dimwishlist:item=2448907086&perks=2822142346,951095735,2396489472
 dimwishlist:item=2448907086&perks=951095735,2396489472
 
 //The Keening
-//notes: adam (PvE / regular, non-endgame content / optimal): Neither Threat Detector or Rapid Hit is fully reliable across the wide range of possible PvE encounters, and this weapon's main downside is its low base reload speed, so I suggest stacking reload stat increases on the mag and masterwork slots.|tags:PvE
-dimwishlist:item=409551876&perks=1482024992,679225683,4071163871,2458213969
-dimwishlist:item=409551876&perks=1482024992,679225683,4071163871,4049631843
-dimwishlist:item=409551876&perks=1482024992,679225683,247725512,2458213969
+//notes: adam (PvE / regular, non-endgame content), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=409551876&perks=1482024992,679225683,247725512,4049631843
-dimwishlist:item=409551876&perks=1482024992,3230963543,4071163871,2458213969
-dimwishlist:item=409551876&perks=1482024992,3230963543,4071163871,4049631843
-dimwishlist:item=409551876&perks=1482024992,3230963543,247725512,2458213969
-dimwishlist:item=409551876&perks=1482024992,3230963543,247725512,4049631843
-dimwishlist:item=409551876&perks=1482024992,1431678320,4071163871,2458213969
-dimwishlist:item=409551876&perks=1482024992,1431678320,4071163871,4049631843
-dimwishlist:item=409551876&perks=1482024992,1431678320,247725512,2458213969
-dimwishlist:item=409551876&perks=1482024992,1431678320,247725512,4049631843
-dimwishlist:item=409551876&perks=1392496348,679225683,4071163871,2458213969
-dimwishlist:item=409551876&perks=1392496348,679225683,4071163871,4049631843
-dimwishlist:item=409551876&perks=1392496348,679225683,247725512,2458213969
-dimwishlist:item=409551876&perks=1392496348,679225683,247725512,4049631843
-dimwishlist:item=409551876&perks=1392496348,3230963543,4071163871,2458213969
-dimwishlist:item=409551876&perks=1392496348,3230963543,4071163871,4049631843
-dimwishlist:item=409551876&perks=1392496348,3230963543,247725512,2458213969
-dimwishlist:item=409551876&perks=1392496348,3230963543,247725512,4049631843
-dimwishlist:item=409551876&perks=1392496348,1431678320,4071163871,2458213969
-dimwishlist:item=409551876&perks=1392496348,1431678320,4071163871,4049631843
-dimwishlist:item=409551876&perks=1392496348,1431678320,247725512,2458213969
-dimwishlist:item=409551876&perks=1392496348,1431678320,247725512,4049631843
-dimwishlist:item=409551876&perks=4090651448,679225683,4071163871,2458213969
-dimwishlist:item=409551876&perks=4090651448,679225683,4071163871,4049631843
-dimwishlist:item=409551876&perks=4090651448,679225683,247725512,2458213969
 dimwishlist:item=409551876&perks=4090651448,679225683,247725512,4049631843
-dimwishlist:item=409551876&perks=4090651448,3230963543,4071163871,2458213969
-dimwishlist:item=409551876&perks=4090651448,3230963543,4071163871,4049631843
-dimwishlist:item=409551876&perks=4090651448,3230963543,247725512,2458213969
-dimwishlist:item=409551876&perks=4090651448,3230963543,247725512,4049631843
-dimwishlist:item=409551876&perks=4090651448,1431678320,4071163871,2458213969
-dimwishlist:item=409551876&perks=4090651448,1431678320,4071163871,4049631843
-dimwishlist:item=409551876&perks=4090651448,1431678320,247725512,2458213969
-dimwishlist:item=409551876&perks=4090651448,1431678320,247725512,4049631843
-dimwishlist:item=409551876&perks=1840239774,679225683,4071163871,2458213969
-dimwishlist:item=409551876&perks=1840239774,679225683,4071163871,4049631843
-dimwishlist:item=409551876&perks=1840239774,679225683,247725512,2458213969
-dimwishlist:item=409551876&perks=1840239774,679225683,247725512,4049631843
-dimwishlist:item=409551876&perks=1840239774,3230963543,4071163871,2458213969
-dimwishlist:item=409551876&perks=1840239774,3230963543,4071163871,4049631843
-dimwishlist:item=409551876&perks=1840239774,3230963543,247725512,2458213969
-dimwishlist:item=409551876&perks=1840239774,3230963543,247725512,4049631843
-dimwishlist:item=409551876&perks=1840239774,1431678320,4071163871,2458213969
-dimwishlist:item=409551876&perks=1840239774,1431678320,4071163871,4049631843
-dimwishlist:item=409551876&perks=1840239774,1431678320,247725512,2458213969
-dimwishlist:item=409551876&perks=1840239774,1431678320,247725512,4049631843
-dimwishlist:item=409551876&perks=1482024992,4071163871,2458213969
-dimwishlist:item=409551876&perks=1482024992,4071163871,4049631843
-dimwishlist:item=409551876&perks=1482024992,247725512,2458213969
-dimwishlist:item=409551876&perks=1482024992,247725512,4049631843
-dimwishlist:item=409551876&perks=1392496348,4071163871,2458213969
-dimwishlist:item=409551876&perks=1392496348,4071163871,4049631843
-dimwishlist:item=409551876&perks=1392496348,247725512,2458213969
-dimwishlist:item=409551876&perks=1392496348,247725512,4049631843
-dimwishlist:item=409551876&perks=4090651448,4071163871,2458213969
-dimwishlist:item=409551876&perks=4090651448,4071163871,4049631843
-dimwishlist:item=409551876&perks=4090651448,247725512,2458213969
-dimwishlist:item=409551876&perks=4090651448,247725512,4049631843
-dimwishlist:item=409551876&perks=1840239774,4071163871,2458213969
-dimwishlist:item=409551876&perks=1840239774,4071163871,4049631843
-dimwishlist:item=409551876&perks=1840239774,247725512,2458213969
-dimwishlist:item=409551876&perks=1840239774,247725512,4049631843
-dimwishlist:item=409551876&perks=679225683,4071163871,2458213969
-dimwishlist:item=409551876&perks=679225683,4071163871,4049631843
-dimwishlist:item=409551876&perks=679225683,247725512,2458213969
 dimwishlist:item=409551876&perks=679225683,247725512,4049631843
-dimwishlist:item=409551876&perks=3230963543,4071163871,2458213969
-dimwishlist:item=409551876&perks=3230963543,4071163871,4049631843
-dimwishlist:item=409551876&perks=3230963543,247725512,2458213969
-dimwishlist:item=409551876&perks=3230963543,247725512,4049631843
-dimwishlist:item=409551876&perks=1431678320,4071163871,2458213969
-dimwishlist:item=409551876&perks=1431678320,4071163871,4049631843
-dimwishlist:item=409551876&perks=1431678320,247725512,2458213969
-dimwishlist:item=409551876&perks=1431678320,247725512,4049631843
-dimwishlist:item=409551876&perks=4071163871,2458213969
-dimwishlist:item=409551876&perks=4071163871,4049631843
-dimwishlist:item=409551876&perks=247725512,2458213969
-dimwishlist:item=409551876&perks=247725512,4049631843
 
 //The Keening
-//notes: adam (PvE / regular, non-endgame content): Neither Threat Detector or Rapid Hit is fully reliable across the wide range of possible PvE encounters, and this weapon's main downside is its low base reload speed, so I suggest stacking reload stat increases on the mag and masterwork slots.|tags:PvE
+//notes: adam (PvE / regular, non-endgame content / optimal): This weapon's main downside is its low base reload speed, and none of the reload perks are 100% reliable here, so I suggest stacking reload stat increases on the mag and masterwork slots.|tags:PvE
+dimwishlist:item=409551876&perks=1482024992,679225683,4071163871,2458213969
+dimwishlist:item=409551876&perks=1482024992,679225683,4071163871,4049631843
+dimwishlist:item=409551876&perks=1482024992,3230963543,4071163871,2458213969
+dimwishlist:item=409551876&perks=1482024992,3230963543,4071163871,4049631843
+dimwishlist:item=409551876&perks=1482024992,1431678320,4071163871,2458213969
+dimwishlist:item=409551876&perks=1482024992,1431678320,4071163871,4049631843
+dimwishlist:item=409551876&perks=1392496348,679225683,4071163871,2458213969
+dimwishlist:item=409551876&perks=1392496348,679225683,4071163871,4049631843
+dimwishlist:item=409551876&perks=1392496348,3230963543,4071163871,2458213969
+dimwishlist:item=409551876&perks=1392496348,3230963543,4071163871,4049631843
+dimwishlist:item=409551876&perks=1392496348,1431678320,4071163871,2458213969
+dimwishlist:item=409551876&perks=1392496348,1431678320,4071163871,4049631843
+dimwishlist:item=409551876&perks=4090651448,679225683,4071163871,2458213969
+dimwishlist:item=409551876&perks=4090651448,679225683,4071163871,4049631843
+dimwishlist:item=409551876&perks=4090651448,3230963543,4071163871,2458213969
+dimwishlist:item=409551876&perks=4090651448,3230963543,4071163871,4049631843
+dimwishlist:item=409551876&perks=4090651448,1431678320,4071163871,2458213969
+dimwishlist:item=409551876&perks=4090651448,1431678320,4071163871,4049631843
+dimwishlist:item=409551876&perks=1840239774,679225683,4071163871,2458213969
+dimwishlist:item=409551876&perks=1840239774,679225683,4071163871,4049631843
+dimwishlist:item=409551876&perks=1840239774,3230963543,4071163871,2458213969
+dimwishlist:item=409551876&perks=1840239774,3230963543,4071163871,4049631843
+dimwishlist:item=409551876&perks=1840239774,1431678320,4071163871,2458213969
+dimwishlist:item=409551876&perks=1840239774,1431678320,4071163871,4049631843
+dimwishlist:item=409551876&perks=1482024992,4071163871,2458213969
+dimwishlist:item=409551876&perks=1482024992,4071163871,4049631843
+dimwishlist:item=409551876&perks=1392496348,4071163871,2458213969
+dimwishlist:item=409551876&perks=1392496348,4071163871,4049631843
+dimwishlist:item=409551876&perks=4090651448,4071163871,2458213969
+dimwishlist:item=409551876&perks=4090651448,4071163871,4049631843
+dimwishlist:item=409551876&perks=1840239774,4071163871,2458213969
+dimwishlist:item=409551876&perks=1840239774,4071163871,4049631843
+dimwishlist:item=409551876&perks=679225683,4071163871,2458213969
+dimwishlist:item=409551876&perks=679225683,4071163871,4049631843
+dimwishlist:item=409551876&perks=3230963543,4071163871,2458213969
+dimwishlist:item=409551876&perks=3230963543,4071163871,4049631843
+dimwishlist:item=409551876&perks=1431678320,4071163871,2458213969
+dimwishlist:item=409551876&perks=1431678320,4071163871,4049631843
+dimwishlist:item=409551876&perks=4071163871,2458213969
+dimwishlist:item=409551876&perks=4071163871,4049631843
+dimwishlist:item=409551876&perks=1482024992,679225683,1820235745,4049631843
+dimwishlist:item=409551876&perks=1482024992,3230963543,1820235745,4049631843
+dimwishlist:item=409551876&perks=1482024992,1431678320,1820235745,4049631843
+dimwishlist:item=409551876&perks=1392496348,679225683,1820235745,4049631843
+dimwishlist:item=409551876&perks=1392496348,3230963543,1820235745,4049631843
+dimwishlist:item=409551876&perks=1392496348,1431678320,1820235745,4049631843
+dimwishlist:item=409551876&perks=4090651448,679225683,1820235745,4049631843
+dimwishlist:item=409551876&perks=4090651448,3230963543,1820235745,4049631843
+dimwishlist:item=409551876&perks=4090651448,1431678320,1820235745,4049631843
+dimwishlist:item=409551876&perks=1840239774,679225683,1820235745,4049631843
+dimwishlist:item=409551876&perks=1840239774,3230963543,1820235745,4049631843
+dimwishlist:item=409551876&perks=1840239774,1431678320,1820235745,4049631843
+dimwishlist:item=409551876&perks=1482024992,1820235745,4049631843
+dimwishlist:item=409551876&perks=1392496348,1820235745,4049631843
+dimwishlist:item=409551876&perks=4090651448,1820235745,4049631843
+dimwishlist:item=409551876&perks=1840239774,1820235745,4049631843
+dimwishlist:item=409551876&perks=679225683,1820235745,4049631843
+dimwishlist:item=409551876&perks=3230963543,1820235745,4049631843
+dimwishlist:item=409551876&perks=1431678320,1820235745,4049631843
+dimwishlist:item=409551876&perks=1820235745,4049631843
+
+//The Keening
+//notes: adam (PvE / regular, non-endgame content): This weapon's main downside is its low base reload speed, and none of the reload perks are 100% reliable here, so I suggest stacking reload stat increases on the mag and masterwork slots.|tags:PvE
 dimwishlist:item=409551876&perks=1482024992,679225683,4071163871,2726471870
-dimwishlist:item=409551876&perks=1482024992,679225683,247725512,2726471870
+dimwishlist:item=409551876&perks=1482024992,679225683,1820235745,2726471870
 dimwishlist:item=409551876&perks=1482024992,3230963543,4071163871,2726471870
-dimwishlist:item=409551876&perks=1482024992,3230963543,247725512,2726471870
+dimwishlist:item=409551876&perks=1482024992,3230963543,1820235745,2726471870
 dimwishlist:item=409551876&perks=1482024992,1431678320,4071163871,2726471870
-dimwishlist:item=409551876&perks=1482024992,1431678320,247725512,2726471870
+dimwishlist:item=409551876&perks=1482024992,1431678320,1820235745,2726471870
 dimwishlist:item=409551876&perks=1392496348,679225683,4071163871,2726471870
-dimwishlist:item=409551876&perks=1392496348,679225683,247725512,2726471870
+dimwishlist:item=409551876&perks=1392496348,679225683,1820235745,2726471870
 dimwishlist:item=409551876&perks=1392496348,3230963543,4071163871,2726471870
-dimwishlist:item=409551876&perks=1392496348,3230963543,247725512,2726471870
+dimwishlist:item=409551876&perks=1392496348,3230963543,1820235745,2726471870
 dimwishlist:item=409551876&perks=1392496348,1431678320,4071163871,2726471870
-dimwishlist:item=409551876&perks=1392496348,1431678320,247725512,2726471870
+dimwishlist:item=409551876&perks=1392496348,1431678320,1820235745,2726471870
 dimwishlist:item=409551876&perks=4090651448,679225683,4071163871,2726471870
-dimwishlist:item=409551876&perks=4090651448,679225683,247725512,2726471870
+dimwishlist:item=409551876&perks=4090651448,679225683,1820235745,2726471870
 dimwishlist:item=409551876&perks=4090651448,3230963543,4071163871,2726471870
-dimwishlist:item=409551876&perks=4090651448,3230963543,247725512,2726471870
+dimwishlist:item=409551876&perks=4090651448,3230963543,1820235745,2726471870
 dimwishlist:item=409551876&perks=4090651448,1431678320,4071163871,2726471870
-dimwishlist:item=409551876&perks=4090651448,1431678320,247725512,2726471870
+dimwishlist:item=409551876&perks=4090651448,1431678320,1820235745,2726471870
 dimwishlist:item=409551876&perks=1840239774,679225683,4071163871,2726471870
-dimwishlist:item=409551876&perks=1840239774,679225683,247725512,2726471870
+dimwishlist:item=409551876&perks=1840239774,679225683,1820235745,2726471870
 dimwishlist:item=409551876&perks=1840239774,3230963543,4071163871,2726471870
-dimwishlist:item=409551876&perks=1840239774,3230963543,247725512,2726471870
+dimwishlist:item=409551876&perks=1840239774,3230963543,1820235745,2726471870
 dimwishlist:item=409551876&perks=1840239774,1431678320,4071163871,2726471870
-dimwishlist:item=409551876&perks=1840239774,1431678320,247725512,2726471870
+dimwishlist:item=409551876&perks=1840239774,1431678320,1820235745,2726471870
 dimwishlist:item=409551876&perks=1482024992,4071163871,2726471870
-dimwishlist:item=409551876&perks=1482024992,247725512,2726471870
+dimwishlist:item=409551876&perks=1482024992,1820235745,2726471870
 dimwishlist:item=409551876&perks=1392496348,4071163871,2726471870
-dimwishlist:item=409551876&perks=1392496348,247725512,2726471870
+dimwishlist:item=409551876&perks=1392496348,1820235745,2726471870
 dimwishlist:item=409551876&perks=4090651448,4071163871,2726471870
-dimwishlist:item=409551876&perks=4090651448,247725512,2726471870
+dimwishlist:item=409551876&perks=4090651448,1820235745,2726471870
 dimwishlist:item=409551876&perks=1840239774,4071163871,2726471870
-dimwishlist:item=409551876&perks=1840239774,247725512,2726471870
+dimwishlist:item=409551876&perks=1840239774,1820235745,2726471870
 dimwishlist:item=409551876&perks=679225683,4071163871,2726471870
-dimwishlist:item=409551876&perks=679225683,247725512,2726471870
+dimwishlist:item=409551876&perks=679225683,1820235745,2726471870
 dimwishlist:item=409551876&perks=3230963543,4071163871,2726471870
-dimwishlist:item=409551876&perks=3230963543,247725512,2726471870
+dimwishlist:item=409551876&perks=3230963543,1820235745,2726471870
 dimwishlist:item=409551876&perks=1431678320,4071163871,2726471870
-dimwishlist:item=409551876&perks=1431678320,247725512,2726471870
+dimwishlist:item=409551876&perks=1431678320,1820235745,2726471870
 dimwishlist:item=409551876&perks=4071163871,2726471870
+dimwishlist:item=409551876&perks=1820235745,2726471870
+dimwishlist:item=409551876&perks=1482024992,679225683,247725512,2458213969
+dimwishlist:item=409551876&perks=1482024992,679225683,247725512,4049631843
+dimwishlist:item=409551876&perks=1482024992,3230963543,247725512,2458213969
+dimwishlist:item=409551876&perks=1482024992,3230963543,247725512,4049631843
+dimwishlist:item=409551876&perks=1482024992,1431678320,247725512,2458213969
+dimwishlist:item=409551876&perks=1482024992,1431678320,247725512,4049631843
+dimwishlist:item=409551876&perks=1392496348,679225683,247725512,2458213969
+dimwishlist:item=409551876&perks=1392496348,679225683,247725512,4049631843
+dimwishlist:item=409551876&perks=1392496348,3230963543,247725512,2458213969
+dimwishlist:item=409551876&perks=1392496348,3230963543,247725512,4049631843
+dimwishlist:item=409551876&perks=1392496348,1431678320,247725512,2458213969
+dimwishlist:item=409551876&perks=1392496348,1431678320,247725512,4049631843
+dimwishlist:item=409551876&perks=4090651448,679225683,247725512,2458213969
+dimwishlist:item=409551876&perks=4090651448,679225683,247725512,4049631843
+dimwishlist:item=409551876&perks=4090651448,3230963543,247725512,2458213969
+dimwishlist:item=409551876&perks=4090651448,3230963543,247725512,4049631843
+dimwishlist:item=409551876&perks=4090651448,1431678320,247725512,2458213969
+dimwishlist:item=409551876&perks=4090651448,1431678320,247725512,4049631843
+dimwishlist:item=409551876&perks=1840239774,679225683,247725512,2458213969
+dimwishlist:item=409551876&perks=1840239774,679225683,247725512,4049631843
+dimwishlist:item=409551876&perks=1840239774,3230963543,247725512,2458213969
+dimwishlist:item=409551876&perks=1840239774,3230963543,247725512,4049631843
+dimwishlist:item=409551876&perks=1840239774,1431678320,247725512,2458213969
+dimwishlist:item=409551876&perks=1840239774,1431678320,247725512,4049631843
+dimwishlist:item=409551876&perks=1482024992,247725512,2458213969
+dimwishlist:item=409551876&perks=1482024992,247725512,4049631843
+dimwishlist:item=409551876&perks=1392496348,247725512,2458213969
+dimwishlist:item=409551876&perks=1392496348,247725512,4049631843
+dimwishlist:item=409551876&perks=4090651448,247725512,2458213969
+dimwishlist:item=409551876&perks=4090651448,247725512,4049631843
+dimwishlist:item=409551876&perks=1840239774,247725512,2458213969
+dimwishlist:item=409551876&perks=1840239774,247725512,4049631843
+dimwishlist:item=409551876&perks=679225683,247725512,2458213969
+dimwishlist:item=409551876&perks=679225683,247725512,4049631843
+dimwishlist:item=409551876&perks=3230963543,247725512,2458213969
+dimwishlist:item=409551876&perks=3230963543,247725512,4049631843
+dimwishlist:item=409551876&perks=1431678320,247725512,2458213969
+dimwishlist:item=409551876&perks=1431678320,247725512,4049631843
+dimwishlist:item=409551876&perks=247725512,2458213969
+dimwishlist:item=409551876&perks=247725512,4049631843
+dimwishlist:item=409551876&perks=1482024992,679225683,247725512,2726471870
+dimwishlist:item=409551876&perks=1482024992,3230963543,247725512,2726471870
+dimwishlist:item=409551876&perks=1482024992,1431678320,247725512,2726471870
+dimwishlist:item=409551876&perks=1392496348,679225683,247725512,2726471870
+dimwishlist:item=409551876&perks=1392496348,3230963543,247725512,2726471870
+dimwishlist:item=409551876&perks=1392496348,1431678320,247725512,2726471870
+dimwishlist:item=409551876&perks=4090651448,679225683,247725512,2726471870
+dimwishlist:item=409551876&perks=4090651448,3230963543,247725512,2726471870
+dimwishlist:item=409551876&perks=4090651448,1431678320,247725512,2726471870
+dimwishlist:item=409551876&perks=1840239774,679225683,247725512,2726471870
+dimwishlist:item=409551876&perks=1840239774,3230963543,247725512,2726471870
+dimwishlist:item=409551876&perks=1840239774,1431678320,247725512,2726471870
+dimwishlist:item=409551876&perks=1482024992,247725512,2726471870
+dimwishlist:item=409551876&perks=1392496348,247725512,2726471870
+dimwishlist:item=409551876&perks=4090651448,247725512,2726471870
+dimwishlist:item=409551876&perks=1840239774,247725512,2726471870
+dimwishlist:item=409551876&perks=679225683,247725512,2726471870
+dimwishlist:item=409551876&perks=3230963543,247725512,2726471870
+dimwishlist:item=409551876&perks=1431678320,247725512,2726471870
 dimwishlist:item=409551876&perks=247725512,2726471870
 
 //The Keening
-//notes: adam (PvE / high PL content, GMs / optimal): Rapid Hit is easier to stack when enemies don't die in two shots, and you can't safely be in the adds' vicinity in GM, so I'm favoring range stat increases on the first two slots here.|tags:PvE
+//notes: adam (PvE / high PL content, GMs / optimal): Rapid Hit is easier to stack when enemies don't die in two shots, which makes reload stat increases less essential. At the same time, you can't safely be in the adds' vicinity in GM, so I'm favoring range stat increases on the first two slots here.|tags:PvE
 dimwishlist:item=409551876&perks=3250034553,679225683,247725512,4049631843
 dimwishlist:item=409551876&perks=1482024992,679225683,247725512,4049631843
 dimwishlist:item=409551876&perks=4090651448,679225683,247725512,4049631843
 dimwishlist:item=409551876&perks=679225683,247725512,4049631843
 
 //The Keening
-//notes: adam (PvE / high PL content, GMs): Rapid Hit is easier to stack when enemies don't die in two shots, and you can't safely be in the adds' vicinity in GM, so I'm favoring range stat increases on the first two slots here.|tags:PvE
+//notes: adam (PvE / high PL content, GMs): Rapid Hit is easier to stack when enemies don't die in two shots, which makes reload stat increases less essential. At the same time, you can't safely be in the adds' vicinity in GM, so I'm favoring range stat increases on the first two slots here.|tags:PvE
 dimwishlist:item=409551876&perks=3250034553,1561002382,247725512,4049631843
 dimwishlist:item=409551876&perks=3250034553,1885400500,247725512,4049631843
 dimwishlist:item=409551876&perks=1482024992,1561002382,247725512,4049631843
@@ -1372,34 +1526,34 @@ dimwishlist:item=409551876&perks=3250034553,1885400500,588594999,2458213969
 dimwishlist:item=409551876&perks=3250034553,1885400500,588594999,2726471870
 dimwishlist:item=409551876&perks=3250034553,1885400500,588594999,957782887
 dimwishlist:item=409551876&perks=3250034553,1885400500,588594999,3592538738
-dimwishlist:item=409551876&perks=3250034553,1885400500,3161816588,2458213969
-dimwishlist:item=409551876&perks=3250034553,1885400500,3161816588,2726471870
-dimwishlist:item=409551876&perks=3250034553,1885400500,3161816588,957782887
-dimwishlist:item=409551876&perks=3250034553,1885400500,3161816588,3592538738
+dimwishlist:item=409551876&perks=3250034553,1885400500,1866048759,2458213969
+dimwishlist:item=409551876&perks=3250034553,1885400500,1866048759,2726471870
+dimwishlist:item=409551876&perks=3250034553,1885400500,1866048759,957782887
+dimwishlist:item=409551876&perks=3250034553,1885400500,1866048759,3592538738
 dimwishlist:item=409551876&perks=1482024992,1885400500,588594999,2458213969
 dimwishlist:item=409551876&perks=1482024992,1885400500,588594999,2726471870
 dimwishlist:item=409551876&perks=1482024992,1885400500,588594999,957782887
 dimwishlist:item=409551876&perks=1482024992,1885400500,588594999,3592538738
-dimwishlist:item=409551876&perks=1482024992,1885400500,3161816588,2458213969
-dimwishlist:item=409551876&perks=1482024992,1885400500,3161816588,2726471870
-dimwishlist:item=409551876&perks=1482024992,1885400500,3161816588,957782887
-dimwishlist:item=409551876&perks=1482024992,1885400500,3161816588,3592538738
+dimwishlist:item=409551876&perks=1482024992,1885400500,1866048759,2458213969
+dimwishlist:item=409551876&perks=1482024992,1885400500,1866048759,2726471870
+dimwishlist:item=409551876&perks=1482024992,1885400500,1866048759,957782887
+dimwishlist:item=409551876&perks=1482024992,1885400500,1866048759,3592538738
 dimwishlist:item=409551876&perks=3250034553,1885400500,588594999,2458213969
 dimwishlist:item=409551876&perks=3250034553,1885400500,588594999,2726471870
 dimwishlist:item=409551876&perks=3250034553,1885400500,588594999,957782887
 dimwishlist:item=409551876&perks=3250034553,1885400500,588594999,3592538738
-dimwishlist:item=409551876&perks=3250034553,1885400500,3161816588,2458213969
-dimwishlist:item=409551876&perks=3250034553,1885400500,3161816588,2726471870
-dimwishlist:item=409551876&perks=3250034553,1885400500,3161816588,957782887
-dimwishlist:item=409551876&perks=3250034553,1885400500,3161816588,3592538738
+dimwishlist:item=409551876&perks=3250034553,1885400500,1866048759,2458213969
+dimwishlist:item=409551876&perks=3250034553,1885400500,1866048759,2726471870
+dimwishlist:item=409551876&perks=3250034553,1885400500,1866048759,957782887
+dimwishlist:item=409551876&perks=3250034553,1885400500,1866048759,3592538738
 dimwishlist:item=409551876&perks=1482024992,1885400500,588594999,2458213969
 dimwishlist:item=409551876&perks=1482024992,1885400500,588594999,2726471870
 dimwishlist:item=409551876&perks=1482024992,1885400500,588594999,957782887
 dimwishlist:item=409551876&perks=1482024992,1885400500,588594999,3592538738
-dimwishlist:item=409551876&perks=1482024992,1885400500,3161816588,2458213969
-dimwishlist:item=409551876&perks=1482024992,1885400500,3161816588,2726471870
-dimwishlist:item=409551876&perks=1482024992,1885400500,3161816588,957782887
-dimwishlist:item=409551876&perks=1482024992,1885400500,3161816588,3592538738
+dimwishlist:item=409551876&perks=1482024992,1885400500,1866048759,2458213969
+dimwishlist:item=409551876&perks=1482024992,1885400500,1866048759,2726471870
+dimwishlist:item=409551876&perks=1482024992,1885400500,1866048759,957782887
+dimwishlist:item=409551876&perks=1482024992,1885400500,1866048759,3592538738
 
 //The Keening
 //notes: adam (PvP)|tags:PvP
@@ -1407,258 +1561,294 @@ dimwishlist:item=409551876&perks=4090651448,1885400500,588594999,2458213969
 dimwishlist:item=409551876&perks=4090651448,1885400500,588594999,2726471870
 dimwishlist:item=409551876&perks=4090651448,1885400500,588594999,957782887
 dimwishlist:item=409551876&perks=4090651448,1885400500,588594999,3592538738
-dimwishlist:item=409551876&perks=4090651448,1885400500,3161816588,2458213969
-dimwishlist:item=409551876&perks=4090651448,1885400500,3161816588,2726471870
-dimwishlist:item=409551876&perks=4090651448,1885400500,3161816588,957782887
-dimwishlist:item=409551876&perks=4090651448,1885400500,3161816588,3592538738
+dimwishlist:item=409551876&perks=4090651448,1885400500,1866048759,2458213969
+dimwishlist:item=409551876&perks=4090651448,1885400500,1866048759,2726471870
+dimwishlist:item=409551876&perks=4090651448,1885400500,1866048759,957782887
+dimwishlist:item=409551876&perks=4090651448,1885400500,1866048759,3592538738
 dimwishlist:item=409551876&perks=4090651448,1885400500,588594999,2458213969
 dimwishlist:item=409551876&perks=4090651448,1885400500,588594999,2726471870
 dimwishlist:item=409551876&perks=4090651448,1885400500,588594999,957782887
 dimwishlist:item=409551876&perks=4090651448,1885400500,588594999,3592538738
+dimwishlist:item=409551876&perks=4090651448,1885400500,1866048759,2458213969
+dimwishlist:item=409551876&perks=4090651448,1885400500,1866048759,2726471870
+dimwishlist:item=409551876&perks=4090651448,1885400500,1866048759,957782887
+dimwishlist:item=409551876&perks=4090651448,1885400500,1866048759,3592538738
+dimwishlist:item=409551876&perks=3250034553,1561002382,588594999,2458213969
+dimwishlist:item=409551876&perks=3250034553,1561002382,588594999,2726471870
+dimwishlist:item=409551876&perks=3250034553,1561002382,588594999,957782887
+dimwishlist:item=409551876&perks=3250034553,1561002382,588594999,3592538738
+dimwishlist:item=409551876&perks=3250034553,1561002382,1866048759,2458213969
+dimwishlist:item=409551876&perks=3250034553,1561002382,1866048759,2726471870
+dimwishlist:item=409551876&perks=3250034553,1561002382,1866048759,957782887
+dimwishlist:item=409551876&perks=3250034553,1561002382,1866048759,3592538738
+dimwishlist:item=409551876&perks=3250034553,679225683,588594999,2458213969
+dimwishlist:item=409551876&perks=3250034553,679225683,588594999,2726471870
+dimwishlist:item=409551876&perks=3250034553,679225683,588594999,957782887
+dimwishlist:item=409551876&perks=3250034553,679225683,588594999,3592538738
+dimwishlist:item=409551876&perks=3250034553,679225683,1866048759,2458213969
+dimwishlist:item=409551876&perks=3250034553,679225683,1866048759,2726471870
+dimwishlist:item=409551876&perks=3250034553,679225683,1866048759,957782887
+dimwishlist:item=409551876&perks=3250034553,679225683,1866048759,3592538738
+dimwishlist:item=409551876&perks=1482024992,1561002382,588594999,2458213969
+dimwishlist:item=409551876&perks=1482024992,1561002382,588594999,2726471870
+dimwishlist:item=409551876&perks=1482024992,1561002382,588594999,957782887
+dimwishlist:item=409551876&perks=1482024992,1561002382,588594999,3592538738
+dimwishlist:item=409551876&perks=1482024992,1561002382,1866048759,2458213969
+dimwishlist:item=409551876&perks=1482024992,1561002382,1866048759,2726471870
+dimwishlist:item=409551876&perks=1482024992,1561002382,1866048759,957782887
+dimwishlist:item=409551876&perks=1482024992,1561002382,1866048759,3592538738
+dimwishlist:item=409551876&perks=1482024992,679225683,588594999,2458213969
+dimwishlist:item=409551876&perks=1482024992,679225683,588594999,2726471870
+dimwishlist:item=409551876&perks=1482024992,679225683,588594999,957782887
+dimwishlist:item=409551876&perks=1482024992,679225683,588594999,3592538738
+dimwishlist:item=409551876&perks=1482024992,679225683,1866048759,2458213969
+dimwishlist:item=409551876&perks=1482024992,679225683,1866048759,2726471870
+dimwishlist:item=409551876&perks=1482024992,679225683,1866048759,957782887
+dimwishlist:item=409551876&perks=1482024992,679225683,1866048759,3592538738
+dimwishlist:item=409551876&perks=3250034553,1561002382,588594999,2458213969
+dimwishlist:item=409551876&perks=3250034553,1561002382,588594999,2726471870
+dimwishlist:item=409551876&perks=3250034553,1561002382,588594999,957782887
+dimwishlist:item=409551876&perks=3250034553,1561002382,588594999,3592538738
+dimwishlist:item=409551876&perks=3250034553,1561002382,1866048759,2458213969
+dimwishlist:item=409551876&perks=3250034553,1561002382,1866048759,2726471870
+dimwishlist:item=409551876&perks=3250034553,1561002382,1866048759,957782887
+dimwishlist:item=409551876&perks=3250034553,1561002382,1866048759,3592538738
+dimwishlist:item=409551876&perks=3250034553,679225683,588594999,2458213969
+dimwishlist:item=409551876&perks=3250034553,679225683,588594999,2726471870
+dimwishlist:item=409551876&perks=3250034553,679225683,588594999,957782887
+dimwishlist:item=409551876&perks=3250034553,679225683,588594999,3592538738
+dimwishlist:item=409551876&perks=3250034553,679225683,1866048759,2458213969
+dimwishlist:item=409551876&perks=3250034553,679225683,1866048759,2726471870
+dimwishlist:item=409551876&perks=3250034553,679225683,1866048759,957782887
+dimwishlist:item=409551876&perks=3250034553,679225683,1866048759,3592538738
+dimwishlist:item=409551876&perks=1482024992,1561002382,588594999,2458213969
+dimwishlist:item=409551876&perks=1482024992,1561002382,588594999,2726471870
+dimwishlist:item=409551876&perks=1482024992,1561002382,588594999,957782887
+dimwishlist:item=409551876&perks=1482024992,1561002382,588594999,3592538738
+dimwishlist:item=409551876&perks=1482024992,1561002382,1866048759,2458213969
+dimwishlist:item=409551876&perks=1482024992,1561002382,1866048759,2726471870
+dimwishlist:item=409551876&perks=1482024992,1561002382,1866048759,957782887
+dimwishlist:item=409551876&perks=1482024992,1561002382,1866048759,3592538738
+dimwishlist:item=409551876&perks=1482024992,679225683,588594999,2458213969
+dimwishlist:item=409551876&perks=1482024992,679225683,588594999,2726471870
+dimwishlist:item=409551876&perks=1482024992,679225683,588594999,957782887
+dimwishlist:item=409551876&perks=1482024992,679225683,588594999,3592538738
+dimwishlist:item=409551876&perks=1482024992,679225683,1866048759,2458213969
+dimwishlist:item=409551876&perks=1482024992,679225683,1866048759,2726471870
+dimwishlist:item=409551876&perks=1482024992,679225683,1866048759,957782887
+dimwishlist:item=409551876&perks=1482024992,679225683,1866048759,3592538738
+dimwishlist:item=409551876&perks=4090651448,1561002382,588594999,2458213969
+dimwishlist:item=409551876&perks=4090651448,1561002382,588594999,2726471870
+dimwishlist:item=409551876&perks=4090651448,1561002382,588594999,957782887
+dimwishlist:item=409551876&perks=4090651448,1561002382,588594999,3592538738
+dimwishlist:item=409551876&perks=4090651448,1561002382,1866048759,2458213969
+dimwishlist:item=409551876&perks=4090651448,1561002382,1866048759,2726471870
+dimwishlist:item=409551876&perks=4090651448,1561002382,1866048759,957782887
+dimwishlist:item=409551876&perks=4090651448,1561002382,1866048759,3592538738
+dimwishlist:item=409551876&perks=4090651448,679225683,588594999,2458213969
+dimwishlist:item=409551876&perks=4090651448,679225683,588594999,2726471870
+dimwishlist:item=409551876&perks=4090651448,679225683,588594999,957782887
+dimwishlist:item=409551876&perks=4090651448,679225683,588594999,3592538738
+dimwishlist:item=409551876&perks=4090651448,679225683,1866048759,2458213969
+dimwishlist:item=409551876&perks=4090651448,679225683,1866048759,2726471870
+dimwishlist:item=409551876&perks=4090651448,679225683,1866048759,957782887
+dimwishlist:item=409551876&perks=4090651448,679225683,1866048759,3592538738
+dimwishlist:item=409551876&perks=4090651448,1561002382,588594999,2458213969
+dimwishlist:item=409551876&perks=4090651448,1561002382,588594999,2726471870
+dimwishlist:item=409551876&perks=4090651448,1561002382,588594999,957782887
+dimwishlist:item=409551876&perks=4090651448,1561002382,588594999,3592538738
+dimwishlist:item=409551876&perks=4090651448,1561002382,1866048759,2458213969
+dimwishlist:item=409551876&perks=4090651448,1561002382,1866048759,2726471870
+dimwishlist:item=409551876&perks=4090651448,1561002382,1866048759,957782887
+dimwishlist:item=409551876&perks=4090651448,1561002382,1866048759,3592538738
+dimwishlist:item=409551876&perks=4090651448,679225683,588594999,2458213969
+dimwishlist:item=409551876&perks=4090651448,679225683,588594999,2726471870
+dimwishlist:item=409551876&perks=4090651448,679225683,588594999,957782887
+dimwishlist:item=409551876&perks=4090651448,679225683,588594999,3592538738
+dimwishlist:item=409551876&perks=4090651448,679225683,1866048759,2458213969
+dimwishlist:item=409551876&perks=4090651448,679225683,1866048759,2726471870
+dimwishlist:item=409551876&perks=4090651448,679225683,1866048759,957782887
+dimwishlist:item=409551876&perks=4090651448,679225683,1866048759,3592538738
+dimwishlist:item=409551876&perks=3250034553,1885400500,2450788523,2458213969
+dimwishlist:item=409551876&perks=3250034553,1885400500,2450788523,2726471870
+dimwishlist:item=409551876&perks=3250034553,1885400500,2450788523,957782887
+dimwishlist:item=409551876&perks=3250034553,1885400500,2450788523,3592538738
+dimwishlist:item=409551876&perks=3250034553,1885400500,3161816588,2458213969
+dimwishlist:item=409551876&perks=3250034553,1885400500,3161816588,2726471870
+dimwishlist:item=409551876&perks=3250034553,1885400500,3161816588,957782887
+dimwishlist:item=409551876&perks=3250034553,1885400500,3161816588,3592538738
+dimwishlist:item=409551876&perks=1482024992,1885400500,2450788523,2458213969
+dimwishlist:item=409551876&perks=1482024992,1885400500,2450788523,2726471870
+dimwishlist:item=409551876&perks=1482024992,1885400500,2450788523,957782887
+dimwishlist:item=409551876&perks=1482024992,1885400500,2450788523,3592538738
+dimwishlist:item=409551876&perks=1482024992,1885400500,3161816588,2458213969
+dimwishlist:item=409551876&perks=1482024992,1885400500,3161816588,2726471870
+dimwishlist:item=409551876&perks=1482024992,1885400500,3161816588,957782887
+dimwishlist:item=409551876&perks=1482024992,1885400500,3161816588,3592538738
+dimwishlist:item=409551876&perks=3250034553,1885400500,2450788523,2458213969
+dimwishlist:item=409551876&perks=3250034553,1885400500,2450788523,2726471870
+dimwishlist:item=409551876&perks=3250034553,1885400500,2450788523,957782887
+dimwishlist:item=409551876&perks=3250034553,1885400500,2450788523,3592538738
+dimwishlist:item=409551876&perks=3250034553,1885400500,3161816588,2458213969
+dimwishlist:item=409551876&perks=3250034553,1885400500,3161816588,2726471870
+dimwishlist:item=409551876&perks=3250034553,1885400500,3161816588,957782887
+dimwishlist:item=409551876&perks=3250034553,1885400500,3161816588,3592538738
+dimwishlist:item=409551876&perks=1482024992,1885400500,2450788523,2458213969
+dimwishlist:item=409551876&perks=1482024992,1885400500,2450788523,2726471870
+dimwishlist:item=409551876&perks=1482024992,1885400500,2450788523,957782887
+dimwishlist:item=409551876&perks=1482024992,1885400500,2450788523,3592538738
+dimwishlist:item=409551876&perks=1482024992,1885400500,3161816588,2458213969
+dimwishlist:item=409551876&perks=1482024992,1885400500,3161816588,2726471870
+dimwishlist:item=409551876&perks=1482024992,1885400500,3161816588,957782887
+dimwishlist:item=409551876&perks=1482024992,1885400500,3161816588,3592538738
+dimwishlist:item=409551876&perks=4090651448,1885400500,2450788523,2458213969
+dimwishlist:item=409551876&perks=4090651448,1885400500,2450788523,2726471870
+dimwishlist:item=409551876&perks=4090651448,1885400500,2450788523,957782887
+dimwishlist:item=409551876&perks=4090651448,1885400500,2450788523,3592538738
 dimwishlist:item=409551876&perks=4090651448,1885400500,3161816588,2458213969
 dimwishlist:item=409551876&perks=4090651448,1885400500,3161816588,2726471870
 dimwishlist:item=409551876&perks=4090651448,1885400500,3161816588,957782887
 dimwishlist:item=409551876&perks=4090651448,1885400500,3161816588,3592538738
-dimwishlist:item=409551876&perks=3250034553,1561002382,588594999,2458213969
-dimwishlist:item=409551876&perks=3250034553,1561002382,588594999,2726471870
-dimwishlist:item=409551876&perks=3250034553,1561002382,588594999,957782887
-dimwishlist:item=409551876&perks=3250034553,1561002382,588594999,3592538738
-dimwishlist:item=409551876&perks=3250034553,1561002382,3161816588,2458213969
-dimwishlist:item=409551876&perks=3250034553,1561002382,3161816588,2726471870
-dimwishlist:item=409551876&perks=3250034553,1561002382,3161816588,957782887
-dimwishlist:item=409551876&perks=3250034553,1561002382,3161816588,3592538738
-dimwishlist:item=409551876&perks=3250034553,679225683,588594999,2458213969
-dimwishlist:item=409551876&perks=3250034553,679225683,588594999,2726471870
-dimwishlist:item=409551876&perks=3250034553,679225683,588594999,957782887
-dimwishlist:item=409551876&perks=3250034553,679225683,588594999,3592538738
-dimwishlist:item=409551876&perks=3250034553,679225683,3161816588,2458213969
-dimwishlist:item=409551876&perks=3250034553,679225683,3161816588,2726471870
-dimwishlist:item=409551876&perks=3250034553,679225683,3161816588,957782887
-dimwishlist:item=409551876&perks=3250034553,679225683,3161816588,3592538738
-dimwishlist:item=409551876&perks=1482024992,1561002382,588594999,2458213969
-dimwishlist:item=409551876&perks=1482024992,1561002382,588594999,2726471870
-dimwishlist:item=409551876&perks=1482024992,1561002382,588594999,957782887
-dimwishlist:item=409551876&perks=1482024992,1561002382,588594999,3592538738
-dimwishlist:item=409551876&perks=1482024992,1561002382,3161816588,2458213969
-dimwishlist:item=409551876&perks=1482024992,1561002382,3161816588,2726471870
-dimwishlist:item=409551876&perks=1482024992,1561002382,3161816588,957782887
-dimwishlist:item=409551876&perks=1482024992,1561002382,3161816588,3592538738
-dimwishlist:item=409551876&perks=1482024992,679225683,588594999,2458213969
-dimwishlist:item=409551876&perks=1482024992,679225683,588594999,2726471870
-dimwishlist:item=409551876&perks=1482024992,679225683,588594999,957782887
-dimwishlist:item=409551876&perks=1482024992,679225683,588594999,3592538738
-dimwishlist:item=409551876&perks=1482024992,679225683,3161816588,2458213969
-dimwishlist:item=409551876&perks=1482024992,679225683,3161816588,2726471870
-dimwishlist:item=409551876&perks=1482024992,679225683,3161816588,957782887
-dimwishlist:item=409551876&perks=1482024992,679225683,3161816588,3592538738
-dimwishlist:item=409551876&perks=3250034553,1561002382,588594999,2458213969
-dimwishlist:item=409551876&perks=3250034553,1561002382,588594999,2726471870
-dimwishlist:item=409551876&perks=3250034553,1561002382,588594999,957782887
-dimwishlist:item=409551876&perks=3250034553,1561002382,588594999,3592538738
-dimwishlist:item=409551876&perks=3250034553,1561002382,3161816588,2458213969
-dimwishlist:item=409551876&perks=3250034553,1561002382,3161816588,2726471870
-dimwishlist:item=409551876&perks=3250034553,1561002382,3161816588,957782887
-dimwishlist:item=409551876&perks=3250034553,1561002382,3161816588,3592538738
-dimwishlist:item=409551876&perks=3250034553,679225683,588594999,2458213969
-dimwishlist:item=409551876&perks=3250034553,679225683,588594999,2726471870
-dimwishlist:item=409551876&perks=3250034553,679225683,588594999,957782887
-dimwishlist:item=409551876&perks=3250034553,679225683,588594999,3592538738
-dimwishlist:item=409551876&perks=3250034553,679225683,3161816588,2458213969
-dimwishlist:item=409551876&perks=3250034553,679225683,3161816588,2726471870
-dimwishlist:item=409551876&perks=3250034553,679225683,3161816588,957782887
-dimwishlist:item=409551876&perks=3250034553,679225683,3161816588,3592538738
-dimwishlist:item=409551876&perks=1482024992,1561002382,588594999,2458213969
-dimwishlist:item=409551876&perks=1482024992,1561002382,588594999,2726471870
-dimwishlist:item=409551876&perks=1482024992,1561002382,588594999,957782887
-dimwishlist:item=409551876&perks=1482024992,1561002382,588594999,3592538738
-dimwishlist:item=409551876&perks=1482024992,1561002382,3161816588,2458213969
-dimwishlist:item=409551876&perks=1482024992,1561002382,3161816588,2726471870
-dimwishlist:item=409551876&perks=1482024992,1561002382,3161816588,957782887
-dimwishlist:item=409551876&perks=1482024992,1561002382,3161816588,3592538738
-dimwishlist:item=409551876&perks=1482024992,679225683,588594999,2458213969
-dimwishlist:item=409551876&perks=1482024992,679225683,588594999,2726471870
-dimwishlist:item=409551876&perks=1482024992,679225683,588594999,957782887
-dimwishlist:item=409551876&perks=1482024992,679225683,588594999,3592538738
-dimwishlist:item=409551876&perks=1482024992,679225683,3161816588,2458213969
-dimwishlist:item=409551876&perks=1482024992,679225683,3161816588,2726471870
-dimwishlist:item=409551876&perks=1482024992,679225683,3161816588,957782887
-dimwishlist:item=409551876&perks=1482024992,679225683,3161816588,3592538738
-dimwishlist:item=409551876&perks=4090651448,1561002382,588594999,2458213969
-dimwishlist:item=409551876&perks=4090651448,1561002382,588594999,2726471870
-dimwishlist:item=409551876&perks=4090651448,1561002382,588594999,957782887
-dimwishlist:item=409551876&perks=4090651448,1561002382,588594999,3592538738
-dimwishlist:item=409551876&perks=4090651448,1561002382,3161816588,2458213969
-dimwishlist:item=409551876&perks=4090651448,1561002382,3161816588,2726471870
-dimwishlist:item=409551876&perks=4090651448,1561002382,3161816588,957782887
-dimwishlist:item=409551876&perks=4090651448,1561002382,3161816588,3592538738
-dimwishlist:item=409551876&perks=4090651448,679225683,588594999,2458213969
-dimwishlist:item=409551876&perks=4090651448,679225683,588594999,2726471870
-dimwishlist:item=409551876&perks=4090651448,679225683,588594999,957782887
-dimwishlist:item=409551876&perks=4090651448,679225683,588594999,3592538738
-dimwishlist:item=409551876&perks=4090651448,679225683,3161816588,2458213969
-dimwishlist:item=409551876&perks=4090651448,679225683,3161816588,2726471870
-dimwishlist:item=409551876&perks=4090651448,679225683,3161816588,957782887
-dimwishlist:item=409551876&perks=4090651448,679225683,3161816588,3592538738
-dimwishlist:item=409551876&perks=4090651448,1561002382,588594999,2458213969
-dimwishlist:item=409551876&perks=4090651448,1561002382,588594999,2726471870
-dimwishlist:item=409551876&perks=4090651448,1561002382,588594999,957782887
-dimwishlist:item=409551876&perks=4090651448,1561002382,588594999,3592538738
-dimwishlist:item=409551876&perks=4090651448,1561002382,3161816588,2458213969
-dimwishlist:item=409551876&perks=4090651448,1561002382,3161816588,2726471870
-dimwishlist:item=409551876&perks=4090651448,1561002382,3161816588,957782887
-dimwishlist:item=409551876&perks=4090651448,1561002382,3161816588,3592538738
-dimwishlist:item=409551876&perks=4090651448,679225683,588594999,2458213969
-dimwishlist:item=409551876&perks=4090651448,679225683,588594999,2726471870
-dimwishlist:item=409551876&perks=4090651448,679225683,588594999,957782887
-dimwishlist:item=409551876&perks=4090651448,679225683,588594999,3592538738
-dimwishlist:item=409551876&perks=4090651448,679225683,3161816588,2458213969
-dimwishlist:item=409551876&perks=4090651448,679225683,3161816588,2726471870
-dimwishlist:item=409551876&perks=4090651448,679225683,3161816588,957782887
-dimwishlist:item=409551876&perks=4090651448,679225683,3161816588,3592538738
-dimwishlist:item=409551876&perks=3250034553,1885400500,2450788523,2458213969
-dimwishlist:item=409551876&perks=3250034553,1885400500,2450788523,2726471870
-dimwishlist:item=409551876&perks=3250034553,1885400500,2450788523,957782887
-dimwishlist:item=409551876&perks=3250034553,1885400500,2450788523,3592538738
-dimwishlist:item=409551876&perks=3250034553,1885400500,247725512,2458213969
-dimwishlist:item=409551876&perks=3250034553,1885400500,247725512,2726471870
-dimwishlist:item=409551876&perks=3250034553,1885400500,247725512,957782887
-dimwishlist:item=409551876&perks=3250034553,1885400500,247725512,3592538738
-dimwishlist:item=409551876&perks=1482024992,1885400500,2450788523,2458213969
-dimwishlist:item=409551876&perks=1482024992,1885400500,2450788523,2726471870
-dimwishlist:item=409551876&perks=1482024992,1885400500,2450788523,957782887
-dimwishlist:item=409551876&perks=1482024992,1885400500,2450788523,3592538738
-dimwishlist:item=409551876&perks=1482024992,1885400500,247725512,2458213969
-dimwishlist:item=409551876&perks=1482024992,1885400500,247725512,2726471870
-dimwishlist:item=409551876&perks=1482024992,1885400500,247725512,957782887
-dimwishlist:item=409551876&perks=1482024992,1885400500,247725512,3592538738
-dimwishlist:item=409551876&perks=3250034553,1885400500,2450788523,2458213969
-dimwishlist:item=409551876&perks=3250034553,1885400500,2450788523,2726471870
-dimwishlist:item=409551876&perks=3250034553,1885400500,2450788523,957782887
-dimwishlist:item=409551876&perks=3250034553,1885400500,2450788523,3592538738
-dimwishlist:item=409551876&perks=3250034553,1885400500,247725512,2458213969
-dimwishlist:item=409551876&perks=3250034553,1885400500,247725512,2726471870
-dimwishlist:item=409551876&perks=3250034553,1885400500,247725512,957782887
-dimwishlist:item=409551876&perks=3250034553,1885400500,247725512,3592538738
-dimwishlist:item=409551876&perks=1482024992,1885400500,2450788523,2458213969
-dimwishlist:item=409551876&perks=1482024992,1885400500,2450788523,2726471870
-dimwishlist:item=409551876&perks=1482024992,1885400500,2450788523,957782887
-dimwishlist:item=409551876&perks=1482024992,1885400500,2450788523,3592538738
-dimwishlist:item=409551876&perks=1482024992,1885400500,247725512,2458213969
-dimwishlist:item=409551876&perks=1482024992,1885400500,247725512,2726471870
-dimwishlist:item=409551876&perks=1482024992,1885400500,247725512,957782887
-dimwishlist:item=409551876&perks=1482024992,1885400500,247725512,3592538738
 dimwishlist:item=409551876&perks=4090651448,1885400500,2450788523,2458213969
 dimwishlist:item=409551876&perks=4090651448,1885400500,2450788523,2726471870
 dimwishlist:item=409551876&perks=4090651448,1885400500,2450788523,957782887
 dimwishlist:item=409551876&perks=4090651448,1885400500,2450788523,3592538738
-dimwishlist:item=409551876&perks=4090651448,1885400500,247725512,2458213969
-dimwishlist:item=409551876&perks=4090651448,1885400500,247725512,2726471870
-dimwishlist:item=409551876&perks=4090651448,1885400500,247725512,957782887
-dimwishlist:item=409551876&perks=4090651448,1885400500,247725512,3592538738
-dimwishlist:item=409551876&perks=4090651448,1885400500,2450788523,2458213969
-dimwishlist:item=409551876&perks=4090651448,1885400500,2450788523,2726471870
-dimwishlist:item=409551876&perks=4090651448,1885400500,2450788523,957782887
-dimwishlist:item=409551876&perks=4090651448,1885400500,2450788523,3592538738
-dimwishlist:item=409551876&perks=4090651448,1885400500,247725512,2458213969
-dimwishlist:item=409551876&perks=4090651448,1885400500,247725512,2726471870
-dimwishlist:item=409551876&perks=4090651448,1885400500,247725512,957782887
-dimwishlist:item=409551876&perks=4090651448,1885400500,247725512,3592538738
+dimwishlist:item=409551876&perks=4090651448,1885400500,3161816588,2458213969
+dimwishlist:item=409551876&perks=4090651448,1885400500,3161816588,2726471870
+dimwishlist:item=409551876&perks=4090651448,1885400500,3161816588,957782887
+dimwishlist:item=409551876&perks=4090651448,1885400500,3161816588,3592538738
 dimwishlist:item=409551876&perks=3250034553,1561002382,2450788523,2458213969
 dimwishlist:item=409551876&perks=3250034553,1561002382,2450788523,2726471870
 dimwishlist:item=409551876&perks=3250034553,1561002382,2450788523,957782887
 dimwishlist:item=409551876&perks=3250034553,1561002382,2450788523,3592538738
-dimwishlist:item=409551876&perks=3250034553,1561002382,247725512,2458213969
-dimwishlist:item=409551876&perks=3250034553,1561002382,247725512,2726471870
-dimwishlist:item=409551876&perks=3250034553,1561002382,247725512,957782887
-dimwishlist:item=409551876&perks=3250034553,1561002382,247725512,3592538738
+dimwishlist:item=409551876&perks=3250034553,1561002382,3161816588,2458213969
+dimwishlist:item=409551876&perks=3250034553,1561002382,3161816588,2726471870
+dimwishlist:item=409551876&perks=3250034553,1561002382,3161816588,957782887
+dimwishlist:item=409551876&perks=3250034553,1561002382,3161816588,3592538738
 dimwishlist:item=409551876&perks=3250034553,679225683,2450788523,2458213969
 dimwishlist:item=409551876&perks=3250034553,679225683,2450788523,2726471870
 dimwishlist:item=409551876&perks=3250034553,679225683,2450788523,957782887
 dimwishlist:item=409551876&perks=3250034553,679225683,2450788523,3592538738
-dimwishlist:item=409551876&perks=3250034553,679225683,247725512,2458213969
-dimwishlist:item=409551876&perks=3250034553,679225683,247725512,2726471870
-dimwishlist:item=409551876&perks=3250034553,679225683,247725512,957782887
-dimwishlist:item=409551876&perks=3250034553,679225683,247725512,3592538738
+dimwishlist:item=409551876&perks=3250034553,679225683,3161816588,2458213969
+dimwishlist:item=409551876&perks=3250034553,679225683,3161816588,2726471870
+dimwishlist:item=409551876&perks=3250034553,679225683,3161816588,957782887
+dimwishlist:item=409551876&perks=3250034553,679225683,3161816588,3592538738
 dimwishlist:item=409551876&perks=1482024992,1561002382,2450788523,2458213969
 dimwishlist:item=409551876&perks=1482024992,1561002382,2450788523,2726471870
 dimwishlist:item=409551876&perks=1482024992,1561002382,2450788523,957782887
 dimwishlist:item=409551876&perks=1482024992,1561002382,2450788523,3592538738
-dimwishlist:item=409551876&perks=1482024992,1561002382,247725512,2458213969
-dimwishlist:item=409551876&perks=1482024992,1561002382,247725512,2726471870
-dimwishlist:item=409551876&perks=1482024992,1561002382,247725512,957782887
-dimwishlist:item=409551876&perks=1482024992,1561002382,247725512,3592538738
+dimwishlist:item=409551876&perks=1482024992,1561002382,3161816588,2458213969
+dimwishlist:item=409551876&perks=1482024992,1561002382,3161816588,2726471870
+dimwishlist:item=409551876&perks=1482024992,1561002382,3161816588,957782887
+dimwishlist:item=409551876&perks=1482024992,1561002382,3161816588,3592538738
 dimwishlist:item=409551876&perks=1482024992,679225683,2450788523,2458213969
 dimwishlist:item=409551876&perks=1482024992,679225683,2450788523,2726471870
 dimwishlist:item=409551876&perks=1482024992,679225683,2450788523,957782887
 dimwishlist:item=409551876&perks=1482024992,679225683,2450788523,3592538738
-dimwishlist:item=409551876&perks=1482024992,679225683,247725512,2458213969
-dimwishlist:item=409551876&perks=1482024992,679225683,247725512,2726471870
-dimwishlist:item=409551876&perks=1482024992,679225683,247725512,957782887
-dimwishlist:item=409551876&perks=1482024992,679225683,247725512,3592538738
+dimwishlist:item=409551876&perks=1482024992,679225683,3161816588,2458213969
+dimwishlist:item=409551876&perks=1482024992,679225683,3161816588,2726471870
+dimwishlist:item=409551876&perks=1482024992,679225683,3161816588,957782887
+dimwishlist:item=409551876&perks=1482024992,679225683,3161816588,3592538738
 dimwishlist:item=409551876&perks=3250034553,1561002382,2450788523,2458213969
 dimwishlist:item=409551876&perks=3250034553,1561002382,2450788523,2726471870
 dimwishlist:item=409551876&perks=3250034553,1561002382,2450788523,957782887
 dimwishlist:item=409551876&perks=3250034553,1561002382,2450788523,3592538738
-dimwishlist:item=409551876&perks=3250034553,1561002382,247725512,2458213969
-dimwishlist:item=409551876&perks=3250034553,1561002382,247725512,2726471870
-dimwishlist:item=409551876&perks=3250034553,1561002382,247725512,957782887
-dimwishlist:item=409551876&perks=3250034553,1561002382,247725512,3592538738
+dimwishlist:item=409551876&perks=3250034553,1561002382,3161816588,2458213969
+dimwishlist:item=409551876&perks=3250034553,1561002382,3161816588,2726471870
+dimwishlist:item=409551876&perks=3250034553,1561002382,3161816588,957782887
+dimwishlist:item=409551876&perks=3250034553,1561002382,3161816588,3592538738
 dimwishlist:item=409551876&perks=3250034553,679225683,2450788523,2458213969
 dimwishlist:item=409551876&perks=3250034553,679225683,2450788523,2726471870
 dimwishlist:item=409551876&perks=3250034553,679225683,2450788523,957782887
 dimwishlist:item=409551876&perks=3250034553,679225683,2450788523,3592538738
-dimwishlist:item=409551876&perks=3250034553,679225683,247725512,2458213969
-dimwishlist:item=409551876&perks=3250034553,679225683,247725512,2726471870
-dimwishlist:item=409551876&perks=3250034553,679225683,247725512,957782887
-dimwishlist:item=409551876&perks=3250034553,679225683,247725512,3592538738
+dimwishlist:item=409551876&perks=3250034553,679225683,3161816588,2458213969
+dimwishlist:item=409551876&perks=3250034553,679225683,3161816588,2726471870
+dimwishlist:item=409551876&perks=3250034553,679225683,3161816588,957782887
+dimwishlist:item=409551876&perks=3250034553,679225683,3161816588,3592538738
 dimwishlist:item=409551876&perks=1482024992,1561002382,2450788523,2458213969
 dimwishlist:item=409551876&perks=1482024992,1561002382,2450788523,2726471870
 dimwishlist:item=409551876&perks=1482024992,1561002382,2450788523,957782887
 dimwishlist:item=409551876&perks=1482024992,1561002382,2450788523,3592538738
-dimwishlist:item=409551876&perks=1482024992,1561002382,247725512,2458213969
-dimwishlist:item=409551876&perks=1482024992,1561002382,247725512,2726471870
-dimwishlist:item=409551876&perks=1482024992,1561002382,247725512,957782887
-dimwishlist:item=409551876&perks=1482024992,1561002382,247725512,3592538738
+dimwishlist:item=409551876&perks=1482024992,1561002382,3161816588,2458213969
+dimwishlist:item=409551876&perks=1482024992,1561002382,3161816588,2726471870
+dimwishlist:item=409551876&perks=1482024992,1561002382,3161816588,957782887
+dimwishlist:item=409551876&perks=1482024992,1561002382,3161816588,3592538738
 dimwishlist:item=409551876&perks=1482024992,679225683,2450788523,2458213969
 dimwishlist:item=409551876&perks=1482024992,679225683,2450788523,2726471870
 dimwishlist:item=409551876&perks=1482024992,679225683,2450788523,957782887
 dimwishlist:item=409551876&perks=1482024992,679225683,2450788523,3592538738
-dimwishlist:item=409551876&perks=1482024992,679225683,247725512,2458213969
-dimwishlist:item=409551876&perks=1482024992,679225683,247725512,2726471870
-dimwishlist:item=409551876&perks=1482024992,679225683,247725512,957782887
-dimwishlist:item=409551876&perks=1482024992,679225683,247725512,3592538738
+dimwishlist:item=409551876&perks=1482024992,679225683,3161816588,2458213969
+dimwishlist:item=409551876&perks=1482024992,679225683,3161816588,2726471870
+dimwishlist:item=409551876&perks=1482024992,679225683,3161816588,957782887
+dimwishlist:item=409551876&perks=1482024992,679225683,3161816588,3592538738
 dimwishlist:item=409551876&perks=4090651448,1561002382,2450788523,2458213969
 dimwishlist:item=409551876&perks=4090651448,1561002382,2450788523,2726471870
 dimwishlist:item=409551876&perks=4090651448,1561002382,2450788523,957782887
 dimwishlist:item=409551876&perks=4090651448,1561002382,2450788523,3592538738
-dimwishlist:item=409551876&perks=4090651448,1561002382,247725512,2458213969
-dimwishlist:item=409551876&perks=4090651448,1561002382,247725512,2726471870
-dimwishlist:item=409551876&perks=4090651448,1561002382,247725512,957782887
-dimwishlist:item=409551876&perks=4090651448,1561002382,247725512,3592538738
+dimwishlist:item=409551876&perks=4090651448,1561002382,3161816588,2458213969
+dimwishlist:item=409551876&perks=4090651448,1561002382,3161816588,2726471870
+dimwishlist:item=409551876&perks=4090651448,1561002382,3161816588,957782887
+dimwishlist:item=409551876&perks=4090651448,1561002382,3161816588,3592538738
 dimwishlist:item=409551876&perks=4090651448,679225683,2450788523,2458213969
 dimwishlist:item=409551876&perks=4090651448,679225683,2450788523,2726471870
 dimwishlist:item=409551876&perks=4090651448,679225683,2450788523,957782887
 dimwishlist:item=409551876&perks=4090651448,679225683,2450788523,3592538738
-dimwishlist:item=409551876&perks=4090651448,679225683,247725512,2458213969
-dimwishlist:item=409551876&perks=4090651448,679225683,247725512,2726471870
-dimwishlist:item=409551876&perks=4090651448,679225683,247725512,957782887
-dimwishlist:item=409551876&perks=4090651448,679225683,247725512,3592538738
+dimwishlist:item=409551876&perks=4090651448,679225683,3161816588,2458213969
+dimwishlist:item=409551876&perks=4090651448,679225683,3161816588,2726471870
+dimwishlist:item=409551876&perks=4090651448,679225683,3161816588,957782887
+dimwishlist:item=409551876&perks=4090651448,679225683,3161816588,3592538738
 dimwishlist:item=409551876&perks=4090651448,1561002382,2450788523,2458213969
 dimwishlist:item=409551876&perks=4090651448,1561002382,2450788523,2726471870
 dimwishlist:item=409551876&perks=4090651448,1561002382,2450788523,957782887
 dimwishlist:item=409551876&perks=4090651448,1561002382,2450788523,3592538738
-dimwishlist:item=409551876&perks=4090651448,1561002382,247725512,2458213969
-dimwishlist:item=409551876&perks=4090651448,1561002382,247725512,2726471870
-dimwishlist:item=409551876&perks=4090651448,1561002382,247725512,957782887
-dimwishlist:item=409551876&perks=4090651448,1561002382,247725512,3592538738
+dimwishlist:item=409551876&perks=4090651448,1561002382,3161816588,2458213969
+dimwishlist:item=409551876&perks=4090651448,1561002382,3161816588,2726471870
+dimwishlist:item=409551876&perks=4090651448,1561002382,3161816588,957782887
+dimwishlist:item=409551876&perks=4090651448,1561002382,3161816588,3592538738
 dimwishlist:item=409551876&perks=4090651448,679225683,2450788523,2458213969
 dimwishlist:item=409551876&perks=4090651448,679225683,2450788523,2726471870
 dimwishlist:item=409551876&perks=4090651448,679225683,2450788523,957782887
 dimwishlist:item=409551876&perks=4090651448,679225683,2450788523,3592538738
-dimwishlist:item=409551876&perks=4090651448,679225683,247725512,2458213969
-dimwishlist:item=409551876&perks=4090651448,679225683,247725512,2726471870
-dimwishlist:item=409551876&perks=4090651448,679225683,247725512,957782887
-dimwishlist:item=409551876&perks=4090651448,679225683,247725512,3592538738
+dimwishlist:item=409551876&perks=4090651448,679225683,3161816588,2458213969
+dimwishlist:item=409551876&perks=4090651448,679225683,3161816588,2726471870
+dimwishlist:item=409551876&perks=4090651448,679225683,3161816588,957782887
+dimwishlist:item=409551876&perks=4090651448,679225683,3161816588,3592538738
+
+//Stars In Shadow
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2050789284&perks=839105230,3177308360,1168162263,1015611457
+
+//Stars In Shadow
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2050789284&perks=3661387068,3177308360,1168162263,1015611457
+
+//Stars In Shadow
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2050789284&perks=1392496348,3177308360,1168162263,1015611457
+
+//Stars In Shadow
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2050789284&perks=3177308360,1168162263,1015611457
+
+//Stars In Shadow
+//notes: adam (PvE / regular, non-endgame content), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2050789284&perks=839105230,106909392,1168162263,1015611457
+dimwishlist:item=2050789284&perks=839105230,3230963543,1168162263,1015611457
+dimwishlist:item=2050789284&perks=106909392,1168162263,1015611457
+dimwishlist:item=2050789284&perks=3230963543,1168162263,1015611457
+
+//Stars In Shadow
+//notes: adam (PvE / regular, non-endgame content), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2050789284&perks=839105230,3177308360,1168162263,2726471870
+dimwishlist:item=2050789284&perks=3661387068,3177308360,1168162263,2726471870
+
+//Stars In Shadow
+//notes: adam (PvE / regular, non-endgame content), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2050789284&perks=1392496348,3177308360,1168162263,2726471870
+
+//Stars In Shadow
+//notes: adam (PvE / high PL content, GMs / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2050789284&perks=839105230,1168162263,1015611457
 
 //Stars In Shadow
 //notes: adam (PvE / regular, non-endgame content / optimal): Lots of good options here. Dragonfly on a solar weapon is always extra useful due to the warmind cell generating potential when paired with Wrath of Rasputin.|tags:PvE
@@ -1992,12 +2182,26 @@ dimwishlist:item=3473290087&perks=2284787283,2213355989
 //Frozen Orbit
 //notes: adam (PvP / general use / optimal): Probably the best PvP sniper at the moment. It's an Aggressive Frame with Snapshot (the most essential sniper perk after the Quickdraw nerf), giving you instant body shot kills with any damage buff depending on the opponent's resilience. Without a buff, body shots will still do enough damage to allow instant cleanups with your primary.|tags:PvP
 dimwishlist:item=3473290087&perks=1840239774,3142289711,588594999,957782887
+dimwishlist:item=3473290087&perks=1840239774,3142289711,2866798147,957782887
+dimwishlist:item=3473290087&perks=1840239774,3142289711,2450788523,957782887
 dimwishlist:item=3473290087&perks=839105230,3142289711,588594999,957782887
+dimwishlist:item=3473290087&perks=839105230,3142289711,2866798147,957782887
+dimwishlist:item=3473290087&perks=839105230,3142289711,2450788523,957782887
 dimwishlist:item=3473290087&perks=4090651448,3142289711,588594999,957782887
+dimwishlist:item=3473290087&perks=4090651448,3142289711,2866798147,957782887
+dimwishlist:item=3473290087&perks=4090651448,3142289711,2450788523,957782887
 dimwishlist:item=3473290087&perks=3142289711,588594999,957782887
+dimwishlist:item=3473290087&perks=3142289711,2866798147,957782887
+dimwishlist:item=3473290087&perks=3142289711,2450788523,957782887
 dimwishlist:item=3473290087&perks=1840239774,588594999,957782887
+dimwishlist:item=3473290087&perks=1840239774,2866798147,957782887
+dimwishlist:item=3473290087&perks=1840239774,2450788523,957782887
 dimwishlist:item=3473290087&perks=839105230,588594999,957782887
+dimwishlist:item=3473290087&perks=839105230,2866798147,957782887
+dimwishlist:item=3473290087&perks=839105230,2450788523,957782887
 dimwishlist:item=3473290087&perks=4090651448,588594999,957782887
+dimwishlist:item=3473290087&perks=4090651448,2866798147,957782887
+dimwishlist:item=3473290087&perks=4090651448,2450788523,957782887
 dimwishlist:item=3473290087&perks=1840239774,3142289711,957782887
 dimwishlist:item=3473290087&perks=839105230,3142289711,957782887
 dimwishlist:item=3473290087&perks=4090651448,3142289711,957782887
@@ -2006,6 +2210,8 @@ dimwishlist:item=3473290087&perks=839105230,957782887
 dimwishlist:item=3473290087&perks=4090651448,957782887
 dimwishlist:item=3473290087&perks=3142289711,957782887
 dimwishlist:item=3473290087&perks=588594999,957782887
+dimwishlist:item=3473290087&perks=2866798147,957782887
+dimwishlist:item=3473290087&perks=2450788523,957782887
 dimwishlist:item=3473290087&perks=957782887
 
 //Frozen Orbit
@@ -2058,6 +2264,50 @@ dimwishlist:item=3473290087&perks=2450788523,1015611457
 dimwishlist:item=3473290087&perks=588594999,1015611457
 dimwishlist:item=3473290087&perks=2284787283,1015611457
 dimwishlist:item=3473290087&perks=1015611457
+
+//Bottom Dollar
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=1046651176&perks=1482024992,106909392,247725512,2458213969
+dimwishlist:item=1046651176&perks=1482024992,106909392,247725512,3425386926
+dimwishlist:item=1046651176&perks=1482024992,3230963543,247725512,2458213969
+dimwishlist:item=1046651176&perks=1482024992,3230963543,247725512,3425386926
+dimwishlist:item=1046651176&perks=1482024992,3177308360,247725512,2458213969
+dimwishlist:item=1046651176&perks=1392496348,106909392,247725512,2458213969
+dimwishlist:item=1046651176&perks=1392496348,106909392,247725512,3425386926
+dimwishlist:item=1046651176&perks=1392496348,3230963543,247725512,2458213969
+dimwishlist:item=1046651176&perks=1392496348,3230963543,247725512,3425386926
+dimwishlist:item=1046651176&perks=1392496348,3177308360,247725512,2458213969
+dimwishlist:item=1046651176&perks=1392496348,3177308360,247725512,3425386926
+dimwishlist:item=1046651176&perks=1482024992,247725512,2458213969
+dimwishlist:item=1046651176&perks=1392496348,247725512,2458213969
+dimwishlist:item=1046651176&perks=1392496348,247725512,3425386926
+dimwishlist:item=1046651176&perks=106909392,247725512,2458213969
+dimwishlist:item=1046651176&perks=106909392,247725512,3425386926
+dimwishlist:item=1046651176&perks=3230963543,247725512,2458213969
+dimwishlist:item=1046651176&perks=3230963543,247725512,3425386926
+dimwishlist:item=1046651176&perks=3177308360,247725512,2458213969
+dimwishlist:item=1046651176&perks=247725512,2458213969
+
+//Bottom Dollar
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=1046651176&perks=1482024992,3177308360,247725512,3425386926
+dimwishlist:item=1046651176&perks=1482024992,247725512,3425386926
+dimwishlist:item=1046651176&perks=3177308360,247725512,3425386926
+dimwishlist:item=1046651176&perks=247725512,3425386926
+
+//Bottom Dollar
+//notes: adam (PvE / high PL content, GMs / optimal), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=1046651176&perks=1482024992,3177308360,247725512,3038247973
+dimwishlist:item=1046651176&perks=4090651448,3177308360,247725512,3038247973
+dimwishlist:item=1046651176&perks=1482024992,247725512,3038247973
+dimwishlist:item=1046651176&perks=4090651448,247725512,3038247973
+dimwishlist:item=1046651176&perks=3177308360,247725512,3038247973
+dimwishlist:item=1046651176&perks=247725512,3038247973
+
+//Bottom Dollar
+//notes: adam (PvE / high PL content, GMs), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=1046651176&perks=4090651448,3177308360,247725512,3425386926
+dimwishlist:item=1046651176&perks=4090651448,247725512,3425386926
 
 //Bottom Dollar
 //notes: adam (PvE / regular, non-endgame content / optimal): The base reload speed on 120s is so slow that even with good reload perks like Outlaw and Rapid Hit, it's probably worth stacking some reload stat buffs for safety. Besides that, you want to focus on stability, as these things kick like a mule.|tags:PvE
@@ -2751,8 +3001,7 @@ dimwishlist:item=3565520715&perks=2822142346,972757866,3523296417
 dimwishlist:item=3565520715&perks=2822142346,2284787283,3523296417
 
 //Crowd Pleaser
-//notes: adam (PvE / boss DPS / optimal): The damage increase from Spike Grenades increases as your blast radius decreases. Because of this, your DPS will take a hit with any Slot 1 perk that increases blast radius, or with a blast radius MW.  Field Prep gives you the best traditional reload speed but Pulse Monitor can max DPS: if you fire the last shot in the mag at your feet while standing in a Well, you get an instant reload.
-Slot 4 has the least impact here but Demolitionist can get you a free reload (or multiple if you use Starfire Protocol) during a damage phase, slightly increasing your overall DPS.|tags:PvE
+//notes: adam (PvE / boss DPS / optimal): The damage increase from Spike Grenades increases as your blast radius decreases. Because of this, your DPS will take a hit with any Slot 1 perk that increases blast radius, or with a blast radius MW.  Field Prep gives you the best traditional reload speed but Pulse Monitor can max DPS: if you fire the last shot in the mag at your feet while standing in a Well, you get an instant reload. Slot 4 has the least impact here but Demolitionist can get you a free reload (or multiple if you use Starfire Protocol) during a damage phase, slightly increasing your overall DPS.|tags:PvE
 dimwishlist:item=3565520715&perks=981914802,3301904089,2869569095,3523296417
 dimwishlist:item=3565520715&perks=981914802,3301904089,972757866,3523296417
 dimwishlist:item=3565520715&perks=981914802,3301904089,2869569095
@@ -2763,8 +3012,7 @@ dimwishlist:item=3565520715&perks=3301904089,2869569095
 dimwishlist:item=3565520715&perks=3301904089,972757866
 
 //Crowd Pleaser
-//notes: adam (PvE / boss DPS): The damage increase from Spike Grenades increases as your blast radius decreases. Because of this, your DPS will take a hit with any Slot 1 perk that increases blast radius, or with a blast radius MW.  Field Prep gives you the best traditional reload speed but Pulse Monitor can max DPS: if you fire the last shot in the mag at your feet while standing in a Well, you get an instant reload.
-Slot 4 has the least impact here but Demolitionist can get you a free reload (or multiple if you use Starfire Protocol) during a damage phase, slightly increasing your overall DPS.|tags:PvE
+//notes: adam (PvE / boss DPS): The damage increase from Spike Grenades increases as your blast radius decreases. Because of this, your DPS will take a hit with any Slot 1 perk that increases blast radius, or with a blast radius MW.  Field Prep gives you the best traditional reload speed but Pulse Monitor can max DPS: if you fire the last shot in the mag at your feet while standing in a Well, you get an instant reload. Slot 4 has the least impact here but Demolitionist can get you a free reload (or multiple if you use Starfire Protocol) during a damage phase, slightly increasing your overall DPS.|tags:PvE
 dimwishlist:item=3565520715&perks=981914802,3301904089,2284787283,3523296417
 dimwishlist:item=3565520715&perks=981914802,3301904089,2284787283
 dimwishlist:item=3565520715&perks=3301904089,2284787283,3523296417
@@ -2808,21 +3056,37 @@ dimwishlist:item=3565520715&perks=409831596
 //Multimach CCX
 //notes: adam (PvE / optimal)|tags:PvE
 dimwishlist:item=3717177717&perks=663495154,106909392,4071163871,4049631843
+dimwishlist:item=3717177717&perks=663495154,106909392,1820235745,4049631843
 dimwishlist:item=3717177717&perks=663495154,3230963543,4071163871,4049631843
+dimwishlist:item=3717177717&perks=663495154,3230963543,1820235745,4049631843
 dimwishlist:item=3717177717&perks=663495154,3177308360,4071163871,4049631843
+dimwishlist:item=3717177717&perks=663495154,3177308360,1820235745,4049631843
 dimwishlist:item=3717177717&perks=663495155,106909392,4071163871,4049631843
+dimwishlist:item=3717177717&perks=663495155,106909392,1820235745,4049631843
 dimwishlist:item=3717177717&perks=663495155,3230963543,4071163871,4049631843
+dimwishlist:item=3717177717&perks=663495155,3230963543,1820235745,4049631843
 dimwishlist:item=3717177717&perks=663495155,3177308360,4071163871,4049631843
+dimwishlist:item=3717177717&perks=663495155,3177308360,1820235745,4049631843
 dimwishlist:item=3717177717&perks=2209280307,106909392,4071163871,4049631843
+dimwishlist:item=3717177717&perks=2209280307,106909392,1820235745,4049631843
 dimwishlist:item=3717177717&perks=2209280307,3230963543,4071163871,4049631843
+dimwishlist:item=3717177717&perks=2209280307,3230963543,1820235745,4049631843
 dimwishlist:item=3717177717&perks=2209280307,3177308360,4071163871,4049631843
+dimwishlist:item=3717177717&perks=2209280307,3177308360,1820235745,4049631843
 dimwishlist:item=3717177717&perks=663495154,4071163871,4049631843
+dimwishlist:item=3717177717&perks=663495154,1820235745,4049631843
 dimwishlist:item=3717177717&perks=663495155,4071163871,4049631843
+dimwishlist:item=3717177717&perks=663495155,1820235745,4049631843
 dimwishlist:item=3717177717&perks=2209280307,4071163871,4049631843
+dimwishlist:item=3717177717&perks=2209280307,1820235745,4049631843
 dimwishlist:item=3717177717&perks=106909392,4071163871,4049631843
+dimwishlist:item=3717177717&perks=106909392,1820235745,4049631843
 dimwishlist:item=3717177717&perks=3230963543,4071163871,4049631843
+dimwishlist:item=3717177717&perks=3230963543,1820235745,4049631843
 dimwishlist:item=3717177717&perks=3177308360,4071163871,4049631843
+dimwishlist:item=3717177717&perks=3177308360,1820235745,4049631843
 dimwishlist:item=3717177717&perks=4071163871,4049631843
+dimwishlist:item=3717177717&perks=1820235745,4049631843
 
 //Multimach CCX
 //notes: adam (PvP / optimal): Difficult to pin down an obvious god roll with this one (inspect your roll, even if it's wishlisted!). Its perk pool allows you to create combinations that result in either the highest range or the highest stability SMG in the game. This archetype really needs you to hit your crits (as it sports the fastest optimal TTK but the slowest body shot TTK among SMGs) which means you should only go for the range stacking if you're fully confident in your ability to control against recoil. You could try stacking enough range stat boosts to counteract the penalty from Iron Gaze, which would yield an average range gun with really high aim assist. At the end of the day, the most reliable option for quickplay might just be Kill Clip with a balanced stat distribution (and an SMG in 3v3 doesn't feel viable).|tags:PvP
@@ -3373,6 +3637,39 @@ dimwishlist:item=65611680&perks=1866048759,4152709778
 dimwishlist:item=65611680&perks=1866048759,11551321
 
 //Trustee
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=1392919471&perks=839105230,106909392,1168162263,3592538738
+dimwishlist:item=1392919471&perks=839105230,1087426260,1168162263,3592538738
+dimwishlist:item=1392919471&perks=839105230,106909392,1168162263
+dimwishlist:item=1392919471&perks=839105230,1087426260,1168162263
+dimwishlist:item=1392919471&perks=839105230,1168162263,3592538738
+dimwishlist:item=1392919471&perks=839105230,1168162263
+
+//Trustee
+//notes: adam (PvE / regular, non-endgame content), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=1392919471&perks=839105230,106909392,1523832109,3592538738
+dimwishlist:item=1392919471&perks=839105230,1087426260,1523832109,3592538738
+dimwishlist:item=1392919471&perks=839105230,106909392,1523832109
+dimwishlist:item=1392919471&perks=839105230,1087426260,1523832109
+dimwishlist:item=1392919471&perks=839105230,1523832109,3592538738
+dimwishlist:item=1392919471&perks=839105230,1523832109
+
+//Trustee
+//notes: adam (PvE / regular, non-endgame content), (PvE / high PL content, GMs) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=1392919471&perks=3661387068,106909392,1168162263,3592538738
+dimwishlist:item=1392919471&perks=3661387068,106909392,1523832109,3592538738
+dimwishlist:item=1392919471&perks=3661387068,1087426260,1168162263,3592538738
+dimwishlist:item=1392919471&perks=3661387068,1087426260,1523832109,3592538738
+dimwishlist:item=1392919471&perks=3661387068,106909392,1168162263
+dimwishlist:item=1392919471&perks=3661387068,106909392,1523832109
+dimwishlist:item=1392919471&perks=3661387068,1087426260,1168162263
+dimwishlist:item=1392919471&perks=3661387068,1087426260,1523832109
+dimwishlist:item=1392919471&perks=3661387068,1168162263,3592538738
+dimwishlist:item=1392919471&perks=3661387068,1523832109,3592538738
+dimwishlist:item=1392919471&perks=3661387068,1168162263
+dimwishlist:item=1392919471&perks=3661387068,1523832109
+
+//Trustee
 //notes: adam (PvE / regular, non-endgame content / optimal): I am leaning towards Outlaw on a general PvE roll, since you might not have enough downtime on your primary to give enough time for Reconstruction to do its job. That being said, the right mag perks can give you a good enough reload speed that you can get by without Outlaw, and take advantage of that double mag. Don't be fooled by the rarity and novelty on Redirection, it's a weak buff and I'd always pick Wellspring over it. Lastly, avoid the Reconstruction + High-Impact Reserves combo, as the latter only procs on the second half of your *base* mag, and the auto-refill from Reconstruction means you might never get it to proc. Try to get Arrowhead Brake to stabilize the pretty bad recoil deviation on this weapon.|tags:PvE
 dimwishlist:item=1392919471&perks=839105230,106909392,1168162263,3592538738
 dimwishlist:item=1392919471&perks=839105230,3177308360,1168162263,3592538738
@@ -3708,10 +4005,13 @@ dimwishlist:item=2990047042&perks=3142289711,588594999,957782887
 //Succession
 //notes: adam (PvP): The best kinetic legendary sniper for PvP at the moment. As an aggressive frame, it will body shot below 5 resilience with any 20% damage buff (empowering rift, high-energy fire, hedrons).|tags:PvP
 dimwishlist:item=2990047042&perks=839105230,3142289711,588594999,957782887
+dimwishlist:item=2990047042&perks=839105230,3142289711,2866798147,957782887
 dimwishlist:item=2990047042&perks=839105230,3142289711,2039302152,957782887
 dimwishlist:item=2990047042&perks=1840239774,3142289711,588594999,957782887
+dimwishlist:item=2990047042&perks=1840239774,3142289711,2866798147,957782887
 dimwishlist:item=2990047042&perks=1840239774,3142289711,2039302152,957782887
 dimwishlist:item=2990047042&perks=3142289711,588594999,957782887
+dimwishlist:item=2990047042&perks=3142289711,2866798147,957782887
 dimwishlist:item=2990047042&perks=3142289711,2039302152,957782887
 
 //Heritage
@@ -3740,12 +4040,12 @@ dimwishlist:item=4248569242&perks=791862061,3300816228
 
 //Heritage
 //notes: adam (PvP / optimal): Blasphemer is probably a better overall option for kinetic slugs, but this is a solid roll if you don't have one of those.|tags:PvP
-dimwishlist:item=4248569242&perks=1840239774,3142289711,3161816588,957782887
-dimwishlist:item=4248569242&perks=1840239774,3142289711,3161816588,588594999
-dimwishlist:item=4248569242&perks=839105230,3142289711,3161816588,957782887
-dimwishlist:item=4248569242&perks=839105230,3142289711,3161816588,588594999
-dimwishlist:item=4248569242&perks=3142289711,3161816588,957782887
-dimwishlist:item=4248569242&perks=3142289711,3161816588,588594999
+dimwishlist:item=4248569242&perks=1840239774,3142289711,1866048759,957782887
+dimwishlist:item=4248569242&perks=1840239774,3142289711,1866048759,588594999
+dimwishlist:item=4248569242&perks=839105230,3142289711,1866048759,957782887
+dimwishlist:item=4248569242&perks=839105230,3142289711,1866048759,588594999
+dimwishlist:item=4248569242&perks=3142289711,1866048759,957782887
+dimwishlist:item=4248569242&perks=3142289711,1866048759,588594999
 
 //Heritage
 //notes: adam (PvP): Blasphemer is probably a better overall option for kinetic slugs, but this is a solid roll if you don't have one of those.|tags:PvP
@@ -3802,6 +4102,10 @@ dimwishlist:item=4230965989&perks=2420895100,1359896290,1645158859
 dimwishlist:item=4230965989&perks=1359896290,1645158859
 
 //Bequest
+//notes: adam (PvE / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=3366545721&perks=2726471870
+
+//Bequest
 //notes: adam (PvE / optimal): There are better swords for DPS but this is the only one that can roll Thresh, which should be an extremely valuable perk on a weapon type that can rack up kills as fast as swords can. Surrounded is the best damage boost you can get in Slot 4, and Swordmaster's Guard is the best PvE option for every sword as it lets your heavy attack recharge faster.|tags:PvE
 dimwishlist:item=3366545721&perks=2827049491,269888150,2726471870,3708227201
 dimwishlist:item=3366545721&perks=3666208348,269888150,2726471870,3708227201
@@ -3826,3 +4130,1058 @@ dimwishlist:item=3366545721&perks=1261178282,2726471870
 dimwishlist:item=3366545721&perks=3625355092,2726471870
 dimwishlist:item=3366545721&perks=2726471870,354401740
 dimwishlist:item=3366545721&perks=2726471870
+
+//Accrued Redemption
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,247725512
+dimwishlist:item=4095896073&perks=2801223209,3311977193,201365942,247725512
+dimwishlist:item=4095896073&perks=2801223209,3827198035,247725512
+dimwishlist:item=4095896073&perks=2801223209,3311977193,247725512
+dimwishlist:item=4095896073&perks=2801223209,201365942,247725512
+dimwishlist:item=4095896073&perks=2801223209,247725512
+
+//Accrued Redemption
+//notes: adam (PvE / regular, non-endgame content / optimal)|tags:PvE
+dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3425386926
+dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,247725512
+dimwishlist:item=4095896073&perks=2801223209,3311977193,201365942,3425386926
+dimwishlist:item=4095896073&perks=2801223209,3311977193,201365942,247725512
+dimwishlist:item=4095896073&perks=2801223209,3827198035,3425386926
+dimwishlist:item=4095896073&perks=2801223209,3827198035,247725512
+dimwishlist:item=4095896073&perks=2801223209,3311977193,3425386926
+dimwishlist:item=4095896073&perks=2801223209,3311977193,247725512
+dimwishlist:item=4095896073&perks=2801223209,201365942,3425386926
+dimwishlist:item=4095896073&perks=2801223209,201365942,247725512
+dimwishlist:item=4095896073&perks=2801223209,3425386926
+dimwishlist:item=4095896073&perks=2801223209,247725512
+
+//Accrued Redemption
+//notes: adam (PvE / high PL content, GMs / optimal)|tags:PvE
+dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3365897133
+dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,247725512
+dimwishlist:item=4095896073&perks=2801223209,3311977193,201365942,3365897133
+dimwishlist:item=4095896073&perks=2801223209,3311977193,201365942,247725512
+dimwishlist:item=4095896073&perks=2801223209,3827198035,3365897133
+dimwishlist:item=4095896073&perks=2801223209,3827198035,247725512
+dimwishlist:item=4095896073&perks=2801223209,3311977193,3365897133
+dimwishlist:item=4095896073&perks=2801223209,3311977193,247725512
+dimwishlist:item=4095896073&perks=2801223209,201365942,3365897133
+dimwishlist:item=4095896073&perks=2801223209,201365942,247725512
+dimwishlist:item=4095896073&perks=2801223209,3365897133
+dimwishlist:item=4095896073&perks=2801223209,247725512
+
+//Accrued Redemption
+//notes: adam (PvP / optimal)|tags:PvP
+dimwishlist:item=4095896073&perks=2801223209,3827198035,2866798147,588594999
+dimwishlist:item=4095896073&perks=2801223209,3827198035,2846385770,588594999
+dimwishlist:item=4095896073&perks=2801223209,3827198035,588594999
+dimwishlist:item=4095896073&perks=2801223209,3311977193,2866798147,588594999
+dimwishlist:item=4095896073&perks=2801223209,3311977193,2846385770,588594999
+dimwishlist:item=4095896073&perks=2801223209,3311977193,588594999
+
+//Sacred Provenance
+//notes: adam (PvE / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,1015611457
+dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,1015611457
+dimwishlist:item=2408405461&perks=3661387068,1885400500,247725512,1015611457
+dimwishlist:item=2408405461&perks=3661387068,1561002382,247725512,1015611457
+dimwishlist:item=2408405461&perks=1885400500,247725512,1015611457
+dimwishlist:item=2408405461&perks=1561002382,247725512,1015611457
+
+//Sacred Provenance
+//notes: adam (PvE / optimal): One of the best (if not THE best) feeling PvE pulses in the entire game, hell, one of the best feeling PvE primaries of any kind. Make sure you give it a try, especially if you were a fan of Blast Furnace back in the day.  Be sure to put a Counterbalance Mod on it if you don't have Arrowhead Brake in Slot 1, as it has a strong sideways recoil by default. Arrowhead Brake maxes the recoil stat, use a different mod if you have that roll.|tags:PvE
+dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,1015611457
+dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,1015611457
+dimwishlist:item=2408405461&perks=3661387068,1885400500,247725512,1015611457
+dimwishlist:item=2408405461&perks=3661387068,1561002382,247725512,1015611457
+dimwishlist:item=2408405461&perks=839105230,247725512,1015611457
+dimwishlist:item=2408405461&perks=3661387068,247725512,1015611457
+dimwishlist:item=2408405461&perks=1885400500,247725512,1015611457
+dimwishlist:item=2408405461&perks=1561002382,247725512,1015611457
+dimwishlist:item=2408405461&perks=247725512,1015611457
+
+//Sacred Provenance
+//notes: adam (PvP / optimal)|tags:PvP
+dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,1015611457
+dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,1015611457
+dimwishlist:item=2408405461&perks=3661387068,1885400500,247725512,1015611457
+dimwishlist:item=2408405461&perks=3661387068,1561002382,247725512,1015611457
+dimwishlist:item=2408405461&perks=1885400500,247725512,1015611457
+dimwishlist:item=2408405461&perks=1561002382,247725512,1015611457
+
+//Reckless Oracle
+//notes: adam (PvE / regular, non-endgame content / optimal)|tags:PvE
+dimwishlist:item=3385326721&perks=839105230,1885400500,1168162263,4082225868
+dimwishlist:item=3385326721&perks=839105230,1885400500,1168162263,3523296417
+dimwishlist:item=3385326721&perks=839105230,1561002382,1168162263,4082225868
+dimwishlist:item=3385326721&perks=839105230,1561002382,1168162263,3523296417
+dimwishlist:item=3385326721&perks=839105230,1168162263,4082225868
+dimwishlist:item=3385326721&perks=839105230,1168162263,3523296417
+
+//Reckless Oracle
+//notes: adam (PvE / regular, non-endgame content)|tags:PvE
+dimwishlist:item=3385326721&perks=1467527085,1885400500,1168162263,4082225868
+dimwishlist:item=3385326721&perks=1467527085,1885400500,1168162263,3523296417
+dimwishlist:item=3385326721&perks=1467527085,1561002382,1168162263,4082225868
+dimwishlist:item=3385326721&perks=1467527085,1561002382,1168162263,3523296417
+dimwishlist:item=3385326721&perks=1467527085,1168162263,4082225868
+dimwishlist:item=3385326721&perks=1467527085,1168162263,3523296417
+
+//Reckless Oracle
+//notes: adam (PvP / optimal)|tags:PvP
+dimwishlist:item=3385326721&perks=839105230,1885400500,1168162263,1015611457
+dimwishlist:item=3385326721&perks=839105230,1885400500,3337692349,1015611457
+dimwishlist:item=3385326721&perks=1467527085,1885400500,1168162263,1015611457
+dimwishlist:item=3385326721&perks=1467527085,1885400500,3337692349,1015611457
+dimwishlist:item=3385326721&perks=3661387068,1885400500,1168162263,1015611457
+dimwishlist:item=3385326721&perks=3661387068,1885400500,3337692349,1015611457
+dimwishlist:item=3385326721&perks=839105230,1885400500,1015611457
+dimwishlist:item=3385326721&perks=1467527085,1885400500,1015611457
+dimwishlist:item=3385326721&perks=3661387068,1885400500,1015611457
+dimwishlist:item=3385326721&perks=839105230,1561002382,1168162263,1015611457
+dimwishlist:item=3385326721&perks=839105230,1561002382,3337692349,1015611457
+dimwishlist:item=3385326721&perks=1467527085,1561002382,1168162263,1015611457
+dimwishlist:item=3385326721&perks=1467527085,1561002382,3337692349,1015611457
+dimwishlist:item=3385326721&perks=3661387068,1561002382,1168162263,1015611457
+dimwishlist:item=3385326721&perks=3661387068,1561002382,3337692349,1015611457
+dimwishlist:item=3385326721&perks=839105230,1561002382,1015611457
+dimwishlist:item=3385326721&perks=1467527085,1561002382,1015611457
+dimwishlist:item=3385326721&perks=3661387068,1561002382,1015611457
+
+//Ancient Gospel
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=48643186&perks=3250034553,106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=3250034553,2420895100,247725512,2848615171
+dimwishlist:item=48643186&perks=3250034553,3142289711,247725512,2848615171
+dimwishlist:item=48643186&perks=1482024992,106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=1482024992,2420895100,247725512,2848615171
+dimwishlist:item=48643186&perks=1482024992,3142289711,247725512,2848615171
+dimwishlist:item=48643186&perks=3661387068,106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=3661387068,2420895100,247725512,2848615171
+dimwishlist:item=48643186&perks=3661387068,3142289711,247725512,2848615171
+dimwishlist:item=48643186&perks=202670084,106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=202670084,2420895100,247725512,2848615171
+dimwishlist:item=48643186&perks=202670084,3142289711,247725512,2848615171
+dimwishlist:item=48643186&perks=3250034553,247725512,2848615171
+dimwishlist:item=48643186&perks=1482024992,247725512,2848615171
+dimwishlist:item=48643186&perks=3661387068,247725512,2848615171
+dimwishlist:item=48643186&perks=202670084,247725512,2848615171
+dimwishlist:item=48643186&perks=106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=2420895100,247725512,2848615171
+dimwishlist:item=48643186&perks=3142289711,247725512,2848615171
+dimwishlist:item=48643186&perks=247725512,2848615171
+
+//Ancient Gospel
+//notes: adam (PvE / regular, non-endgame content), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=48643186&perks=3250034553,106909392,1168162263,2848615171
+dimwishlist:item=48643186&perks=3250034553,2420895100,1168162263,2848615171
+dimwishlist:item=48643186&perks=3250034553,3142289711,1168162263,2848615171
+dimwishlist:item=48643186&perks=1482024992,106909392,1168162263,2848615171
+dimwishlist:item=48643186&perks=1482024992,2420895100,1168162263,2848615171
+dimwishlist:item=48643186&perks=1482024992,3142289711,1168162263,2848615171
+dimwishlist:item=48643186&perks=3661387068,106909392,1168162263,2848615171
+dimwishlist:item=48643186&perks=3661387068,2420895100,1168162263,2848615171
+dimwishlist:item=48643186&perks=3661387068,3142289711,1168162263,2848615171
+dimwishlist:item=48643186&perks=202670084,106909392,1168162263,2848615171
+dimwishlist:item=48643186&perks=202670084,2420895100,1168162263,2848615171
+dimwishlist:item=48643186&perks=202670084,3142289711,1168162263,2848615171
+dimwishlist:item=48643186&perks=3250034553,1168162263,2848615171
+dimwishlist:item=48643186&perks=1482024992,1168162263,2848615171
+dimwishlist:item=48643186&perks=3661387068,1168162263,2848615171
+dimwishlist:item=48643186&perks=202670084,1168162263,2848615171
+dimwishlist:item=48643186&perks=106909392,1168162263,2848615171
+dimwishlist:item=48643186&perks=2420895100,1168162263,2848615171
+dimwishlist:item=48643186&perks=3142289711,1168162263,2848615171
+dimwishlist:item=48643186&perks=1168162263,2848615171
+
+//Ancient Gospel
+//notes: adam (PvE / regular, non-endgame content / optimal)|tags:PvE
+dimwishlist:item=48643186&perks=3250034553,106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=3250034553,2420895100,247725512,2848615171
+dimwishlist:item=48643186&perks=3250034553,3142289711,247725512,2848615171
+dimwishlist:item=48643186&perks=1482024992,106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=1482024992,2420895100,247725512,2848615171
+dimwishlist:item=48643186&perks=1482024992,3142289711,247725512,2848615171
+dimwishlist:item=48643186&perks=3661387068,106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=3661387068,2420895100,247725512,2848615171
+dimwishlist:item=48643186&perks=3661387068,3142289711,247725512,2848615171
+dimwishlist:item=48643186&perks=202670084,106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=202670084,2420895100,247725512,2848615171
+dimwishlist:item=48643186&perks=202670084,3142289711,247725512,2848615171
+dimwishlist:item=48643186&perks=3250034553,247725512,2848615171
+dimwishlist:item=48643186&perks=1482024992,247725512,2848615171
+dimwishlist:item=48643186&perks=3661387068,247725512,2848615171
+dimwishlist:item=48643186&perks=202670084,247725512,2848615171
+dimwishlist:item=48643186&perks=106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=2420895100,247725512,2848615171
+dimwishlist:item=48643186&perks=3142289711,247725512,2848615171
+dimwishlist:item=48643186&perks=247725512,2848615171
+
+//Ancient Gospel
+//notes: adam (PvE / regular, non-endgame content)|tags:PvE
+dimwishlist:item=48643186&perks=3250034553,106909392,1168162263,2848615171
+dimwishlist:item=48643186&perks=3250034553,106909392,1168162263,4082225868
+dimwishlist:item=48643186&perks=3250034553,106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=3250034553,106909392,247725512,4082225868
+dimwishlist:item=48643186&perks=3250034553,2420895100,1168162263,2848615171
+dimwishlist:item=48643186&perks=3250034553,2420895100,1168162263,4082225868
+dimwishlist:item=48643186&perks=3250034553,2420895100,247725512,2848615171
+dimwishlist:item=48643186&perks=3250034553,2420895100,247725512,4082225868
+dimwishlist:item=48643186&perks=3250034553,3142289711,1168162263,2848615171
+dimwishlist:item=48643186&perks=3250034553,3142289711,1168162263,4082225868
+dimwishlist:item=48643186&perks=3250034553,3142289711,247725512,2848615171
+dimwishlist:item=48643186&perks=3250034553,3142289711,247725512,4082225868
+dimwishlist:item=48643186&perks=1482024992,106909392,1168162263,2848615171
+dimwishlist:item=48643186&perks=1482024992,106909392,1168162263,4082225868
+dimwishlist:item=48643186&perks=1482024992,106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=1482024992,106909392,247725512,4082225868
+dimwishlist:item=48643186&perks=1482024992,2420895100,1168162263,2848615171
+dimwishlist:item=48643186&perks=1482024992,2420895100,1168162263,4082225868
+dimwishlist:item=48643186&perks=1482024992,2420895100,247725512,2848615171
+dimwishlist:item=48643186&perks=1482024992,2420895100,247725512,4082225868
+dimwishlist:item=48643186&perks=1482024992,3142289711,1168162263,2848615171
+dimwishlist:item=48643186&perks=1482024992,3142289711,1168162263,4082225868
+dimwishlist:item=48643186&perks=1482024992,3142289711,247725512,2848615171
+dimwishlist:item=48643186&perks=1482024992,3142289711,247725512,4082225868
+dimwishlist:item=48643186&perks=3661387068,106909392,1168162263,2848615171
+dimwishlist:item=48643186&perks=3661387068,106909392,1168162263,4082225868
+dimwishlist:item=48643186&perks=3661387068,106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=3661387068,106909392,247725512,4082225868
+dimwishlist:item=48643186&perks=3661387068,2420895100,1168162263,2848615171
+dimwishlist:item=48643186&perks=3661387068,2420895100,1168162263,4082225868
+dimwishlist:item=48643186&perks=3661387068,2420895100,247725512,2848615171
+dimwishlist:item=48643186&perks=3661387068,2420895100,247725512,4082225868
+dimwishlist:item=48643186&perks=3661387068,3142289711,1168162263,2848615171
+dimwishlist:item=48643186&perks=3661387068,3142289711,1168162263,4082225868
+dimwishlist:item=48643186&perks=3661387068,3142289711,247725512,2848615171
+dimwishlist:item=48643186&perks=3661387068,3142289711,247725512,4082225868
+dimwishlist:item=48643186&perks=202670084,106909392,1168162263,2848615171
+dimwishlist:item=48643186&perks=202670084,106909392,1168162263,4082225868
+dimwishlist:item=48643186&perks=202670084,106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=202670084,106909392,247725512,4082225868
+dimwishlist:item=48643186&perks=202670084,2420895100,1168162263,2848615171
+dimwishlist:item=48643186&perks=202670084,2420895100,1168162263,4082225868
+dimwishlist:item=48643186&perks=202670084,2420895100,247725512,2848615171
+dimwishlist:item=48643186&perks=202670084,2420895100,247725512,4082225868
+dimwishlist:item=48643186&perks=202670084,3142289711,1168162263,2848615171
+dimwishlist:item=48643186&perks=202670084,3142289711,1168162263,4082225868
+dimwishlist:item=48643186&perks=202670084,3142289711,247725512,2848615171
+dimwishlist:item=48643186&perks=202670084,3142289711,247725512,4082225868
+dimwishlist:item=48643186&perks=3250034553,1168162263,2848615171
+dimwishlist:item=48643186&perks=3250034553,1168162263,4082225868
+dimwishlist:item=48643186&perks=3250034553,247725512,2848615171
+dimwishlist:item=48643186&perks=3250034553,247725512,4082225868
+dimwishlist:item=48643186&perks=1482024992,1168162263,2848615171
+dimwishlist:item=48643186&perks=1482024992,1168162263,4082225868
+dimwishlist:item=48643186&perks=1482024992,247725512,2848615171
+dimwishlist:item=48643186&perks=1482024992,247725512,4082225868
+dimwishlist:item=48643186&perks=3661387068,1168162263,2848615171
+dimwishlist:item=48643186&perks=3661387068,1168162263,4082225868
+dimwishlist:item=48643186&perks=3661387068,247725512,2848615171
+dimwishlist:item=48643186&perks=3661387068,247725512,4082225868
+dimwishlist:item=48643186&perks=202670084,1168162263,2848615171
+dimwishlist:item=48643186&perks=202670084,1168162263,4082225868
+dimwishlist:item=48643186&perks=202670084,247725512,2848615171
+dimwishlist:item=48643186&perks=202670084,247725512,4082225868
+dimwishlist:item=48643186&perks=106909392,1168162263,2848615171
+dimwishlist:item=48643186&perks=106909392,1168162263,4082225868
+dimwishlist:item=48643186&perks=106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=106909392,247725512,4082225868
+dimwishlist:item=48643186&perks=2420895100,1168162263,2848615171
+dimwishlist:item=48643186&perks=2420895100,1168162263,4082225868
+dimwishlist:item=48643186&perks=2420895100,247725512,2848615171
+dimwishlist:item=48643186&perks=2420895100,247725512,4082225868
+dimwishlist:item=48643186&perks=3142289711,1168162263,2848615171
+dimwishlist:item=48643186&perks=3142289711,1168162263,4082225868
+dimwishlist:item=48643186&perks=3142289711,247725512,2848615171
+dimwishlist:item=48643186&perks=3142289711,247725512,4082225868
+dimwishlist:item=48643186&perks=1168162263,2848615171
+dimwishlist:item=48643186&perks=1168162263,4082225868
+dimwishlist:item=48643186&perks=247725512,2848615171
+dimwishlist:item=48643186&perks=247725512,4082225868
+
+//Ancient Gospel
+//notes: adam (PvE / high PL content, GMs / optimal)|tags:PvE
+dimwishlist:item=48643186&perks=3250034553,106909392,1168162263,2848615171
+dimwishlist:item=48643186&perks=3250034553,106909392,1168162263,1015611457
+dimwishlist:item=48643186&perks=3250034553,106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=3250034553,106909392,247725512,1015611457
+dimwishlist:item=48643186&perks=3250034553,2420895100,1168162263,2848615171
+dimwishlist:item=48643186&perks=3250034553,2420895100,1168162263,1015611457
+dimwishlist:item=48643186&perks=3250034553,2420895100,247725512,2848615171
+dimwishlist:item=48643186&perks=3250034553,2420895100,247725512,1015611457
+dimwishlist:item=48643186&perks=3250034553,3142289711,1168162263,2848615171
+dimwishlist:item=48643186&perks=3250034553,3142289711,1168162263,1015611457
+dimwishlist:item=48643186&perks=3250034553,3142289711,247725512,2848615171
+dimwishlist:item=48643186&perks=3250034553,3142289711,247725512,1015611457
+dimwishlist:item=48643186&perks=1482024992,106909392,1168162263,2848615171
+dimwishlist:item=48643186&perks=1482024992,106909392,1168162263,1015611457
+dimwishlist:item=48643186&perks=1482024992,106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=1482024992,106909392,247725512,1015611457
+dimwishlist:item=48643186&perks=1482024992,2420895100,1168162263,2848615171
+dimwishlist:item=48643186&perks=1482024992,2420895100,1168162263,1015611457
+dimwishlist:item=48643186&perks=1482024992,2420895100,247725512,2848615171
+dimwishlist:item=48643186&perks=1482024992,2420895100,247725512,1015611457
+dimwishlist:item=48643186&perks=1482024992,3142289711,1168162263,2848615171
+dimwishlist:item=48643186&perks=1482024992,3142289711,1168162263,1015611457
+dimwishlist:item=48643186&perks=1482024992,3142289711,247725512,2848615171
+dimwishlist:item=48643186&perks=1482024992,3142289711,247725512,1015611457
+dimwishlist:item=48643186&perks=3661387068,106909392,1168162263,2848615171
+dimwishlist:item=48643186&perks=3661387068,106909392,1168162263,1015611457
+dimwishlist:item=48643186&perks=3661387068,106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=3661387068,106909392,247725512,1015611457
+dimwishlist:item=48643186&perks=3661387068,2420895100,1168162263,2848615171
+dimwishlist:item=48643186&perks=3661387068,2420895100,1168162263,1015611457
+dimwishlist:item=48643186&perks=3661387068,2420895100,247725512,2848615171
+dimwishlist:item=48643186&perks=3661387068,2420895100,247725512,1015611457
+dimwishlist:item=48643186&perks=3661387068,3142289711,1168162263,2848615171
+dimwishlist:item=48643186&perks=3661387068,3142289711,1168162263,1015611457
+dimwishlist:item=48643186&perks=3661387068,3142289711,247725512,2848615171
+dimwishlist:item=48643186&perks=3661387068,3142289711,247725512,1015611457
+dimwishlist:item=48643186&perks=202670084,106909392,1168162263,2848615171
+dimwishlist:item=48643186&perks=202670084,106909392,1168162263,1015611457
+dimwishlist:item=48643186&perks=202670084,106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=202670084,106909392,247725512,1015611457
+dimwishlist:item=48643186&perks=202670084,2420895100,1168162263,2848615171
+dimwishlist:item=48643186&perks=202670084,2420895100,1168162263,1015611457
+dimwishlist:item=48643186&perks=202670084,2420895100,247725512,2848615171
+dimwishlist:item=48643186&perks=202670084,2420895100,247725512,1015611457
+dimwishlist:item=48643186&perks=202670084,3142289711,1168162263,2848615171
+dimwishlist:item=48643186&perks=202670084,3142289711,1168162263,1015611457
+dimwishlist:item=48643186&perks=202670084,3142289711,247725512,2848615171
+dimwishlist:item=48643186&perks=202670084,3142289711,247725512,1015611457
+dimwishlist:item=48643186&perks=3250034553,1168162263,2848615171
+dimwishlist:item=48643186&perks=3250034553,1168162263,1015611457
+dimwishlist:item=48643186&perks=3250034553,247725512,2848615171
+dimwishlist:item=48643186&perks=3250034553,247725512,1015611457
+dimwishlist:item=48643186&perks=1482024992,1168162263,2848615171
+dimwishlist:item=48643186&perks=1482024992,1168162263,1015611457
+dimwishlist:item=48643186&perks=1482024992,247725512,2848615171
+dimwishlist:item=48643186&perks=1482024992,247725512,1015611457
+dimwishlist:item=48643186&perks=3661387068,1168162263,2848615171
+dimwishlist:item=48643186&perks=3661387068,1168162263,1015611457
+dimwishlist:item=48643186&perks=3661387068,247725512,2848615171
+dimwishlist:item=48643186&perks=3661387068,247725512,1015611457
+dimwishlist:item=48643186&perks=202670084,1168162263,2848615171
+dimwishlist:item=48643186&perks=202670084,1168162263,1015611457
+dimwishlist:item=48643186&perks=202670084,247725512,2848615171
+dimwishlist:item=48643186&perks=202670084,247725512,1015611457
+dimwishlist:item=48643186&perks=106909392,1168162263,2848615171
+dimwishlist:item=48643186&perks=106909392,1168162263,1015611457
+dimwishlist:item=48643186&perks=106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=106909392,247725512,1015611457
+dimwishlist:item=48643186&perks=2420895100,1168162263,2848615171
+dimwishlist:item=48643186&perks=2420895100,1168162263,1015611457
+dimwishlist:item=48643186&perks=2420895100,247725512,2848615171
+dimwishlist:item=48643186&perks=2420895100,247725512,1015611457
+dimwishlist:item=48643186&perks=3142289711,1168162263,2848615171
+dimwishlist:item=48643186&perks=3142289711,1168162263,1015611457
+dimwishlist:item=48643186&perks=3142289711,247725512,2848615171
+dimwishlist:item=48643186&perks=3142289711,247725512,1015611457
+dimwishlist:item=48643186&perks=1168162263,2848615171
+dimwishlist:item=48643186&perks=1168162263,1015611457
+dimwishlist:item=48643186&perks=247725512,2848615171
+dimwishlist:item=48643186&perks=247725512,1015611457
+
+//Ancient Gospel
+//notes: adam (PvP / optimal)|tags:PvP
+dimwishlist:item=48643186&perks=3250034553,3142289711,247725512,2846385770
+dimwishlist:item=48643186&perks=1482024992,3142289711,247725512,2846385770
+dimwishlist:item=48643186&perks=3250034553,3142289711,247725512,2846385770
+dimwishlist:item=48643186&perks=1482024992,3142289711,247725512,2846385770
+dimwishlist:item=48643186&perks=3250034553,3142289711,247725512,2846385770
+dimwishlist:item=48643186&perks=1482024992,3142289711,247725512,2846385770
+dimwishlist:item=48643186&perks=3661387068,3142289711,247725512,2846385770
+dimwishlist:item=48643186&perks=202670084,3142289711,247725512,2846385770
+dimwishlist:item=48643186&perks=3250034553,3142289711,247725512,2846385770
+dimwishlist:item=48643186&perks=1482024992,3142289711,247725512,2846385770
+dimwishlist:item=48643186&perks=3661387068,3142289711,247725512,2846385770
+dimwishlist:item=48643186&perks=202670084,3142289711,247725512,2846385770
+
+//Zealot's Reward
+//notes: adam (PvE / optimal)|tags:PvE
+dimwishlist:item=2209003210&perks=839105230,689005463,3300816228,1600092898
+dimwishlist:item=2209003210&perks=839105230,1687452232,3300816228,1600092898
+dimwishlist:item=2209003210&perks=839105230,689005463,3300816228,1600092898
+dimwishlist:item=2209003210&perks=839105230,1687452232,3300816228,1600092898
+
+//Zealot's Reward
+//notes: adam (PvE)|tags:PvE
+dimwishlist:item=2209003210&perks=839105230,689005463,3300816228,1600092898
+dimwishlist:item=2209003210&perks=839105230,1687452232,3300816228,1600092898
+dimwishlist:item=2209003210&perks=839105230,1483536627,3300816228,1600092898
+dimwishlist:item=2209003210&perks=1467527085,689005463,3300816228,1600092898
+dimwishlist:item=2209003210&perks=1467527085,1687452232,3300816228,1600092898
+dimwishlist:item=2209003210&perks=1467527085,1483536627,3300816228,1600092898
+dimwishlist:item=2209003210&perks=839105230,689005463,3300816228,1600092898
+dimwishlist:item=2209003210&perks=839105230,1687452232,3300816228,1600092898
+dimwishlist:item=2209003210&perks=839105230,1483536627,3300816228,1600092898
+dimwishlist:item=2209003210&perks=1467527085,689005463,3300816228,1600092898
+dimwishlist:item=2209003210&perks=1467527085,1687452232,3300816228,1600092898
+dimwishlist:item=2209003210&perks=1467527085,1483536627,3300816228,1600092898
+
+//Zealot's Reward
+//notes: adam (PvP / optimal)|tags:PvP
+dimwishlist:item=2209003210&perks=3661387068,1687452232,1645158859,1600092898
+dimwishlist:item=2209003210&perks=3661387068,1687452232,1645158859,1600092898
+
+//Zealot's Reward
+//notes: adam (PvP)|tags:PvP
+dimwishlist:item=2209003210&perks=839105230,1687452232,1645158859,1600092898
+dimwishlist:item=2209003210&perks=1482024992,1687452232,1645158859,1600092898
+dimwishlist:item=2209003210&perks=1392496348,1687452232,1645158859,1600092898
+dimwishlist:item=2209003210&perks=839105230,1687452232,1645158859,1600092898
+dimwishlist:item=2209003210&perks=1482024992,1687452232,1645158859,1600092898
+dimwishlist:item=2209003210&perks=1392496348,1687452232,1645158859,1600092898
+
+//Omniscient Eye
+//notes: adam (PvP / optimal)|tags:PvP
+dimwishlist:item=3454326177&perks=3250034553,3142289711,3337692349,957782887
+dimwishlist:item=3454326177&perks=3250034553,3142289711,2866798147,957782887
+dimwishlist:item=3454326177&perks=1482024992,3142289711,3337692349,957782887
+dimwishlist:item=3454326177&perks=1482024992,3142289711,2866798147,957782887
+dimwishlist:item=3454326177&perks=3250034553,3142289711,957782887
+dimwishlist:item=3454326177&perks=1482024992,3142289711,957782887
+dimwishlist:item=3454326177&perks=3142289711,3337692349,957782887
+dimwishlist:item=3454326177&perks=3142289711,2866798147,957782887
+dimwishlist:item=3454326177&perks=3142289711,957782887
+
+//Omniscient Eye
+//notes: adam (PvP)|tags:PvP
+dimwishlist:item=3454326177&perks=3250034553,3177308360,3337692349,957782887
+dimwishlist:item=3454326177&perks=3250034553,3177308360,2866798147,957782887
+dimwishlist:item=3454326177&perks=1482024992,3177308360,3337692349,957782887
+dimwishlist:item=3454326177&perks=1482024992,3177308360,2866798147,957782887
+dimwishlist:item=3454326177&perks=3250034553,3177308360,957782887
+dimwishlist:item=3454326177&perks=1482024992,3177308360,957782887
+dimwishlist:item=3454326177&perks=3177308360,3337692349,957782887
+dimwishlist:item=3454326177&perks=3177308360,2866798147,957782887
+dimwishlist:item=3454326177&perks=3177308360,957782887
+
+//Prophet of Doom
+//notes: adam (PvE / optimal)|tags:PvE
+dimwishlist:item=4020742303&perks=1482024992,791862061,2117683199,2679249093
+dimwishlist:item=4020742303&perks=1482024992,106909392,2117683199,2679249093
+dimwishlist:item=4020742303&perks=4090651448,791862061,2117683199,2679249093
+dimwishlist:item=4020742303&perks=4090651448,106909392,2117683199,2679249093
+dimwishlist:item=4020742303&perks=1300023272,791862061,2117683199,2679249093
+dimwishlist:item=4020742303&perks=1300023272,106909392,2117683199,2679249093
+dimwishlist:item=4020742303&perks=791862061,2117683199,2679249093
+dimwishlist:item=4020742303&perks=106909392,2117683199,2679249093
+dimwishlist:item=4020742303&perks=1482024992,2117683199,2679249093
+dimwishlist:item=4020742303&perks=4090651448,2117683199,2679249093
+dimwishlist:item=4020742303&perks=1300023272,2117683199,2679249093
+dimwishlist:item=4020742303&perks=1482024992,791862061,2679249093
+dimwishlist:item=4020742303&perks=1482024992,106909392,2679249093
+dimwishlist:item=4020742303&perks=4090651448,791862061,2679249093
+dimwishlist:item=4020742303&perks=4090651448,106909392,2679249093
+dimwishlist:item=4020742303&perks=1300023272,791862061,2679249093
+dimwishlist:item=4020742303&perks=1300023272,106909392,2679249093
+dimwishlist:item=4020742303&perks=1482024992,2679249093
+dimwishlist:item=4020742303&perks=4090651448,2679249093
+dimwishlist:item=4020742303&perks=1300023272,2679249093
+dimwishlist:item=4020742303&perks=791862061,2679249093
+dimwishlist:item=4020742303&perks=106909392,2679249093
+dimwishlist:item=4020742303&perks=2117683199,2679249093
+dimwishlist:item=4020742303&perks=2679249093
+
+//Prophet of Doom
+//notes: adam (PvP / optimal)|tags:PvP
+dimwishlist:item=4020742303&perks=1047830412,791862061,2117683199,47981717
+dimwishlist:item=4020742303&perks=1047830412,3142289711,2117683199,47981717
+dimwishlist:item=4020742303&perks=1047830412,791862061,2117683199,47981717
+dimwishlist:item=4020742303&perks=1047830412,3142289711,2117683199,47981717
+
+//Prophet of Doom
+//notes: adam (PvP)|tags:PvP
+dimwishlist:item=4020742303&perks=1047830412,791862061,2117683199,47981717
+dimwishlist:item=4020742303&perks=1047830412,791862061,2117683199,3275789089
+dimwishlist:item=4020742303&perks=1047830412,3142289711,2117683199,47981717
+dimwishlist:item=4020742303&perks=1047830412,3142289711,2117683199,3275789089
+dimwishlist:item=4020742303&perks=4090651448,791862061,2117683199,47981717
+dimwishlist:item=4020742303&perks=4090651448,791862061,2117683199,3275789089
+dimwishlist:item=4020742303&perks=4090651448,3142289711,2117683199,47981717
+dimwishlist:item=4020742303&perks=4090651448,3142289711,2117683199,3275789089
+dimwishlist:item=4020742303&perks=1300023272,791862061,2117683199,47981717
+dimwishlist:item=4020742303&perks=1300023272,791862061,2117683199,3275789089
+dimwishlist:item=4020742303&perks=1300023272,3142289711,2117683199,47981717
+dimwishlist:item=4020742303&perks=1300023272,3142289711,2117683199,3275789089
+dimwishlist:item=4020742303&perks=1047830412,791862061,2117683199,47981717
+dimwishlist:item=4020742303&perks=1047830412,791862061,2117683199,3275789089
+dimwishlist:item=4020742303&perks=1047830412,3142289711,2117683199,47981717
+dimwishlist:item=4020742303&perks=1047830412,3142289711,2117683199,3275789089
+dimwishlist:item=4020742303&perks=4090651448,791862061,2117683199,47981717
+dimwishlist:item=4020742303&perks=4090651448,791862061,2117683199,3275789089
+dimwishlist:item=4020742303&perks=4090651448,3142289711,2117683199,47981717
+dimwishlist:item=4020742303&perks=4090651448,3142289711,2117683199,3275789089
+dimwishlist:item=4020742303&perks=1300023272,791862061,2117683199,47981717
+dimwishlist:item=4020742303&perks=1300023272,791862061,2117683199,3275789089
+dimwishlist:item=4020742303&perks=1300023272,3142289711,2117683199,47981717
+dimwishlist:item=4020742303&perks=1300023272,3142289711,2117683199,3275789089
+
+//Chattering Bone
+//notes: adam (PvE / regular, non-endgame content / optimal)|tags:PvE
+dimwishlist:item=568515759&perks=839105230,1885400500,1168162263,3425386926
+dimwishlist:item=568515759&perks=839105230,1561002382,1168162263,3425386926
+dimwishlist:item=568515759&perks=839105230,1885400500,3425386926
+dimwishlist:item=568515759&perks=839105230,1561002382,3425386926
+dimwishlist:item=568515759&perks=839105230,1168162263,3425386926
+dimwishlist:item=568515759&perks=839105230,3425386926
+
+//Chattering Bone
+//notes: adam (PvE / regular, non-endgame content)|tags:PvE
+dimwishlist:item=568515759&perks=1467527085,1885400500,1168162263,3425386926
+dimwishlist:item=568515759&perks=1467527085,1561002382,1168162263,3425386926
+dimwishlist:item=568515759&perks=3661387068,1885400500,1168162263,3425386926
+dimwishlist:item=568515759&perks=3661387068,1561002382,1168162263,3425386926
+dimwishlist:item=568515759&perks=1467527085,1885400500,3425386926
+dimwishlist:item=568515759&perks=1467527085,1561002382,3425386926
+dimwishlist:item=568515759&perks=3661387068,1885400500,3425386926
+dimwishlist:item=568515759&perks=3661387068,1561002382,3425386926
+dimwishlist:item=568515759&perks=1467527085,1168162263,3425386926
+dimwishlist:item=568515759&perks=3661387068,1168162263,3425386926
+dimwishlist:item=568515759&perks=1467527085,3425386926
+dimwishlist:item=568515759&perks=3661387068,3425386926
+
+//Chattering Bone
+//notes: adam (PvE / high PL content, GMs / optimal): Curated roll.|tags:PvE
+dimwishlist:item=568515759&perks=4090651448,679225683,1015611457,2213355989
+dimwishlist:item=568515759&perks=4090651448,1015611457,2213355989
+dimwishlist:item=568515759&perks=4090651448,679225683,2213355989
+dimwishlist:item=568515759&perks=4090651448,679225683,1015611457
+dimwishlist:item=568515759&perks=4090651448,679225683
+dimwishlist:item=568515759&perks=4090651448,1015611457
+dimwishlist:item=568515759&perks=4090651448,2213355989
+dimwishlist:item=568515759&perks=4090651448
+
+//Chattering Bone
+//notes: adam (PvP / optimal)|tags:PvP
+dimwishlist:item=568515759&perks=839105230,1885400500,2846385770,460017080
+dimwishlist:item=568515759&perks=839105230,1885400500,2846385770,3425386926
+dimwishlist:item=568515759&perks=1467527085,1885400500,2846385770,460017080
+dimwishlist:item=568515759&perks=1467527085,1885400500,2846385770,3425386926
+dimwishlist:item=568515759&perks=839105230,1885400500,2846385770
+dimwishlist:item=568515759&perks=1467527085,1885400500,2846385770
+
+//Chattering Bone
+//notes: adam (PvP)|tags:PvP
+dimwishlist:item=568515759&perks=839105230,1561002382,2846385770,460017080
+dimwishlist:item=568515759&perks=839105230,1561002382,2846385770,3425386926
+dimwishlist:item=568515759&perks=1467527085,1561002382,2846385770,460017080
+dimwishlist:item=568515759&perks=1467527085,1561002382,2846385770,3425386926
+dimwishlist:item=568515759&perks=839105230,1561002382,2846385770
+dimwishlist:item=568515759&perks=1467527085,1561002382,2846385770
+
+//Transfiguration
+//notes: adam (PvE / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=3799980700&perks=3661387068,106909392,3425386926,1015611457
+dimwishlist:item=3799980700&perks=3661387068,106909392,3425386926,3038247973
+dimwishlist:item=3799980700&perks=3661387068,106909392,1168162263,1015611457
+dimwishlist:item=3799980700&perks=3661387068,106909392,1168162263,3038247973
+dimwishlist:item=3799980700&perks=3661387068,4134353779,3425386926,1015611457
+dimwishlist:item=3799980700&perks=3661387068,4134353779,3425386926,3038247973
+dimwishlist:item=3799980700&perks=3661387068,4134353779,1168162263,1015611457
+dimwishlist:item=3799980700&perks=3661387068,4134353779,1168162263,3038247973
+dimwishlist:item=3799980700&perks=3661387068,3177308360,3425386926,1015611457
+dimwishlist:item=3799980700&perks=3661387068,3177308360,3425386926,3038247973
+dimwishlist:item=3799980700&perks=3661387068,3177308360,1168162263,1015611457
+dimwishlist:item=3799980700&perks=3661387068,3177308360,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1840239774,106909392,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1840239774,106909392,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1840239774,106909392,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1840239774,106909392,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1840239774,4134353779,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1840239774,4134353779,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1840239774,4134353779,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1840239774,4134353779,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1840239774,3177308360,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1840239774,3177308360,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1840239774,3177308360,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1840239774,3177308360,1168162263,3038247973
+dimwishlist:item=3799980700&perks=3661387068,3425386926,1015611457
+dimwishlist:item=3799980700&perks=3661387068,3425386926,3038247973
+dimwishlist:item=3799980700&perks=3661387068,1168162263,1015611457
+dimwishlist:item=3799980700&perks=3661387068,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1840239774,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1840239774,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1840239774,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1840239774,1168162263,3038247973
+
+//Transfiguration
+//notes: adam (PvE / optimal), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=3799980700&perks=1392496348,106909392,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1392496348,106909392,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1392496348,106909392,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1392496348,106909392,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1392496348,4134353779,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1392496348,4134353779,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1392496348,4134353779,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1392496348,4134353779,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1392496348,3177308360,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1392496348,3177308360,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1392496348,3177308360,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1392496348,3177308360,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1392496348,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1392496348,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1392496348,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1392496348,1168162263,3038247973
+
+//Transfiguration
+//notes: adam (PvE / optimal): Outlaw and Explosive Payload are both exclusive to the curated roll.|tags:PvE
+dimwishlist:item=3799980700&perks=3661387068,106909392,3425386926,1015611457
+dimwishlist:item=3799980700&perks=3661387068,106909392,3425386926,3038247973
+dimwishlist:item=3799980700&perks=3661387068,106909392,1168162263,1015611457
+dimwishlist:item=3799980700&perks=3661387068,106909392,1168162263,3038247973
+dimwishlist:item=3799980700&perks=3661387068,4134353779,3425386926,1015611457
+dimwishlist:item=3799980700&perks=3661387068,4134353779,3425386926,3038247973
+dimwishlist:item=3799980700&perks=3661387068,4134353779,1168162263,1015611457
+dimwishlist:item=3799980700&perks=3661387068,4134353779,1168162263,3038247973
+dimwishlist:item=3799980700&perks=3661387068,3177308360,3425386926,1015611457
+dimwishlist:item=3799980700&perks=3661387068,3177308360,3425386926,3038247973
+dimwishlist:item=3799980700&perks=3661387068,3177308360,1168162263,1015611457
+dimwishlist:item=3799980700&perks=3661387068,3177308360,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1392496348,106909392,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1392496348,106909392,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1392496348,106909392,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1392496348,106909392,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1392496348,4134353779,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1392496348,4134353779,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1392496348,4134353779,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1392496348,4134353779,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1392496348,3177308360,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1392496348,3177308360,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1392496348,3177308360,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1392496348,3177308360,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1840239774,106909392,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1840239774,106909392,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1840239774,106909392,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1840239774,106909392,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1840239774,4134353779,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1840239774,4134353779,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1840239774,4134353779,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1840239774,4134353779,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1840239774,3177308360,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1840239774,3177308360,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1840239774,3177308360,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1840239774,3177308360,1168162263,3038247973
+dimwishlist:item=3799980700&perks=3661387068,3425386926,1015611457
+dimwishlist:item=3799980700&perks=3661387068,3425386926,3038247973
+dimwishlist:item=3799980700&perks=3661387068,1168162263,1015611457
+dimwishlist:item=3799980700&perks=3661387068,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1392496348,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1392496348,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1392496348,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1392496348,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1840239774,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1840239774,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1840239774,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1840239774,1168162263,3038247973
+dimwishlist:item=3799980700&perks=106909392,3425386926,1015611457
+dimwishlist:item=3799980700&perks=106909392,3425386926,3038247973
+dimwishlist:item=3799980700&perks=106909392,1168162263,1015611457
+dimwishlist:item=3799980700&perks=106909392,1168162263,3038247973
+dimwishlist:item=3799980700&perks=4134353779,3425386926,1015611457
+dimwishlist:item=3799980700&perks=4134353779,3425386926,3038247973
+dimwishlist:item=3799980700&perks=4134353779,1168162263,1015611457
+dimwishlist:item=3799980700&perks=4134353779,1168162263,3038247973
+dimwishlist:item=3799980700&perks=3177308360,3425386926,1015611457
+dimwishlist:item=3799980700&perks=3177308360,3425386926,3038247973
+dimwishlist:item=3799980700&perks=3177308360,1168162263,1015611457
+dimwishlist:item=3799980700&perks=3177308360,1168162263,3038247973
+dimwishlist:item=3799980700&perks=3425386926,1015611457
+dimwishlist:item=3799980700&perks=3425386926,3038247973
+dimwishlist:item=3799980700&perks=1168162263,1015611457
+dimwishlist:item=3799980700&perks=1168162263,3038247973
+
+//Transfiguration
+//notes: adam (PvP / optimal): Outlaw and Explosive Payload are both exclusive to the curated roll. Fluted Barrel would be ranked second tier except the curated comes with it so it's non-negotiable with those perks.|tags:PvP
+dimwishlist:item=3799980700&perks=3661387068,106909392,3425386926,1015611457
+dimwishlist:item=3799980700&perks=3661387068,106909392,3425386926,3038247973
+dimwishlist:item=3799980700&perks=3661387068,106909392,1168162263,1015611457
+dimwishlist:item=3799980700&perks=3661387068,106909392,1168162263,3038247973
+dimwishlist:item=3799980700&perks=3661387068,4134353779,3425386926,1015611457
+dimwishlist:item=3799980700&perks=3661387068,4134353779,3425386926,3038247973
+dimwishlist:item=3799980700&perks=3661387068,4134353779,1168162263,1015611457
+dimwishlist:item=3799980700&perks=3661387068,4134353779,1168162263,3038247973
+dimwishlist:item=3799980700&perks=3661387068,3177308360,3425386926,1015611457
+dimwishlist:item=3799980700&perks=3661387068,3177308360,3425386926,3038247973
+dimwishlist:item=3799980700&perks=3661387068,3177308360,1168162263,1015611457
+dimwishlist:item=3799980700&perks=3661387068,3177308360,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1840239774,106909392,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1840239774,106909392,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1840239774,106909392,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1840239774,106909392,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1840239774,4134353779,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1840239774,4134353779,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1840239774,4134353779,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1840239774,4134353779,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1840239774,3177308360,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1840239774,3177308360,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1840239774,3177308360,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1840239774,3177308360,1168162263,3038247973
+dimwishlist:item=3799980700&perks=3661387068,3425386926,1015611457
+dimwishlist:item=3799980700&perks=3661387068,3425386926,3038247973
+dimwishlist:item=3799980700&perks=3661387068,1168162263,1015611457
+dimwishlist:item=3799980700&perks=3661387068,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1840239774,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1840239774,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1840239774,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1840239774,1168162263,3038247973
+
+//Transfiguration
+//notes: adam (PvP): Outlaw and Explosive Payload are both exclusive to the curated roll. Fluted Barrel would be ranked second tier except the curated comes with it so it's non-negotiable with those perks.|tags:PvP
+dimwishlist:item=3799980700&perks=1392496348,106909392,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1392496348,106909392,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1392496348,106909392,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1392496348,106909392,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1392496348,4134353779,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1392496348,4134353779,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1392496348,4134353779,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1392496348,4134353779,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1392496348,3177308360,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1392496348,3177308360,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1392496348,3177308360,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1392496348,3177308360,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1392496348,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1392496348,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1392496348,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1392496348,1168162263,3038247973
+
+//Age-Old Bond
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=601592879&perks=3661387068,1885400500,1359896290,1015611457
+dimwishlist:item=601592879&perks=1392496348,1885400500,1359896290,1015611457
+
+//Age-Old Bond
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=601592879&perks=3661387068,679225683,1359896290,1015611457
+dimwishlist:item=601592879&perks=1392496348,679225683,1359896290,1015611457
+dimwishlist:item=601592879&perks=3661387068,1359896290,1015611457
+dimwishlist:item=601592879&perks=1392496348,1359896290,1015611457
+
+//Age-Old Bond
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=601592879&perks=1467527085,1885400500,1359896290,1015611457
+
+//Age-Old Bond
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=601592879&perks=1467527085,679225683,1359896290,1015611457
+dimwishlist:item=601592879&perks=1467527085,1359896290,1015611457
+
+//Age-Old Bond
+//notes: adam (PvE / regular, non-endgame content / optimal): FTTC and Rampage are exclusive to the curated roll. Extended would be ranked lower but it's forced on the curated roll.|tags:PvE
+dimwishlist:item=601592879&perks=3661387068,1885400500,1359896290,1015611457
+dimwishlist:item=601592879&perks=3661387068,1885400500,1359896290,3425386926
+dimwishlist:item=601592879&perks=3661387068,1885400500,1354429876,1015611457
+dimwishlist:item=601592879&perks=3661387068,1885400500,1354429876,3425386926
+dimwishlist:item=601592879&perks=3661387068,679225683,1359896290,1015611457
+dimwishlist:item=601592879&perks=3661387068,679225683,1359896290,3425386926
+dimwishlist:item=601592879&perks=3661387068,679225683,1354429876,1015611457
+dimwishlist:item=601592879&perks=3661387068,679225683,1354429876,3425386926
+dimwishlist:item=601592879&perks=1392496348,1885400500,1359896290,1015611457
+dimwishlist:item=601592879&perks=1392496348,1885400500,1359896290,3425386926
+dimwishlist:item=601592879&perks=1392496348,1885400500,1354429876,1015611457
+dimwishlist:item=601592879&perks=1392496348,1885400500,1354429876,3425386926
+dimwishlist:item=601592879&perks=1392496348,679225683,1359896290,1015611457
+dimwishlist:item=601592879&perks=1392496348,679225683,1359896290,3425386926
+dimwishlist:item=601592879&perks=1392496348,679225683,1354429876,1015611457
+dimwishlist:item=601592879&perks=1392496348,679225683,1354429876,3425386926
+dimwishlist:item=601592879&perks=1467527085,1885400500,1359896290,1015611457
+dimwishlist:item=601592879&perks=1467527085,1885400500,1359896290,3425386926
+dimwishlist:item=601592879&perks=1467527085,1885400500,1354429876,1015611457
+dimwishlist:item=601592879&perks=1467527085,1885400500,1354429876,3425386926
+dimwishlist:item=601592879&perks=1467527085,679225683,1359896290,1015611457
+dimwishlist:item=601592879&perks=1467527085,679225683,1359896290,3425386926
+dimwishlist:item=601592879&perks=1467527085,679225683,1354429876,1015611457
+dimwishlist:item=601592879&perks=1467527085,679225683,1354429876,3425386926
+dimwishlist:item=601592879&perks=3661387068,1359896290,1015611457
+dimwishlist:item=601592879&perks=3661387068,1359896290,3425386926
+dimwishlist:item=601592879&perks=3661387068,1354429876,1015611457
+dimwishlist:item=601592879&perks=3661387068,1354429876,3425386926
+dimwishlist:item=601592879&perks=1392496348,1359896290,1015611457
+dimwishlist:item=601592879&perks=1392496348,1359896290,3425386926
+dimwishlist:item=601592879&perks=1392496348,1354429876,1015611457
+dimwishlist:item=601592879&perks=1392496348,1354429876,3425386926
+dimwishlist:item=601592879&perks=1467527085,1359896290,1015611457
+dimwishlist:item=601592879&perks=1467527085,1359896290,3425386926
+dimwishlist:item=601592879&perks=1467527085,1354429876,1015611457
+dimwishlist:item=601592879&perks=1467527085,1354429876,3425386926
+
+//Age-Old Bond
+//notes: adam (PvE / high PL content, GMs / optimal)|tags:PvE
+dimwishlist:item=601592879&perks=3661387068,1885400500,1359896290,1015611457
+dimwishlist:item=601592879&perks=3661387068,679225683,1359896290,1015611457
+dimwishlist:item=601592879&perks=1392496348,1885400500,1359896290,1015611457
+dimwishlist:item=601592879&perks=1392496348,679225683,1359896290,1015611457
+dimwishlist:item=601592879&perks=3661387068,1885400500,1015611457
+dimwishlist:item=601592879&perks=3661387068,679225683,1015611457
+dimwishlist:item=601592879&perks=1392496348,1885400500,1015611457
+dimwishlist:item=601592879&perks=1392496348,679225683,1015611457
+dimwishlist:item=601592879&perks=3661387068,1359896290,1015611457
+dimwishlist:item=601592879&perks=1392496348,1359896290,1015611457
+dimwishlist:item=601592879&perks=3661387068,1015611457
+dimwishlist:item=601592879&perks=1392496348,1015611457
+
+//Age-Old Bond
+//notes: adam (PvE / high PL content, GMs)|tags:PvE
+dimwishlist:item=601592879&perks=1467527085,1885400500,1359896290,1015611457
+dimwishlist:item=601592879&perks=1467527085,679225683,1359896290,1015611457
+dimwishlist:item=601592879&perks=1467527085,1885400500,1015611457
+dimwishlist:item=601592879&perks=1467527085,679225683,1015611457
+dimwishlist:item=601592879&perks=1467527085,1359896290,1015611457
+dimwishlist:item=601592879&perks=1467527085,1015611457
+
+//Age-Old Bond
+//notes: adam (PvP / optimal)|tags:PvP
+dimwishlist:item=601592879&perks=3661387068,1885400500,1359896290,1015611457
+dimwishlist:item=601592879&perks=3661387068,1885400500,1890422124,1015611457
+dimwishlist:item=601592879&perks=1392496348,1885400500,1359896290,1015611457
+dimwishlist:item=601592879&perks=1392496348,1885400500,1890422124,1015611457
+dimwishlist:item=601592879&perks=1467527085,1885400500,1359896290,1015611457
+dimwishlist:item=601592879&perks=1467527085,1885400500,1890422124,1015611457
+dimwishlist:item=601592879&perks=1885400500,1359896290,1015611457
+dimwishlist:item=601592879&perks=1885400500,1890422124,1015611457
+
+//Nation of Beasts
+//notes: adam (PvE / regular, non-endgame content / optimal): Dragonfly is exclusive to the curated roll.|tags:PvE
+dimwishlist:item=654370424&perks=3250034553,106909392,1168162263,2848615171
+dimwishlist:item=654370424&perks=3250034553,106909392,1168162263,3425386926
+dimwishlist:item=654370424&perks=3250034553,3142289711,1168162263,2848615171
+dimwishlist:item=654370424&perks=3250034553,3142289711,1168162263,3425386926
+dimwishlist:item=654370424&perks=4090651448,106909392,1168162263,2848615171
+dimwishlist:item=654370424&perks=4090651448,106909392,1168162263,3425386926
+dimwishlist:item=654370424&perks=4090651448,3142289711,1168162263,2848615171
+dimwishlist:item=654370424&perks=4090651448,3142289711,1168162263,3425386926
+dimwishlist:item=654370424&perks=1482024992,106909392,1168162263,2848615171
+dimwishlist:item=654370424&perks=1482024992,106909392,1168162263,3425386926
+dimwishlist:item=654370424&perks=1482024992,3142289711,1168162263,2848615171
+dimwishlist:item=654370424&perks=1482024992,3142289711,1168162263,3425386926
+dimwishlist:item=654370424&perks=3250034553,1168162263,2848615171
+dimwishlist:item=654370424&perks=3250034553,1168162263,3425386926
+dimwishlist:item=654370424&perks=4090651448,1168162263,2848615171
+dimwishlist:item=654370424&perks=4090651448,1168162263,3425386926
+dimwishlist:item=654370424&perks=1482024992,1168162263,2848615171
+dimwishlist:item=654370424&perks=1482024992,1168162263,3425386926
+dimwishlist:item=654370424&perks=106909392,1168162263,2848615171
+dimwishlist:item=654370424&perks=106909392,1168162263,3425386926
+dimwishlist:item=654370424&perks=3142289711,1168162263,2848615171
+dimwishlist:item=654370424&perks=3142289711,1168162263,3425386926
+dimwishlist:item=654370424&perks=1168162263,2848615171
+dimwishlist:item=654370424&perks=1168162263,3425386926
+
+//Nation of Beasts
+//notes: adam (PvE / high PL content, GMs / optimal)|tags:PvE
+dimwishlist:item=654370424&perks=3250034553,4134353779,1168162263,3038247973
+dimwishlist:item=654370424&perks=4090651448,4134353779,1168162263,3038247973
+dimwishlist:item=654370424&perks=1482024992,4134353779,1168162263,3038247973
+dimwishlist:item=654370424&perks=3250034553,4134353779,3038247973
+dimwishlist:item=654370424&perks=4090651448,4134353779,3038247973
+dimwishlist:item=654370424&perks=1482024992,4134353779,3038247973
+dimwishlist:item=654370424&perks=4134353779,1168162263,3038247973
+dimwishlist:item=654370424&perks=4134353779,3038247973
+
+//Nation of Beasts
+//notes: adam (PvE / high PL content, GMs)|tags:PvE
+dimwishlist:item=654370424&perks=3250034553,4134353779,1168162263,1015611457
+dimwishlist:item=654370424&perks=4090651448,4134353779,1168162263,1015611457
+dimwishlist:item=654370424&perks=1482024992,4134353779,1168162263,1015611457
+dimwishlist:item=654370424&perks=3250034553,4134353779,1015611457
+dimwishlist:item=654370424&perks=4090651448,4134353779,1015611457
+dimwishlist:item=654370424&perks=1482024992,4134353779,1015611457
+dimwishlist:item=654370424&perks=4134353779,1168162263,1015611457
+dimwishlist:item=654370424&perks=4134353779,1015611457
+
+//Nation of Beasts
+//notes: adam (PvP / optimal)|tags:PvP
+dimwishlist:item=654370424&perks=3250034553,3142289711,47981717,3038247973
+dimwishlist:item=654370424&perks=3250034553,3142289711,47981717,1015611457
+dimwishlist:item=654370424&perks=4090651448,3142289711,47981717,3038247973
+dimwishlist:item=654370424&perks=4090651448,3142289711,47981717,1015611457
+dimwishlist:item=654370424&perks=1482024992,3142289711,47981717,3038247973
+dimwishlist:item=654370424&perks=1482024992,3142289711,47981717,1015611457
+dimwishlist:item=654370424&perks=3250034553,3142289711,47981717,3038247973
+dimwishlist:item=654370424&perks=3250034553,3142289711,47981717,1015611457
+dimwishlist:item=654370424&perks=4090651448,3142289711,47981717,3038247973
+dimwishlist:item=654370424&perks=4090651448,3142289711,47981717,1015611457
+dimwishlist:item=654370424&perks=1482024992,3142289711,47981717,3038247973
+dimwishlist:item=654370424&perks=1482024992,3142289711,47981717,1015611457
+dimwishlist:item=654370424&perks=3250034553,3142289711,47981717,3038247973
+dimwishlist:item=654370424&perks=3250034553,3142289711,47981717,3038247973
+
+//Nation of Beasts
+//notes: adam (PvP)|tags:PvP
+dimwishlist:item=654370424&perks=4090651448,3142289711,47981717,1015611457
+dimwishlist:item=654370424&perks=4090651448,3142289711,47981717,3425386926
+dimwishlist:item=654370424&perks=4090651448,3142289711,47981717,1015611457
+dimwishlist:item=654370424&perks=4090651448,3142289711,47981717,3425386926
+
+//Tyranny of Heaven
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2721249463&perks=2801223209,3827198035,908147344,2848615171
+dimwishlist:item=2721249463&perks=2801223209,3311977193,908147344,2848615171
+dimwishlist:item=2721249463&perks=852209214,3827198035,908147344,2848615171
+dimwishlist:item=2721249463&perks=852209214,3311977193,908147344,2848615171
+dimwishlist:item=2721249463&perks=4067834857,3827198035,908147344,2848615171
+dimwishlist:item=2721249463&perks=4067834857,3311977193,908147344,2848615171
+dimwishlist:item=2721249463&perks=2801223209,908147344,2848615171
+dimwishlist:item=2721249463&perks=852209214,908147344,2848615171
+dimwishlist:item=2721249463&perks=4067834857,908147344,2848615171
+
+//Tyranny of Heaven
+//notes: adam (PvE / regular, non-endgame content / optimal): Dragonfly is exclusive to the curated roll. Flexible String is only included because it's forced on the curated roll. If you have Elastic String, which maxes your draw time, Draw Time MW and Archer's Tempo become redundant. With Polymer or Flexible, you need either Archer's Tempo or a Draw Time MW but not both.|tags:PvE
+dimwishlist:item=2721249463&perks=2801223209,3827198035,201365942,3425386926
+dimwishlist:item=2721249463&perks=2801223209,3827198035,201365942,2848615171
+dimwishlist:item=2721249463&perks=2801223209,3827198035,588594999,3425386926
+dimwishlist:item=2721249463&perks=2801223209,3827198035,588594999,2848615171
+dimwishlist:item=2721249463&perks=2801223209,3827198035,908147344,3425386926
+dimwishlist:item=2721249463&perks=2801223209,3827198035,908147344,2848615171
+dimwishlist:item=2721249463&perks=2801223209,3311977193,201365942,3425386926
+dimwishlist:item=2721249463&perks=2801223209,3311977193,201365942,2848615171
+dimwishlist:item=2721249463&perks=2801223209,3311977193,588594999,3425386926
+dimwishlist:item=2721249463&perks=2801223209,3311977193,588594999,2848615171
+dimwishlist:item=2721249463&perks=2801223209,3311977193,908147344,3425386926
+dimwishlist:item=2721249463&perks=2801223209,3311977193,908147344,2848615171
+dimwishlist:item=2721249463&perks=852209214,3827198035,201365942,3425386926
+dimwishlist:item=2721249463&perks=852209214,3827198035,201365942,2848615171
+dimwishlist:item=2721249463&perks=852209214,3827198035,588594999,3425386926
+dimwishlist:item=2721249463&perks=852209214,3827198035,588594999,2848615171
+dimwishlist:item=2721249463&perks=852209214,3827198035,908147344,3425386926
+dimwishlist:item=2721249463&perks=852209214,3827198035,908147344,2848615171
+dimwishlist:item=2721249463&perks=852209214,3311977193,201365942,3425386926
+dimwishlist:item=2721249463&perks=852209214,3311977193,201365942,2848615171
+dimwishlist:item=2721249463&perks=852209214,3311977193,588594999,3425386926
+dimwishlist:item=2721249463&perks=852209214,3311977193,588594999,2848615171
+dimwishlist:item=2721249463&perks=852209214,3311977193,908147344,3425386926
+dimwishlist:item=2721249463&perks=852209214,3311977193,908147344,2848615171
+dimwishlist:item=2721249463&perks=4067834857,3827198035,201365942,3425386926
+dimwishlist:item=2721249463&perks=4067834857,3827198035,201365942,2848615171
+dimwishlist:item=2721249463&perks=4067834857,3827198035,588594999,3425386926
+dimwishlist:item=2721249463&perks=4067834857,3827198035,588594999,2848615171
+dimwishlist:item=2721249463&perks=4067834857,3827198035,908147344,3425386926
+dimwishlist:item=2721249463&perks=4067834857,3827198035,908147344,2848615171
+dimwishlist:item=2721249463&perks=4067834857,3311977193,201365942,3425386926
+dimwishlist:item=2721249463&perks=4067834857,3311977193,201365942,2848615171
+dimwishlist:item=2721249463&perks=4067834857,3311977193,588594999,3425386926
+dimwishlist:item=2721249463&perks=4067834857,3311977193,588594999,2848615171
+dimwishlist:item=2721249463&perks=4067834857,3311977193,908147344,3425386926
+dimwishlist:item=2721249463&perks=4067834857,3311977193,908147344,2848615171
+dimwishlist:item=2721249463&perks=2801223209,201365942,3425386926
+dimwishlist:item=2721249463&perks=2801223209,201365942,2848615171
+dimwishlist:item=2721249463&perks=2801223209,588594999,3425386926
+dimwishlist:item=2721249463&perks=2801223209,588594999,2848615171
+dimwishlist:item=2721249463&perks=2801223209,908147344,3425386926
+dimwishlist:item=2721249463&perks=2801223209,908147344,2848615171
+dimwishlist:item=2721249463&perks=852209214,201365942,3425386926
+dimwishlist:item=2721249463&perks=852209214,201365942,2848615171
+dimwishlist:item=2721249463&perks=852209214,588594999,3425386926
+dimwishlist:item=2721249463&perks=852209214,588594999,2848615171
+dimwishlist:item=2721249463&perks=852209214,908147344,3425386926
+dimwishlist:item=2721249463&perks=852209214,908147344,2848615171
+dimwishlist:item=2721249463&perks=4067834857,201365942,3425386926
+dimwishlist:item=2721249463&perks=4067834857,201365942,2848615171
+dimwishlist:item=2721249463&perks=4067834857,588594999,3425386926
+dimwishlist:item=2721249463&perks=4067834857,588594999,2848615171
+dimwishlist:item=2721249463&perks=4067834857,908147344,3425386926
+dimwishlist:item=2721249463&perks=4067834857,908147344,2848615171
+
+//Tyranny of Heaven
+//notes: adam (PvE / high PL content, GMs / optimal): This is the only legendary solar bow available at the moment, so it's worth keeping a roll in case the combination of champion mods and match game modifiers necessitate the use of a solar bow. Dragonfly is exclusive to the curated roll. Flexible String is only included because it's forced on the curated roll. Go for Accuracy MW if you have Elastic String—otherwise, Draw Time MW is useful.|tags:PvE
+dimwishlist:item=2721249463&perks=2801223209,3827198035,908147344,2848615171
+dimwishlist:item=2721249463&perks=2801223209,3311977193,908147344,2848615171
+dimwishlist:item=2721249463&perks=852209214,3827198035,908147344,2848615171
+dimwishlist:item=2721249463&perks=852209214,3311977193,908147344,2848615171
+dimwishlist:item=2721249463&perks=4067834857,3827198035,908147344,2848615171
+dimwishlist:item=2721249463&perks=4067834857,3311977193,908147344,2848615171
+dimwishlist:item=2721249463&perks=2801223209,3827198035,2848615171
+dimwishlist:item=2721249463&perks=2801223209,3311977193,2848615171
+dimwishlist:item=2721249463&perks=852209214,3827198035,2848615171
+dimwishlist:item=2721249463&perks=852209214,3311977193,2848615171
+dimwishlist:item=2721249463&perks=4067834857,3827198035,2848615171
+dimwishlist:item=2721249463&perks=4067834857,3311977193,2848615171
+dimwishlist:item=2721249463&perks=2801223209,908147344,2848615171
+dimwishlist:item=2721249463&perks=852209214,908147344,2848615171
+dimwishlist:item=2721249463&perks=4067834857,908147344,2848615171
+dimwishlist:item=2721249463&perks=2801223209,2848615171
+dimwishlist:item=2721249463&perks=852209214,2848615171
+dimwishlist:item=2721249463&perks=4067834857,2848615171
+
+//Tyranny of Heaven
+//notes: adam (PvP / optimal)|tags:PvP
+dimwishlist:item=2721249463&perks=2801223209,3827198035,588594999,957782887
+dimwishlist:item=2721249463&perks=852209214,3827198035,588594999,957782887
+dimwishlist:item=2721249463&perks=2801223209,3827198035,957782887
+dimwishlist:item=2721249463&perks=852209214,3827198035,957782887
+dimwishlist:item=2721249463&perks=2801223209,3311977193,588594999,957782887
+dimwishlist:item=2721249463&perks=852209214,3311977193,588594999,957782887
+dimwishlist:item=2721249463&perks=2801223209,3311977193,957782887
+dimwishlist:item=2721249463&perks=852209214,3311977193,957782887
+
+//The Supremacy
+//notes: adam (PvE / boss DPS / optimal)|tags:PvE
+dimwishlist:item=686951703&perks=839105230,1087426260,957782887,3400784728
+dimwishlist:item=686951703&perks=839105230,1087426260,2010801679,3400784728
+dimwishlist:item=686951703&perks=1467527085,1087426260,957782887,3400784728
+dimwishlist:item=686951703&perks=1467527085,1087426260,2010801679,3400784728
+dimwishlist:item=686951703&perks=3661387068,1087426260,957782887,3400784728
+dimwishlist:item=686951703&perks=3661387068,1087426260,2010801679,3400784728
+dimwishlist:item=686951703&perks=839105230,1087426260,3400784728
+dimwishlist:item=686951703&perks=1467527085,1087426260,3400784728
+dimwishlist:item=686951703&perks=3661387068,1087426260,3400784728
+dimwishlist:item=686951703&perks=1087426260,957782887,3400784728
+dimwishlist:item=686951703&perks=1087426260,2010801679,3400784728
+dimwishlist:item=686951703&perks=1087426260,3400784728
+
+//The Supremacy
+//notes: adam (PvE / boss DPS)|tags:PvE
+dimwishlist:item=686951703&perks=839105230,2420895100,957782887,247725512
+dimwishlist:item=686951703&perks=839105230,2420895100,2010801679,247725512
+dimwishlist:item=686951703&perks=1467527085,2420895100,957782887,247725512
+dimwishlist:item=686951703&perks=1467527085,2420895100,2010801679,247725512
+dimwishlist:item=686951703&perks=3661387068,2420895100,957782887,247725512
+dimwishlist:item=686951703&perks=3661387068,2420895100,2010801679,247725512
+dimwishlist:item=686951703&perks=839105230,2420895100,247725512
+dimwishlist:item=686951703&perks=1467527085,2420895100,247725512
+dimwishlist:item=686951703&perks=3661387068,2420895100,247725512
+dimwishlist:item=686951703&perks=2420895100,957782887,247725512
+dimwishlist:item=686951703&perks=2420895100,2010801679,247725512
+dimwishlist:item=686951703&perks=2420895100,247725512
+
+//The Supremacy
+//notes: adam (PvP / optimal)|tags:PvP
+dimwishlist:item=686951703&perks=839105230,1885400500,957782887,1015611457
+dimwishlist:item=686951703&perks=839105230,1885400500,957782887,3425386926
+dimwishlist:item=686951703&perks=1467527085,1885400500,957782887,1015611457
+dimwishlist:item=686951703&perks=1467527085,1885400500,957782887,3425386926
+dimwishlist:item=686951703&perks=3661387068,1885400500,957782887,1015611457
+dimwishlist:item=686951703&perks=3661387068,1885400500,957782887,3425386926
+dimwishlist:item=686951703&perks=1885400500,957782887,1015611457
+dimwishlist:item=686951703&perks=1885400500,957782887,3425386926
+dimwishlist:item=686951703&perks=839105230,957782887,1015611457
+dimwishlist:item=686951703&perks=839105230,957782887,3425386926
+dimwishlist:item=686951703&perks=1467527085,957782887,1015611457
+dimwishlist:item=686951703&perks=1467527085,957782887,3425386926
+dimwishlist:item=686951703&perks=3661387068,957782887,1015611457
+dimwishlist:item=686951703&perks=3661387068,957782887,3425386926
+dimwishlist:item=686951703&perks=839105230,1885400500,957782887
+dimwishlist:item=686951703&perks=1467527085,1885400500,957782887
+dimwishlist:item=686951703&perks=3661387068,1885400500,957782887
+dimwishlist:item=686951703&perks=839105230,957782887
+dimwishlist:item=686951703&perks=1467527085,957782887
+dimwishlist:item=686951703&perks=3661387068,957782887
+dimwishlist:item=686951703&perks=1885400500,957782887
+dimwishlist:item=686951703&perks=957782887,1015611457
+dimwishlist:item=686951703&perks=957782887,3425386926
+dimwishlist:item=686951703&perks=957782887
+
+//Techeun Force
+//notes: adam (PvP / optimal)|tags:PvP
+dimwishlist:item=4094657108&perks=839105230,1687452232,1645158859,2213355989
+dimwishlist:item=4094657108&perks=839105230,1687452232,1645158859,2213355989
+
+//Techeun Force
+//notes: adam (PvP)|tags:PvP
+dimwishlist:item=4094657108&perks=1467527085,1687452232,1645158859,2213355989
+dimwishlist:item=4094657108&perks=3661387068,1687452232,1645158859,2213355989
+dimwishlist:item=4094657108&perks=1467527085,1687452232,1645158859,2213355989
+dimwishlist:item=4094657108&perks=3661387068,1687452232,1645158859,2213355989
+
