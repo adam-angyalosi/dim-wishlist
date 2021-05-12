@@ -47,15 +47,15 @@ dimwishlist:item=1097616550&perks=3643424744,4104185692
 //Imperial Needle
 //notes: adam (PvE 1 / primary use / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=3460122497&perks=2801223209,3429800428,951095735,2726471870
-dimwishlist:item=3460122497&perks=852209214,3429800428,951095735,2726471870
 dimwishlist:item=3460122497&perks=2801223209,3429800428,2726471870
+dimwishlist:item=3460122497&perks=852209214,3429800428,951095735,2726471870
 dimwishlist:item=3460122497&perks=852209214,3429800428,2726471870
 
 //Imperial Needle
 //notes: adam (PvE 1 / primary use), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=3460122497&perks=2801223209,3827198035,951095735,2726471870
-dimwishlist:item=3460122497&perks=852209214,3827198035,951095735,2726471870
 dimwishlist:item=3460122497&perks=2801223209,3827198035,2726471870
+dimwishlist:item=3460122497&perks=852209214,3827198035,951095735,2726471870
 dimwishlist:item=3460122497&perks=852209214,3827198035,2726471870
 
 //Imperial Needle
@@ -156,6 +156,36 @@ dimwishlist:item=3460122497&perks=2801223209,3827198035,2450788523,47981717
 dimwishlist:item=3460122497&perks=2801223209,3827198035,951095735,47981717
 dimwishlist:item=3460122497&perks=852209214,3827198035,47981717
 dimwishlist:item=3460122497&perks=2801223209,3827198035,47981717
+
+//Brass Attacks
+//notes: adam (PvE 1 / regular, non-endgame content / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2121785039&perks=1467527085,3425386926
+dimwishlist:item=2121785039&perks=3661387068,3425386926
+
+//Brass Attacks
+//notes: adam (PvE 1 / regular, non-endgame content / optimal), (PvP / optimal), (PvE 2 / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2121785039&perks=1467527085
+dimwishlist:item=2121785039&perks=3661387068
+
+//Brass Attacks
+//notes: adam (PvE 1 / regular, non-endgame content / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2121785039&perks=1467527085,1885400500,3425386926
+dimwishlist:item=2121785039&perks=3661387068,1885400500,3425386926
+
+//Brass Attacks
+//notes: adam (PvE 1 / regular, non-endgame content / optimal), (PvP / optimal), (PvE 2 / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2121785039&perks=1467527085,1885400500
+dimwishlist:item=2121785039&perks=3661387068,1885400500
+
+//Brass Attacks
+//notes: adam (PvE 2 / high PL content, GMs), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2121785039&perks=1467527085,2039302152
+dimwishlist:item=2121785039&perks=3661387068,2039302152
+
+//Brass Attacks
+//notes: adam (PvE 2 / high PL content, GMs), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2121785039&perks=1467527085,1885400500,2039302152
+dimwishlist:item=2121785039&perks=3661387068,1885400500,2039302152
 
 //Brass Attacks
 //notes: adam (PvE 1 / regular, non-endgame content / optimal): Recoil barrels feel important on this one, as it has a strong sideways deviation by default, Extended/Chambered makes it very reliable and fully vertical. Wellspring is also a good option in Slot 4 if you're okay sacrificing damage perks.|tags:PvE
@@ -360,13 +390,13 @@ dimwishlist:item=2496242052&perks=951095735,2396489472
 //The Palindrome
 //notes: adam (PvE / regular, non-endgame content), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=432476743&perks=1467527085,1087426260,1168162263,4049631843
-dimwishlist:item=432476743&perks=3250034553,1087426260,1168162263,4049631843
-dimwishlist:item=432476743&perks=1482024992,1087426260,1168162263,4049631843
 dimwishlist:item=432476743&perks=1467527085,1168162263,4049631843
-dimwishlist:item=432476743&perks=3250034553,1168162263,4049631843
-dimwishlist:item=432476743&perks=1482024992,1168162263,4049631843
 dimwishlist:item=432476743&perks=1087426260,1168162263,4049631843
 dimwishlist:item=432476743&perks=1168162263,4049631843
+dimwishlist:item=432476743&perks=3250034553,1087426260,1168162263,4049631843
+dimwishlist:item=432476743&perks=3250034553,1168162263,4049631843
+dimwishlist:item=432476743&perks=1482024992,1087426260,1168162263,4049631843
+dimwishlist:item=432476743&perks=1482024992,1168162263,4049631843
 
 //The Palindrome
 //notes: adam (PvE / regular, non-endgame content / optimal): Subsistence is great on hand cannons when used for general add clear. By default, this gun gets 1 bullet back for every kill with subsistence—however, a mag increase in Slot 2 can push that to 2 per kill, which should guarantee an infinite mag without ever having to reload.  That being said, I would look for the High PL Content roll, which covers all PvE situations really well.|tags:PvE
@@ -498,13 +528,13 @@ dimwishlist:item=432476743&perks=1561002382,706527188,2726471870
 //The Palindrome (Adept)
 //notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=1481892490&perks=1467527085,1087426260,1168162263,4049631843
-dimwishlist:item=1481892490&perks=3250034553,1087426260,1168162263,4049631843
-dimwishlist:item=1481892490&perks=1482024992,1087426260,1168162263,4049631843
 dimwishlist:item=1481892490&perks=1467527085,1168162263,4049631843
-dimwishlist:item=1481892490&perks=3250034553,1168162263,4049631843
-dimwishlist:item=1481892490&perks=1482024992,1168162263,4049631843
 dimwishlist:item=1481892490&perks=1087426260,1168162263,4049631843
 dimwishlist:item=1481892490&perks=1168162263,4049631843
+dimwishlist:item=1481892490&perks=3250034553,1087426260,1168162263,4049631843
+dimwishlist:item=1481892490&perks=3250034553,1168162263,4049631843
+dimwishlist:item=1481892490&perks=1482024992,1087426260,1168162263,4049631843
+dimwishlist:item=1481892490&perks=1482024992,1168162263,4049631843
 
 //The Palindrome (Adept)
 //notes: adam (PvE / regular, non-endgame content / optimal): Subsistence feels viable on hand cannons, if you use them to clear add waves. By default, this gun gets 1 bullet back for every kill with subsistence—however, a mag increase in Slot 2 can push that to 2 per kill, which should guarantee an infinite mag without ever having to reload. Keep in mind though that the higher your mag, the more subsistence lowers your total reserves. That being said, I would look for the roll below, which covers both easy red bar clear and difficult content as well.|tags:PvE
@@ -618,16 +648,24 @@ dimwishlist:item=1481892490&perks=1561002382,706527188,2846385770
 dimwishlist:item=1481892490&perks=1561002382,706527188,2726471870
 
 //Shadow Price
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2633186522&perks=839105230,4082225868
+
+//Shadow Price
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2633186522&perks=1467527085,4082225868
+
+//Shadow Price
 //notes: adam (PvE / regular, non-endgame content), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=2633186522&perks=839105230,1087426260,3643424744,4049631843
-dimwishlist:item=2633186522&perks=839105230,106909392,3643424744,4049631843
-dimwishlist:item=2633186522&perks=1467527085,1087426260,3643424744,4049631843
-dimwishlist:item=2633186522&perks=1467527085,106909392,3643424744,4049631843
 dimwishlist:item=2633186522&perks=839105230,3643424744,4049631843
-dimwishlist:item=2633186522&perks=1467527085,3643424744,4049631843
 dimwishlist:item=2633186522&perks=1087426260,3643424744,4049631843
-dimwishlist:item=2633186522&perks=106909392,3643424744,4049631843
 dimwishlist:item=2633186522&perks=3643424744,4049631843
+dimwishlist:item=2633186522&perks=839105230,106909392,3643424744,4049631843
+dimwishlist:item=2633186522&perks=106909392,3643424744,4049631843
+dimwishlist:item=2633186522&perks=1467527085,1087426260,3643424744,4049631843
+dimwishlist:item=2633186522&perks=1467527085,3643424744,4049631843
+dimwishlist:item=2633186522&perks=1467527085,106909392,3643424744,4049631843
 
 //Shadow Price
 //notes: adam (PvE / regular, non-endgame content / optimal): While recently buffed for parity in PvP, 450 rpm auto rifles are still relatively weak in the current PvE sandbox and you will need a damage increase to make them viable, so Slot 4 feels absolutely essential here.|tags:PvE
@@ -715,16 +753,24 @@ dimwishlist:item=2633186522&perks=1467527085,4082225868
 dimwishlist:item=2633186522&perks=1467527085,2726471870
 
 //Shadow Price (Adept)
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2147010335&perks=839105230,4082225868
+
+//Shadow Price (Adept)
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2147010335&perks=1467527085,4082225868
+
+//Shadow Price (Adept)
 //notes: adam (PvE / regular, non-endgame content), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=2147010335&perks=839105230,1087426260,3643424744,4049631843
-dimwishlist:item=2147010335&perks=839105230,106909392,3643424744,4049631843
-dimwishlist:item=2147010335&perks=1467527085,1087426260,3643424744,4049631843
-dimwishlist:item=2147010335&perks=1467527085,106909392,3643424744,4049631843
 dimwishlist:item=2147010335&perks=839105230,3643424744,4049631843
-dimwishlist:item=2147010335&perks=1467527085,3643424744,4049631843
 dimwishlist:item=2147010335&perks=1087426260,3643424744,4049631843
-dimwishlist:item=2147010335&perks=106909392,3643424744,4049631843
 dimwishlist:item=2147010335&perks=3643424744,4049631843
+dimwishlist:item=2147010335&perks=839105230,106909392,3643424744,4049631843
+dimwishlist:item=2147010335&perks=106909392,3643424744,4049631843
+dimwishlist:item=2147010335&perks=1467527085,1087426260,3643424744,4049631843
+dimwishlist:item=2147010335&perks=1467527085,3643424744,4049631843
+dimwishlist:item=2147010335&perks=1467527085,106909392,3643424744,4049631843
 
 //Shadow Price (Adept)
 //notes: adam (PvE / regular, non-endgame content / optimal): While recently buffed for parity in PvP, 450 rpm auto rifles are still relatively weak in the current PvE sandbox and you will need a damage increase to make them viable, so Slot 4 feels absolutely essential here.|tags:PvE
@@ -1159,6 +1205,11 @@ dimwishlist:item=2891672170&perks=1047830412,791862061,1866048759,2726471870
 dimwishlist:item=2891672170&perks=1047830412,791862061,2726471870
 
 //Xenoclast IV
+//notes: adam (PvE / ability engine primary / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2891672170&perks=791862061,1866048759,2726471870
+dimwishlist:item=2891672170&perks=791862061,2726471870
+
+//Xenoclast IV
 //notes: adam (PvE / single target dps / optimal)|tags:PvE
 dimwishlist:item=2891672170&perks=1482024992,791862061,2869569095,806159697
 dimwishlist:item=2891672170&perks=1482024992,791862061,3300816228,806159697
@@ -1333,8 +1384,14 @@ dimwishlist:item=2448907086&perks=951095735,2396489472
 //The Keening
 //notes: adam (PvE / regular, non-endgame content), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=409551876&perks=1482024992,679225683,247725512,4049631843
-dimwishlist:item=409551876&perks=4090651448,679225683,247725512,4049631843
 dimwishlist:item=409551876&perks=679225683,247725512,4049631843
+dimwishlist:item=409551876&perks=4090651448,679225683,247725512,4049631843
+
+//The Keening
+//notes: adam (PvE / regular, non-endgame content), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=409551876&perks=1482024992,247725512,4049631843
+dimwishlist:item=409551876&perks=4090651448,247725512,4049631843
+dimwishlist:item=409551876&perks=247725512,4049631843
 
 //The Keening
 //notes: adam (PvE / regular, non-endgame content / optimal): This weapon's main downside is its low base reload speed, and none of the reload perks are 100% reliable here, so I suggest stacking reload stat increases on the mag and masterwork slots.|tags:PvE
@@ -1819,36 +1876,55 @@ dimwishlist:item=409551876&perks=4090651448,679225683,3161816588,3592538738
 dimwishlist:item=2050789284&perks=839105230,3177308360,1168162263,1015611457
 
 //Stars In Shadow
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2050789284&perks=839105230,1168162263,1015611457
+
+//Stars In Shadow
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2050789284&perks=3177308360,1168162263,1015611457
+
+//Stars In Shadow
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2050789284&perks=1168162263,1015611457
+
+//Stars In Shadow
 //notes: adam (PvE / regular, non-endgame content / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=2050789284&perks=3661387068,3177308360,1168162263,1015611457
+
+//Stars In Shadow
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2050789284&perks=3661387068,1168162263,1015611457
 
 //Stars In Shadow
 //notes: adam (PvE / regular, non-endgame content / optimal), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=2050789284&perks=1392496348,3177308360,1168162263,1015611457
 
 //Stars In Shadow
-//notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
-dimwishlist:item=2050789284&perks=3177308360,1168162263,1015611457
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2050789284&perks=1392496348,1168162263,1015611457
 
 //Stars In Shadow
 //notes: adam (PvE / regular, non-endgame content), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=2050789284&perks=839105230,106909392,1168162263,1015611457
-dimwishlist:item=2050789284&perks=839105230,3230963543,1168162263,1015611457
 dimwishlist:item=2050789284&perks=106909392,1168162263,1015611457
+dimwishlist:item=2050789284&perks=839105230,3230963543,1168162263,1015611457
 dimwishlist:item=2050789284&perks=3230963543,1168162263,1015611457
 
 //Stars In Shadow
 //notes: adam (PvE / regular, non-endgame content), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=2050789284&perks=839105230,3177308360,1168162263,2726471870
+dimwishlist:item=2050789284&perks=839105230,1168162263,2726471870
 dimwishlist:item=2050789284&perks=3661387068,3177308360,1168162263,2726471870
+dimwishlist:item=2050789284&perks=3661387068,1168162263,2726471870
 
 //Stars In Shadow
 //notes: adam (PvE / regular, non-endgame content), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=2050789284&perks=1392496348,3177308360,1168162263,2726471870
+dimwishlist:item=2050789284&perks=1392496348,1168162263,2726471870
 
 //Stars In Shadow
-//notes: adam (PvE / high PL content, GMs / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
-dimwishlist:item=2050789284&perks=839105230,1168162263,1015611457
+//notes: adam (PvE / regular, non-endgame content), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2050789284&perks=3177308360,1168162263,2726471870
 
 //Stars In Shadow
 //notes: adam (PvE / regular, non-endgame content / optimal): Lots of good options here. Dragonfly on a solar weapon is always extra useful due to the warmind cell generating potential when paired with Wrath of Rasputin.|tags:PvE
@@ -2268,46 +2344,46 @@ dimwishlist:item=3473290087&perks=1015611457
 //Bottom Dollar
 //notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=1046651176&perks=1482024992,106909392,247725512,2458213969
+dimwishlist:item=1046651176&perks=1482024992,247725512,2458213969
+dimwishlist:item=1046651176&perks=106909392,247725512,2458213969
+dimwishlist:item=1046651176&perks=247725512,2458213969
 dimwishlist:item=1046651176&perks=1482024992,106909392,247725512,3425386926
+dimwishlist:item=1046651176&perks=106909392,247725512,3425386926
 dimwishlist:item=1046651176&perks=1482024992,3230963543,247725512,2458213969
+dimwishlist:item=1046651176&perks=3230963543,247725512,2458213969
 dimwishlist:item=1046651176&perks=1482024992,3230963543,247725512,3425386926
+dimwishlist:item=1046651176&perks=3230963543,247725512,3425386926
 dimwishlist:item=1046651176&perks=1482024992,3177308360,247725512,2458213969
+dimwishlist:item=1046651176&perks=3177308360,247725512,2458213969
 dimwishlist:item=1046651176&perks=1392496348,106909392,247725512,2458213969
+dimwishlist:item=1046651176&perks=1392496348,247725512,2458213969
 dimwishlist:item=1046651176&perks=1392496348,106909392,247725512,3425386926
+dimwishlist:item=1046651176&perks=1392496348,247725512,3425386926
 dimwishlist:item=1046651176&perks=1392496348,3230963543,247725512,2458213969
 dimwishlist:item=1046651176&perks=1392496348,3230963543,247725512,3425386926
 dimwishlist:item=1046651176&perks=1392496348,3177308360,247725512,2458213969
 dimwishlist:item=1046651176&perks=1392496348,3177308360,247725512,3425386926
-dimwishlist:item=1046651176&perks=1482024992,247725512,2458213969
-dimwishlist:item=1046651176&perks=1392496348,247725512,2458213969
-dimwishlist:item=1046651176&perks=1392496348,247725512,3425386926
-dimwishlist:item=1046651176&perks=106909392,247725512,2458213969
-dimwishlist:item=1046651176&perks=106909392,247725512,3425386926
-dimwishlist:item=1046651176&perks=3230963543,247725512,2458213969
-dimwishlist:item=1046651176&perks=3230963543,247725512,3425386926
-dimwishlist:item=1046651176&perks=3177308360,247725512,2458213969
-dimwishlist:item=1046651176&perks=247725512,2458213969
 
 //Bottom Dollar
 //notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
-dimwishlist:item=1046651176&perks=1482024992,3177308360,247725512,3425386926
 dimwishlist:item=1046651176&perks=1482024992,247725512,3425386926
-dimwishlist:item=1046651176&perks=3177308360,247725512,3425386926
 dimwishlist:item=1046651176&perks=247725512,3425386926
+dimwishlist:item=1046651176&perks=1482024992,3177308360,247725512,3425386926
+dimwishlist:item=1046651176&perks=3177308360,247725512,3425386926
 
 //Bottom Dollar
 //notes: adam (PvE / high PL content, GMs / optimal), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
-dimwishlist:item=1046651176&perks=1482024992,3177308360,247725512,3038247973
-dimwishlist:item=1046651176&perks=4090651448,3177308360,247725512,3038247973
 dimwishlist:item=1046651176&perks=1482024992,247725512,3038247973
-dimwishlist:item=1046651176&perks=4090651448,247725512,3038247973
-dimwishlist:item=1046651176&perks=3177308360,247725512,3038247973
 dimwishlist:item=1046651176&perks=247725512,3038247973
+dimwishlist:item=1046651176&perks=1482024992,3177308360,247725512,3038247973
+dimwishlist:item=1046651176&perks=3177308360,247725512,3038247973
+dimwishlist:item=1046651176&perks=4090651448,247725512,3038247973
+dimwishlist:item=1046651176&perks=4090651448,3177308360,247725512,3038247973
 
 //Bottom Dollar
 //notes: adam (PvE / high PL content, GMs), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
-dimwishlist:item=1046651176&perks=4090651448,3177308360,247725512,3425386926
 dimwishlist:item=1046651176&perks=4090651448,247725512,3425386926
+dimwishlist:item=1046651176&perks=4090651448,3177308360,247725512,3425386926
 
 //Bottom Dollar
 //notes: adam (PvE / regular, non-endgame content / optimal): The base reload speed on 120s is so slow that even with good reload perks like Outlaw and Rapid Hit, it's probably worth stacking some reload stat buffs for safety. Besides that, you want to focus on stability, as these things kick like a mule.|tags:PvE
@@ -3639,35 +3715,35 @@ dimwishlist:item=65611680&perks=1866048759,11551321
 //Trustee
 //notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=1392919471&perks=839105230,106909392,1168162263,3592538738
-dimwishlist:item=1392919471&perks=839105230,1087426260,1168162263,3592538738
 dimwishlist:item=1392919471&perks=839105230,106909392,1168162263
-dimwishlist:item=1392919471&perks=839105230,1087426260,1168162263
 dimwishlist:item=1392919471&perks=839105230,1168162263,3592538738
 dimwishlist:item=1392919471&perks=839105230,1168162263
+dimwishlist:item=1392919471&perks=839105230,1087426260,1168162263,3592538738
+dimwishlist:item=1392919471&perks=839105230,1087426260,1168162263
 
 //Trustee
 //notes: adam (PvE / regular, non-endgame content), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=1392919471&perks=839105230,106909392,1523832109,3592538738
-dimwishlist:item=1392919471&perks=839105230,1087426260,1523832109,3592538738
 dimwishlist:item=1392919471&perks=839105230,106909392,1523832109
-dimwishlist:item=1392919471&perks=839105230,1087426260,1523832109
 dimwishlist:item=1392919471&perks=839105230,1523832109,3592538738
 dimwishlist:item=1392919471&perks=839105230,1523832109
+dimwishlist:item=1392919471&perks=839105230,1087426260,1523832109,3592538738
+dimwishlist:item=1392919471&perks=839105230,1087426260,1523832109
 
 //Trustee
 //notes: adam (PvE / regular, non-endgame content), (PvE / high PL content, GMs) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=1392919471&perks=3661387068,106909392,1168162263,3592538738
-dimwishlist:item=1392919471&perks=3661387068,106909392,1523832109,3592538738
-dimwishlist:item=1392919471&perks=3661387068,1087426260,1168162263,3592538738
-dimwishlist:item=1392919471&perks=3661387068,1087426260,1523832109,3592538738
 dimwishlist:item=1392919471&perks=3661387068,106909392,1168162263
-dimwishlist:item=1392919471&perks=3661387068,106909392,1523832109
-dimwishlist:item=1392919471&perks=3661387068,1087426260,1168162263
-dimwishlist:item=1392919471&perks=3661387068,1087426260,1523832109
 dimwishlist:item=1392919471&perks=3661387068,1168162263,3592538738
-dimwishlist:item=1392919471&perks=3661387068,1523832109,3592538738
 dimwishlist:item=1392919471&perks=3661387068,1168162263
+dimwishlist:item=1392919471&perks=3661387068,106909392,1523832109,3592538738
+dimwishlist:item=1392919471&perks=3661387068,106909392,1523832109
+dimwishlist:item=1392919471&perks=3661387068,1523832109,3592538738
 dimwishlist:item=1392919471&perks=3661387068,1523832109
+dimwishlist:item=1392919471&perks=3661387068,1087426260,1168162263,3592538738
+dimwishlist:item=1392919471&perks=3661387068,1087426260,1168162263
+dimwishlist:item=1392919471&perks=3661387068,1087426260,1523832109,3592538738
+dimwishlist:item=1392919471&perks=3661387068,1087426260,1523832109
 
 //Trustee
 //notes: adam (PvE / regular, non-endgame content / optimal): I am leaning towards Outlaw on a general PvE roll, since you might not have enough downtime on your primary to give enough time for Reconstruction to do its job. That being said, the right mag perks can give you a good enough reload speed that you can get by without Outlaw, and take advantage of that double mag. Don't be fooled by the rarity and novelty on Redirection, it's a weak buff and I'd always pick Wellspring over it. Lastly, avoid the Reconstruction + High-Impact Reserves combo, as the latter only procs on the second half of your *base* mag, and the auto-refill from Reconstruction means you might never get it to proc. Try to get Arrowhead Brake to stabilize the pretty bad recoil deviation on this weapon.|tags:PvE
@@ -4134,11 +4210,11 @@ dimwishlist:item=3366545721&perks=2726471870
 //Accrued Redemption
 //notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,247725512
-dimwishlist:item=4095896073&perks=2801223209,3311977193,201365942,247725512
 dimwishlist:item=4095896073&perks=2801223209,3827198035,247725512
-dimwishlist:item=4095896073&perks=2801223209,3311977193,247725512
 dimwishlist:item=4095896073&perks=2801223209,201365942,247725512
 dimwishlist:item=4095896073&perks=2801223209,247725512
+dimwishlist:item=4095896073&perks=2801223209,3311977193,201365942,247725512
+dimwishlist:item=4095896073&perks=2801223209,3311977193,247725512
 
 //Accrued Redemption
 //notes: adam (PvE / regular, non-endgame content / optimal)|tags:PvE
@@ -4182,11 +4258,14 @@ dimwishlist:item=4095896073&perks=2801223209,3311977193,588594999
 //Sacred Provenance
 //notes: adam (PvE / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,1015611457
+dimwishlist:item=2408405461&perks=1885400500,247725512,1015611457
 dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,1015611457
+dimwishlist:item=2408405461&perks=1561002382,247725512,1015611457
 dimwishlist:item=2408405461&perks=3661387068,1885400500,247725512,1015611457
 dimwishlist:item=2408405461&perks=3661387068,1561002382,247725512,1015611457
-dimwishlist:item=2408405461&perks=1885400500,247725512,1015611457
-dimwishlist:item=2408405461&perks=1561002382,247725512,1015611457
+dimwishlist:item=2408405461&perks=839105230,247725512,1015611457
+dimwishlist:item=2408405461&perks=3661387068,247725512,1015611457
+dimwishlist:item=2408405461&perks=247725512,1015611457
 
 //Sacred Provenance
 //notes: adam (PvE / optimal): One of the best (if not THE best) feeling PvE pulses in the entire game, hell, one of the best feeling PvE primaries of any kind. Make sure you give it a try, especially if you were a fan of Blast Furnace back in the day.  Be sure to put a Counterbalance Mod on it if you don't have Arrowhead Brake in Slot 1, as it has a strong sideways recoil by default. Arrowhead Brake maxes the recoil stat, use a different mod if you have that roll.|tags:PvE
@@ -4251,48 +4330,48 @@ dimwishlist:item=3385326721&perks=3661387068,1561002382,1015611457
 //Ancient Gospel
 //notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=48643186&perks=3250034553,106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=3250034553,247725512,2848615171
+dimwishlist:item=48643186&perks=106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=247725512,2848615171
 dimwishlist:item=48643186&perks=3250034553,2420895100,247725512,2848615171
+dimwishlist:item=48643186&perks=2420895100,247725512,2848615171
 dimwishlist:item=48643186&perks=3250034553,3142289711,247725512,2848615171
+dimwishlist:item=48643186&perks=3142289711,247725512,2848615171
 dimwishlist:item=48643186&perks=1482024992,106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=1482024992,247725512,2848615171
 dimwishlist:item=48643186&perks=1482024992,2420895100,247725512,2848615171
 dimwishlist:item=48643186&perks=1482024992,3142289711,247725512,2848615171
 dimwishlist:item=48643186&perks=3661387068,106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=3661387068,247725512,2848615171
 dimwishlist:item=48643186&perks=3661387068,2420895100,247725512,2848615171
 dimwishlist:item=48643186&perks=3661387068,3142289711,247725512,2848615171
 dimwishlist:item=48643186&perks=202670084,106909392,247725512,2848615171
+dimwishlist:item=48643186&perks=202670084,247725512,2848615171
 dimwishlist:item=48643186&perks=202670084,2420895100,247725512,2848615171
 dimwishlist:item=48643186&perks=202670084,3142289711,247725512,2848615171
-dimwishlist:item=48643186&perks=3250034553,247725512,2848615171
-dimwishlist:item=48643186&perks=1482024992,247725512,2848615171
-dimwishlist:item=48643186&perks=3661387068,247725512,2848615171
-dimwishlist:item=48643186&perks=202670084,247725512,2848615171
-dimwishlist:item=48643186&perks=106909392,247725512,2848615171
-dimwishlist:item=48643186&perks=2420895100,247725512,2848615171
-dimwishlist:item=48643186&perks=3142289711,247725512,2848615171
-dimwishlist:item=48643186&perks=247725512,2848615171
 
 //Ancient Gospel
 //notes: adam (PvE / regular, non-endgame content), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=48643186&perks=3250034553,106909392,1168162263,2848615171
+dimwishlist:item=48643186&perks=3250034553,1168162263,2848615171
+dimwishlist:item=48643186&perks=106909392,1168162263,2848615171
+dimwishlist:item=48643186&perks=1168162263,2848615171
 dimwishlist:item=48643186&perks=3250034553,2420895100,1168162263,2848615171
+dimwishlist:item=48643186&perks=2420895100,1168162263,2848615171
 dimwishlist:item=48643186&perks=3250034553,3142289711,1168162263,2848615171
+dimwishlist:item=48643186&perks=3142289711,1168162263,2848615171
 dimwishlist:item=48643186&perks=1482024992,106909392,1168162263,2848615171
+dimwishlist:item=48643186&perks=1482024992,1168162263,2848615171
 dimwishlist:item=48643186&perks=1482024992,2420895100,1168162263,2848615171
 dimwishlist:item=48643186&perks=1482024992,3142289711,1168162263,2848615171
 dimwishlist:item=48643186&perks=3661387068,106909392,1168162263,2848615171
+dimwishlist:item=48643186&perks=3661387068,1168162263,2848615171
 dimwishlist:item=48643186&perks=3661387068,2420895100,1168162263,2848615171
 dimwishlist:item=48643186&perks=3661387068,3142289711,1168162263,2848615171
 dimwishlist:item=48643186&perks=202670084,106909392,1168162263,2848615171
+dimwishlist:item=48643186&perks=202670084,1168162263,2848615171
 dimwishlist:item=48643186&perks=202670084,2420895100,1168162263,2848615171
 dimwishlist:item=48643186&perks=202670084,3142289711,1168162263,2848615171
-dimwishlist:item=48643186&perks=3250034553,1168162263,2848615171
-dimwishlist:item=48643186&perks=1482024992,1168162263,2848615171
-dimwishlist:item=48643186&perks=3661387068,1168162263,2848615171
-dimwishlist:item=48643186&perks=202670084,1168162263,2848615171
-dimwishlist:item=48643186&perks=106909392,1168162263,2848615171
-dimwishlist:item=48643186&perks=2420895100,1168162263,2848615171
-dimwishlist:item=48643186&perks=3142289711,1168162263,2848615171
-dimwishlist:item=48643186&perks=1168162263,2848615171
 
 //Ancient Gospel
 //notes: adam (PvE / regular, non-endgame content / optimal)|tags:PvE
@@ -4620,6 +4699,30 @@ dimwishlist:item=4020742303&perks=1300023272,3142289711,2117683199,47981717
 dimwishlist:item=4020742303&perks=1300023272,3142289711,2117683199,3275789089
 
 //Chattering Bone
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=568515759&perks=839105230,1885400500,3425386926
+
+//Chattering Bone
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=568515759&perks=839105230,1561002382,3425386926
+
+//Chattering Bone
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=568515759&perks=839105230,3425386926
+
+//Chattering Bone
+//notes: adam (PvE / regular, non-endgame content), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=568515759&perks=1467527085,1885400500,3425386926
+
+//Chattering Bone
+//notes: adam (PvE / regular, non-endgame content), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=568515759&perks=1467527085,1561002382,3425386926
+
+//Chattering Bone
+//notes: adam (PvE / regular, non-endgame content), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=568515759&perks=1467527085,3425386926
+
+//Chattering Bone
 //notes: adam (PvE / regular, non-endgame content / optimal)|tags:PvE
 dimwishlist:item=568515759&perks=839105230,1885400500,1168162263,3425386926
 dimwishlist:item=568515759&perks=839105230,1561002382,1168162263,3425386926
@@ -4675,9 +4778,13 @@ dimwishlist:item=568515759&perks=1467527085,1561002382,2846385770
 //Transfiguration
 //notes: adam (PvE / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=3799980700&perks=3661387068,106909392,3425386926,1015611457
+dimwishlist:item=3799980700&perks=3661387068,3425386926,1015611457
 dimwishlist:item=3799980700&perks=3661387068,106909392,3425386926,3038247973
+dimwishlist:item=3799980700&perks=3661387068,3425386926,3038247973
 dimwishlist:item=3799980700&perks=3661387068,106909392,1168162263,1015611457
+dimwishlist:item=3799980700&perks=3661387068,1168162263,1015611457
 dimwishlist:item=3799980700&perks=3661387068,106909392,1168162263,3038247973
+dimwishlist:item=3799980700&perks=3661387068,1168162263,3038247973
 dimwishlist:item=3799980700&perks=3661387068,4134353779,3425386926,1015611457
 dimwishlist:item=3799980700&perks=3661387068,4134353779,3425386926,3038247973
 dimwishlist:item=3799980700&perks=3661387068,4134353779,1168162263,1015611457
@@ -4687,9 +4794,13 @@ dimwishlist:item=3799980700&perks=3661387068,3177308360,3425386926,3038247973
 dimwishlist:item=3799980700&perks=3661387068,3177308360,1168162263,1015611457
 dimwishlist:item=3799980700&perks=3661387068,3177308360,1168162263,3038247973
 dimwishlist:item=3799980700&perks=1840239774,106909392,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1840239774,3425386926,1015611457
 dimwishlist:item=3799980700&perks=1840239774,106909392,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1840239774,3425386926,3038247973
 dimwishlist:item=3799980700&perks=1840239774,106909392,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1840239774,1168162263,1015611457
 dimwishlist:item=3799980700&perks=1840239774,106909392,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1840239774,1168162263,3038247973
 dimwishlist:item=3799980700&perks=1840239774,4134353779,3425386926,1015611457
 dimwishlist:item=3799980700&perks=1840239774,4134353779,3425386926,3038247973
 dimwishlist:item=3799980700&perks=1840239774,4134353779,1168162263,1015611457
@@ -4698,21 +4809,17 @@ dimwishlist:item=3799980700&perks=1840239774,3177308360,3425386926,1015611457
 dimwishlist:item=3799980700&perks=1840239774,3177308360,3425386926,3038247973
 dimwishlist:item=3799980700&perks=1840239774,3177308360,1168162263,1015611457
 dimwishlist:item=3799980700&perks=1840239774,3177308360,1168162263,3038247973
-dimwishlist:item=3799980700&perks=3661387068,3425386926,1015611457
-dimwishlist:item=3799980700&perks=3661387068,3425386926,3038247973
-dimwishlist:item=3799980700&perks=3661387068,1168162263,1015611457
-dimwishlist:item=3799980700&perks=3661387068,1168162263,3038247973
-dimwishlist:item=3799980700&perks=1840239774,3425386926,1015611457
-dimwishlist:item=3799980700&perks=1840239774,3425386926,3038247973
-dimwishlist:item=3799980700&perks=1840239774,1168162263,1015611457
-dimwishlist:item=3799980700&perks=1840239774,1168162263,3038247973
 
 //Transfiguration
 //notes: adam (PvE / optimal), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=3799980700&perks=1392496348,106909392,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1392496348,3425386926,1015611457
 dimwishlist:item=3799980700&perks=1392496348,106909392,3425386926,3038247973
+dimwishlist:item=3799980700&perks=1392496348,3425386926,3038247973
 dimwishlist:item=3799980700&perks=1392496348,106909392,1168162263,1015611457
+dimwishlist:item=3799980700&perks=1392496348,1168162263,1015611457
 dimwishlist:item=3799980700&perks=1392496348,106909392,1168162263,3038247973
+dimwishlist:item=3799980700&perks=1392496348,1168162263,3038247973
 dimwishlist:item=3799980700&perks=1392496348,4134353779,3425386926,1015611457
 dimwishlist:item=3799980700&perks=1392496348,4134353779,3425386926,3038247973
 dimwishlist:item=3799980700&perks=1392496348,4134353779,1168162263,1015611457
@@ -4721,10 +4828,25 @@ dimwishlist:item=3799980700&perks=1392496348,3177308360,3425386926,1015611457
 dimwishlist:item=3799980700&perks=1392496348,3177308360,3425386926,3038247973
 dimwishlist:item=3799980700&perks=1392496348,3177308360,1168162263,1015611457
 dimwishlist:item=3799980700&perks=1392496348,3177308360,1168162263,3038247973
-dimwishlist:item=3799980700&perks=1392496348,3425386926,1015611457
-dimwishlist:item=3799980700&perks=1392496348,3425386926,3038247973
-dimwishlist:item=3799980700&perks=1392496348,1168162263,1015611457
-dimwishlist:item=3799980700&perks=1392496348,1168162263,3038247973
+
+//Transfiguration
+//notes: adam (PvE / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=3799980700&perks=106909392,3425386926,1015611457
+dimwishlist:item=3799980700&perks=106909392,3425386926,3038247973
+dimwishlist:item=3799980700&perks=106909392,1168162263,1015611457
+dimwishlist:item=3799980700&perks=106909392,1168162263,3038247973
+dimwishlist:item=3799980700&perks=4134353779,3425386926,1015611457
+dimwishlist:item=3799980700&perks=4134353779,3425386926,3038247973
+dimwishlist:item=3799980700&perks=4134353779,1168162263,1015611457
+dimwishlist:item=3799980700&perks=4134353779,1168162263,3038247973
+dimwishlist:item=3799980700&perks=3177308360,3425386926,1015611457
+dimwishlist:item=3799980700&perks=3177308360,3425386926,3038247973
+dimwishlist:item=3799980700&perks=3177308360,1168162263,1015611457
+dimwishlist:item=3799980700&perks=3177308360,1168162263,3038247973
+dimwishlist:item=3799980700&perks=3425386926,1015611457
+dimwishlist:item=3799980700&perks=3425386926,3038247973
+dimwishlist:item=3799980700&perks=1168162263,1015611457
+dimwishlist:item=3799980700&perks=1168162263,3038247973
 
 //Transfiguration
 //notes: adam (PvE / optimal): Outlaw and Explosive Payload are both exclusive to the curated roll.|tags:PvE
@@ -4850,23 +4972,36 @@ dimwishlist:item=3799980700&perks=1392496348,1168162263,3038247973
 //Age-Old Bond
 //notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=601592879&perks=3661387068,1885400500,1359896290,1015611457
+dimwishlist:item=601592879&perks=3661387068,1885400500,1015611457
+dimwishlist:item=601592879&perks=3661387068,1359896290,1015611457
+dimwishlist:item=601592879&perks=3661387068,1015611457
 dimwishlist:item=601592879&perks=1392496348,1885400500,1359896290,1015611457
+dimwishlist:item=601592879&perks=1392496348,1885400500,1015611457
+dimwishlist:item=601592879&perks=1392496348,1359896290,1015611457
+dimwishlist:item=601592879&perks=1392496348,1015611457
+
+//Age-Old Bond
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvP / optimal), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=601592879&perks=1885400500,1359896290,1015611457
 
 //Age-Old Bond
 //notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=601592879&perks=3661387068,679225683,1359896290,1015611457
+dimwishlist:item=601592879&perks=3661387068,679225683,1015611457
 dimwishlist:item=601592879&perks=1392496348,679225683,1359896290,1015611457
-dimwishlist:item=601592879&perks=3661387068,1359896290,1015611457
-dimwishlist:item=601592879&perks=1392496348,1359896290,1015611457
+dimwishlist:item=601592879&perks=1392496348,679225683,1015611457
 
 //Age-Old Bond
 //notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=601592879&perks=1467527085,1885400500,1359896290,1015611457
+dimwishlist:item=601592879&perks=1467527085,1885400500,1015611457
+dimwishlist:item=601592879&perks=1467527085,1359896290,1015611457
+dimwishlist:item=601592879&perks=1467527085,1015611457
 
 //Age-Old Bond
 //notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
 dimwishlist:item=601592879&perks=1467527085,679225683,1359896290,1015611457
-dimwishlist:item=601592879&perks=1467527085,1359896290,1015611457
+dimwishlist:item=601592879&perks=1467527085,679225683,1015611457
 
 //Age-Old Bond
 //notes: adam (PvE / regular, non-endgame content / optimal): FTTC and Rampage are exclusive to the curated roll. Extended would be ranked lower but it's forced on the curated roll.|tags:PvE
@@ -5017,15 +5152,24 @@ dimwishlist:item=654370424&perks=4090651448,3142289711,47981717,3425386926
 
 //Tyranny of Heaven
 //notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2721249463&perks=2801223209,3827198035,2848615171
+dimwishlist:item=2721249463&perks=2801223209,2848615171
 dimwishlist:item=2721249463&perks=2801223209,3827198035,908147344,2848615171
-dimwishlist:item=2721249463&perks=2801223209,3311977193,908147344,2848615171
-dimwishlist:item=2721249463&perks=852209214,3827198035,908147344,2848615171
-dimwishlist:item=2721249463&perks=852209214,3311977193,908147344,2848615171
-dimwishlist:item=2721249463&perks=4067834857,3827198035,908147344,2848615171
-dimwishlist:item=2721249463&perks=4067834857,3311977193,908147344,2848615171
 dimwishlist:item=2721249463&perks=2801223209,908147344,2848615171
+dimwishlist:item=2721249463&perks=2801223209,3311977193,2848615171
+dimwishlist:item=2721249463&perks=2801223209,3311977193,908147344,2848615171
+dimwishlist:item=2721249463&perks=852209214,3827198035,2848615171
+dimwishlist:item=2721249463&perks=852209214,2848615171
+dimwishlist:item=2721249463&perks=852209214,3827198035,908147344,2848615171
 dimwishlist:item=2721249463&perks=852209214,908147344,2848615171
+dimwishlist:item=2721249463&perks=852209214,3311977193,2848615171
+dimwishlist:item=2721249463&perks=852209214,3311977193,908147344,2848615171
+dimwishlist:item=2721249463&perks=4067834857,3827198035,2848615171
+dimwishlist:item=2721249463&perks=4067834857,2848615171
+dimwishlist:item=2721249463&perks=4067834857,3827198035,908147344,2848615171
 dimwishlist:item=2721249463&perks=4067834857,908147344,2848615171
+dimwishlist:item=2721249463&perks=4067834857,3311977193,2848615171
+dimwishlist:item=2721249463&perks=4067834857,3311977193,908147344,2848615171
 
 //Tyranny of Heaven
 //notes: adam (PvE / regular, non-endgame content / optimal): Dragonfly is exclusive to the curated roll. Flexible String is only included because it's forced on the curated roll. If you have Elastic String, which maxes your draw time, Draw Time MW and Archer's Tempo become redundant. With Polymer or Flexible, you need either Archer's Tempo or a Draw Time MW but not both.|tags:PvE
@@ -5115,6 +5259,13 @@ dimwishlist:item=2721249463&perks=2801223209,3311977193,588594999,957782887
 dimwishlist:item=2721249463&perks=852209214,3311977193,588594999,957782887
 dimwishlist:item=2721249463&perks=2801223209,3311977193,957782887
 dimwishlist:item=2721249463&perks=852209214,3311977193,957782887
+
+//The Supremacy
+//notes: adam (PvE / boss DPS / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=686951703&perks=839105230,957782887
+dimwishlist:item=686951703&perks=957782887
+dimwishlist:item=686951703&perks=1467527085,957782887
+dimwishlist:item=686951703&perks=3661387068,957782887
 
 //The Supremacy
 //notes: adam (PvE / boss DPS / optimal)|tags:PvE
