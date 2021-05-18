@@ -5336,3 +5336,199 @@ dimwishlist:item=4094657108&perks=3661387068,1687452232,1645158859,2213355989
 dimwishlist:item=4094657108&perks=1467527085,1687452232,1645158859,2213355989
 dimwishlist:item=4094657108&perks=3661387068,1687452232,1645158859,2213355989
 
+//Finite Impactor
+//notes: adam (PvE / optimal): The lack of any traditional reload perks makes this hard to recommend as a PvE gun at first glance. However, it is the only 140 rpm hand cannon that can roll Heating Up. This could be a really good QoL perk on hand cannons, and I think it might be worth testing one, especially if you can get a good combination of Slot 2 + MW all optimized for increasing the reload speed stat. Combined with certain exotics, or HC loader mods, it could make up for the lack of a dedicated reload perk, resulting in a weapon that feels very good to use and can dish out a lot of damage with One For All.|tags:PvE
+dimwishlist:item=3813153080&perks=1926090095,3230963543,1570042021,4049631843
+dimwishlist:item=3813153080&perks=1926090094,3230963543,1570042021,4049631843
+dimwishlist:item=3813153080&perks=3230963543,1570042021,4049631843
+
+//Finite Impactor
+//notes: adam (PvE): The lack of any traditional reload perks makes this hard to recommend as a PvE gun at first glance. However, it is the only 140 rpm hand cannon that can roll Heating Up. This could be a really good QoL perk on hand cannons, and I think it might be worth testing one, especially if you can get a good combination of Slot 2 + MW all optimized for increasing the reload speed stat. Combined with certain exotics, or HC loader mods, it could make up for the lack of a dedicated reload perk, resulting in a weapon that feels very good to use and can dish out a lot of damage with One For All.|tags:PvE
+dimwishlist:item=3813153080&perks=1926090095,679225683,1570042021,4049631843
+dimwishlist:item=3813153080&perks=1926090094,679225683,1570042021,4049631843
+dimwishlist:item=3813153080&perks=679225683,1570042021,4049631843
+
+//Riiswalker
+//notes: adam (PvP / optimal): This is a must-have shotgun for PvP, capable of rolling Quickdraw, and up to 96(!) Range. It also comes in the kinetic slot, where we sorely needed an alternative to Astral Horizon that regular mortals could reasonably acquire. Being a Lightweight Frame, it has slightly shorter base-OHK distances than the Aggressives, but the ridiculous range stat could make up for most of that, and you get +20 mobility thanks to the frame's intrinsic perk. I think there are two viable rolls here: Quickdraw combined with either Full Choke or Rifled Barrel is the classic shotgun roll, but I think the newly buffed Hip-Fire Grip and Rifled Barrel* could potentially work well if you don't like ADSing with your shotguns, and should be worth testing if you get that roll. *Full Choke only triggers if you ADS, which makes it a bad combo with Hip-Fire Grip|tags:PvP
+dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,591790007
+dimwishlist:item=108221785&perks=1047830412,791862061,706527188,591790007
+dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,591790007
+dimwishlist:item=108221785&perks=1332244541,791862061,706527188,591790007
+dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,591790007
+dimwishlist:item=108221785&perks=1047830412,791862061,706527188,591790007
+dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,591790007
+dimwishlist:item=108221785&perks=1332244541,791862061,706527188,591790007
+
+//Riiswalker
+//notes: adam (PvP): This is a must-have shotgun for PvP, capable of rolling Quickdraw, and up to 96(!) Range. It also comes in the kinetic slot, where we sorely needed an alternative to Astral Horizon that regular mortals could reasonably acquire. Being a Lightweight Frame, it has slightly shorter base-OHK distances than the Aggressives, but the ridiculous range stat could make up for most of that, and you get +20 mobility thanks to the frame's intrinsic perk. I think there are two viable rolls here: Quickdraw combined with either Full Choke or Rifled Barrel is the classic shotgun roll, but I think the newly buffed Hip-Fire Grip and Rifled Barrel* could potentially work well if you don't like ADSing with your shotguns, and should be worth testing if you get that roll. *Full Choke only triggers if you ADS, which makes it a bad combo with Hip-Fire Grip|tags:PvP
+dimwishlist:item=108221785&perks=1332244541,3142289711,1866048759,591790007
+dimwishlist:item=108221785&perks=1332244541,791862061,1866048759,591790007
+dimwishlist:item=108221785&perks=1332244541,3142289711,1866048759,591790007
+dimwishlist:item=108221785&perks=1332244541,791862061,1866048759,591790007
+
+//Occluded Finality
+//notes: adam (PvE / optimal): This is pretty much the same roll as my recommended Frozen Orbit PvE roll (see some more info there), with the added option of Mulligan to help your ammo economy at the cost of losing Auto-Loading Holster.|tags:PvE
+dimwishlist:item=852551895&perks=839105230,1087426260,3300816228,1546637391
+dimwishlist:item=852551895&perks=839105230,2420895100,3300816228,1546637391
+dimwishlist:item=852551895&perks=3661387068,1087426260,3300816228,1546637391
+dimwishlist:item=852551895&perks=3661387068,2420895100,3300816228,1546637391
+dimwishlist:item=852551895&perks=1467527085,1087426260,3300816228,1546637391
+dimwishlist:item=852551895&perks=1467527085,2420895100,3300816228,1546637391
+dimwishlist:item=852551895&perks=839105230,3300816228,1546637391
+dimwishlist:item=852551895&perks=3661387068,3300816228,1546637391
+dimwishlist:item=852551895&perks=1467527085,3300816228,1546637391
+dimwishlist:item=852551895&perks=1087426260,3300816228,1546637391
+dimwishlist:item=852551895&perks=2420895100,3300816228,1546637391
+dimwishlist:item=852551895&perks=3300816228,1546637391
+
+//Occluded Finality
+//notes: adam (PvE): This is pretty much the same roll as my recommended Frozen Orbit PvE roll (see some more info there), with the added option of Mulligan to help your ammo economy at the cost of losing Auto-Loading Holster.|tags:PvE
+dimwishlist:item=852551895&perks=839105230,1087426260,3337692349,1546637391
+dimwishlist:item=852551895&perks=839105230,2420895100,3337692349,1546637391
+dimwishlist:item=852551895&perks=3661387068,1087426260,3337692349,1546637391
+dimwishlist:item=852551895&perks=3661387068,2420895100,3337692349,1546637391
+dimwishlist:item=852551895&perks=1467527085,1087426260,3337692349,1546637391
+dimwishlist:item=852551895&perks=1467527085,2420895100,3337692349,1546637391
+dimwishlist:item=852551895&perks=839105230,3337692349,1546637391
+dimwishlist:item=852551895&perks=3661387068,3337692349,1546637391
+dimwishlist:item=852551895&perks=1467527085,3337692349,1546637391
+dimwishlist:item=852551895&perks=1087426260,3337692349,1546637391
+dimwishlist:item=852551895&perks=2420895100,3337692349,1546637391
+dimwishlist:item=852551895&perks=3337692349,1546637391
+
+//Occluded Finality
+//notes: adam (PvP / general use / optimal): It's an aggressive sniper with ricochet rounds! That's cool. What's not so cool is that it has a zoom level of 58 (for comparison, both Frozen Orbit and Succession are 50 zooms, and most of the other snipers around are either 50 or below), which could make it hard to use at certain ranges. But if you can get used to it, Opening Shot and the high zoom level should give it some really generous aim assist, and landing the occassional ricochet kill should feel incredible.|tags:PvP
+dimwishlist:item=852551895&perks=1840239774,1885400500,957782887,47981717
+dimwishlist:item=852551895&perks=839105230,1885400500,957782887,47981717
+dimwishlist:item=852551895&perks=4090651448,1885400500,957782887,47981717
+dimwishlist:item=852551895&perks=1885400500,957782887,47981717
+
+//Occluded Finality
+//notes: adam (PvP / for Arc sublcasses / optimal): Yes, it is a 58 zoom sniper, which sucks, but if you can get used to that, this roll is something special: on an arc subclass, the combination of Arrowhead Brake, Elemental Capacitor, and a Handling MW give you a perfect 100 Handling and a perfect 100 Recoil Stat (without the Handling MW, you still get 91 Handling, or 96 if you go for Fluted Barrel and sacrifice some Recoil correction). By comparison, a Frozen Orbit with as much handling stacked on it as possible maxes out at 50!  So you have an Aggressive Frame sniper that can body shot under certain resilience levels, with classic Quickdraw-equivalent draw/stow/ADS speeds, and it even has ricochet rounds, allowing you to bank shots around corners! And because the handling stat is so high, you can afford to forgo Snapshot, which opens up Mulligan as an option to end up with a budget-Revoker. What a wild weapon this could be.|tags:PvP
+dimwishlist:item=852551895&perks=1840239774,1885400500,3337692349,3511092054
+dimwishlist:item=852551895&perks=1840239774,1885400500,2866798147,3511092054
+dimwishlist:item=852551895&perks=839105230,1885400500,3337692349,3511092054
+dimwishlist:item=852551895&perks=839105230,1885400500,2866798147,3511092054
+dimwishlist:item=852551895&perks=4090651448,1885400500,3337692349,3511092054
+dimwishlist:item=852551895&perks=4090651448,1885400500,2866798147,3511092054
+dimwishlist:item=852551895&perks=1840239774,1885400500,3511092054
+dimwishlist:item=852551895&perks=839105230,1885400500,3511092054
+dimwishlist:item=852551895&perks=4090651448,1885400500,3511092054
+
+//Archon's Thunder
+//notes: adam (PvE), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=1967303408&perks=1840239774,1087426260,3337692349,2726471870
+dimwishlist:item=1967303408&perks=1087426260,3337692349,2726471870
+dimwishlist:item=1967303408&perks=839105230,1087426260,3337692349,2726471870
+
+//Archon's Thunder
+//notes: adam (PvE), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=1967303408&perks=1840239774,3337692349,2726471870
+dimwishlist:item=1967303408&perks=839105230,3337692349,2726471870
+dimwishlist:item=1967303408&perks=3337692349,2726471870
+
+//Archon's Thunder
+//notes: adam (PvE / optimal)|tags:PvE
+dimwishlist:item=1967303408&perks=1840239774,1087426260,2869569095,2726471870
+dimwishlist:item=1967303408&perks=1840239774,106909392,2869569095,2726471870
+dimwishlist:item=1967303408&perks=839105230,1087426260,2869569095,2726471870
+dimwishlist:item=1967303408&perks=839105230,106909392,2869569095,2726471870
+dimwishlist:item=1967303408&perks=1840239774,2869569095,2726471870
+dimwishlist:item=1967303408&perks=839105230,2869569095,2726471870
+dimwishlist:item=1967303408&perks=1087426260,2869569095,2726471870
+dimwishlist:item=1967303408&perks=106909392,2869569095,2726471870
+dimwishlist:item=1967303408&perks=2869569095,2726471870
+
+//Archon's Thunder
+//notes: adam (PvE)|tags:PvE
+dimwishlist:item=1967303408&perks=1840239774,1087426260,2869569095,2726471870
+dimwishlist:item=1967303408&perks=1840239774,1087426260,2869569095,3425386926
+dimwishlist:item=1967303408&perks=1840239774,1087426260,3337692349,2726471870
+dimwishlist:item=1967303408&perks=1840239774,1087426260,3337692349,3425386926
+dimwishlist:item=1967303408&perks=1840239774,106909392,2869569095,2726471870
+dimwishlist:item=1967303408&perks=1840239774,106909392,2869569095,3425386926
+dimwishlist:item=1967303408&perks=1840239774,106909392,3337692349,2726471870
+dimwishlist:item=1967303408&perks=1840239774,106909392,3337692349,3425386926
+dimwishlist:item=1967303408&perks=839105230,1087426260,2869569095,2726471870
+dimwishlist:item=1967303408&perks=839105230,1087426260,2869569095,3425386926
+dimwishlist:item=1967303408&perks=839105230,1087426260,3337692349,2726471870
+dimwishlist:item=1967303408&perks=839105230,1087426260,3337692349,3425386926
+dimwishlist:item=1967303408&perks=839105230,106909392,2869569095,2726471870
+dimwishlist:item=1967303408&perks=839105230,106909392,2869569095,3425386926
+dimwishlist:item=1967303408&perks=839105230,106909392,3337692349,2726471870
+dimwishlist:item=1967303408&perks=839105230,106909392,3337692349,3425386926
+dimwishlist:item=1967303408&perks=1840239774,2869569095,2726471870
+dimwishlist:item=1967303408&perks=1840239774,2869569095,3425386926
+dimwishlist:item=1967303408&perks=1840239774,3337692349,2726471870
+dimwishlist:item=1967303408&perks=1840239774,3337692349,3425386926
+dimwishlist:item=1967303408&perks=839105230,2869569095,2726471870
+dimwishlist:item=1967303408&perks=839105230,2869569095,3425386926
+dimwishlist:item=1967303408&perks=839105230,3337692349,2726471870
+dimwishlist:item=1967303408&perks=839105230,3337692349,3425386926
+dimwishlist:item=1967303408&perks=1087426260,2869569095,2726471870
+dimwishlist:item=1967303408&perks=1087426260,2869569095,3425386926
+dimwishlist:item=1967303408&perks=1087426260,3337692349,2726471870
+dimwishlist:item=1967303408&perks=1087426260,3337692349,3425386926
+dimwishlist:item=1967303408&perks=106909392,2869569095,2726471870
+dimwishlist:item=1967303408&perks=106909392,2869569095,3425386926
+dimwishlist:item=1967303408&perks=106909392,3337692349,2726471870
+dimwishlist:item=1967303408&perks=106909392,3337692349,3425386926
+dimwishlist:item=1967303408&perks=2869569095,2726471870
+dimwishlist:item=1967303408&perks=2869569095,3425386926
+dimwishlist:item=1967303408&perks=3337692349,2726471870
+dimwishlist:item=1967303408&perks=3337692349,3425386926
+
+//Archon's Thunder
+//notes: adam (PvP / optimal)|tags:PvP
+dimwishlist:item=1967303408&perks=1840239774,2420895100,3337692349,2726471870
+dimwishlist:item=1967303408&perks=1840239774,2420895100,3337692349,11551321
+dimwishlist:item=1967303408&perks=1840239774,2420895100,2846385770,2726471870
+dimwishlist:item=1967303408&perks=1840239774,2420895100,2846385770,11551321
+dimwishlist:item=1967303408&perks=839105230,2420895100,3337692349,2726471870
+dimwishlist:item=1967303408&perks=839105230,2420895100,3337692349,11551321
+dimwishlist:item=1967303408&perks=839105230,2420895100,2846385770,2726471870
+dimwishlist:item=1967303408&perks=839105230,2420895100,2846385770,11551321
+dimwishlist:item=1967303408&perks=2420895100,3337692349,2726471870
+dimwishlist:item=1967303408&perks=2420895100,3337692349,11551321
+dimwishlist:item=1967303408&perks=2420895100,2846385770,2726471870
+dimwishlist:item=1967303408&perks=2420895100,2846385770,11551321
+
+//Archon's Thunder
+//notes: adam (PvP)|tags:PvP
+dimwishlist:item=1967303408&perks=1840239774,2420895100,3337692349,2726471870
+dimwishlist:item=1967303408&perks=1840239774,2420895100,3337692349,11551321
+dimwishlist:item=1967303408&perks=1840239774,2420895100,2846385770,2726471870
+dimwishlist:item=1967303408&perks=1840239774,2420895100,2846385770,11551321
+dimwishlist:item=1967303408&perks=1840239774,2420895100,2450788523,2726471870
+dimwishlist:item=1967303408&perks=1840239774,2420895100,2450788523,11551321
+dimwishlist:item=1967303408&perks=1840239774,1087426260,3337692349,2726471870
+dimwishlist:item=1967303408&perks=1840239774,1087426260,3337692349,11551321
+dimwishlist:item=1967303408&perks=1840239774,1087426260,2846385770,2726471870
+dimwishlist:item=1967303408&perks=1840239774,1087426260,2846385770,11551321
+dimwishlist:item=1967303408&perks=1840239774,1087426260,2450788523,2726471870
+dimwishlist:item=1967303408&perks=1840239774,1087426260,2450788523,11551321
+dimwishlist:item=1967303408&perks=839105230,2420895100,3337692349,2726471870
+dimwishlist:item=1967303408&perks=839105230,2420895100,3337692349,11551321
+dimwishlist:item=1967303408&perks=839105230,2420895100,2846385770,2726471870
+dimwishlist:item=1967303408&perks=839105230,2420895100,2846385770,11551321
+dimwishlist:item=1967303408&perks=839105230,2420895100,2450788523,2726471870
+dimwishlist:item=1967303408&perks=839105230,2420895100,2450788523,11551321
+dimwishlist:item=1967303408&perks=839105230,1087426260,3337692349,2726471870
+dimwishlist:item=1967303408&perks=839105230,1087426260,3337692349,11551321
+dimwishlist:item=1967303408&perks=839105230,1087426260,2846385770,2726471870
+dimwishlist:item=1967303408&perks=839105230,1087426260,2846385770,11551321
+dimwishlist:item=1967303408&perks=839105230,1087426260,2450788523,2726471870
+dimwishlist:item=1967303408&perks=839105230,1087426260,2450788523,11551321
+dimwishlist:item=1967303408&perks=2420895100,3337692349,2726471870
+dimwishlist:item=1967303408&perks=2420895100,3337692349,11551321
+dimwishlist:item=1967303408&perks=2420895100,2846385770,2726471870
+dimwishlist:item=1967303408&perks=2420895100,2846385770,11551321
+dimwishlist:item=1967303408&perks=2420895100,2450788523,2726471870
+dimwishlist:item=1967303408&perks=2420895100,2450788523,11551321
+dimwishlist:item=1967303408&perks=1087426260,3337692349,2726471870
+dimwishlist:item=1967303408&perks=1087426260,3337692349,11551321
+dimwishlist:item=1967303408&perks=1087426260,2846385770,2726471870
+dimwishlist:item=1967303408&perks=1087426260,2846385770,11551321
+dimwishlist:item=1967303408&perks=1087426260,2450788523,2726471870
+dimwishlist:item=1967303408&perks=1087426260,2450788523,11551321
+
