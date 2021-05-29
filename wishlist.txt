@@ -7021,7 +7021,30 @@ dimwishlist:item=2171478765&perks=4090651448,106909392,3038247973,3824105627
 dimwishlist:item=2171478765&perks=4090651448,3230963543,3038247973,3824105627
 
 //Fatebringer
-//notes: adam (PvE / regular, non-endgame content / optimal)|tags:PvE
+//notes: adam (PvE / regular, non-endgame content), (PvE / high PL content, GMs) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2171478765&perks=1840239774,3142289711,3418782618,3824105627
+dimwishlist:item=2171478765&perks=1840239774,3418782618,3824105627
+dimwishlist:item=2171478765&perks=3142289711,3418782618,3824105627
+dimwishlist:item=2171478765&perks=3418782618,3824105627
+dimwishlist:item=2171478765&perks=1840239774,1087426260,3418782618,3824105627
+dimwishlist:item=2171478765&perks=1087426260,3418782618,3824105627
+dimwishlist:item=2171478765&perks=1840239774,106909392,3418782618,3824105627
+dimwishlist:item=2171478765&perks=106909392,3418782618,3824105627
+dimwishlist:item=2171478765&perks=1840239774,3230963543,3418782618,3824105627
+dimwishlist:item=2171478765&perks=3230963543,3418782618,3824105627
+dimwishlist:item=2171478765&perks=1482024992,3142289711,3418782618,3824105627
+dimwishlist:item=2171478765&perks=1482024992,3418782618,3824105627
+dimwishlist:item=2171478765&perks=1482024992,1087426260,3418782618,3824105627
+dimwishlist:item=2171478765&perks=1482024992,106909392,3418782618,3824105627
+dimwishlist:item=2171478765&perks=1482024992,3230963543,3418782618,3824105627
+dimwishlist:item=2171478765&perks=4090651448,3142289711,3418782618,3824105627
+dimwishlist:item=2171478765&perks=4090651448,3418782618,3824105627
+dimwishlist:item=2171478765&perks=4090651448,1087426260,3418782618,3824105627
+dimwishlist:item=2171478765&perks=4090651448,106909392,3418782618,3824105627
+dimwishlist:item=2171478765&perks=4090651448,3230963543,3418782618,3824105627
+
+//Fatebringer
+//notes: adam (PvE / regular, non-endgame content / optimal): Not a huge fan of Rewind Rounds in their current state, for a couple reasons. For one, missing the final shot seems to completely nullify the refund. Secondly, the 50% refund means that eventually you will have to reload, and I'd always rather recommend a roll that has a *consistently* high reload speed than a diminishing mag extension that can run out at the wrong time. Firefly seems to mitigate the second issue, as the explosion hits also count towards the total the refund is calculated from, further extending the mag, which combined with Firefly's built-in reload boost can save you from ever having to do a slow reload. Since you'll always want Firefly in Slot 4, Rewind Rounds becomes a workable option. That being said, if possible, I'd opt for Explosive Payload (for its anti-champion utility and damage falloff mitigation) or Thresh, which this weapon uniquely rolls in Slot 3—all other Thresh weapons force you to trade in a damage perk for it, whereas this one can combine it with the AOE of Firefly.|tags:PvE
 dimwishlist:item=2171478765&perks=1840239774,3142289711,3038247973,3824105627
 dimwishlist:item=2171478765&perks=1840239774,3142289711,2726471870,3824105627
 dimwishlist:item=2171478765&perks=1840239774,1087426260,3038247973,3824105627
@@ -7064,7 +7087,30 @@ dimwishlist:item=2171478765&perks=3038247973,3824105627
 dimwishlist:item=2171478765&perks=2726471870,3824105627
 
 //Fatebringer
-//notes: adam (PvE / high PL content, GMs / optimal)|tags:PvE
+//notes: adam (PvE / regular, non-endgame content): Not a huge fan of Rewind Rounds in their current state, for a couple reasons. For one, missing the final shot seems to completely nullify the refund. Secondly, the 50% refund means that eventually you will have to reload, and I'd always rather recommend a roll that has a *consistently* high reload speed than a diminishing mag extension that can run out at the wrong time. Firefly seems to mitigate the second issue, as the explosion hits also count towards the total the refund is calculated from, further extending the mag, which combined with Firefly's built-in reload boost can save you from ever having to do a slow reload. Since you'll always want Firefly in Slot 4, Rewind Rounds becomes a workable option. That being said, if possible, I'd opt for Explosive Payload (for its anti-champion utility and damage falloff mitigation) or Thresh, which this weapon uniquely rolls in Slot 3—all other Thresh weapons force you to trade in a damage perk for it, whereas this one can combine it with the AOE of Firefly.|tags:PvE
+dimwishlist:item=2171478765&perks=1840239774,3142289711,3418782618,3824105627
+dimwishlist:item=2171478765&perks=1840239774,1087426260,3418782618,3824105627
+dimwishlist:item=2171478765&perks=1840239774,106909392,3418782618,3824105627
+dimwishlist:item=2171478765&perks=1840239774,3230963543,3418782618,3824105627
+dimwishlist:item=2171478765&perks=1482024992,3142289711,3418782618,3824105627
+dimwishlist:item=2171478765&perks=1482024992,1087426260,3418782618,3824105627
+dimwishlist:item=2171478765&perks=1482024992,106909392,3418782618,3824105627
+dimwishlist:item=2171478765&perks=1482024992,3230963543,3418782618,3824105627
+dimwishlist:item=2171478765&perks=4090651448,3142289711,3418782618,3824105627
+dimwishlist:item=2171478765&perks=4090651448,1087426260,3418782618,3824105627
+dimwishlist:item=2171478765&perks=4090651448,106909392,3418782618,3824105627
+dimwishlist:item=2171478765&perks=4090651448,3230963543,3418782618,3824105627
+dimwishlist:item=2171478765&perks=1840239774,3418782618,3824105627
+dimwishlist:item=2171478765&perks=1482024992,3418782618,3824105627
+dimwishlist:item=2171478765&perks=4090651448,3418782618,3824105627
+dimwishlist:item=2171478765&perks=3142289711,3418782618,3824105627
+dimwishlist:item=2171478765&perks=1087426260,3418782618,3824105627
+dimwishlist:item=2171478765&perks=106909392,3418782618,3824105627
+dimwishlist:item=2171478765&perks=3230963543,3418782618,3824105627
+dimwishlist:item=2171478765&perks=3418782618,3824105627
+
+//Fatebringer
+//notes: adam (PvE / high PL content, GMs / optimal): Not a huge fan of Rewind Rounds in their current state, for a couple reasons. For one, missing the final shot seems to completely nullify the refund. Secondly, the 50% refund means that eventually you will have to reload, and I'd always rather recommend a roll that has a *consistently* high reload speed than a diminishing mag extension that can run out at the wrong time. Firefly seems to mitigate the second issue, as the explosion hits also count towards the total the refund is calculated from, further extending the mag, which combined with Firefly's built-in reload boost can save you from ever having to do a slow reload. Since you'll always want Firefly in Slot 4, Rewind Rounds becomes a workable option. That being said, if possible, I'd opt for Explosive Payload (for its anti-champion utility and damage falloff mitigation) or Thresh, which this weapon uniquely rolls in Slot 3—all other Thresh weapons force you to trade in a damage perk for it, whereas this one can combine it with the AOE of Firefly.|tags:PvE
 dimwishlist:item=2171478765&perks=1840239774,3142289711,3038247973,3824105627
 dimwishlist:item=2171478765&perks=1840239774,1087426260,3038247973,3824105627
 dimwishlist:item=2171478765&perks=1840239774,106909392,3038247973,3824105627
@@ -7087,7 +7133,7 @@ dimwishlist:item=2171478765&perks=3230963543,3038247973,3824105627
 dimwishlist:item=2171478765&perks=3038247973,3824105627
 
 //Fatebringer
-//notes: adam (PvE / high PL content, GMs)|tags:PvE
+//notes: adam (PvE / high PL content, GMs): Not a huge fan of Rewind Rounds in their current state, for a couple reasons. For one, missing the final shot seems to completely nullify the refund. Secondly, the 50% refund means that eventually you will have to reload, and I'd always rather recommend a roll that has a *consistently* high reload speed than a diminishing mag extension that can run out at the wrong time. Firefly seems to mitigate the second issue, as the explosion hits also count towards the total the refund is calculated from, further extending the mag, which combined with Firefly's built-in reload boost can save you from ever having to do a slow reload. Since you'll always want Firefly in Slot 4, Rewind Rounds becomes a workable option. That being said, if possible, I'd opt for Explosive Payload (for its anti-champion utility and damage falloff mitigation) or Thresh, which this weapon uniquely rolls in Slot 3—all other Thresh weapons force you to trade in a damage perk for it, whereas this one can combine it with the AOE of Firefly.|tags:PvE
 dimwishlist:item=2171478765&perks=1840239774,3142289711,3418782618,3824105627
 dimwishlist:item=2171478765&perks=1840239774,3142289711,2726471870,3824105627
 dimwishlist:item=2171478765&perks=1840239774,1087426260,3418782618,3824105627
@@ -7130,14 +7176,14 @@ dimwishlist:item=2171478765&perks=3418782618,3824105627
 dimwishlist:item=2171478765&perks=2726471870,3824105627
 
 //Fatebringer
-//notes: adam (PvP / optimal)|tags:PvP
+//notes: adam (PvP / optimal): Right now, 140s are still lagging behind 120s but it's worth keeping a good roll of this for any future meta shakeups. Killing Wind + Kill Clip or Firefly are potent combinations for chaining kills. As always, I slightly prefer a roll that gets you the first kill more consistently, and Explosive Payload—with its increased flinching effect and damage falloff mitigation—paired with Opening Shot should do the best job. As the Slot 3 recommended perks both come with a Range increase (which Opening Shot can push even farther), I'd recommend a Handling focus in either Slot 1 or on the MW.|tags:PvP
 dimwishlist:item=2171478765&perks=1840239774,3142289711,3038247973,47981717
 dimwishlist:item=2171478765&perks=4090651448,3142289711,3038247973,47981717
 dimwishlist:item=2171478765&perks=1840239774,3142289711,3038247973,47981717
 dimwishlist:item=2171478765&perks=4090651448,3142289711,3038247973,47981717
 
 //Fatebringer
-//notes: adam (PvP)|tags:PvP
+//notes: adam (PvP): Right now, 140s are still lagging behind 120s but it's worth keeping a good roll of this for any future meta shakeups. Killing Wind + Kill Clip or Firefly are potent combinations for chaining kills. As always, I slightly prefer a roll that gets you the first kill more consistently, and Explosive Payload—with its increased flinching effect and damage falloff mitigation—paired with Opening Shot should do the best job. As the Slot 3 recommended perks both come with a Range increase (which Opening Shot can push even farther), I'd recommend a Handling focus in either Slot 1 or on the MW.|tags:PvP
 dimwishlist:item=2171478765&perks=1840239774,3142289711,3038247973,47981717
 dimwishlist:item=2171478765&perks=1840239774,3142289711,3038247973,1015611457
 dimwishlist:item=2171478765&perks=1840239774,3142289711,3038247973,3824105627
@@ -7225,7 +7271,30 @@ dimwishlist:item=1216319404&perks=4090651448,106909392,3038247973,3824105627
 dimwishlist:item=1216319404&perks=4090651448,3230963543,3038247973,3824105627
 
 //Fatebringer (Timelost)
-//notes: adam (PvE / regular, non-endgame content / optimal)|tags:PvE
+//notes: adam (PvE / regular, non-endgame content), (PvE / high PL content, GMs) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=1216319404&perks=1840239774,3142289711,3418782618,3824105627
+dimwishlist:item=1216319404&perks=1840239774,3418782618,3824105627
+dimwishlist:item=1216319404&perks=3142289711,3418782618,3824105627
+dimwishlist:item=1216319404&perks=3418782618,3824105627
+dimwishlist:item=1216319404&perks=1840239774,1087426260,3418782618,3824105627
+dimwishlist:item=1216319404&perks=1087426260,3418782618,3824105627
+dimwishlist:item=1216319404&perks=1840239774,106909392,3418782618,3824105627
+dimwishlist:item=1216319404&perks=106909392,3418782618,3824105627
+dimwishlist:item=1216319404&perks=1840239774,3230963543,3418782618,3824105627
+dimwishlist:item=1216319404&perks=3230963543,3418782618,3824105627
+dimwishlist:item=1216319404&perks=1482024992,3142289711,3418782618,3824105627
+dimwishlist:item=1216319404&perks=1482024992,3418782618,3824105627
+dimwishlist:item=1216319404&perks=1482024992,1087426260,3418782618,3824105627
+dimwishlist:item=1216319404&perks=1482024992,106909392,3418782618,3824105627
+dimwishlist:item=1216319404&perks=1482024992,3230963543,3418782618,3824105627
+dimwishlist:item=1216319404&perks=4090651448,3142289711,3418782618,3824105627
+dimwishlist:item=1216319404&perks=4090651448,3418782618,3824105627
+dimwishlist:item=1216319404&perks=4090651448,1087426260,3418782618,3824105627
+dimwishlist:item=1216319404&perks=4090651448,106909392,3418782618,3824105627
+dimwishlist:item=1216319404&perks=4090651448,3230963543,3418782618,3824105627
+
+//Fatebringer (Timelost)
+//notes: adam (PvE / regular, non-endgame content / optimal): Not a huge fan of Rewind Rounds in their current state, for a couple reasons. For one, missing the final shot seems to completely nullify the refund. Secondly, the 50% refund means that eventually you will have to reload, and I'd always rather recommend a roll that has a *consistently* high reload speed than a diminishing mag extension that can run out at the wrong time. Firefly seems to mitigate the second issue, as the explosion hits also count towards the total the refund is calculated from, further extending the mag, which combined with Firefly's built-in reload boost can save you from ever having to do a slow reload. Since you'll always want Firefly in Slot 4, Rewind Rounds becomes a workable option. That being said, if possible, I'd opt for Explosive Payload (for its anti-champion utility and damage falloff mitigation) or Thresh, which this weapon uniquely rolls in Slot 3—all other Thresh weapons force you to trade in a damage perk for it, whereas this one can combine it with the AOE of Firefly.|tags:PvE
 dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,3824105627
 dimwishlist:item=1216319404&perks=1840239774,3142289711,2726471870,3824105627
 dimwishlist:item=1216319404&perks=1840239774,1087426260,3038247973,3824105627
@@ -7268,7 +7337,30 @@ dimwishlist:item=1216319404&perks=3038247973,3824105627
 dimwishlist:item=1216319404&perks=2726471870,3824105627
 
 //Fatebringer (Timelost)
-//notes: adam (PvE / high PL content, GMs / optimal)|tags:PvE
+//notes: adam (PvE / regular, non-endgame content): Not a huge fan of Rewind Rounds in their current state, for a couple reasons. For one, missing the final shot seems to completely nullify the refund. Secondly, the 50% refund means that eventually you will have to reload, and I'd always rather recommend a roll that has a *consistently* high reload speed than a diminishing mag extension that can run out at the wrong time. Firefly seems to mitigate the second issue, as the explosion hits also count towards the total the refund is calculated from, further extending the mag, which combined with Firefly's built-in reload boost can save you from ever having to do a slow reload. Since you'll always want Firefly in Slot 4, Rewind Rounds becomes a workable option. That being said, if possible, I'd opt for Explosive Payload (for its anti-champion utility and damage falloff mitigation) or Thresh, which this weapon uniquely rolls in Slot 3—all other Thresh weapons force you to trade in a damage perk for it, whereas this one can combine it with the AOE of Firefly.|tags:PvE
+dimwishlist:item=1216319404&perks=1840239774,3142289711,3418782618,3824105627
+dimwishlist:item=1216319404&perks=1840239774,1087426260,3418782618,3824105627
+dimwishlist:item=1216319404&perks=1840239774,106909392,3418782618,3824105627
+dimwishlist:item=1216319404&perks=1840239774,3230963543,3418782618,3824105627
+dimwishlist:item=1216319404&perks=1482024992,3142289711,3418782618,3824105627
+dimwishlist:item=1216319404&perks=1482024992,1087426260,3418782618,3824105627
+dimwishlist:item=1216319404&perks=1482024992,106909392,3418782618,3824105627
+dimwishlist:item=1216319404&perks=1482024992,3230963543,3418782618,3824105627
+dimwishlist:item=1216319404&perks=4090651448,3142289711,3418782618,3824105627
+dimwishlist:item=1216319404&perks=4090651448,1087426260,3418782618,3824105627
+dimwishlist:item=1216319404&perks=4090651448,106909392,3418782618,3824105627
+dimwishlist:item=1216319404&perks=4090651448,3230963543,3418782618,3824105627
+dimwishlist:item=1216319404&perks=1840239774,3418782618,3824105627
+dimwishlist:item=1216319404&perks=1482024992,3418782618,3824105627
+dimwishlist:item=1216319404&perks=4090651448,3418782618,3824105627
+dimwishlist:item=1216319404&perks=3142289711,3418782618,3824105627
+dimwishlist:item=1216319404&perks=1087426260,3418782618,3824105627
+dimwishlist:item=1216319404&perks=106909392,3418782618,3824105627
+dimwishlist:item=1216319404&perks=3230963543,3418782618,3824105627
+dimwishlist:item=1216319404&perks=3418782618,3824105627
+
+//Fatebringer (Timelost)
+//notes: adam (PvE / high PL content, GMs / optimal): Not a huge fan of Rewind Rounds in their current state, for a couple reasons. For one, missing the final shot seems to completely nullify the refund. Secondly, the 50% refund means that eventually you will have to reload, and I'd always rather recommend a roll that has a *consistently* high reload speed than a diminishing mag extension that can run out at the wrong time. Firefly seems to mitigate the second issue, as the explosion hits also count towards the total the refund is calculated from, further extending the mag, which combined with Firefly's built-in reload boost can save you from ever having to do a slow reload. Since you'll always want Firefly in Slot 4, Rewind Rounds becomes a workable option. That being said, if possible, I'd opt for Explosive Payload (for its anti-champion utility and damage falloff mitigation) or Thresh, which this weapon uniquely rolls in Slot 3—all other Thresh weapons force you to trade in a damage perk for it, whereas this one can combine it with the AOE of Firefly.|tags:PvE
 dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,3824105627
 dimwishlist:item=1216319404&perks=1840239774,1087426260,3038247973,3824105627
 dimwishlist:item=1216319404&perks=1840239774,106909392,3038247973,3824105627
@@ -7291,7 +7383,7 @@ dimwishlist:item=1216319404&perks=3230963543,3038247973,3824105627
 dimwishlist:item=1216319404&perks=3038247973,3824105627
 
 //Fatebringer (Timelost)
-//notes: adam (PvE / high PL content, GMs)|tags:PvE
+//notes: adam (PvE / high PL content, GMs): Not a huge fan of Rewind Rounds in their current state, for a couple reasons. For one, missing the final shot seems to completely nullify the refund. Secondly, the 50% refund means that eventually you will have to reload, and I'd always rather recommend a roll that has a *consistently* high reload speed than a diminishing mag extension that can run out at the wrong time. Firefly seems to mitigate the second issue, as the explosion hits also count towards the total the refund is calculated from, further extending the mag, which combined with Firefly's built-in reload boost can save you from ever having to do a slow reload. Since you'll always want Firefly in Slot 4, Rewind Rounds becomes a workable option. That being said, if possible, I'd opt for Explosive Payload (for its anti-champion utility and damage falloff mitigation) or Thresh, which this weapon uniquely rolls in Slot 3—all other Thresh weapons force you to trade in a damage perk for it, whereas this one can combine it with the AOE of Firefly.|tags:PvE
 dimwishlist:item=1216319404&perks=1840239774,3142289711,3418782618,3824105627
 dimwishlist:item=1216319404&perks=1840239774,3142289711,2726471870,3824105627
 dimwishlist:item=1216319404&perks=1840239774,1087426260,3418782618,3824105627
@@ -7334,14 +7426,14 @@ dimwishlist:item=1216319404&perks=3418782618,3824105627
 dimwishlist:item=1216319404&perks=2726471870,3824105627
 
 //Fatebringer (Timelost)
-//notes: adam (PvP / optimal)|tags:PvP
+//notes: adam (PvP / optimal): Right now, 140s are still lagging behind 120s but it's worth keeping a good roll of this for any future meta shakeups. Killing Wind + Kill Clip or Firefly are potent combinations for chaining kills. As always, I slightly prefer a roll that gets you the first kill more consistently, and Explosive Payload—with its increased flinching effect and damage falloff mitigation—paired with Opening Shot should do the best job. As the Slot 3 recommended perks both come with a Range increase (which Opening Shot can push even farther), I'd recommend a Handling focus in either Slot 1 or on the MW.|tags:PvP
 dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,47981717
 dimwishlist:item=1216319404&perks=4090651448,3142289711,3038247973,47981717
 dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,47981717
 dimwishlist:item=1216319404&perks=4090651448,3142289711,3038247973,47981717
 
 //Fatebringer (Timelost)
-//notes: adam (PvP)|tags:PvP
+//notes: adam (PvP): Right now, 140s are still lagging behind 120s but it's worth keeping a good roll of this for any future meta shakeups. Killing Wind + Kill Clip or Firefly are potent combinations for chaining kills. As always, I slightly prefer a roll that gets you the first kill more consistently, and Explosive Payload—with its increased flinching effect and damage falloff mitigation—paired with Opening Shot should do the best job. As the Slot 3 recommended perks both come with a Range increase (which Opening Shot can push even farther), I'd recommend a Handling focus in either Slot 1 or on the MW.|tags:PvP
 dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,47981717
 dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,1015611457
 dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,3824105627
@@ -7399,7 +7491,7 @@ dimwishlist:item=3186018373&perks=3661387068,3230963543,3592538738,3824105627
 dimwishlist:item=3186018373&perks=3661387068,1561002382,3592538738,3824105627
 
 //Vision of Confluence
-//notes: adam (PvE / regular, non-endgame content / optimal)|tags:PvE
+//notes: adam (PvE / regular, non-endgame content / optimal): Not a huge fan of Rewind Rounds in their current state, for a couple reasons. For one, missing the final shot seems to completely nullify the refund. Secondly, the 50% refund means that eventually you will have to reload, and I'd always rather recommend a roll that has a *consistently* high reload speed than a diminishing mag extension that can run out at the wrong time. Firefly seems to mitigate the second issue, as the explosion hits also count towards the total the refund is calculated from, further extending the mag, which combined with Firefly's built-in reload boost can save you from ever having to do a slow reload. With that combination, Rewind Rounds becomes a workable option but if possible, I'd shoot for Wellspring, which this weapon uniquely rolls in Slot 3—all other Wellspring weapons force you to trade in a damage perk for it, whereas this one can combine it with the AOE of Firefly.|tags:PvE
 dimwishlist:item=3186018373&perks=839105230,1885400500,3592538738,3824105627
 dimwishlist:item=3186018373&perks=839105230,3230963543,3592538738,3824105627
 dimwishlist:item=3186018373&perks=839105230,1561002382,3592538738,3824105627
@@ -7418,7 +7510,7 @@ dimwishlist:item=3186018373&perks=1561002382,3592538738,3824105627
 dimwishlist:item=3186018373&perks=3592538738,3824105627
 
 //Vision of Confluence
-//notes: adam (PvE / regular, non-endgame content)|tags:PvE
+//notes: adam (PvE / regular, non-endgame content): Not a huge fan of Rewind Rounds in their current state, for a couple reasons. For one, missing the final shot seems to completely nullify the refund. Secondly, the 50% refund means that eventually you will have to reload, and I'd always rather recommend a roll that has a *consistently* high reload speed than a diminishing mag extension that can run out at the wrong time. Firefly seems to mitigate the second issue, as the explosion hits also count towards the total the refund is calculated from, further extending the mag, which combined with Firefly's built-in reload boost can save you from ever having to do a slow reload. With that combination, Rewind Rounds becomes a workable option but if possible, I'd shoot for Wellspring, which this weapon uniquely rolls in Slot 3—all other Wellspring weapons force you to trade in a damage perk for it, whereas this one can combine it with the AOE of Firefly.|tags:PvE
 dimwishlist:item=3186018373&perks=839105230,1885400500,3418782618,2726471870
 dimwishlist:item=3186018373&perks=839105230,3230963543,3418782618,2726471870
 dimwishlist:item=3186018373&perks=839105230,1561002382,3418782618,2726471870
@@ -7437,7 +7529,7 @@ dimwishlist:item=3186018373&perks=1561002382,3418782618,2726471870
 dimwishlist:item=3186018373&perks=3418782618,2726471870
 
 //Vision of Confluence
-//notes: adam (PvE / high PL content, GMs / optimal)|tags:PvE
+//notes: adam (PvE / high PL content, GMs / optimal): Not a huge fan of Rewind Rounds in their current state, for a couple reasons. For one, missing the final shot seems to completely nullify the refund. Secondly, the 50% refund means that eventually you will have to reload, and I'd always rather recommend a roll that has a *consistently* high reload speed than a diminishing mag extension that can run out at the wrong time. Firefly seems to mitigate the second issue, as the explosion hits also count towards the total the refund is calculated from, further extending the mag, which combined with Firefly's built-in reload boost can save you from ever having to do a slow reload. With that combination, Rewind Rounds becomes a workable option but if possible, I'd shoot for Wellspring, which this weapon uniquely rolls in Slot 3—all other Wellspring weapons force you to trade in a damage perk for it, whereas this one can combine it with the AOE of Firefly.|tags:PvE
 dimwishlist:item=3186018373&perks=839105230,1885400500,3418782618,3824105627
 dimwishlist:item=3186018373&perks=839105230,1885400500,3592538738,3824105627
 dimwishlist:item=3186018373&perks=839105230,3230963543,3418782618,3824105627
@@ -7472,7 +7564,7 @@ dimwishlist:item=3186018373&perks=3418782618,3824105627
 dimwishlist:item=3186018373&perks=3592538738,3824105627
 
 //Vision of Confluence
-//notes: adam (PvE / high PL content, GMs)|tags:PvE
+//notes: adam (PvE / high PL content, GMs): Not a huge fan of Rewind Rounds in their current state, for a couple reasons. For one, missing the final shot seems to completely nullify the refund. Secondly, the 50% refund means that eventually you will have to reload, and I'd always rather recommend a roll that has a *consistently* high reload speed than a diminishing mag extension that can run out at the wrong time. Firefly seems to mitigate the second issue, as the explosion hits also count towards the total the refund is calculated from, further extending the mag, which combined with Firefly's built-in reload boost can save you from ever having to do a slow reload. With that combination, Rewind Rounds becomes a workable option but if possible, I'd shoot for Wellspring, which this weapon uniquely rolls in Slot 3—all other Wellspring weapons force you to trade in a damage perk for it, whereas this one can combine it with the AOE of Firefly.|tags:PvE
 dimwishlist:item=3186018373&perks=839105230,1885400500,3418782618,1683379515
 dimwishlist:item=3186018373&perks=839105230,1885400500,3592538738,1683379515
 dimwishlist:item=3186018373&perks=839105230,3230963543,3418782618,1683379515
@@ -7507,14 +7599,14 @@ dimwishlist:item=3186018373&perks=3418782618,1683379515
 dimwishlist:item=3186018373&perks=3592538738,1683379515
 
 //Vision of Confluence
-//notes: adam (PvP / optimal)|tags:PvP
+//notes: adam (PvP / optimal): Big damage increase perks are important for this archetype: by default, it has the slowest TTK among scout rifles but something like Kill Clip transforms it into the fastest one in the family, even surpassing Dead Man's Tale. Since we're already using a perk that activates after the first kill, it makes sense to double down on that effect: Tunnel Vision is your best option, partly because it procs at the same time as Kill Clip (with the reload following the kill), and also due to its aim assist boost which will help get the 3 headshots required for the optimal TTK. Killing Wind is your second best option: while the Range boost doesn't matter much considering the high base range on scouts, the Mobility and Handling bonuses should prove useful.|tags:PvP
 dimwishlist:item=3186018373&perks=839105230,1561002382,2946784966,1015611457
 dimwishlist:item=3186018373&perks=1840239774,1561002382,2946784966,1015611457
 dimwishlist:item=3186018373&perks=3661387068,1561002382,2946784966,1015611457
 dimwishlist:item=3186018373&perks=1561002382,2946784966,1015611457
 
 //Vision of Confluence
-//notes: adam (PvP)|tags:PvP
+//notes: adam (PvP): Big damage increase perks are important for this archetype: by default, it has the slowest TTK among scout rifles but something like Kill Clip transforms it into the fastest one in the family, even surpassing Dead Man's Tale. Since we're already using a perk that activates after the first kill, it makes sense to double down on that effect: Tunnel Vision is your best option, partly because it procs at the same time as Kill Clip (with the reload following the kill), and also due to its aim assist boost which will help get the 3 headshots required for the optimal TTK. Killing Wind is your second best option: while the Range boost doesn't matter much considering the high base range on scouts, the Mobility and Handling bonuses should prove useful.|tags:PvP
 dimwishlist:item=3186018373&perks=839105230,1885400500,2946784966,1015611457
 dimwishlist:item=3186018373&perks=1840239774,1885400500,2946784966,1015611457
 dimwishlist:item=3186018373&perks=3661387068,1885400500,2946784966,1015611457
@@ -7540,7 +7632,7 @@ dimwishlist:item=690668916&perks=3661387068,3230963543,3592538738,3824105627
 dimwishlist:item=690668916&perks=3661387068,1561002382,3592538738,3824105627
 
 //Vision of Confluence (Timelost)
-//notes: adam (PvE / regular, non-endgame content / optimal)|tags:PvE
+//notes: adam (PvE / regular, non-endgame content / optimal): Not a huge fan of Rewind Rounds in their current state, for a couple reasons. For one, missing the final shot seems to completely nullify the refund. Secondly, the 50% refund means that eventually you will have to reload, and I'd always rather recommend a roll that has a *consistently* high reload speed than a diminishing mag extension that can run out at the wrong time. Firefly seems to mitigate the second issue, as the explosion hits also count towards the total the refund is calculated from, further extending the mag, which combined with Firefly's built-in reload boost can save you from ever having to do a slow reload. With that combination, Rewind Rounds becomes a workable option but if possible, I'd shoot for Wellspring, which this weapon uniquely rolls in Slot 3—all other Wellspring weapons force you to trade in a damage perk for it, whereas this one can combine it with the AOE of Firefly.|tags:PvE
 dimwishlist:item=690668916&perks=839105230,1885400500,3592538738,3824105627
 dimwishlist:item=690668916&perks=839105230,3230963543,3592538738,3824105627
 dimwishlist:item=690668916&perks=839105230,1561002382,3592538738,3824105627
@@ -7559,7 +7651,7 @@ dimwishlist:item=690668916&perks=1561002382,3592538738,3824105627
 dimwishlist:item=690668916&perks=3592538738,3824105627
 
 //Vision of Confluence (Timelost)
-//notes: adam (PvE / regular, non-endgame content)|tags:PvE
+//notes: adam (PvE / regular, non-endgame content): Not a huge fan of Rewind Rounds in their current state, for a couple reasons. For one, missing the final shot seems to completely nullify the refund. Secondly, the 50% refund means that eventually you will have to reload, and I'd always rather recommend a roll that has a *consistently* high reload speed than a diminishing mag extension that can run out at the wrong time. Firefly seems to mitigate the second issue, as the explosion hits also count towards the total the refund is calculated from, further extending the mag, which combined with Firefly's built-in reload boost can save you from ever having to do a slow reload. With that combination, Rewind Rounds becomes a workable option but if possible, I'd shoot for Wellspring, which this weapon uniquely rolls in Slot 3—all other Wellspring weapons force you to trade in a damage perk for it, whereas this one can combine it with the AOE of Firefly.|tags:PvE
 dimwishlist:item=690668916&perks=839105230,1885400500,3418782618,2726471870
 dimwishlist:item=690668916&perks=839105230,3230963543,3418782618,2726471870
 dimwishlist:item=690668916&perks=839105230,1561002382,3418782618,2726471870
@@ -7578,7 +7670,7 @@ dimwishlist:item=690668916&perks=1561002382,3418782618,2726471870
 dimwishlist:item=690668916&perks=3418782618,2726471870
 
 //Vision of Confluence (Timelost)
-//notes: adam (PvE / high PL content, GMs / optimal)|tags:PvE
+//notes: adam (PvE / high PL content, GMs / optimal): Not a huge fan of Rewind Rounds in their current state, for a couple reasons. For one, missing the final shot seems to completely nullify the refund. Secondly, the 50% refund means that eventually you will have to reload, and I'd always rather recommend a roll that has a *consistently* high reload speed than a diminishing mag extension that can run out at the wrong time. Firefly seems to mitigate the second issue, as the explosion hits also count towards the total the refund is calculated from, further extending the mag, which combined with Firefly's built-in reload boost can save you from ever having to do a slow reload. With that combination, Rewind Rounds becomes a workable option but if possible, I'd shoot for Wellspring, which this weapon uniquely rolls in Slot 3—all other Wellspring weapons force you to trade in a damage perk for it, whereas this one can combine it with the AOE of Firefly.|tags:PvE
 dimwishlist:item=690668916&perks=839105230,1885400500,3418782618,3824105627
 dimwishlist:item=690668916&perks=839105230,1885400500,3592538738,3824105627
 dimwishlist:item=690668916&perks=839105230,3230963543,3418782618,3824105627
@@ -7613,7 +7705,7 @@ dimwishlist:item=690668916&perks=3418782618,3824105627
 dimwishlist:item=690668916&perks=3592538738,3824105627
 
 //Vision of Confluence (Timelost)
-//notes: adam (PvE / high PL content, GMs)|tags:PvE
+//notes: adam (PvE / high PL content, GMs): Not a huge fan of Rewind Rounds in their current state, for a couple reasons. For one, missing the final shot seems to completely nullify the refund. Secondly, the 50% refund means that eventually you will have to reload, and I'd always rather recommend a roll that has a *consistently* high reload speed than a diminishing mag extension that can run out at the wrong time. Firefly seems to mitigate the second issue, as the explosion hits also count towards the total the refund is calculated from, further extending the mag, which combined with Firefly's built-in reload boost can save you from ever having to do a slow reload. With that combination, Rewind Rounds becomes a workable option but if possible, I'd shoot for Wellspring, which this weapon uniquely rolls in Slot 3—all other Wellspring weapons force you to trade in a damage perk for it, whereas this one can combine it with the AOE of Firefly.|tags:PvE
 dimwishlist:item=690668916&perks=839105230,1885400500,3418782618,1683379515
 dimwishlist:item=690668916&perks=839105230,1885400500,3592538738,1683379515
 dimwishlist:item=690668916&perks=839105230,3230963543,3418782618,1683379515
@@ -7648,14 +7740,14 @@ dimwishlist:item=690668916&perks=3418782618,1683379515
 dimwishlist:item=690668916&perks=3592538738,1683379515
 
 //Vision of Confluence (Timelost)
-//notes: adam (PvP / optimal)|tags:PvP
+//notes: adam (PvP / optimal): Big damage increase perks are important for this archetype: by default, it has the slowest TTK among scout rifles but something like Kill Clip transforms it into the fastest one in the family, even surpassing Dead Man's Tale. Since we're already using a perk that activates after the first kill, it makes sense to double down on that effect: Tunnel Vision is your best option, partly because it procs at the same time as Kill Clip (with the reload following the kill), and also due to its aim assist boost which will help get the 3 headshots required for the optimal TTK. Killing Wind is your second best option: while the Range boost doesn't matter much considering the high base range on scouts, the Mobility and Handling bonuses should prove useful.|tags:PvP
 dimwishlist:item=690668916&perks=839105230,1561002382,2946784966,1015611457
 dimwishlist:item=690668916&perks=1840239774,1561002382,2946784966,1015611457
 dimwishlist:item=690668916&perks=3661387068,1561002382,2946784966,1015611457
 dimwishlist:item=690668916&perks=1561002382,2946784966,1015611457
 
 //Vision of Confluence (Timelost)
-//notes: adam (PvP)|tags:PvP
+//notes: adam (PvP): Big damage increase perks are important for this archetype: by default, it has the slowest TTK among scout rifles but something like Kill Clip transforms it into the fastest one in the family, even surpassing Dead Man's Tale. Since we're already using a perk that activates after the first kill, it makes sense to double down on that effect: Tunnel Vision is your best option, partly because it procs at the same time as Kill Clip (with the reload following the kill), and also due to its aim assist boost which will help get the 3 headshots required for the optimal TTK. Killing Wind is your second best option: while the Range boost doesn't matter much considering the high base range on scouts, the Mobility and Handling bonuses should prove useful.|tags:PvP
 dimwishlist:item=690668916&perks=839105230,1885400500,2946784966,1015611457
 dimwishlist:item=690668916&perks=839105230,1885400500,2450788523,1015611457
 dimwishlist:item=690668916&perks=839105230,1561002382,2946784966,1015611457
@@ -7692,7 +7784,7 @@ dimwishlist:item=3653573172&perks=1840239774,3418782618,2213355989
 dimwishlist:item=3653573172&perks=3418782618,2213355989
 
 //Praedyth's Revenge
-//notes: adam (PvE / boss dps / optimal)|tags:PvE
+//notes: adam (PvE / boss dps / optimal): This roll is the highest-DPS legendary sniper rifle in the game, which should be a must have, except it's currently impossible to utilize effectively: in order to accomplish that optimal DPS, you need to hit rapid precision shots at the max rate of fire, which is easy to do with a Divinity bubble, but Rewind Rounds does not proc on hits dealt to the Divinity cage. I am hoping that this is unintentional, and will get patched so this weapon can become more than just a *theoretical* best-in-class.|tags:PvE
 dimwishlist:item=3653573172&perks=839105230,2420895100,3418782618,2213355989
 dimwishlist:item=3653573172&perks=839105230,106909392,3418782618,2213355989
 dimwishlist:item=3653573172&perks=1840239774,2420895100,3418782618,2213355989
@@ -7734,7 +7826,7 @@ dimwishlist:item=1987769101&perks=1840239774,3418782618,2213355989
 dimwishlist:item=1987769101&perks=3418782618,2213355989
 
 //Praedyth's Revenge (Timelost)
-//notes: adam (PvE / boss dps / optimal)|tags:PvE
+//notes: adam (PvE / boss dps / optimal): This roll is the highest-DPS legendary sniper rifle in the game, which should be a must have, except it's currently impossible to utilize effectively: in order to accomplish that optimal DPS, you need to hit rapid precision shots at the max rate of fire, which is easy to do with a Divinity bubble, but Rewind Rounds does not proc on hits dealt to the Divinity cage. I am hoping that this is unintentional, and will get patched so this weapon can become more than just a *theoretical* best-in-class.|tags:PvE
 dimwishlist:item=1987769101&perks=839105230,2420895100,3418782618,2213355989
 dimwishlist:item=1987769101&perks=839105230,106909392,3418782618,2213355989
 dimwishlist:item=1987769101&perks=1840239774,2420895100,3418782618,2213355989
@@ -7758,14 +7850,16 @@ dimwishlist:item=1987769101&perks=1840239774,2420895100,3418782618,2213355989
 dimwishlist:item=1987769101&perks=2420895100,3418782618,2213355989
 
 //Found Verdict
-//notes: adam (PvE / optimal)|tags:PvE
-dimwishlist:item=3197270240&perks=1047830412,791862061,3418782618,2679249093
+//notes: adam (PvE / optimal): Pellet shotguns are not in a great place within the PvE meta but One-Two Punch rolls have some fun use cases.|tags:PvE
+dimwishlist:item=3197270240&perks=1047830412,791862061,3300816228,2679249093
+dimwishlist:item=3197270240&perks=1047830412,791862061,2117683199,2679249093
 dimwishlist:item=3197270240&perks=1047830412,791862061,2679249093
-dimwishlist:item=3197270240&perks=1047830412,3418782618,2679249093
+dimwishlist:item=3197270240&perks=1047830412,3300816228,2679249093
+dimwishlist:item=3197270240&perks=1047830412,2117683199,2679249093
 dimwishlist:item=3197270240&perks=1047830412,2679249093
 
 //Found Verdict
-//notes: adam (PvP / optimal)|tags:PvP
+//notes: adam (PvP / optimal): Have you ever thought to yourself "this game really needs another version of Felwinter's Lie, but with better stats across the board"? Well, me neither, but here it is. Might as well make sure you have a good roll on it. Felwinter could still remain superior due to its unique, intrinsic "shot package" perk, but this can get some slightly different rolls (particularly the combo of Full Auto and Assault Mag, both of which provide an RPM increase, making it less of a death sentence to miss the kill on your first shot), and it deals Arc damage, which could render it the rare counter to generally unkillable Heir Apparent users.|tags:PvP
 dimwishlist:item=3197270240&perks=1047830412,3142289711,2117683199,47981717
 dimwishlist:item=3197270240&perks=1047830412,3142289711,3161816588,47981717
 dimwishlist:item=3197270240&perks=1047830412,791862061,2117683199,47981717
@@ -7776,89 +7870,127 @@ dimwishlist:item=3197270240&perks=1047830412,791862061,2117683199,47981717
 dimwishlist:item=3197270240&perks=1047830412,791862061,3161816588,47981717
 
 //Found Verdict
-//notes: adam (PvP)|tags:PvP
+//notes: adam (PvP): Have you ever thought to yourself "this game really needs another version of Felwinter's Lie, but with better stats across the board"? Well, me neither, but here it is. Might as well make sure you have a good roll on it. Felwinter could still remain superior due to its unique, intrinsic "shot package" perk, but this can get some slightly different rolls (particularly the combo of Full Auto and Assault Mag, both of which provide an RPM increase, making it less of a death sentence to miss the kill on your first shot), and it deals Arc damage, which could render it the rare counter to generally unkillable Heir Apparent users.|tags:PvP
 dimwishlist:item=3197270240&perks=1047830412,3142289711,2117683199,2450788523
 dimwishlist:item=3197270240&perks=1047830412,3142289711,2117683199,47981717
+dimwishlist:item=3197270240&perks=1047830412,3142289711,2117683199,1546637391
 dimwishlist:item=3197270240&perks=1047830412,3142289711,3161816588,2450788523
 dimwishlist:item=3197270240&perks=1047830412,3142289711,3161816588,47981717
+dimwishlist:item=3197270240&perks=1047830412,3142289711,3161816588,1546637391
 dimwishlist:item=3197270240&perks=1047830412,3142289711,3436462433,2450788523
 dimwishlist:item=3197270240&perks=1047830412,3142289711,3436462433,47981717
+dimwishlist:item=3197270240&perks=1047830412,3142289711,3436462433,1546637391
 dimwishlist:item=3197270240&perks=1047830412,791862061,2117683199,2450788523
 dimwishlist:item=3197270240&perks=1047830412,791862061,2117683199,47981717
+dimwishlist:item=3197270240&perks=1047830412,791862061,2117683199,1546637391
 dimwishlist:item=3197270240&perks=1047830412,791862061,3161816588,2450788523
 dimwishlist:item=3197270240&perks=1047830412,791862061,3161816588,47981717
+dimwishlist:item=3197270240&perks=1047830412,791862061,3161816588,1546637391
 dimwishlist:item=3197270240&perks=1047830412,791862061,3436462433,2450788523
 dimwishlist:item=3197270240&perks=1047830412,791862061,3436462433,47981717
+dimwishlist:item=3197270240&perks=1047830412,791862061,3436462433,1546637391
 dimwishlist:item=3197270240&perks=1332244541,3142289711,2117683199,2450788523
 dimwishlist:item=3197270240&perks=1332244541,3142289711,2117683199,47981717
+dimwishlist:item=3197270240&perks=1332244541,3142289711,2117683199,1546637391
 dimwishlist:item=3197270240&perks=1332244541,3142289711,3161816588,2450788523
 dimwishlist:item=3197270240&perks=1332244541,3142289711,3161816588,47981717
+dimwishlist:item=3197270240&perks=1332244541,3142289711,3161816588,1546637391
 dimwishlist:item=3197270240&perks=1332244541,3142289711,3436462433,2450788523
 dimwishlist:item=3197270240&perks=1332244541,3142289711,3436462433,47981717
+dimwishlist:item=3197270240&perks=1332244541,3142289711,3436462433,1546637391
 dimwishlist:item=3197270240&perks=1332244541,791862061,2117683199,2450788523
 dimwishlist:item=3197270240&perks=1332244541,791862061,2117683199,47981717
+dimwishlist:item=3197270240&perks=1332244541,791862061,2117683199,1546637391
 dimwishlist:item=3197270240&perks=1332244541,791862061,3161816588,2450788523
 dimwishlist:item=3197270240&perks=1332244541,791862061,3161816588,47981717
+dimwishlist:item=3197270240&perks=1332244541,791862061,3161816588,1546637391
 dimwishlist:item=3197270240&perks=1332244541,791862061,3436462433,2450788523
 dimwishlist:item=3197270240&perks=1332244541,791862061,3436462433,47981717
+dimwishlist:item=3197270240&perks=1332244541,791862061,3436462433,1546637391
 dimwishlist:item=3197270240&perks=1300023272,3142289711,2117683199,2450788523
 dimwishlist:item=3197270240&perks=1300023272,3142289711,2117683199,47981717
+dimwishlist:item=3197270240&perks=1300023272,3142289711,2117683199,1546637391
 dimwishlist:item=3197270240&perks=1300023272,3142289711,3161816588,2450788523
 dimwishlist:item=3197270240&perks=1300023272,3142289711,3161816588,47981717
+dimwishlist:item=3197270240&perks=1300023272,3142289711,3161816588,1546637391
 dimwishlist:item=3197270240&perks=1300023272,3142289711,3436462433,2450788523
 dimwishlist:item=3197270240&perks=1300023272,3142289711,3436462433,47981717
+dimwishlist:item=3197270240&perks=1300023272,3142289711,3436462433,1546637391
 dimwishlist:item=3197270240&perks=1300023272,791862061,2117683199,2450788523
 dimwishlist:item=3197270240&perks=1300023272,791862061,2117683199,47981717
+dimwishlist:item=3197270240&perks=1300023272,791862061,2117683199,1546637391
 dimwishlist:item=3197270240&perks=1300023272,791862061,3161816588,2450788523
 dimwishlist:item=3197270240&perks=1300023272,791862061,3161816588,47981717
+dimwishlist:item=3197270240&perks=1300023272,791862061,3161816588,1546637391
 dimwishlist:item=3197270240&perks=1300023272,791862061,3436462433,2450788523
 dimwishlist:item=3197270240&perks=1300023272,791862061,3436462433,47981717
+dimwishlist:item=3197270240&perks=1300023272,791862061,3436462433,1546637391
 dimwishlist:item=3197270240&perks=1047830412,3142289711,2117683199,2450788523
 dimwishlist:item=3197270240&perks=1047830412,3142289711,2117683199,47981717
+dimwishlist:item=3197270240&perks=1047830412,3142289711,2117683199,1546637391
 dimwishlist:item=3197270240&perks=1047830412,3142289711,3161816588,2450788523
 dimwishlist:item=3197270240&perks=1047830412,3142289711,3161816588,47981717
+dimwishlist:item=3197270240&perks=1047830412,3142289711,3161816588,1546637391
 dimwishlist:item=3197270240&perks=1047830412,3142289711,3436462433,2450788523
 dimwishlist:item=3197270240&perks=1047830412,3142289711,3436462433,47981717
+dimwishlist:item=3197270240&perks=1047830412,3142289711,3436462433,1546637391
 dimwishlist:item=3197270240&perks=1047830412,791862061,2117683199,2450788523
 dimwishlist:item=3197270240&perks=1047830412,791862061,2117683199,47981717
+dimwishlist:item=3197270240&perks=1047830412,791862061,2117683199,1546637391
 dimwishlist:item=3197270240&perks=1047830412,791862061,3161816588,2450788523
 dimwishlist:item=3197270240&perks=1047830412,791862061,3161816588,47981717
+dimwishlist:item=3197270240&perks=1047830412,791862061,3161816588,1546637391
 dimwishlist:item=3197270240&perks=1047830412,791862061,3436462433,2450788523
 dimwishlist:item=3197270240&perks=1047830412,791862061,3436462433,47981717
+dimwishlist:item=3197270240&perks=1047830412,791862061,3436462433,1546637391
 dimwishlist:item=3197270240&perks=1332244541,3142289711,2117683199,2450788523
 dimwishlist:item=3197270240&perks=1332244541,3142289711,2117683199,47981717
+dimwishlist:item=3197270240&perks=1332244541,3142289711,2117683199,1546637391
 dimwishlist:item=3197270240&perks=1332244541,3142289711,3161816588,2450788523
 dimwishlist:item=3197270240&perks=1332244541,3142289711,3161816588,47981717
+dimwishlist:item=3197270240&perks=1332244541,3142289711,3161816588,1546637391
 dimwishlist:item=3197270240&perks=1332244541,3142289711,3436462433,2450788523
 dimwishlist:item=3197270240&perks=1332244541,3142289711,3436462433,47981717
+dimwishlist:item=3197270240&perks=1332244541,3142289711,3436462433,1546637391
 dimwishlist:item=3197270240&perks=1332244541,791862061,2117683199,2450788523
 dimwishlist:item=3197270240&perks=1332244541,791862061,2117683199,47981717
+dimwishlist:item=3197270240&perks=1332244541,791862061,2117683199,1546637391
 dimwishlist:item=3197270240&perks=1332244541,791862061,3161816588,2450788523
 dimwishlist:item=3197270240&perks=1332244541,791862061,3161816588,47981717
+dimwishlist:item=3197270240&perks=1332244541,791862061,3161816588,1546637391
 dimwishlist:item=3197270240&perks=1332244541,791862061,3436462433,2450788523
 dimwishlist:item=3197270240&perks=1332244541,791862061,3436462433,47981717
+dimwishlist:item=3197270240&perks=1332244541,791862061,3436462433,1546637391
 dimwishlist:item=3197270240&perks=1300023272,3142289711,2117683199,2450788523
 dimwishlist:item=3197270240&perks=1300023272,3142289711,2117683199,47981717
+dimwishlist:item=3197270240&perks=1300023272,3142289711,2117683199,1546637391
 dimwishlist:item=3197270240&perks=1300023272,3142289711,3161816588,2450788523
 dimwishlist:item=3197270240&perks=1300023272,3142289711,3161816588,47981717
+dimwishlist:item=3197270240&perks=1300023272,3142289711,3161816588,1546637391
 dimwishlist:item=3197270240&perks=1300023272,3142289711,3436462433,2450788523
 dimwishlist:item=3197270240&perks=1300023272,3142289711,3436462433,47981717
+dimwishlist:item=3197270240&perks=1300023272,3142289711,3436462433,1546637391
 dimwishlist:item=3197270240&perks=1300023272,791862061,2117683199,2450788523
 dimwishlist:item=3197270240&perks=1300023272,791862061,2117683199,47981717
+dimwishlist:item=3197270240&perks=1300023272,791862061,2117683199,1546637391
 dimwishlist:item=3197270240&perks=1300023272,791862061,3161816588,2450788523
 dimwishlist:item=3197270240&perks=1300023272,791862061,3161816588,47981717
+dimwishlist:item=3197270240&perks=1300023272,791862061,3161816588,1546637391
 dimwishlist:item=3197270240&perks=1300023272,791862061,3436462433,2450788523
 dimwishlist:item=3197270240&perks=1300023272,791862061,3436462433,47981717
+dimwishlist:item=3197270240&perks=1300023272,791862061,3436462433,1546637391
 
 //Found Verdict (Timelost)
-//notes: adam (PvE / optimal)|tags:PvE
-dimwishlist:item=631439337&perks=1047830412,791862061,3418782618,2679249093
+//notes: adam (PvE / optimal): Pellet shotguns are not in a great place within the PvE meta but One-Two Punch rolls have some fun use cases.|tags:PvE
+dimwishlist:item=631439337&perks=1047830412,791862061,3300816228,2679249093
+dimwishlist:item=631439337&perks=1047830412,791862061,2117683199,2679249093
 dimwishlist:item=631439337&perks=1047830412,791862061,2679249093
-dimwishlist:item=631439337&perks=1047830412,3418782618,2679249093
+dimwishlist:item=631439337&perks=1047830412,3300816228,2679249093
+dimwishlist:item=631439337&perks=1047830412,2117683199,2679249093
 dimwishlist:item=631439337&perks=1047830412,2679249093
 
 //Found Verdict (Timelost)
-//notes: adam (PvP / optimal)|tags:PvP
+//notes: adam (PvP / optimal): Have you ever thought to yourself "this game really needs another version of Felwinter's Lie, but with better stats across the board"? Well, me neither, but here it is. Might as well make sure you have a good roll on it. Felwinter could still remain superior due to its unique, intrinsic "shot package" perk, but this can get some slightly different rolls (particularly the combo of Full Auto and Assault Mag, both of which provide an RPM increase, making it less of a death sentence to miss the kill on your first shot), and it deals Arc damage, which could render it the rare counter to generally unkillable Heir Apparent users.|tags:PvP
 dimwishlist:item=631439337&perks=1047830412,3142289711,2117683199,47981717
 dimwishlist:item=631439337&perks=1047830412,3142289711,3436462433,47981717
 dimwishlist:item=631439337&perks=1047830412,3142289711,3161816588,47981717
@@ -7873,79 +8005,115 @@ dimwishlist:item=631439337&perks=1047830412,791862061,3436462433,47981717
 dimwishlist:item=631439337&perks=1047830412,791862061,3161816588,47981717
 
 //Found Verdict (Timelost)
-//notes: adam (PvP)|tags:PvP
+//notes: adam (PvP): Have you ever thought to yourself "this game really needs another version of Felwinter's Lie, but with better stats across the board"? Well, me neither, but here it is. Might as well make sure you have a good roll on it. Felwinter could still remain superior due to its unique, intrinsic "shot package" perk, but this can get some slightly different rolls (particularly the combo of Full Auto and Assault Mag, both of which provide an RPM increase, making it less of a death sentence to miss the kill on your first shot), and it deals Arc damage, which could render it the rare counter to generally unkillable Heir Apparent users.|tags:PvP
 dimwishlist:item=631439337&perks=1047830412,3142289711,2117683199,2450788523
 dimwishlist:item=631439337&perks=1047830412,3142289711,2117683199,47981717
+dimwishlist:item=631439337&perks=1047830412,3142289711,2117683199,1546637391
 dimwishlist:item=631439337&perks=1047830412,3142289711,3161816588,2450788523
 dimwishlist:item=631439337&perks=1047830412,3142289711,3161816588,47981717
+dimwishlist:item=631439337&perks=1047830412,3142289711,3161816588,1546637391
 dimwishlist:item=631439337&perks=1047830412,3142289711,3436462433,2450788523
 dimwishlist:item=631439337&perks=1047830412,3142289711,3436462433,47981717
+dimwishlist:item=631439337&perks=1047830412,3142289711,3436462433,1546637391
 dimwishlist:item=631439337&perks=1047830412,791862061,2117683199,2450788523
 dimwishlist:item=631439337&perks=1047830412,791862061,2117683199,47981717
+dimwishlist:item=631439337&perks=1047830412,791862061,2117683199,1546637391
 dimwishlist:item=631439337&perks=1047830412,791862061,3161816588,2450788523
 dimwishlist:item=631439337&perks=1047830412,791862061,3161816588,47981717
+dimwishlist:item=631439337&perks=1047830412,791862061,3161816588,1546637391
 dimwishlist:item=631439337&perks=1047830412,791862061,3436462433,2450788523
 dimwishlist:item=631439337&perks=1047830412,791862061,3436462433,47981717
+dimwishlist:item=631439337&perks=1047830412,791862061,3436462433,1546637391
 dimwishlist:item=631439337&perks=1332244541,3142289711,2117683199,2450788523
 dimwishlist:item=631439337&perks=1332244541,3142289711,2117683199,47981717
+dimwishlist:item=631439337&perks=1332244541,3142289711,2117683199,1546637391
 dimwishlist:item=631439337&perks=1332244541,3142289711,3161816588,2450788523
 dimwishlist:item=631439337&perks=1332244541,3142289711,3161816588,47981717
+dimwishlist:item=631439337&perks=1332244541,3142289711,3161816588,1546637391
 dimwishlist:item=631439337&perks=1332244541,3142289711,3436462433,2450788523
 dimwishlist:item=631439337&perks=1332244541,3142289711,3436462433,47981717
+dimwishlist:item=631439337&perks=1332244541,3142289711,3436462433,1546637391
 dimwishlist:item=631439337&perks=1332244541,791862061,2117683199,2450788523
 dimwishlist:item=631439337&perks=1332244541,791862061,2117683199,47981717
+dimwishlist:item=631439337&perks=1332244541,791862061,2117683199,1546637391
 dimwishlist:item=631439337&perks=1332244541,791862061,3161816588,2450788523
 dimwishlist:item=631439337&perks=1332244541,791862061,3161816588,47981717
+dimwishlist:item=631439337&perks=1332244541,791862061,3161816588,1546637391
 dimwishlist:item=631439337&perks=1332244541,791862061,3436462433,2450788523
 dimwishlist:item=631439337&perks=1332244541,791862061,3436462433,47981717
+dimwishlist:item=631439337&perks=1332244541,791862061,3436462433,1546637391
 dimwishlist:item=631439337&perks=1300023272,3142289711,2117683199,2450788523
 dimwishlist:item=631439337&perks=1300023272,3142289711,2117683199,47981717
+dimwishlist:item=631439337&perks=1300023272,3142289711,2117683199,1546637391
 dimwishlist:item=631439337&perks=1300023272,3142289711,3161816588,2450788523
 dimwishlist:item=631439337&perks=1300023272,3142289711,3161816588,47981717
+dimwishlist:item=631439337&perks=1300023272,3142289711,3161816588,1546637391
 dimwishlist:item=631439337&perks=1300023272,3142289711,3436462433,2450788523
 dimwishlist:item=631439337&perks=1300023272,3142289711,3436462433,47981717
+dimwishlist:item=631439337&perks=1300023272,3142289711,3436462433,1546637391
 dimwishlist:item=631439337&perks=1300023272,791862061,2117683199,2450788523
 dimwishlist:item=631439337&perks=1300023272,791862061,2117683199,47981717
+dimwishlist:item=631439337&perks=1300023272,791862061,2117683199,1546637391
 dimwishlist:item=631439337&perks=1300023272,791862061,3161816588,2450788523
 dimwishlist:item=631439337&perks=1300023272,791862061,3161816588,47981717
+dimwishlist:item=631439337&perks=1300023272,791862061,3161816588,1546637391
 dimwishlist:item=631439337&perks=1300023272,791862061,3436462433,2450788523
 dimwishlist:item=631439337&perks=1300023272,791862061,3436462433,47981717
+dimwishlist:item=631439337&perks=1300023272,791862061,3436462433,1546637391
 dimwishlist:item=631439337&perks=1047830412,3142289711,2117683199,2450788523
 dimwishlist:item=631439337&perks=1047830412,3142289711,2117683199,47981717
+dimwishlist:item=631439337&perks=1047830412,3142289711,2117683199,1546637391
 dimwishlist:item=631439337&perks=1047830412,3142289711,3161816588,2450788523
 dimwishlist:item=631439337&perks=1047830412,3142289711,3161816588,47981717
+dimwishlist:item=631439337&perks=1047830412,3142289711,3161816588,1546637391
 dimwishlist:item=631439337&perks=1047830412,3142289711,3436462433,2450788523
 dimwishlist:item=631439337&perks=1047830412,3142289711,3436462433,47981717
+dimwishlist:item=631439337&perks=1047830412,3142289711,3436462433,1546637391
 dimwishlist:item=631439337&perks=1047830412,791862061,2117683199,2450788523
 dimwishlist:item=631439337&perks=1047830412,791862061,2117683199,47981717
+dimwishlist:item=631439337&perks=1047830412,791862061,2117683199,1546637391
 dimwishlist:item=631439337&perks=1047830412,791862061,3161816588,2450788523
 dimwishlist:item=631439337&perks=1047830412,791862061,3161816588,47981717
+dimwishlist:item=631439337&perks=1047830412,791862061,3161816588,1546637391
 dimwishlist:item=631439337&perks=1047830412,791862061,3436462433,2450788523
 dimwishlist:item=631439337&perks=1047830412,791862061,3436462433,47981717
+dimwishlist:item=631439337&perks=1047830412,791862061,3436462433,1546637391
 dimwishlist:item=631439337&perks=1332244541,3142289711,2117683199,2450788523
 dimwishlist:item=631439337&perks=1332244541,3142289711,2117683199,47981717
+dimwishlist:item=631439337&perks=1332244541,3142289711,2117683199,1546637391
 dimwishlist:item=631439337&perks=1332244541,3142289711,3161816588,2450788523
 dimwishlist:item=631439337&perks=1332244541,3142289711,3161816588,47981717
+dimwishlist:item=631439337&perks=1332244541,3142289711,3161816588,1546637391
 dimwishlist:item=631439337&perks=1332244541,3142289711,3436462433,2450788523
 dimwishlist:item=631439337&perks=1332244541,3142289711,3436462433,47981717
+dimwishlist:item=631439337&perks=1332244541,3142289711,3436462433,1546637391
 dimwishlist:item=631439337&perks=1332244541,791862061,2117683199,2450788523
 dimwishlist:item=631439337&perks=1332244541,791862061,2117683199,47981717
+dimwishlist:item=631439337&perks=1332244541,791862061,2117683199,1546637391
 dimwishlist:item=631439337&perks=1332244541,791862061,3161816588,2450788523
 dimwishlist:item=631439337&perks=1332244541,791862061,3161816588,47981717
+dimwishlist:item=631439337&perks=1332244541,791862061,3161816588,1546637391
 dimwishlist:item=631439337&perks=1332244541,791862061,3436462433,2450788523
 dimwishlist:item=631439337&perks=1332244541,791862061,3436462433,47981717
+dimwishlist:item=631439337&perks=1332244541,791862061,3436462433,1546637391
 dimwishlist:item=631439337&perks=1300023272,3142289711,2117683199,2450788523
 dimwishlist:item=631439337&perks=1300023272,3142289711,2117683199,47981717
+dimwishlist:item=631439337&perks=1300023272,3142289711,2117683199,1546637391
 dimwishlist:item=631439337&perks=1300023272,3142289711,3161816588,2450788523
 dimwishlist:item=631439337&perks=1300023272,3142289711,3161816588,47981717
+dimwishlist:item=631439337&perks=1300023272,3142289711,3161816588,1546637391
 dimwishlist:item=631439337&perks=1300023272,3142289711,3436462433,2450788523
 dimwishlist:item=631439337&perks=1300023272,3142289711,3436462433,47981717
+dimwishlist:item=631439337&perks=1300023272,3142289711,3436462433,1546637391
 dimwishlist:item=631439337&perks=1300023272,791862061,2117683199,2450788523
 dimwishlist:item=631439337&perks=1300023272,791862061,2117683199,47981717
+dimwishlist:item=631439337&perks=1300023272,791862061,2117683199,1546637391
 dimwishlist:item=631439337&perks=1300023272,791862061,3161816588,2450788523
 dimwishlist:item=631439337&perks=1300023272,791862061,3161816588,47981717
+dimwishlist:item=631439337&perks=1300023272,791862061,3161816588,1546637391
 dimwishlist:item=631439337&perks=1300023272,791862061,3436462433,2450788523
 dimwishlist:item=631439337&perks=1300023272,791862061,3436462433,47981717
+dimwishlist:item=631439337&perks=1300023272,791862061,3436462433,1546637391
 
 //Corrective Measure
 //notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
@@ -7953,18 +8121,34 @@ dimwishlist:item=471518543&perks=1840239774,2420895100,3523296417,11612903
 dimwishlist:item=471518543&perks=1840239774,3523296417,11612903
 dimwishlist:item=471518543&perks=2420895100,3523296417,11612903
 dimwishlist:item=471518543&perks=3523296417,11612903
+dimwishlist:item=471518543&perks=1840239774,2420895100,3523296417,4049631843
+dimwishlist:item=471518543&perks=1840239774,3523296417,4049631843
+dimwishlist:item=471518543&perks=2420895100,3523296417,4049631843
+dimwishlist:item=471518543&perks=3523296417,4049631843
 dimwishlist:item=471518543&perks=1840239774,1087426260,3523296417,11612903
 dimwishlist:item=471518543&perks=1087426260,3523296417,11612903
+dimwishlist:item=471518543&perks=1840239774,1087426260,3523296417,4049631843
+dimwishlist:item=471518543&perks=1087426260,3523296417,4049631843
 dimwishlist:item=471518543&perks=1840239774,106909392,3523296417,11612903
 dimwishlist:item=471518543&perks=106909392,3523296417,11612903
+dimwishlist:item=471518543&perks=1840239774,106909392,3523296417,4049631843
+dimwishlist:item=471518543&perks=106909392,3523296417,4049631843
 dimwishlist:item=471518543&perks=839105230,2420895100,3523296417,11612903
 dimwishlist:item=471518543&perks=839105230,3523296417,11612903
+dimwishlist:item=471518543&perks=839105230,2420895100,3523296417,4049631843
+dimwishlist:item=471518543&perks=839105230,3523296417,4049631843
 dimwishlist:item=471518543&perks=839105230,1087426260,3523296417,11612903
+dimwishlist:item=471518543&perks=839105230,1087426260,3523296417,4049631843
 dimwishlist:item=471518543&perks=839105230,106909392,3523296417,11612903
+dimwishlist:item=471518543&perks=839105230,106909392,3523296417,4049631843
 dimwishlist:item=471518543&perks=4090651448,2420895100,3523296417,11612903
 dimwishlist:item=471518543&perks=4090651448,3523296417,11612903
+dimwishlist:item=471518543&perks=4090651448,2420895100,3523296417,4049631843
+dimwishlist:item=471518543&perks=4090651448,3523296417,4049631843
 dimwishlist:item=471518543&perks=4090651448,1087426260,3523296417,11612903
+dimwishlist:item=471518543&perks=4090651448,1087426260,3523296417,4049631843
 dimwishlist:item=471518543&perks=4090651448,106909392,3523296417,11612903
+dimwishlist:item=471518543&perks=4090651448,106909392,3523296417,4049631843
 
 //Corrective Measure
 //notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
@@ -7986,205 +8170,269 @@ dimwishlist:item=471518543&perks=4090651448,1087426260,3523296417,2726471870
 dimwishlist:item=471518543&perks=4090651448,106909392,3523296417,2726471870
 
 //Corrective Measure
-//notes: adam (PvE / regular, non-endgame content / optimal)|tags:PvE
+//notes: adam (PvE / regular, non-endgame content / optimal): Great options for reload perks here, and I'd opt for the least traditional one: Demolitionist feels like a sufficient reload perk on an LMG—with the amount of adds you can take down with a single mag, it shouldn't be too difficult to get a full grenade charge before you run out. Furthermore, this is the only weapon in the game that can roll Demolitionist and Adrenaline Junkie together, transforming your grenades into a tool that both reloads your weapon and increases its damage.|tags:PvE
 dimwishlist:item=471518543&perks=1840239774,2420895100,3523296417,3824105627
 dimwishlist:item=471518543&perks=1840239774,2420895100,3523296417,11612903
+dimwishlist:item=471518543&perks=1840239774,2420895100,3523296417,4049631843
 dimwishlist:item=471518543&perks=1840239774,2420895100,3523296417,2726471870
 dimwishlist:item=471518543&perks=1840239774,1087426260,3523296417,3824105627
 dimwishlist:item=471518543&perks=1840239774,1087426260,3523296417,11612903
+dimwishlist:item=471518543&perks=1840239774,1087426260,3523296417,4049631843
 dimwishlist:item=471518543&perks=1840239774,1087426260,3523296417,2726471870
 dimwishlist:item=471518543&perks=1840239774,106909392,3523296417,3824105627
 dimwishlist:item=471518543&perks=1840239774,106909392,3523296417,11612903
+dimwishlist:item=471518543&perks=1840239774,106909392,3523296417,4049631843
 dimwishlist:item=471518543&perks=1840239774,106909392,3523296417,2726471870
 dimwishlist:item=471518543&perks=839105230,2420895100,3523296417,3824105627
 dimwishlist:item=471518543&perks=839105230,2420895100,3523296417,11612903
+dimwishlist:item=471518543&perks=839105230,2420895100,3523296417,4049631843
 dimwishlist:item=471518543&perks=839105230,2420895100,3523296417,2726471870
 dimwishlist:item=471518543&perks=839105230,1087426260,3523296417,3824105627
 dimwishlist:item=471518543&perks=839105230,1087426260,3523296417,11612903
+dimwishlist:item=471518543&perks=839105230,1087426260,3523296417,4049631843
 dimwishlist:item=471518543&perks=839105230,1087426260,3523296417,2726471870
 dimwishlist:item=471518543&perks=839105230,106909392,3523296417,3824105627
 dimwishlist:item=471518543&perks=839105230,106909392,3523296417,11612903
+dimwishlist:item=471518543&perks=839105230,106909392,3523296417,4049631843
 dimwishlist:item=471518543&perks=839105230,106909392,3523296417,2726471870
 dimwishlist:item=471518543&perks=4090651448,2420895100,3523296417,3824105627
 dimwishlist:item=471518543&perks=4090651448,2420895100,3523296417,11612903
+dimwishlist:item=471518543&perks=4090651448,2420895100,3523296417,4049631843
 dimwishlist:item=471518543&perks=4090651448,2420895100,3523296417,2726471870
 dimwishlist:item=471518543&perks=4090651448,1087426260,3523296417,3824105627
 dimwishlist:item=471518543&perks=4090651448,1087426260,3523296417,11612903
+dimwishlist:item=471518543&perks=4090651448,1087426260,3523296417,4049631843
 dimwishlist:item=471518543&perks=4090651448,1087426260,3523296417,2726471870
 dimwishlist:item=471518543&perks=4090651448,106909392,3523296417,3824105627
 dimwishlist:item=471518543&perks=4090651448,106909392,3523296417,11612903
+dimwishlist:item=471518543&perks=4090651448,106909392,3523296417,4049631843
 dimwishlist:item=471518543&perks=4090651448,106909392,3523296417,2726471870
 dimwishlist:item=471518543&perks=1840239774,3523296417,3824105627
 dimwishlist:item=471518543&perks=1840239774,3523296417,11612903
+dimwishlist:item=471518543&perks=1840239774,3523296417,4049631843
 dimwishlist:item=471518543&perks=1840239774,3523296417,2726471870
 dimwishlist:item=471518543&perks=839105230,3523296417,3824105627
 dimwishlist:item=471518543&perks=839105230,3523296417,11612903
+dimwishlist:item=471518543&perks=839105230,3523296417,4049631843
 dimwishlist:item=471518543&perks=839105230,3523296417,2726471870
 dimwishlist:item=471518543&perks=4090651448,3523296417,3824105627
 dimwishlist:item=471518543&perks=4090651448,3523296417,11612903
+dimwishlist:item=471518543&perks=4090651448,3523296417,4049631843
 dimwishlist:item=471518543&perks=4090651448,3523296417,2726471870
 dimwishlist:item=471518543&perks=2420895100,3523296417,3824105627
 dimwishlist:item=471518543&perks=2420895100,3523296417,11612903
+dimwishlist:item=471518543&perks=2420895100,3523296417,4049631843
 dimwishlist:item=471518543&perks=2420895100,3523296417,2726471870
 dimwishlist:item=471518543&perks=1087426260,3523296417,3824105627
 dimwishlist:item=471518543&perks=1087426260,3523296417,11612903
+dimwishlist:item=471518543&perks=1087426260,3523296417,4049631843
 dimwishlist:item=471518543&perks=1087426260,3523296417,2726471870
 dimwishlist:item=471518543&perks=106909392,3523296417,3824105627
 dimwishlist:item=471518543&perks=106909392,3523296417,11612903
+dimwishlist:item=471518543&perks=106909392,3523296417,4049631843
 dimwishlist:item=471518543&perks=106909392,3523296417,2726471870
 dimwishlist:item=471518543&perks=3523296417,3824105627
 dimwishlist:item=471518543&perks=3523296417,11612903
+dimwishlist:item=471518543&perks=3523296417,4049631843
 dimwishlist:item=471518543&perks=3523296417,2726471870
 
 //Corrective Measure
-//notes: adam (PvE / regular, non-endgame content)|tags:PvE
+//notes: adam (PvE / regular, non-endgame content): Great options for reload perks here, and I'd opt for the least traditional one: Demolitionist feels like a sufficient reload perk on an LMG—with the amount of adds you can take down with a single mag, it shouldn't be too difficult to get a full grenade charge before you run out. Furthermore, this is the only weapon in the game that can roll Demolitionist and Adrenaline Junkie together, transforming your grenades into a tool that both reloads your weapon and increases its damage.|tags:PvE
 dimwishlist:item=471518543&perks=1840239774,2420895100,3523296417,3824105627
 dimwishlist:item=471518543&perks=1840239774,2420895100,3523296417,11612903
+dimwishlist:item=471518543&perks=1840239774,2420895100,3523296417,4049631843
 dimwishlist:item=471518543&perks=1840239774,2420895100,3523296417,2726471870
 dimwishlist:item=471518543&perks=1840239774,2420895100,1820235745,3824105627
 dimwishlist:item=471518543&perks=1840239774,2420895100,1820235745,11612903
+dimwishlist:item=471518543&perks=1840239774,2420895100,1820235745,4049631843
 dimwishlist:item=471518543&perks=1840239774,2420895100,1820235745,2726471870
 dimwishlist:item=471518543&perks=1840239774,2420895100,2779035018,3824105627
 dimwishlist:item=471518543&perks=1840239774,2420895100,2779035018,11612903
+dimwishlist:item=471518543&perks=1840239774,2420895100,2779035018,4049631843
 dimwishlist:item=471518543&perks=1840239774,2420895100,2779035018,2726471870
 dimwishlist:item=471518543&perks=1840239774,1087426260,3523296417,3824105627
 dimwishlist:item=471518543&perks=1840239774,1087426260,3523296417,11612903
+dimwishlist:item=471518543&perks=1840239774,1087426260,3523296417,4049631843
 dimwishlist:item=471518543&perks=1840239774,1087426260,3523296417,2726471870
 dimwishlist:item=471518543&perks=1840239774,1087426260,1820235745,3824105627
 dimwishlist:item=471518543&perks=1840239774,1087426260,1820235745,11612903
+dimwishlist:item=471518543&perks=1840239774,1087426260,1820235745,4049631843
 dimwishlist:item=471518543&perks=1840239774,1087426260,1820235745,2726471870
 dimwishlist:item=471518543&perks=1840239774,1087426260,2779035018,3824105627
 dimwishlist:item=471518543&perks=1840239774,1087426260,2779035018,11612903
+dimwishlist:item=471518543&perks=1840239774,1087426260,2779035018,4049631843
 dimwishlist:item=471518543&perks=1840239774,1087426260,2779035018,2726471870
 dimwishlist:item=471518543&perks=1840239774,106909392,3523296417,3824105627
 dimwishlist:item=471518543&perks=1840239774,106909392,3523296417,11612903
+dimwishlist:item=471518543&perks=1840239774,106909392,3523296417,4049631843
 dimwishlist:item=471518543&perks=1840239774,106909392,3523296417,2726471870
 dimwishlist:item=471518543&perks=1840239774,106909392,1820235745,3824105627
 dimwishlist:item=471518543&perks=1840239774,106909392,1820235745,11612903
+dimwishlist:item=471518543&perks=1840239774,106909392,1820235745,4049631843
 dimwishlist:item=471518543&perks=1840239774,106909392,1820235745,2726471870
 dimwishlist:item=471518543&perks=1840239774,106909392,2779035018,3824105627
 dimwishlist:item=471518543&perks=1840239774,106909392,2779035018,11612903
+dimwishlist:item=471518543&perks=1840239774,106909392,2779035018,4049631843
 dimwishlist:item=471518543&perks=1840239774,106909392,2779035018,2726471870
 dimwishlist:item=471518543&perks=839105230,2420895100,3523296417,3824105627
 dimwishlist:item=471518543&perks=839105230,2420895100,3523296417,11612903
+dimwishlist:item=471518543&perks=839105230,2420895100,3523296417,4049631843
 dimwishlist:item=471518543&perks=839105230,2420895100,3523296417,2726471870
 dimwishlist:item=471518543&perks=839105230,2420895100,1820235745,3824105627
 dimwishlist:item=471518543&perks=839105230,2420895100,1820235745,11612903
+dimwishlist:item=471518543&perks=839105230,2420895100,1820235745,4049631843
 dimwishlist:item=471518543&perks=839105230,2420895100,1820235745,2726471870
 dimwishlist:item=471518543&perks=839105230,2420895100,2779035018,3824105627
 dimwishlist:item=471518543&perks=839105230,2420895100,2779035018,11612903
+dimwishlist:item=471518543&perks=839105230,2420895100,2779035018,4049631843
 dimwishlist:item=471518543&perks=839105230,2420895100,2779035018,2726471870
 dimwishlist:item=471518543&perks=839105230,1087426260,3523296417,3824105627
 dimwishlist:item=471518543&perks=839105230,1087426260,3523296417,11612903
+dimwishlist:item=471518543&perks=839105230,1087426260,3523296417,4049631843
 dimwishlist:item=471518543&perks=839105230,1087426260,3523296417,2726471870
 dimwishlist:item=471518543&perks=839105230,1087426260,1820235745,3824105627
 dimwishlist:item=471518543&perks=839105230,1087426260,1820235745,11612903
+dimwishlist:item=471518543&perks=839105230,1087426260,1820235745,4049631843
 dimwishlist:item=471518543&perks=839105230,1087426260,1820235745,2726471870
 dimwishlist:item=471518543&perks=839105230,1087426260,2779035018,3824105627
 dimwishlist:item=471518543&perks=839105230,1087426260,2779035018,11612903
+dimwishlist:item=471518543&perks=839105230,1087426260,2779035018,4049631843
 dimwishlist:item=471518543&perks=839105230,1087426260,2779035018,2726471870
 dimwishlist:item=471518543&perks=839105230,106909392,3523296417,3824105627
 dimwishlist:item=471518543&perks=839105230,106909392,3523296417,11612903
+dimwishlist:item=471518543&perks=839105230,106909392,3523296417,4049631843
 dimwishlist:item=471518543&perks=839105230,106909392,3523296417,2726471870
 dimwishlist:item=471518543&perks=839105230,106909392,1820235745,3824105627
 dimwishlist:item=471518543&perks=839105230,106909392,1820235745,11612903
+dimwishlist:item=471518543&perks=839105230,106909392,1820235745,4049631843
 dimwishlist:item=471518543&perks=839105230,106909392,1820235745,2726471870
 dimwishlist:item=471518543&perks=839105230,106909392,2779035018,3824105627
 dimwishlist:item=471518543&perks=839105230,106909392,2779035018,11612903
+dimwishlist:item=471518543&perks=839105230,106909392,2779035018,4049631843
 dimwishlist:item=471518543&perks=839105230,106909392,2779035018,2726471870
 dimwishlist:item=471518543&perks=4090651448,2420895100,3523296417,3824105627
 dimwishlist:item=471518543&perks=4090651448,2420895100,3523296417,11612903
+dimwishlist:item=471518543&perks=4090651448,2420895100,3523296417,4049631843
 dimwishlist:item=471518543&perks=4090651448,2420895100,3523296417,2726471870
 dimwishlist:item=471518543&perks=4090651448,2420895100,1820235745,3824105627
 dimwishlist:item=471518543&perks=4090651448,2420895100,1820235745,11612903
+dimwishlist:item=471518543&perks=4090651448,2420895100,1820235745,4049631843
 dimwishlist:item=471518543&perks=4090651448,2420895100,1820235745,2726471870
 dimwishlist:item=471518543&perks=4090651448,2420895100,2779035018,3824105627
 dimwishlist:item=471518543&perks=4090651448,2420895100,2779035018,11612903
+dimwishlist:item=471518543&perks=4090651448,2420895100,2779035018,4049631843
 dimwishlist:item=471518543&perks=4090651448,2420895100,2779035018,2726471870
 dimwishlist:item=471518543&perks=4090651448,1087426260,3523296417,3824105627
 dimwishlist:item=471518543&perks=4090651448,1087426260,3523296417,11612903
+dimwishlist:item=471518543&perks=4090651448,1087426260,3523296417,4049631843
 dimwishlist:item=471518543&perks=4090651448,1087426260,3523296417,2726471870
 dimwishlist:item=471518543&perks=4090651448,1087426260,1820235745,3824105627
 dimwishlist:item=471518543&perks=4090651448,1087426260,1820235745,11612903
+dimwishlist:item=471518543&perks=4090651448,1087426260,1820235745,4049631843
 dimwishlist:item=471518543&perks=4090651448,1087426260,1820235745,2726471870
 dimwishlist:item=471518543&perks=4090651448,1087426260,2779035018,3824105627
 dimwishlist:item=471518543&perks=4090651448,1087426260,2779035018,11612903
+dimwishlist:item=471518543&perks=4090651448,1087426260,2779035018,4049631843
 dimwishlist:item=471518543&perks=4090651448,1087426260,2779035018,2726471870
 dimwishlist:item=471518543&perks=4090651448,106909392,3523296417,3824105627
 dimwishlist:item=471518543&perks=4090651448,106909392,3523296417,11612903
+dimwishlist:item=471518543&perks=4090651448,106909392,3523296417,4049631843
 dimwishlist:item=471518543&perks=4090651448,106909392,3523296417,2726471870
 dimwishlist:item=471518543&perks=4090651448,106909392,1820235745,3824105627
 dimwishlist:item=471518543&perks=4090651448,106909392,1820235745,11612903
+dimwishlist:item=471518543&perks=4090651448,106909392,1820235745,4049631843
 dimwishlist:item=471518543&perks=4090651448,106909392,1820235745,2726471870
 dimwishlist:item=471518543&perks=4090651448,106909392,2779035018,3824105627
 dimwishlist:item=471518543&perks=4090651448,106909392,2779035018,11612903
+dimwishlist:item=471518543&perks=4090651448,106909392,2779035018,4049631843
 dimwishlist:item=471518543&perks=4090651448,106909392,2779035018,2726471870
 dimwishlist:item=471518543&perks=1840239774,3523296417,3824105627
 dimwishlist:item=471518543&perks=1840239774,3523296417,11612903
+dimwishlist:item=471518543&perks=1840239774,3523296417,4049631843
 dimwishlist:item=471518543&perks=1840239774,3523296417,2726471870
 dimwishlist:item=471518543&perks=1840239774,1820235745,3824105627
 dimwishlist:item=471518543&perks=1840239774,1820235745,11612903
+dimwishlist:item=471518543&perks=1840239774,1820235745,4049631843
 dimwishlist:item=471518543&perks=1840239774,1820235745,2726471870
 dimwishlist:item=471518543&perks=1840239774,2779035018,3824105627
 dimwishlist:item=471518543&perks=1840239774,2779035018,11612903
+dimwishlist:item=471518543&perks=1840239774,2779035018,4049631843
 dimwishlist:item=471518543&perks=1840239774,2779035018,2726471870
 dimwishlist:item=471518543&perks=839105230,3523296417,3824105627
 dimwishlist:item=471518543&perks=839105230,3523296417,11612903
+dimwishlist:item=471518543&perks=839105230,3523296417,4049631843
 dimwishlist:item=471518543&perks=839105230,3523296417,2726471870
 dimwishlist:item=471518543&perks=839105230,1820235745,3824105627
 dimwishlist:item=471518543&perks=839105230,1820235745,11612903
+dimwishlist:item=471518543&perks=839105230,1820235745,4049631843
 dimwishlist:item=471518543&perks=839105230,1820235745,2726471870
 dimwishlist:item=471518543&perks=839105230,2779035018,3824105627
 dimwishlist:item=471518543&perks=839105230,2779035018,11612903
+dimwishlist:item=471518543&perks=839105230,2779035018,4049631843
 dimwishlist:item=471518543&perks=839105230,2779035018,2726471870
 dimwishlist:item=471518543&perks=4090651448,3523296417,3824105627
 dimwishlist:item=471518543&perks=4090651448,3523296417,11612903
+dimwishlist:item=471518543&perks=4090651448,3523296417,4049631843
 dimwishlist:item=471518543&perks=4090651448,3523296417,2726471870
 dimwishlist:item=471518543&perks=4090651448,1820235745,3824105627
 dimwishlist:item=471518543&perks=4090651448,1820235745,11612903
+dimwishlist:item=471518543&perks=4090651448,1820235745,4049631843
 dimwishlist:item=471518543&perks=4090651448,1820235745,2726471870
 dimwishlist:item=471518543&perks=4090651448,2779035018,3824105627
 dimwishlist:item=471518543&perks=4090651448,2779035018,11612903
+dimwishlist:item=471518543&perks=4090651448,2779035018,4049631843
 dimwishlist:item=471518543&perks=4090651448,2779035018,2726471870
 dimwishlist:item=471518543&perks=2420895100,3523296417,3824105627
 dimwishlist:item=471518543&perks=2420895100,3523296417,11612903
+dimwishlist:item=471518543&perks=2420895100,3523296417,4049631843
 dimwishlist:item=471518543&perks=2420895100,3523296417,2726471870
 dimwishlist:item=471518543&perks=2420895100,1820235745,3824105627
 dimwishlist:item=471518543&perks=2420895100,1820235745,11612903
+dimwishlist:item=471518543&perks=2420895100,1820235745,4049631843
 dimwishlist:item=471518543&perks=2420895100,1820235745,2726471870
 dimwishlist:item=471518543&perks=2420895100,2779035018,3824105627
 dimwishlist:item=471518543&perks=2420895100,2779035018,11612903
+dimwishlist:item=471518543&perks=2420895100,2779035018,4049631843
 dimwishlist:item=471518543&perks=2420895100,2779035018,2726471870
 dimwishlist:item=471518543&perks=1087426260,3523296417,3824105627
 dimwishlist:item=471518543&perks=1087426260,3523296417,11612903
+dimwishlist:item=471518543&perks=1087426260,3523296417,4049631843
 dimwishlist:item=471518543&perks=1087426260,3523296417,2726471870
 dimwishlist:item=471518543&perks=1087426260,1820235745,3824105627
 dimwishlist:item=471518543&perks=1087426260,1820235745,11612903
+dimwishlist:item=471518543&perks=1087426260,1820235745,4049631843
 dimwishlist:item=471518543&perks=1087426260,1820235745,2726471870
 dimwishlist:item=471518543&perks=1087426260,2779035018,3824105627
 dimwishlist:item=471518543&perks=1087426260,2779035018,11612903
+dimwishlist:item=471518543&perks=1087426260,2779035018,4049631843
 dimwishlist:item=471518543&perks=1087426260,2779035018,2726471870
 dimwishlist:item=471518543&perks=106909392,3523296417,3824105627
 dimwishlist:item=471518543&perks=106909392,3523296417,11612903
+dimwishlist:item=471518543&perks=106909392,3523296417,4049631843
 dimwishlist:item=471518543&perks=106909392,3523296417,2726471870
 dimwishlist:item=471518543&perks=106909392,1820235745,3824105627
 dimwishlist:item=471518543&perks=106909392,1820235745,11612903
+dimwishlist:item=471518543&perks=106909392,1820235745,4049631843
 dimwishlist:item=471518543&perks=106909392,1820235745,2726471870
 dimwishlist:item=471518543&perks=106909392,2779035018,3824105627
 dimwishlist:item=471518543&perks=106909392,2779035018,11612903
+dimwishlist:item=471518543&perks=106909392,2779035018,4049631843
 dimwishlist:item=471518543&perks=106909392,2779035018,2726471870
 dimwishlist:item=471518543&perks=3523296417,3824105627
 dimwishlist:item=471518543&perks=3523296417,11612903
+dimwishlist:item=471518543&perks=3523296417,4049631843
 dimwishlist:item=471518543&perks=3523296417,2726471870
 dimwishlist:item=471518543&perks=1820235745,3824105627
 dimwishlist:item=471518543&perks=1820235745,11612903
+dimwishlist:item=471518543&perks=1820235745,4049631843
 dimwishlist:item=471518543&perks=1820235745,2726471870
 dimwishlist:item=471518543&perks=2779035018,3824105627
 dimwishlist:item=471518543&perks=2779035018,11612903
+dimwishlist:item=471518543&perks=2779035018,4049631843
 dimwishlist:item=471518543&perks=2779035018,2726471870
 
 //Corrective Measure
-//notes: adam (PvE / high PL content, GMs / optimal)|tags:PvE
+//notes: adam (PvE / high PL content, GMs / optimal): One For All remains the best damage perk for difficult content due to the magnitude of the damage increase and to its easy activation regardless of enemy health. However, since Demolitionist seems like the obvious choice in Slot 3, Adrenaline Junkie can serve as a substitute damage perk thanks to the synergy those two perks provide together. Lastly, Thresh can make this a good pick for someone using a super-refund exotic to top off the remaining chunk and get those super chains going faster.|tags:PvE
 dimwishlist:item=471518543&perks=1840239774,2420895100,3523296417,4049631843
 dimwishlist:item=471518543&perks=1840239774,2420895100,3523296417,11612903
 dimwishlist:item=471518543&perks=1840239774,1087426260,3523296417,4049631843
@@ -8219,7 +8467,7 @@ dimwishlist:item=471518543&perks=3523296417,4049631843
 dimwishlist:item=471518543&perks=3523296417,11612903
 
 //Corrective Measure
-//notes: adam (PvE / high PL content, GMs)|tags:PvE
+//notes: adam (PvE / high PL content, GMs): One For All remains the best damage perk for difficult content due to the magnitude of the damage increase and to its easy activation regardless of enemy health. However, since Demolitionist seems like the obvious choice in Slot 3, Adrenaline Junkie can serve as a substitute damage perk thanks to the synergy those two perks provide together. Lastly, Thresh can make this a good pick for someone using a super-refund exotic to top off the remaining chunk and get those super chains going faster.|tags:PvE
 dimwishlist:item=471518543&perks=1840239774,2420895100,3523296417,2726471870
 dimwishlist:item=471518543&perks=1840239774,1087426260,3523296417,2726471870
 dimwishlist:item=471518543&perks=1840239774,106909392,3523296417,2726471870
@@ -8238,7 +8486,7 @@ dimwishlist:item=471518543&perks=106909392,3523296417,2726471870
 dimwishlist:item=471518543&perks=3523296417,2726471870
 
 //Corrective Measure
-//notes: adam (PvP / optimal)|tags:PvP
+//notes: adam (PvP / optimal): PvP heavy bricks give more ammo the higher your mag size, so you will either need Extended Mag here or you will want a Backup Mag on the weapon to get to max ammo per brick. Extended + Backup Mag gives no extra ammo pickup so if you manage to roll Extended, you are free to use any other mod on the weapon. High-Impact Reserves will always be active, as the ammo you get from a brick is less than half your mag size.|tags:PvP
 dimwishlist:item=471518543&perks=1840239774,2420895100,1359896290,2213355989
 dimwishlist:item=471518543&perks=1840239774,2420895100,1359896290,1890422124
 dimwishlist:item=471518543&perks=1840239774,1087426260,1359896290,2213355989
@@ -8273,7 +8521,7 @@ dimwishlist:item=471518543&perks=1359896290,2213355989
 dimwishlist:item=471518543&perks=1359896290,1890422124
 
 //Corrective Measure
-//notes: adam (PvP)|tags:PvP
+//notes: adam (PvP): PvP heavy bricks give more ammo the higher your mag size, so you will either need Extended Mag here or you will want a Backup Mag on the weapon to get to max ammo per brick. Extended + Backup Mag gives no extra ammo pickup so if you manage to roll Extended, you are free to use any other mod on the weapon. High-Impact Reserves will always be active, as the ammo you get from a brick is less than half your mag size.|tags:PvP
 dimwishlist:item=471518543&perks=1840239774,2420895100,1359896290,2726471870
 dimwishlist:item=471518543&perks=1840239774,1087426260,1359896290,2726471870
 dimwishlist:item=471518543&perks=1840239774,106909392,1359896290,2726471870
@@ -8297,155 +8545,318 @@ dimwishlist:item=3796510434&perks=1840239774,2420895100,3523296417,11612903
 dimwishlist:item=3796510434&perks=1840239774,3523296417,11612903
 dimwishlist:item=3796510434&perks=2420895100,3523296417,11612903
 dimwishlist:item=3796510434&perks=3523296417,11612903
+dimwishlist:item=3796510434&perks=1840239774,2420895100,3523296417,4049631843
+dimwishlist:item=3796510434&perks=1840239774,3523296417,4049631843
+dimwishlist:item=3796510434&perks=2420895100,3523296417,4049631843
+dimwishlist:item=3796510434&perks=3523296417,4049631843
 dimwishlist:item=3796510434&perks=1840239774,1087426260,3523296417,11612903
 dimwishlist:item=3796510434&perks=1087426260,3523296417,11612903
+dimwishlist:item=3796510434&perks=1840239774,1087426260,3523296417,4049631843
+dimwishlist:item=3796510434&perks=1087426260,3523296417,4049631843
 dimwishlist:item=3796510434&perks=1840239774,106909392,3523296417,11612903
 dimwishlist:item=3796510434&perks=106909392,3523296417,11612903
+dimwishlist:item=3796510434&perks=1840239774,106909392,3523296417,4049631843
+dimwishlist:item=3796510434&perks=106909392,3523296417,4049631843
 dimwishlist:item=3796510434&perks=839105230,2420895100,3523296417,11612903
 dimwishlist:item=3796510434&perks=839105230,3523296417,11612903
+dimwishlist:item=3796510434&perks=839105230,2420895100,3523296417,4049631843
+dimwishlist:item=3796510434&perks=839105230,3523296417,4049631843
 dimwishlist:item=3796510434&perks=839105230,1087426260,3523296417,11612903
+dimwishlist:item=3796510434&perks=839105230,1087426260,3523296417,4049631843
 dimwishlist:item=3796510434&perks=839105230,106909392,3523296417,11612903
+dimwishlist:item=3796510434&perks=839105230,106909392,3523296417,4049631843
 dimwishlist:item=3796510434&perks=4090651448,2420895100,3523296417,11612903
 dimwishlist:item=3796510434&perks=4090651448,3523296417,11612903
+dimwishlist:item=3796510434&perks=4090651448,2420895100,3523296417,4049631843
+dimwishlist:item=3796510434&perks=4090651448,3523296417,4049631843
 dimwishlist:item=3796510434&perks=4090651448,1087426260,3523296417,11612903
+dimwishlist:item=3796510434&perks=4090651448,1087426260,3523296417,4049631843
 dimwishlist:item=3796510434&perks=4090651448,106909392,3523296417,11612903
+dimwishlist:item=3796510434&perks=4090651448,106909392,3523296417,4049631843
 
 //Corrective Measure (Timelost)
-//notes: adam (PvE / regular, non-endgame content / optimal)|tags:PvE
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=3796510434&perks=1840239774,2420895100,3523296417,2726471870
+dimwishlist:item=3796510434&perks=1840239774,3523296417,2726471870
+dimwishlist:item=3796510434&perks=2420895100,3523296417,2726471870
+dimwishlist:item=3796510434&perks=3523296417,2726471870
+dimwishlist:item=3796510434&perks=1840239774,1087426260,3523296417,2726471870
+dimwishlist:item=3796510434&perks=1087426260,3523296417,2726471870
+dimwishlist:item=3796510434&perks=1840239774,106909392,3523296417,2726471870
+dimwishlist:item=3796510434&perks=106909392,3523296417,2726471870
+dimwishlist:item=3796510434&perks=839105230,2420895100,3523296417,2726471870
+dimwishlist:item=3796510434&perks=839105230,3523296417,2726471870
+dimwishlist:item=3796510434&perks=839105230,1087426260,3523296417,2726471870
+dimwishlist:item=3796510434&perks=839105230,106909392,3523296417,2726471870
+dimwishlist:item=3796510434&perks=4090651448,2420895100,3523296417,2726471870
+dimwishlist:item=3796510434&perks=4090651448,3523296417,2726471870
+dimwishlist:item=3796510434&perks=4090651448,1087426260,3523296417,2726471870
+dimwishlist:item=3796510434&perks=4090651448,106909392,3523296417,2726471870
+
+//Corrective Measure (Timelost)
+//notes: adam (PvE / regular, non-endgame content / optimal): Great options for reload perks here, and I'd opt for the least traditional one: Demolitionist feels like a sufficient reload perk on an LMG—with the amount of adds you can take down with a single mag, it shouldn't be too difficult to get a full grenade charge before you run out. Furthermore, this is the only weapon in the game that can roll Demolitionist and Adrenaline Junkie together, transforming your grenades into a tool that both reloads your weapon and increases its damage.|tags:PvE
 dimwishlist:item=3796510434&perks=1840239774,2420895100,3523296417,3824105627
 dimwishlist:item=3796510434&perks=1840239774,2420895100,3523296417,11612903
+dimwishlist:item=3796510434&perks=1840239774,2420895100,3523296417,4049631843
+dimwishlist:item=3796510434&perks=1840239774,2420895100,3523296417,2726471870
 dimwishlist:item=3796510434&perks=1840239774,1087426260,3523296417,3824105627
 dimwishlist:item=3796510434&perks=1840239774,1087426260,3523296417,11612903
+dimwishlist:item=3796510434&perks=1840239774,1087426260,3523296417,4049631843
+dimwishlist:item=3796510434&perks=1840239774,1087426260,3523296417,2726471870
 dimwishlist:item=3796510434&perks=1840239774,106909392,3523296417,3824105627
 dimwishlist:item=3796510434&perks=1840239774,106909392,3523296417,11612903
+dimwishlist:item=3796510434&perks=1840239774,106909392,3523296417,4049631843
+dimwishlist:item=3796510434&perks=1840239774,106909392,3523296417,2726471870
 dimwishlist:item=3796510434&perks=839105230,2420895100,3523296417,3824105627
 dimwishlist:item=3796510434&perks=839105230,2420895100,3523296417,11612903
+dimwishlist:item=3796510434&perks=839105230,2420895100,3523296417,4049631843
+dimwishlist:item=3796510434&perks=839105230,2420895100,3523296417,2726471870
 dimwishlist:item=3796510434&perks=839105230,1087426260,3523296417,3824105627
 dimwishlist:item=3796510434&perks=839105230,1087426260,3523296417,11612903
+dimwishlist:item=3796510434&perks=839105230,1087426260,3523296417,4049631843
+dimwishlist:item=3796510434&perks=839105230,1087426260,3523296417,2726471870
 dimwishlist:item=3796510434&perks=839105230,106909392,3523296417,3824105627
 dimwishlist:item=3796510434&perks=839105230,106909392,3523296417,11612903
+dimwishlist:item=3796510434&perks=839105230,106909392,3523296417,4049631843
+dimwishlist:item=3796510434&perks=839105230,106909392,3523296417,2726471870
 dimwishlist:item=3796510434&perks=4090651448,2420895100,3523296417,3824105627
 dimwishlist:item=3796510434&perks=4090651448,2420895100,3523296417,11612903
+dimwishlist:item=3796510434&perks=4090651448,2420895100,3523296417,4049631843
+dimwishlist:item=3796510434&perks=4090651448,2420895100,3523296417,2726471870
 dimwishlist:item=3796510434&perks=4090651448,1087426260,3523296417,3824105627
 dimwishlist:item=3796510434&perks=4090651448,1087426260,3523296417,11612903
+dimwishlist:item=3796510434&perks=4090651448,1087426260,3523296417,4049631843
+dimwishlist:item=3796510434&perks=4090651448,1087426260,3523296417,2726471870
 dimwishlist:item=3796510434&perks=4090651448,106909392,3523296417,3824105627
 dimwishlist:item=3796510434&perks=4090651448,106909392,3523296417,11612903
+dimwishlist:item=3796510434&perks=4090651448,106909392,3523296417,4049631843
+dimwishlist:item=3796510434&perks=4090651448,106909392,3523296417,2726471870
 dimwishlist:item=3796510434&perks=1840239774,3523296417,3824105627
 dimwishlist:item=3796510434&perks=1840239774,3523296417,11612903
+dimwishlist:item=3796510434&perks=1840239774,3523296417,4049631843
+dimwishlist:item=3796510434&perks=1840239774,3523296417,2726471870
 dimwishlist:item=3796510434&perks=839105230,3523296417,3824105627
 dimwishlist:item=3796510434&perks=839105230,3523296417,11612903
+dimwishlist:item=3796510434&perks=839105230,3523296417,4049631843
+dimwishlist:item=3796510434&perks=839105230,3523296417,2726471870
 dimwishlist:item=3796510434&perks=4090651448,3523296417,3824105627
 dimwishlist:item=3796510434&perks=4090651448,3523296417,11612903
+dimwishlist:item=3796510434&perks=4090651448,3523296417,4049631843
+dimwishlist:item=3796510434&perks=4090651448,3523296417,2726471870
 dimwishlist:item=3796510434&perks=2420895100,3523296417,3824105627
 dimwishlist:item=3796510434&perks=2420895100,3523296417,11612903
+dimwishlist:item=3796510434&perks=2420895100,3523296417,4049631843
+dimwishlist:item=3796510434&perks=2420895100,3523296417,2726471870
 dimwishlist:item=3796510434&perks=1087426260,3523296417,3824105627
 dimwishlist:item=3796510434&perks=1087426260,3523296417,11612903
+dimwishlist:item=3796510434&perks=1087426260,3523296417,4049631843
+dimwishlist:item=3796510434&perks=1087426260,3523296417,2726471870
 dimwishlist:item=3796510434&perks=106909392,3523296417,3824105627
 dimwishlist:item=3796510434&perks=106909392,3523296417,11612903
+dimwishlist:item=3796510434&perks=106909392,3523296417,4049631843
+dimwishlist:item=3796510434&perks=106909392,3523296417,2726471870
 dimwishlist:item=3796510434&perks=3523296417,3824105627
 dimwishlist:item=3796510434&perks=3523296417,11612903
+dimwishlist:item=3796510434&perks=3523296417,4049631843
+dimwishlist:item=3796510434&perks=3523296417,2726471870
 
 //Corrective Measure (Timelost)
-//notes: adam (PvE / regular, non-endgame content)|tags:PvE
+//notes: adam (PvE / regular, non-endgame content): Great options for reload perks here, and I'd opt for the least traditional one: Demolitionist feels like a sufficient reload perk on an LMG—with the amount of adds you can take down with a single mag, it shouldn't be too difficult to get a full grenade charge before you run out. Furthermore, this is the only weapon in the game that can roll Demolitionist and Adrenaline Junkie together, transforming your grenades into a tool that both reloads your weapon and increases its damage.|tags:PvE
 dimwishlist:item=3796510434&perks=1840239774,2420895100,3523296417,3824105627
 dimwishlist:item=3796510434&perks=1840239774,2420895100,3523296417,11612903
+dimwishlist:item=3796510434&perks=1840239774,2420895100,3523296417,4049631843
+dimwishlist:item=3796510434&perks=1840239774,2420895100,3523296417,2726471870
 dimwishlist:item=3796510434&perks=1840239774,2420895100,1820235745,3824105627
 dimwishlist:item=3796510434&perks=1840239774,2420895100,1820235745,11612903
+dimwishlist:item=3796510434&perks=1840239774,2420895100,1820235745,4049631843
+dimwishlist:item=3796510434&perks=1840239774,2420895100,1820235745,2726471870
 dimwishlist:item=3796510434&perks=1840239774,2420895100,2779035018,3824105627
 dimwishlist:item=3796510434&perks=1840239774,2420895100,2779035018,11612903
+dimwishlist:item=3796510434&perks=1840239774,2420895100,2779035018,4049631843
+dimwishlist:item=3796510434&perks=1840239774,2420895100,2779035018,2726471870
 dimwishlist:item=3796510434&perks=1840239774,1087426260,3523296417,3824105627
 dimwishlist:item=3796510434&perks=1840239774,1087426260,3523296417,11612903
+dimwishlist:item=3796510434&perks=1840239774,1087426260,3523296417,4049631843
+dimwishlist:item=3796510434&perks=1840239774,1087426260,3523296417,2726471870
 dimwishlist:item=3796510434&perks=1840239774,1087426260,1820235745,3824105627
 dimwishlist:item=3796510434&perks=1840239774,1087426260,1820235745,11612903
+dimwishlist:item=3796510434&perks=1840239774,1087426260,1820235745,4049631843
+dimwishlist:item=3796510434&perks=1840239774,1087426260,1820235745,2726471870
 dimwishlist:item=3796510434&perks=1840239774,1087426260,2779035018,3824105627
 dimwishlist:item=3796510434&perks=1840239774,1087426260,2779035018,11612903
+dimwishlist:item=3796510434&perks=1840239774,1087426260,2779035018,4049631843
+dimwishlist:item=3796510434&perks=1840239774,1087426260,2779035018,2726471870
 dimwishlist:item=3796510434&perks=1840239774,106909392,3523296417,3824105627
 dimwishlist:item=3796510434&perks=1840239774,106909392,3523296417,11612903
+dimwishlist:item=3796510434&perks=1840239774,106909392,3523296417,4049631843
+dimwishlist:item=3796510434&perks=1840239774,106909392,3523296417,2726471870
 dimwishlist:item=3796510434&perks=1840239774,106909392,1820235745,3824105627
 dimwishlist:item=3796510434&perks=1840239774,106909392,1820235745,11612903
+dimwishlist:item=3796510434&perks=1840239774,106909392,1820235745,4049631843
+dimwishlist:item=3796510434&perks=1840239774,106909392,1820235745,2726471870
 dimwishlist:item=3796510434&perks=1840239774,106909392,2779035018,3824105627
 dimwishlist:item=3796510434&perks=1840239774,106909392,2779035018,11612903
+dimwishlist:item=3796510434&perks=1840239774,106909392,2779035018,4049631843
+dimwishlist:item=3796510434&perks=1840239774,106909392,2779035018,2726471870
 dimwishlist:item=3796510434&perks=839105230,2420895100,3523296417,3824105627
 dimwishlist:item=3796510434&perks=839105230,2420895100,3523296417,11612903
+dimwishlist:item=3796510434&perks=839105230,2420895100,3523296417,4049631843
+dimwishlist:item=3796510434&perks=839105230,2420895100,3523296417,2726471870
 dimwishlist:item=3796510434&perks=839105230,2420895100,1820235745,3824105627
 dimwishlist:item=3796510434&perks=839105230,2420895100,1820235745,11612903
+dimwishlist:item=3796510434&perks=839105230,2420895100,1820235745,4049631843
+dimwishlist:item=3796510434&perks=839105230,2420895100,1820235745,2726471870
 dimwishlist:item=3796510434&perks=839105230,2420895100,2779035018,3824105627
 dimwishlist:item=3796510434&perks=839105230,2420895100,2779035018,11612903
+dimwishlist:item=3796510434&perks=839105230,2420895100,2779035018,4049631843
+dimwishlist:item=3796510434&perks=839105230,2420895100,2779035018,2726471870
 dimwishlist:item=3796510434&perks=839105230,1087426260,3523296417,3824105627
 dimwishlist:item=3796510434&perks=839105230,1087426260,3523296417,11612903
+dimwishlist:item=3796510434&perks=839105230,1087426260,3523296417,4049631843
+dimwishlist:item=3796510434&perks=839105230,1087426260,3523296417,2726471870
 dimwishlist:item=3796510434&perks=839105230,1087426260,1820235745,3824105627
 dimwishlist:item=3796510434&perks=839105230,1087426260,1820235745,11612903
+dimwishlist:item=3796510434&perks=839105230,1087426260,1820235745,4049631843
+dimwishlist:item=3796510434&perks=839105230,1087426260,1820235745,2726471870
 dimwishlist:item=3796510434&perks=839105230,1087426260,2779035018,3824105627
 dimwishlist:item=3796510434&perks=839105230,1087426260,2779035018,11612903
+dimwishlist:item=3796510434&perks=839105230,1087426260,2779035018,4049631843
+dimwishlist:item=3796510434&perks=839105230,1087426260,2779035018,2726471870
 dimwishlist:item=3796510434&perks=839105230,106909392,3523296417,3824105627
 dimwishlist:item=3796510434&perks=839105230,106909392,3523296417,11612903
+dimwishlist:item=3796510434&perks=839105230,106909392,3523296417,4049631843
+dimwishlist:item=3796510434&perks=839105230,106909392,3523296417,2726471870
 dimwishlist:item=3796510434&perks=839105230,106909392,1820235745,3824105627
 dimwishlist:item=3796510434&perks=839105230,106909392,1820235745,11612903
+dimwishlist:item=3796510434&perks=839105230,106909392,1820235745,4049631843
+dimwishlist:item=3796510434&perks=839105230,106909392,1820235745,2726471870
 dimwishlist:item=3796510434&perks=839105230,106909392,2779035018,3824105627
 dimwishlist:item=3796510434&perks=839105230,106909392,2779035018,11612903
+dimwishlist:item=3796510434&perks=839105230,106909392,2779035018,4049631843
+dimwishlist:item=3796510434&perks=839105230,106909392,2779035018,2726471870
 dimwishlist:item=3796510434&perks=4090651448,2420895100,3523296417,3824105627
 dimwishlist:item=3796510434&perks=4090651448,2420895100,3523296417,11612903
+dimwishlist:item=3796510434&perks=4090651448,2420895100,3523296417,4049631843
+dimwishlist:item=3796510434&perks=4090651448,2420895100,3523296417,2726471870
 dimwishlist:item=3796510434&perks=4090651448,2420895100,1820235745,3824105627
 dimwishlist:item=3796510434&perks=4090651448,2420895100,1820235745,11612903
+dimwishlist:item=3796510434&perks=4090651448,2420895100,1820235745,4049631843
+dimwishlist:item=3796510434&perks=4090651448,2420895100,1820235745,2726471870
 dimwishlist:item=3796510434&perks=4090651448,2420895100,2779035018,3824105627
 dimwishlist:item=3796510434&perks=4090651448,2420895100,2779035018,11612903
+dimwishlist:item=3796510434&perks=4090651448,2420895100,2779035018,4049631843
+dimwishlist:item=3796510434&perks=4090651448,2420895100,2779035018,2726471870
 dimwishlist:item=3796510434&perks=4090651448,1087426260,3523296417,3824105627
 dimwishlist:item=3796510434&perks=4090651448,1087426260,3523296417,11612903
+dimwishlist:item=3796510434&perks=4090651448,1087426260,3523296417,4049631843
+dimwishlist:item=3796510434&perks=4090651448,1087426260,3523296417,2726471870
 dimwishlist:item=3796510434&perks=4090651448,1087426260,1820235745,3824105627
 dimwishlist:item=3796510434&perks=4090651448,1087426260,1820235745,11612903
+dimwishlist:item=3796510434&perks=4090651448,1087426260,1820235745,4049631843
+dimwishlist:item=3796510434&perks=4090651448,1087426260,1820235745,2726471870
 dimwishlist:item=3796510434&perks=4090651448,1087426260,2779035018,3824105627
 dimwishlist:item=3796510434&perks=4090651448,1087426260,2779035018,11612903
+dimwishlist:item=3796510434&perks=4090651448,1087426260,2779035018,4049631843
+dimwishlist:item=3796510434&perks=4090651448,1087426260,2779035018,2726471870
 dimwishlist:item=3796510434&perks=4090651448,106909392,3523296417,3824105627
 dimwishlist:item=3796510434&perks=4090651448,106909392,3523296417,11612903
+dimwishlist:item=3796510434&perks=4090651448,106909392,3523296417,4049631843
+dimwishlist:item=3796510434&perks=4090651448,106909392,3523296417,2726471870
 dimwishlist:item=3796510434&perks=4090651448,106909392,1820235745,3824105627
 dimwishlist:item=3796510434&perks=4090651448,106909392,1820235745,11612903
+dimwishlist:item=3796510434&perks=4090651448,106909392,1820235745,4049631843
+dimwishlist:item=3796510434&perks=4090651448,106909392,1820235745,2726471870
 dimwishlist:item=3796510434&perks=4090651448,106909392,2779035018,3824105627
 dimwishlist:item=3796510434&perks=4090651448,106909392,2779035018,11612903
+dimwishlist:item=3796510434&perks=4090651448,106909392,2779035018,4049631843
+dimwishlist:item=3796510434&perks=4090651448,106909392,2779035018,2726471870
 dimwishlist:item=3796510434&perks=1840239774,3523296417,3824105627
 dimwishlist:item=3796510434&perks=1840239774,3523296417,11612903
+dimwishlist:item=3796510434&perks=1840239774,3523296417,4049631843
+dimwishlist:item=3796510434&perks=1840239774,3523296417,2726471870
 dimwishlist:item=3796510434&perks=1840239774,1820235745,3824105627
 dimwishlist:item=3796510434&perks=1840239774,1820235745,11612903
+dimwishlist:item=3796510434&perks=1840239774,1820235745,4049631843
+dimwishlist:item=3796510434&perks=1840239774,1820235745,2726471870
 dimwishlist:item=3796510434&perks=1840239774,2779035018,3824105627
 dimwishlist:item=3796510434&perks=1840239774,2779035018,11612903
+dimwishlist:item=3796510434&perks=1840239774,2779035018,4049631843
+dimwishlist:item=3796510434&perks=1840239774,2779035018,2726471870
 dimwishlist:item=3796510434&perks=839105230,3523296417,3824105627
 dimwishlist:item=3796510434&perks=839105230,3523296417,11612903
+dimwishlist:item=3796510434&perks=839105230,3523296417,4049631843
+dimwishlist:item=3796510434&perks=839105230,3523296417,2726471870
 dimwishlist:item=3796510434&perks=839105230,1820235745,3824105627
 dimwishlist:item=3796510434&perks=839105230,1820235745,11612903
+dimwishlist:item=3796510434&perks=839105230,1820235745,4049631843
+dimwishlist:item=3796510434&perks=839105230,1820235745,2726471870
 dimwishlist:item=3796510434&perks=839105230,2779035018,3824105627
 dimwishlist:item=3796510434&perks=839105230,2779035018,11612903
+dimwishlist:item=3796510434&perks=839105230,2779035018,4049631843
+dimwishlist:item=3796510434&perks=839105230,2779035018,2726471870
 dimwishlist:item=3796510434&perks=4090651448,3523296417,3824105627
 dimwishlist:item=3796510434&perks=4090651448,3523296417,11612903
+dimwishlist:item=3796510434&perks=4090651448,3523296417,4049631843
+dimwishlist:item=3796510434&perks=4090651448,3523296417,2726471870
 dimwishlist:item=3796510434&perks=4090651448,1820235745,3824105627
 dimwishlist:item=3796510434&perks=4090651448,1820235745,11612903
+dimwishlist:item=3796510434&perks=4090651448,1820235745,4049631843
+dimwishlist:item=3796510434&perks=4090651448,1820235745,2726471870
 dimwishlist:item=3796510434&perks=4090651448,2779035018,3824105627
 dimwishlist:item=3796510434&perks=4090651448,2779035018,11612903
+dimwishlist:item=3796510434&perks=4090651448,2779035018,4049631843
+dimwishlist:item=3796510434&perks=4090651448,2779035018,2726471870
 dimwishlist:item=3796510434&perks=2420895100,3523296417,3824105627
 dimwishlist:item=3796510434&perks=2420895100,3523296417,11612903
+dimwishlist:item=3796510434&perks=2420895100,3523296417,4049631843
+dimwishlist:item=3796510434&perks=2420895100,3523296417,2726471870
 dimwishlist:item=3796510434&perks=2420895100,1820235745,3824105627
 dimwishlist:item=3796510434&perks=2420895100,1820235745,11612903
+dimwishlist:item=3796510434&perks=2420895100,1820235745,4049631843
+dimwishlist:item=3796510434&perks=2420895100,1820235745,2726471870
 dimwishlist:item=3796510434&perks=2420895100,2779035018,3824105627
 dimwishlist:item=3796510434&perks=2420895100,2779035018,11612903
+dimwishlist:item=3796510434&perks=2420895100,2779035018,4049631843
+dimwishlist:item=3796510434&perks=2420895100,2779035018,2726471870
 dimwishlist:item=3796510434&perks=1087426260,3523296417,3824105627
 dimwishlist:item=3796510434&perks=1087426260,3523296417,11612903
+dimwishlist:item=3796510434&perks=1087426260,3523296417,4049631843
+dimwishlist:item=3796510434&perks=1087426260,3523296417,2726471870
 dimwishlist:item=3796510434&perks=1087426260,1820235745,3824105627
 dimwishlist:item=3796510434&perks=1087426260,1820235745,11612903
+dimwishlist:item=3796510434&perks=1087426260,1820235745,4049631843
+dimwishlist:item=3796510434&perks=1087426260,1820235745,2726471870
 dimwishlist:item=3796510434&perks=1087426260,2779035018,3824105627
 dimwishlist:item=3796510434&perks=1087426260,2779035018,11612903
+dimwishlist:item=3796510434&perks=1087426260,2779035018,4049631843
+dimwishlist:item=3796510434&perks=1087426260,2779035018,2726471870
 dimwishlist:item=3796510434&perks=106909392,3523296417,3824105627
 dimwishlist:item=3796510434&perks=106909392,3523296417,11612903
+dimwishlist:item=3796510434&perks=106909392,3523296417,4049631843
+dimwishlist:item=3796510434&perks=106909392,3523296417,2726471870
 dimwishlist:item=3796510434&perks=106909392,1820235745,3824105627
 dimwishlist:item=3796510434&perks=106909392,1820235745,11612903
+dimwishlist:item=3796510434&perks=106909392,1820235745,4049631843
+dimwishlist:item=3796510434&perks=106909392,1820235745,2726471870
 dimwishlist:item=3796510434&perks=106909392,2779035018,3824105627
 dimwishlist:item=3796510434&perks=106909392,2779035018,11612903
+dimwishlist:item=3796510434&perks=106909392,2779035018,4049631843
+dimwishlist:item=3796510434&perks=106909392,2779035018,2726471870
 dimwishlist:item=3796510434&perks=3523296417,3824105627
 dimwishlist:item=3796510434&perks=3523296417,11612903
+dimwishlist:item=3796510434&perks=3523296417,4049631843
+dimwishlist:item=3796510434&perks=3523296417,2726471870
 dimwishlist:item=3796510434&perks=1820235745,3824105627
 dimwishlist:item=3796510434&perks=1820235745,11612903
+dimwishlist:item=3796510434&perks=1820235745,4049631843
+dimwishlist:item=3796510434&perks=1820235745,2726471870
 dimwishlist:item=3796510434&perks=2779035018,3824105627
 dimwishlist:item=3796510434&perks=2779035018,11612903
+dimwishlist:item=3796510434&perks=2779035018,4049631843
+dimwishlist:item=3796510434&perks=2779035018,2726471870
 
 //Corrective Measure (Timelost)
-//notes: adam (PvE / high PL content, GMs / optimal)|tags:PvE
+//notes: adam (PvE / high PL content, GMs / optimal): One For All remains the best damage perk for difficult content due to the magnitude of the damage increase and to its easy activation regardless of enemy health. However, since Demolitionist seems like the obvious choice in Slot 3, Adrenaline Junkie can serve as a substitute damage perk thanks to the synergy those two perks provide together. Lastly, Thresh can make this a good pick for someone using a super-refund exotic to top off the remaining chunk and get those super chains going faster.|tags:PvE
 dimwishlist:item=3796510434&perks=1840239774,2420895100,3523296417,4049631843
 dimwishlist:item=3796510434&perks=1840239774,2420895100,3523296417,11612903
 dimwishlist:item=3796510434&perks=1840239774,1087426260,3523296417,4049631843
@@ -8480,7 +8891,7 @@ dimwishlist:item=3796510434&perks=3523296417,4049631843
 dimwishlist:item=3796510434&perks=3523296417,11612903
 
 //Corrective Measure (Timelost)
-//notes: adam (PvE / high PL content, GMs)|tags:PvE
+//notes: adam (PvE / high PL content, GMs): One For All remains the best damage perk for difficult content due to the magnitude of the damage increase and to its easy activation regardless of enemy health. However, since Demolitionist seems like the obvious choice in Slot 3, Adrenaline Junkie can serve as a substitute damage perk thanks to the synergy those two perks provide together. Lastly, Thresh can make this a good pick for someone using a super-refund exotic to top off the remaining chunk and get those super chains going faster.|tags:PvE
 dimwishlist:item=3796510434&perks=1840239774,2420895100,3523296417,2726471870
 dimwishlist:item=3796510434&perks=1840239774,1087426260,3523296417,2726471870
 dimwishlist:item=3796510434&perks=1840239774,106909392,3523296417,2726471870
@@ -8499,7 +8910,7 @@ dimwishlist:item=3796510434&perks=106909392,3523296417,2726471870
 dimwishlist:item=3796510434&perks=3523296417,2726471870
 
 //Corrective Measure (Timelost)
-//notes: adam (PvP / optimal)|tags:PvP
+//notes: adam (PvP / optimal): PvP heavy bricks give more ammo the higher your mag size, so you will either need Extended Mag here or you will want a Backup Mag on the weapon to get to max ammo per brick. Extended + Backup Mag gives no extra ammo pickup so if you manage to roll Extended, you are free to use any other mod on the weapon. High-Impact Reserves will always be active, as the ammo you get from a brick is less than half your mag size.|tags:PvP
 dimwishlist:item=3796510434&perks=1840239774,2420895100,1359896290,2213355989
 dimwishlist:item=3796510434&perks=1840239774,2420895100,1359896290,1890422124
 dimwishlist:item=3796510434&perks=1840239774,1087426260,1359896290,2213355989
@@ -8534,7 +8945,7 @@ dimwishlist:item=3796510434&perks=1359896290,2213355989
 dimwishlist:item=3796510434&perks=1359896290,1890422124
 
 //Corrective Measure (Timelost)
-//notes: adam (PvP)|tags:PvP
+//notes: adam (PvP): PvP heavy bricks give more ammo the higher your mag size, so you will either need Extended Mag here or you will want a Backup Mag on the weapon to get to max ammo per brick. Extended + Backup Mag gives no extra ammo pickup so if you manage to roll Extended, you are free to use any other mod on the weapon. High-Impact Reserves will always be active, as the ammo you get from a brick is less than half your mag size.|tags:PvP
 dimwishlist:item=3796510434&perks=1840239774,2420895100,1359896290,2726471870
 dimwishlist:item=3796510434&perks=1840239774,1087426260,1359896290,2726471870
 dimwishlist:item=3796510434&perks=1840239774,106909392,1359896290,2726471870
@@ -8553,21 +8964,21 @@ dimwishlist:item=3796510434&perks=106909392,1359896290,2726471870
 dimwishlist:item=3796510434&perks=1359896290,2726471870
 
 //Hezen Vengeance
-//notes: adam (PvE / general use / optimal)|tags:PvE
+//notes: adam (PvE / general use / optimal): With Lasting Impression, this is basically the exact same weapon as the same roll on Code Duello, and it's merely providing you with another option to secure that coveted perk combination. Vorpal is another option in Slot 4: it gives a slightly smaller damage bonus than Lasting Impression (and only against bosses, though everything else will probably die to a single rocket anyways, so this caveat shouldn't matter much), but the rockets detonate instantly, which can help on timed, short damage phases. However, it also takes away the solo option of switching to Divinity after firing to increase your own Lasting Impression rocket's explosion damage.|tags:PvE
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3300816228,3927722942
 dimwishlist:item=4050645223&perks=3525010810,3300816228,3927722942
 dimwishlist:item=4050645223&perks=3796465595,3300816228,3927722942
 dimwishlist:item=4050645223&perks=3300816228,3927722942
 
 //Hezen Vengeance
-//notes: adam (PvE / general use)|tags:PvE
+//notes: adam (PvE / general use): With Lasting Impression, this is basically the exact same weapon as the same roll on Code Duello, and it's merely providing you with another option to secure that coveted perk combination. Vorpal is another option in Slot 4: it gives a slightly smaller damage bonus than Lasting Impression (and only against bosses, though everything else will probably die to a single rocket anyways, so this caveat shouldn't matter much), but the rockets detonate instantly, which can help on timed, short damage phases. However, it also takes away the solo option of switching to Divinity after firing to increase your own Lasting Impression rocket's explosion damage.|tags:PvE
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3300816228,1546637391
 dimwishlist:item=4050645223&perks=3525010810,3300816228,1546637391
 dimwishlist:item=4050645223&perks=3796465595,3300816228,1546637391
 dimwishlist:item=4050645223&perks=3300816228,1546637391
 
 //Hezen Vengeance
-//notes: adam (PvE / boss dps / optimal)|tags:PvE
+//notes: adam (PvE / boss dps / optimal): Overflow is unique to this rocket launcher, which can make it worth pursuing. That being said, it is highly reliant on ammo RNG, and I'd be reluctant to use it outside of some raid boss encounters where you can use special finishers to stack up ammo boxes in a specific spot, allowing you to fire off all your rockets in quick succession. |tags:PvE
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,3927722942
 dimwishlist:item=4050645223&perks=3525010810,3643424744,3927722942
 dimwishlist:item=4050645223&perks=3796465595,3643424744,3927722942
@@ -8590,4 +9001,43 @@ dimwishlist:item=4050645223&perks=332773068,1996142143,3977735242,1275731761
 dimwishlist:item=4050645223&perks=332773068,3977735242,1275731761
 dimwishlist:item=4050645223&perks=1996142143,3977735242,1275731761
 dimwishlist:item=4050645223&perks=3977735242,1275731761
+
+//Hezen Vengeance (Timelost)
+//notes: adam (PvE / general use / optimal): With Lasting Impression, this is basically the exact same weapon as the same roll on Code Duello, and it's merely providing you with another option to secure that coveted perk combination. Vorpal is another option in Slot 4: it gives a slightly smaller damage bonus than Lasting Impression (and only against bosses, though everything else will probably die to a single rocket anyways, so this caveat shouldn't matter much), but the rockets detonate instantly, which can help on timed, short damage phases. However, it also takes away the solo option of switching to Divinity after firing to increase your own Lasting Impression rocket's explosion damage.|tags:PvE
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3300816228,3927722942
+dimwishlist:item=1921159786&perks=3525010810,3300816228,3927722942
+dimwishlist:item=1921159786&perks=3796465595,3300816228,3927722942
+dimwishlist:item=1921159786&perks=3300816228,3927722942
+
+//Hezen Vengeance (Timelost)
+//notes: adam (PvE / general use): With Lasting Impression, this is basically the exact same weapon as the same roll on Code Duello, and it's merely providing you with another option to secure that coveted perk combination. Vorpal is another option in Slot 4: it gives a slightly smaller damage bonus than Lasting Impression (and only against bosses, though everything else will probably die to a single rocket anyways, so this caveat shouldn't matter much), but the rockets detonate instantly, which can help on timed, short damage phases. However, it also takes away the solo option of switching to Divinity after firing to increase your own Lasting Impression rocket's explosion damage.|tags:PvE
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3300816228,1546637391
+dimwishlist:item=1921159786&perks=3525010810,3300816228,1546637391
+dimwishlist:item=1921159786&perks=3796465595,3300816228,1546637391
+dimwishlist:item=1921159786&perks=3300816228,1546637391
+
+//Hezen Vengeance (Timelost)
+//notes: adam (PvE / boss dps / optimal): Overflow is unique to this rocket launcher, which can make it worth pursuing. That being said, it is highly reliant on ammo RNG, and I'd be reluctant to use it outside of some raid boss encounters where you can use special finishers to stack up ammo boxes in a specific spot, allowing you to fire off all your rockets in quick succession. |tags:PvE
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,3927722942
+dimwishlist:item=1921159786&perks=3525010810,3643424744,3927722942
+dimwishlist:item=1921159786&perks=3796465595,3643424744,3927722942
+dimwishlist:item=1921159786&perks=3643424744,3927722942
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,1546637391
+dimwishlist:item=1921159786&perks=3525010810,3643424744,1546637391
+dimwishlist:item=1921159786&perks=3796465595,3643424744,1546637391
+dimwishlist:item=1921159786&perks=3643424744,1546637391
+
+//Hezen Vengeance (Timelost)
+//notes: adam (PvP / optimal)|tags:PvP
+dimwishlist:item=1921159786&perks=332773068,1996142143,3977735242,1546637391
+dimwishlist:item=1921159786&perks=332773068,3977735242,1546637391
+dimwishlist:item=1921159786&perks=1996142143,3977735242,1546637391
+dimwishlist:item=1921159786&perks=3977735242,1546637391
+
+//Hezen Vengeance (Timelost)
+//notes: adam (PvP)|tags:PvP
+dimwishlist:item=1921159786&perks=332773068,1996142143,3977735242,1275731761
+dimwishlist:item=1921159786&perks=332773068,3977735242,1275731761
+dimwishlist:item=1921159786&perks=1996142143,3977735242,1275731761
+dimwishlist:item=1921159786&perks=3977735242,1275731761
 
