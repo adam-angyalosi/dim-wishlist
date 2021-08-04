@@ -3178,41 +3178,65 @@ dimwishlist:item=3258665412&perks=839105230,1687452232,3161816588,4082225868
 
 //Crowd Pleaser
 //notes: adam (PvE / add clear / optimal)|tags:PvE
-dimwishlist:item=3565520715&perks=1441682018,2985827016,972757866,2396489472
+dimwishlist:item=3565520715&perks=1441682018,2985827016,4071163871,2396489472
 dimwishlist:item=3565520715&perks=1441682018,2985827016,2284787283,2396489472
-dimwishlist:item=3565520715&perks=332773068,2985827016,972757866,2396489472
+dimwishlist:item=3565520715&perks=332773068,2985827016,4071163871,2396489472
 dimwishlist:item=3565520715&perks=332773068,2985827016,2284787283,2396489472
-dimwishlist:item=3565520715&perks=1844523823,2985827016,972757866,2396489472
+dimwishlist:item=3565520715&perks=1844523823,2985827016,4071163871,2396489472
 dimwishlist:item=3565520715&perks=1844523823,2985827016,2284787283,2396489472
-dimwishlist:item=3565520715&perks=2985827016,972757866,2396489472
+dimwishlist:item=3565520715&perks=2985827016,4071163871,2396489472
 dimwishlist:item=3565520715&perks=2985827016,2284787283,2396489472
 
 //Crowd Pleaser
 //notes: adam (PvE / add clear)|tags:PvE
 dimwishlist:item=3565520715&perks=1441682018,2822142346,972757866,2396489472
-dimwishlist:item=3565520715&perks=1441682018,2822142346,2284787283,2396489472
-dimwishlist:item=3565520715&perks=332773068,2822142346,972757866,2396489472
-dimwishlist:item=3565520715&perks=332773068,2822142346,2284787283,2396489472
-dimwishlist:item=3565520715&perks=1844523823,2822142346,972757866,2396489472
-dimwishlist:item=3565520715&perks=1844523823,2822142346,2284787283,2396489472
-dimwishlist:item=3565520715&perks=2822142346,972757866,2396489472
-dimwishlist:item=3565520715&perks=2822142346,2284787283,2396489472
-dimwishlist:item=3565520715&perks=1441682018,2985827016,972757866,3523296417
-dimwishlist:item=3565520715&perks=1441682018,2985827016,2284787283,3523296417
-dimwishlist:item=3565520715&perks=332773068,2985827016,972757866,3523296417
-dimwishlist:item=3565520715&perks=332773068,2985827016,2284787283,3523296417
-dimwishlist:item=3565520715&perks=1844523823,2985827016,972757866,3523296417
-dimwishlist:item=3565520715&perks=1844523823,2985827016,2284787283,3523296417
-dimwishlist:item=3565520715&perks=2985827016,972757866,3523296417
-dimwishlist:item=3565520715&perks=2985827016,2284787283,3523296417
 dimwishlist:item=3565520715&perks=1441682018,2822142346,972757866,3523296417
+dimwishlist:item=3565520715&perks=1441682018,2822142346,2284787283,2396489472
 dimwishlist:item=3565520715&perks=1441682018,2822142346,2284787283,3523296417
+dimwishlist:item=3565520715&perks=1441682018,2822142346,4071163871,2396489472
+dimwishlist:item=3565520715&perks=1441682018,2822142346,4071163871,3523296417
+dimwishlist:item=3565520715&perks=1441682018,2985827016,972757866,2396489472
+dimwishlist:item=3565520715&perks=1441682018,2985827016,972757866,3523296417
+dimwishlist:item=3565520715&perks=1441682018,2985827016,2284787283,2396489472
+dimwishlist:item=3565520715&perks=1441682018,2985827016,2284787283,3523296417
+dimwishlist:item=3565520715&perks=1441682018,2985827016,4071163871,2396489472
+dimwishlist:item=3565520715&perks=1441682018,2985827016,4071163871,3523296417
+dimwishlist:item=3565520715&perks=332773068,2822142346,972757866,2396489472
 dimwishlist:item=3565520715&perks=332773068,2822142346,972757866,3523296417
+dimwishlist:item=3565520715&perks=332773068,2822142346,2284787283,2396489472
 dimwishlist:item=3565520715&perks=332773068,2822142346,2284787283,3523296417
+dimwishlist:item=3565520715&perks=332773068,2822142346,4071163871,2396489472
+dimwishlist:item=3565520715&perks=332773068,2822142346,4071163871,3523296417
+dimwishlist:item=3565520715&perks=332773068,2985827016,972757866,2396489472
+dimwishlist:item=3565520715&perks=332773068,2985827016,972757866,3523296417
+dimwishlist:item=3565520715&perks=332773068,2985827016,2284787283,2396489472
+dimwishlist:item=3565520715&perks=332773068,2985827016,2284787283,3523296417
+dimwishlist:item=3565520715&perks=332773068,2985827016,4071163871,2396489472
+dimwishlist:item=3565520715&perks=332773068,2985827016,4071163871,3523296417
+dimwishlist:item=3565520715&perks=1844523823,2822142346,972757866,2396489472
 dimwishlist:item=3565520715&perks=1844523823,2822142346,972757866,3523296417
+dimwishlist:item=3565520715&perks=1844523823,2822142346,2284787283,2396489472
 dimwishlist:item=3565520715&perks=1844523823,2822142346,2284787283,3523296417
+dimwishlist:item=3565520715&perks=1844523823,2822142346,4071163871,2396489472
+dimwishlist:item=3565520715&perks=1844523823,2822142346,4071163871,3523296417
+dimwishlist:item=3565520715&perks=1844523823,2985827016,972757866,2396489472
+dimwishlist:item=3565520715&perks=1844523823,2985827016,972757866,3523296417
+dimwishlist:item=3565520715&perks=1844523823,2985827016,2284787283,2396489472
+dimwishlist:item=3565520715&perks=1844523823,2985827016,2284787283,3523296417
+dimwishlist:item=3565520715&perks=1844523823,2985827016,4071163871,2396489472
+dimwishlist:item=3565520715&perks=1844523823,2985827016,4071163871,3523296417
+dimwishlist:item=3565520715&perks=2822142346,972757866,2396489472
 dimwishlist:item=3565520715&perks=2822142346,972757866,3523296417
+dimwishlist:item=3565520715&perks=2822142346,2284787283,2396489472
 dimwishlist:item=3565520715&perks=2822142346,2284787283,3523296417
+dimwishlist:item=3565520715&perks=2822142346,4071163871,2396489472
+dimwishlist:item=3565520715&perks=2822142346,4071163871,3523296417
+dimwishlist:item=3565520715&perks=2985827016,972757866,2396489472
+dimwishlist:item=3565520715&perks=2985827016,972757866,3523296417
+dimwishlist:item=3565520715&perks=2985827016,2284787283,2396489472
+dimwishlist:item=3565520715&perks=2985827016,2284787283,3523296417
+dimwishlist:item=3565520715&perks=2985827016,4071163871,2396489472
+dimwishlist:item=3565520715&perks=2985827016,4071163871,3523296417
 
 //Crowd Pleaser
 //notes: adam (PvE / boss DPS / optimal): The damage increase from Spike Grenades increases as your blast radius decreases. Because of this, your DPS will take a hit with any Slot 1 perk that increases blast radius, or with a blast radius MW.  Field Prep gives you the best traditional reload speed but Pulse Monitor can max DPS: if you fire the last shot in the mag at your feet while standing in a Well, you get an instant reload. Slot 4 has the least impact here but Demolitionist can get you a free reload (or multiple if you use Starfire Protocol) during a damage phase, slightly increasing your overall DPS.|tags:PvE
@@ -7543,14 +7567,6 @@ dimwishlist:item=1216319404&perks=1482024992,3230963543,3038247973,3824105627
 dimwishlist:item=1216319404&perks=4090651448,1087426260,3038247973,3824105627
 dimwishlist:item=1216319404&perks=4090651448,106909392,3038247973,3824105627
 dimwishlist:item=1216319404&perks=4090651448,3230963543,3038247973,3824105627
-dimwishlist:item=1216319404&perks=1840239774,3038247973,3824105627
-dimwishlist:item=1216319404&perks=1482024992,3038247973,3824105627
-dimwishlist:item=1216319404&perks=4090651448,3038247973,3824105627
-dimwishlist:item=1216319404&perks=3142289711,3038247973,3824105627
-dimwishlist:item=1216319404&perks=1087426260,3038247973,3824105627
-dimwishlist:item=1216319404&perks=106909392,3038247973,3824105627
-dimwishlist:item=1216319404&perks=3230963543,3038247973,3824105627
-dimwishlist:item=1216319404&perks=3038247973,3824105627
 
 //Fatebringer (Timelost)
 //notes: adam (PvE / regular, non-endgame content), (PvE / high PL content, GMs) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
@@ -7601,21 +7617,13 @@ dimwishlist:item=1216319404&perks=4090651448,106909392,3038247973,3824105627
 dimwishlist:item=1216319404&perks=4090651448,106909392,2726471870,3824105627
 dimwishlist:item=1216319404&perks=4090651448,3230963543,3038247973,3824105627
 dimwishlist:item=1216319404&perks=4090651448,3230963543,2726471870,3824105627
-dimwishlist:item=1216319404&perks=1840239774,3038247973,3824105627
 dimwishlist:item=1216319404&perks=1840239774,2726471870,3824105627
-dimwishlist:item=1216319404&perks=1482024992,3038247973,3824105627
 dimwishlist:item=1216319404&perks=1482024992,2726471870,3824105627
-dimwishlist:item=1216319404&perks=4090651448,3038247973,3824105627
 dimwishlist:item=1216319404&perks=4090651448,2726471870,3824105627
-dimwishlist:item=1216319404&perks=3142289711,3038247973,3824105627
 dimwishlist:item=1216319404&perks=3142289711,2726471870,3824105627
-dimwishlist:item=1216319404&perks=1087426260,3038247973,3824105627
 dimwishlist:item=1216319404&perks=1087426260,2726471870,3824105627
-dimwishlist:item=1216319404&perks=106909392,3038247973,3824105627
 dimwishlist:item=1216319404&perks=106909392,2726471870,3824105627
-dimwishlist:item=1216319404&perks=3230963543,3038247973,3824105627
 dimwishlist:item=1216319404&perks=3230963543,2726471870,3824105627
-dimwishlist:item=1216319404&perks=3038247973,3824105627
 dimwishlist:item=1216319404&perks=2726471870,3824105627
 
 //Fatebringer (Timelost)
@@ -7655,14 +7663,6 @@ dimwishlist:item=1216319404&perks=4090651448,3142289711,3038247973,3824105627
 dimwishlist:item=1216319404&perks=4090651448,1087426260,3038247973,3824105627
 dimwishlist:item=1216319404&perks=4090651448,106909392,3038247973,3824105627
 dimwishlist:item=1216319404&perks=4090651448,3230963543,3038247973,3824105627
-dimwishlist:item=1216319404&perks=1840239774,3038247973,3824105627
-dimwishlist:item=1216319404&perks=1482024992,3038247973,3824105627
-dimwishlist:item=1216319404&perks=4090651448,3038247973,3824105627
-dimwishlist:item=1216319404&perks=3142289711,3038247973,3824105627
-dimwishlist:item=1216319404&perks=1087426260,3038247973,3824105627
-dimwishlist:item=1216319404&perks=106909392,3038247973,3824105627
-dimwishlist:item=1216319404&perks=3230963543,3038247973,3824105627
-dimwishlist:item=1216319404&perks=3038247973,3824105627
 
 //Fatebringer (Timelost)
 //notes: adam (PvE / high PL content, GMs): Not a huge fan of Rewind Rounds in their current state, for a couple reasons. For one, missing the final shot seems to completely nullify the refund. Secondly, the 50% refund means that eventually you will have to reload, and I'd always rather recommend a roll that has a *consistently* high reload speed than a diminishing mag extension that can run out at the wrong time. Firefly seems to mitigate the second issue, as the explosion hits also count towards the total the refund is calculated from, further extending the mag, which combined with Firefly's built-in reload boost can save you from ever having to do a slow reload. Since you'll always want Firefly in Slot 4, Rewind Rounds becomes a workable option. That being said, if possible, I'd opt for Explosive Payload (for its anti-champion utility and damage falloff mitigation) or Thresh, which this weapon uniquely rolls in Slot 3—all other Thresh weapons force you to trade in a damage perk for it, whereas this one can combine it with the AOE of Firefly.|tags:PvE
@@ -15784,4 +15784,1012 @@ dimwishlist:item=3847137620&perks=3625355092,2590710093,354401740
 dimwishlist:item=3847137620&perks=3625355092,2590710093,2726471870
 dimwishlist:item=3847137620&perks=2590710093,354401740
 dimwishlist:item=3847137620&perks=2590710093,2726471870
+
+//Friction Fire
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=1513993763&perks=1840239774,4134353779,4071163871,3592538738
+dimwishlist:item=1513993763&perks=4090651448,4134353779,4071163871,3592538738
+dimwishlist:item=1513993763&perks=1482024992,4134353779,4071163871,3592538738
+dimwishlist:item=1513993763&perks=4134353779,4071163871,3592538738
+
+//Friction Fire
+//notes: adam (PvE / regular, non-endgame content), (PvE / high PL content, GMs) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=1513993763&perks=1840239774,3230963543,4071163871,3592538738
+dimwishlist:item=1513993763&perks=1840239774,106909392,4071163871,3592538738
+dimwishlist:item=1513993763&perks=4090651448,3230963543,4071163871,3592538738
+dimwishlist:item=1513993763&perks=4090651448,106909392,4071163871,3592538738
+dimwishlist:item=1513993763&perks=1482024992,3230963543,4071163871,3592538738
+dimwishlist:item=1513993763&perks=1482024992,106909392,4071163871,3592538738
+dimwishlist:item=1513993763&perks=3230963543,4071163871,3592538738
+dimwishlist:item=1513993763&perks=106909392,4071163871,3592538738
+
+//Friction Fire
+//notes: adam (PvE / regular, non-endgame content / optimal): A very solid kinetic SMG at the time of its release, this was immediately supplanted by Extraordinary Rendition in the next season when it comes to most PvE situations. The one thing the Rendition cannot roll is Wellspring, so I'd look for that unique roll here. This weapon doesn't have great damage perk options anyways, and SMG base damage is enough that you can get by without them in low level content. Stat wise, I'd prioritize Reload and Handling, two pain points when it comes to base stats. Reload boosts are plentiful in Slot 2 and 3, which leaves Slot 1 and the MW for Handling (or as a second option, Stability) bumps. |tags:PvE
+dimwishlist:item=1513993763&perks=1840239774,4134353779,4071163871,3592538738
+dimwishlist:item=1513993763&perks=4090651448,4134353779,4071163871,3592538738
+dimwishlist:item=1513993763&perks=1482024992,4134353779,4071163871,3592538738
+dimwishlist:item=1513993763&perks=4134353779,4071163871,3592538738
+
+//Friction Fire
+//notes: adam (PvE / regular, non-endgame content): A very solid kinetic SMG at the time of its release, this was immediately supplanted by Extraordinary Rendition in the next season when it comes to most PvE situations. The one thing the Rendition cannot roll is Wellspring, so I'd look for that unique roll here. This weapon doesn't have great damage perk options anyways, and SMG base damage is enough that you can get by without them in low level content. Stat wise, I'd prioritize Reload and Handling, two pain points when it comes to base stats. Reload boosts are plentiful in Slot 2 and 3, which leaves Slot 1 and the MW for Handling (or as a second option, Stability) bumps. |tags:PvE
+dimwishlist:item=1513993763&perks=1840239774,4134353779,4071163871,3592538738
+dimwishlist:item=1513993763&perks=1840239774,4134353779,4071163871,3425386926
+dimwishlist:item=1513993763&perks=1840239774,4134353779,1820235745,3592538738
+dimwishlist:item=1513993763&perks=1840239774,4134353779,1820235745,3425386926
+dimwishlist:item=1513993763&perks=1840239774,3230963543,4071163871,3592538738
+dimwishlist:item=1513993763&perks=1840239774,3230963543,4071163871,3425386926
+dimwishlist:item=1513993763&perks=1840239774,3230963543,1820235745,3592538738
+dimwishlist:item=1513993763&perks=1840239774,3230963543,1820235745,3425386926
+dimwishlist:item=1513993763&perks=1840239774,106909392,4071163871,3592538738
+dimwishlist:item=1513993763&perks=1840239774,106909392,4071163871,3425386926
+dimwishlist:item=1513993763&perks=1840239774,106909392,1820235745,3592538738
+dimwishlist:item=1513993763&perks=1840239774,106909392,1820235745,3425386926
+dimwishlist:item=1513993763&perks=4090651448,4134353779,4071163871,3592538738
+dimwishlist:item=1513993763&perks=4090651448,4134353779,4071163871,3425386926
+dimwishlist:item=1513993763&perks=4090651448,4134353779,1820235745,3592538738
+dimwishlist:item=1513993763&perks=4090651448,4134353779,1820235745,3425386926
+dimwishlist:item=1513993763&perks=4090651448,3230963543,4071163871,3592538738
+dimwishlist:item=1513993763&perks=4090651448,3230963543,4071163871,3425386926
+dimwishlist:item=1513993763&perks=4090651448,3230963543,1820235745,3592538738
+dimwishlist:item=1513993763&perks=4090651448,3230963543,1820235745,3425386926
+dimwishlist:item=1513993763&perks=4090651448,106909392,4071163871,3592538738
+dimwishlist:item=1513993763&perks=4090651448,106909392,4071163871,3425386926
+dimwishlist:item=1513993763&perks=4090651448,106909392,1820235745,3592538738
+dimwishlist:item=1513993763&perks=4090651448,106909392,1820235745,3425386926
+dimwishlist:item=1513993763&perks=1482024992,4134353779,4071163871,3592538738
+dimwishlist:item=1513993763&perks=1482024992,4134353779,4071163871,3425386926
+dimwishlist:item=1513993763&perks=1482024992,4134353779,1820235745,3592538738
+dimwishlist:item=1513993763&perks=1482024992,4134353779,1820235745,3425386926
+dimwishlist:item=1513993763&perks=1482024992,3230963543,4071163871,3592538738
+dimwishlist:item=1513993763&perks=1482024992,3230963543,4071163871,3425386926
+dimwishlist:item=1513993763&perks=1482024992,3230963543,1820235745,3592538738
+dimwishlist:item=1513993763&perks=1482024992,3230963543,1820235745,3425386926
+dimwishlist:item=1513993763&perks=1482024992,106909392,4071163871,3592538738
+dimwishlist:item=1513993763&perks=1482024992,106909392,4071163871,3425386926
+dimwishlist:item=1513993763&perks=1482024992,106909392,1820235745,3592538738
+dimwishlist:item=1513993763&perks=1482024992,106909392,1820235745,3425386926
+dimwishlist:item=1513993763&perks=4134353779,4071163871,3592538738
+dimwishlist:item=1513993763&perks=4134353779,4071163871,3425386926
+dimwishlist:item=1513993763&perks=4134353779,1820235745,3592538738
+dimwishlist:item=1513993763&perks=4134353779,1820235745,3425386926
+dimwishlist:item=1513993763&perks=3230963543,4071163871,3592538738
+dimwishlist:item=1513993763&perks=3230963543,4071163871,3425386926
+dimwishlist:item=1513993763&perks=3230963543,1820235745,3592538738
+dimwishlist:item=1513993763&perks=3230963543,1820235745,3425386926
+dimwishlist:item=1513993763&perks=106909392,4071163871,3592538738
+dimwishlist:item=1513993763&perks=106909392,4071163871,3425386926
+dimwishlist:item=1513993763&perks=106909392,1820235745,3592538738
+dimwishlist:item=1513993763&perks=106909392,1820235745,3425386926
+
+//Friction Fire
+//notes: adam (PvE / high PL content, GMs / optimal): A very solid kinetic SMG at the time of its release, this was immediately supplanted by Extraordinary Rendition in the next season when it comes to most PvE situations. The one thing the Rendition cannot roll is Wellspring, so I'd look for that unique roll here. This weapon doesn't have great damage perk options anyways. Stat wise, I'd prioritize Reload and Handling, two pain points when it comes to base stats. Reload boosts are plentiful in Slot 2 and 3, which leaves Slot 1 and the MW for Handling (or as a second option, Stability) bumps. |tags:PvE
+dimwishlist:item=1513993763&perks=1840239774,4134353779,4071163871,3592538738
+dimwishlist:item=1513993763&perks=1840239774,4134353779,4071163871,2039302152
+dimwishlist:item=1513993763&perks=4090651448,4134353779,4071163871,3592538738
+dimwishlist:item=1513993763&perks=4090651448,4134353779,4071163871,2039302152
+dimwishlist:item=1513993763&perks=1482024992,4134353779,4071163871,3592538738
+dimwishlist:item=1513993763&perks=1482024992,4134353779,4071163871,2039302152
+dimwishlist:item=1513993763&perks=4134353779,4071163871,3592538738
+dimwishlist:item=1513993763&perks=4134353779,4071163871,2039302152
+
+//Friction Fire
+//notes: adam (PvE / high PL content, GMs): A very solid kinetic SMG at the time of its release, this was immediately supplanted by Extraordinary Rendition in the next season when it comes to most PvE situations. The one thing the Rendition cannot roll is Wellspring, so I'd look for that unique roll here. This weapon doesn't have great damage perk options anyways. Stat wise, I'd prioritize Reload and Handling, two pain points when it comes to base stats. Reload boosts are plentiful in Slot 2 and 3, which leaves Slot 1 and the MW for Handling (or as a second option, Stability) bumps. |tags:PvE
+dimwishlist:item=1513993763&perks=1840239774,4134353779,4071163871,3592538738
+dimwishlist:item=1513993763&perks=1840239774,4134353779,4071163871,2039302152
+dimwishlist:item=1513993763&perks=1840239774,4134353779,2387244414,3592538738
+dimwishlist:item=1513993763&perks=1840239774,4134353779,2387244414,2039302152
+dimwishlist:item=1513993763&perks=1840239774,3230963543,4071163871,3592538738
+dimwishlist:item=1513993763&perks=1840239774,3230963543,4071163871,2039302152
+dimwishlist:item=1513993763&perks=1840239774,3230963543,2387244414,3592538738
+dimwishlist:item=1513993763&perks=1840239774,3230963543,2387244414,2039302152
+dimwishlist:item=1513993763&perks=1840239774,106909392,4071163871,3592538738
+dimwishlist:item=1513993763&perks=1840239774,106909392,4071163871,2039302152
+dimwishlist:item=1513993763&perks=1840239774,106909392,2387244414,3592538738
+dimwishlist:item=1513993763&perks=1840239774,106909392,2387244414,2039302152
+dimwishlist:item=1513993763&perks=4090651448,4134353779,4071163871,3592538738
+dimwishlist:item=1513993763&perks=4090651448,4134353779,4071163871,2039302152
+dimwishlist:item=1513993763&perks=4090651448,4134353779,2387244414,3592538738
+dimwishlist:item=1513993763&perks=4090651448,4134353779,2387244414,2039302152
+dimwishlist:item=1513993763&perks=4090651448,3230963543,4071163871,3592538738
+dimwishlist:item=1513993763&perks=4090651448,3230963543,4071163871,2039302152
+dimwishlist:item=1513993763&perks=4090651448,3230963543,2387244414,3592538738
+dimwishlist:item=1513993763&perks=4090651448,3230963543,2387244414,2039302152
+dimwishlist:item=1513993763&perks=4090651448,106909392,4071163871,3592538738
+dimwishlist:item=1513993763&perks=4090651448,106909392,4071163871,2039302152
+dimwishlist:item=1513993763&perks=4090651448,106909392,2387244414,3592538738
+dimwishlist:item=1513993763&perks=4090651448,106909392,2387244414,2039302152
+dimwishlist:item=1513993763&perks=1482024992,4134353779,4071163871,3592538738
+dimwishlist:item=1513993763&perks=1482024992,4134353779,4071163871,2039302152
+dimwishlist:item=1513993763&perks=1482024992,4134353779,2387244414,3592538738
+dimwishlist:item=1513993763&perks=1482024992,4134353779,2387244414,2039302152
+dimwishlist:item=1513993763&perks=1482024992,3230963543,4071163871,3592538738
+dimwishlist:item=1513993763&perks=1482024992,3230963543,4071163871,2039302152
+dimwishlist:item=1513993763&perks=1482024992,3230963543,2387244414,3592538738
+dimwishlist:item=1513993763&perks=1482024992,3230963543,2387244414,2039302152
+dimwishlist:item=1513993763&perks=1482024992,106909392,4071163871,3592538738
+dimwishlist:item=1513993763&perks=1482024992,106909392,4071163871,2039302152
+dimwishlist:item=1513993763&perks=1482024992,106909392,2387244414,3592538738
+dimwishlist:item=1513993763&perks=1482024992,106909392,2387244414,2039302152
+dimwishlist:item=1513993763&perks=4134353779,4071163871,3592538738
+dimwishlist:item=1513993763&perks=4134353779,4071163871,2039302152
+dimwishlist:item=1513993763&perks=4134353779,2387244414,3592538738
+dimwishlist:item=1513993763&perks=4134353779,2387244414,2039302152
+dimwishlist:item=1513993763&perks=3230963543,4071163871,3592538738
+dimwishlist:item=1513993763&perks=3230963543,4071163871,2039302152
+dimwishlist:item=1513993763&perks=3230963543,2387244414,3592538738
+dimwishlist:item=1513993763&perks=3230963543,2387244414,2039302152
+dimwishlist:item=1513993763&perks=106909392,4071163871,3592538738
+dimwishlist:item=1513993763&perks=106909392,4071163871,2039302152
+dimwishlist:item=1513993763&perks=106909392,2387244414,3592538738
+dimwishlist:item=1513993763&perks=106909392,2387244414,2039302152
+
+//Friction Fire
+//notes: adam (PvP / optimal): A very strong PvP SMG, with a lot of potential range thanks to Killing Wind. However, there are stronger alternatives in both slots, namely Multimach CCX and Shayura's Wrath. If you really want a kinetic 600rpm (multimach is a 900rpm) or if you're having trouble getting a good roll on those—this one is definitely much easier to grind for—keep one of these, otherwise those two are a better use of your vault space.|tags:PvP
+dimwishlist:item=1513993763&perks=1482024992,3142289711,2450788523,2039302152
+dimwishlist:item=1513993763&perks=1482024992,3142289711,2450788523,3425386926
+dimwishlist:item=1513993763&perks=1482024992,3142289711,2450788523,2039302152
+dimwishlist:item=1513993763&perks=1482024992,3142289711,2450788523,3425386926
+
+//Friction Fire
+//notes: adam (PvP): A very strong PvP SMG, with a lot of potential range thanks to Killing Wind. However, there are stronger alternatives in both slots, namely Multimach CCX and Shayura's Wrath. If you really want a kinetic 600rpm (multimach is a 900rpm) or if you're having trouble getting a good roll on those—this one is definitely much easier to grind for—keep one of these, otherwise those two are a better use of your vault space.|tags:PvP
+dimwishlist:item=1513993763&perks=1482024992,3142289711,2450788523,2039302152
+dimwishlist:item=1513993763&perks=1482024992,3142289711,2450788523,3425386926
+dimwishlist:item=1513993763&perks=1482024992,3142289711,2450788523,3592538738
+dimwishlist:item=1513993763&perks=1482024992,3142289711,4071163871,2039302152
+dimwishlist:item=1513993763&perks=1482024992,3142289711,4071163871,3425386926
+dimwishlist:item=1513993763&perks=1482024992,3142289711,4071163871,3592538738
+dimwishlist:item=1513993763&perks=3250034553,3142289711,2450788523,2039302152
+dimwishlist:item=1513993763&perks=3250034553,3142289711,2450788523,3425386926
+dimwishlist:item=1513993763&perks=3250034553,3142289711,2450788523,3592538738
+dimwishlist:item=1513993763&perks=3250034553,3142289711,4071163871,2039302152
+dimwishlist:item=1513993763&perks=3250034553,3142289711,4071163871,3425386926
+dimwishlist:item=1513993763&perks=3250034553,3142289711,4071163871,3592538738
+dimwishlist:item=1513993763&perks=1840239774,3142289711,2450788523,2039302152
+dimwishlist:item=1513993763&perks=1840239774,3142289711,2450788523,3425386926
+dimwishlist:item=1513993763&perks=1840239774,3142289711,2450788523,3592538738
+dimwishlist:item=1513993763&perks=1840239774,3142289711,4071163871,2039302152
+dimwishlist:item=1513993763&perks=1840239774,3142289711,4071163871,3425386926
+dimwishlist:item=1513993763&perks=1840239774,3142289711,4071163871,3592538738
+dimwishlist:item=1513993763&perks=1482024992,3142289711,2450788523,2039302152
+dimwishlist:item=1513993763&perks=1482024992,3142289711,2450788523,3425386926
+dimwishlist:item=1513993763&perks=1482024992,3142289711,2450788523,3592538738
+dimwishlist:item=1513993763&perks=1482024992,3142289711,4071163871,2039302152
+dimwishlist:item=1513993763&perks=1482024992,3142289711,4071163871,3425386926
+dimwishlist:item=1513993763&perks=1482024992,3142289711,4071163871,3592538738
+dimwishlist:item=1513993763&perks=3250034553,3142289711,2450788523,2039302152
+dimwishlist:item=1513993763&perks=3250034553,3142289711,2450788523,3425386926
+dimwishlist:item=1513993763&perks=3250034553,3142289711,2450788523,3592538738
+dimwishlist:item=1513993763&perks=3250034553,3142289711,4071163871,2039302152
+dimwishlist:item=1513993763&perks=3250034553,3142289711,4071163871,3425386926
+dimwishlist:item=1513993763&perks=3250034553,3142289711,4071163871,3592538738
+dimwishlist:item=1513993763&perks=1840239774,3142289711,2450788523,2039302152
+dimwishlist:item=1513993763&perks=1840239774,3142289711,2450788523,3425386926
+dimwishlist:item=1513993763&perks=1840239774,3142289711,2450788523,3592538738
+dimwishlist:item=1513993763&perks=1840239774,3142289711,4071163871,2039302152
+dimwishlist:item=1513993763&perks=1840239774,3142289711,4071163871,3425386926
+dimwishlist:item=1513993763&perks=1840239774,3142289711,4071163871,3592538738
+
+//Royal Chase
+//notes: adam (PvE / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2776503072&perks=839105230,3177308360,2869569095,2458213969
+dimwishlist:item=2776503072&perks=839105230,3230963543,2869569095,2458213969
+
+//Royal Chase
+//notes: adam (PvE), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2776503072&perks=3661387068,3177308360,2869569095,2458213969
+dimwishlist:item=2776503072&perks=3661387068,3230963543,2869569095,2458213969
+
+//Royal Chase
+//notes: adam (PvE / optimal): Not sure what they were thinking with this one. It's the lowest-damage Scout Rifle archetype, and has no unique rolls compared to Vouchsafe, which is also void and can get the same rolls on top of its higher base damage. Keep it until you get a good Vouchsafe, or until they rebalance the archetypes. Your best roll on it is Multikill Clip (to get that damage output in a good place) with reload buffs to allow easier uptime on your damage perk.|tags:PvE
+dimwishlist:item=2776503072&perks=839105230,3177308360,2869569095,2458213969
+dimwishlist:item=2776503072&perks=839105230,3230963543,2869569095,2458213969
+dimwishlist:item=2776503072&perks=839105230,2869569095,2458213969
+
+//Royal Chase
+//notes: adam (PvE): Not sure what they were thinking with this one. It's the lowest-damage Scout Rifle archetype, and has no unique rolls compared to Vouchsafe, which is also void and can get the same rolls on top of its higher base damage. Keep it until you get a good Vouchsafe, or until they rebalance the archetypes. Your best roll on it is Multikill Clip (to get that damage output in a good place) with reload buffs to allow easier uptime on your damage perk.|tags:PvE
+dimwishlist:item=2776503072&perks=839105230,3177308360,2869569095,2458213969
+dimwishlist:item=2776503072&perks=839105230,3177308360,2869569095,2848615171
+dimwishlist:item=2776503072&perks=839105230,3230963543,2869569095,2458213969
+dimwishlist:item=2776503072&perks=839105230,3230963543,2869569095,2848615171
+dimwishlist:item=2776503072&perks=3661387068,3177308360,2869569095,2458213969
+dimwishlist:item=2776503072&perks=3661387068,3177308360,2869569095,2848615171
+dimwishlist:item=2776503072&perks=3661387068,3230963543,2869569095,2458213969
+dimwishlist:item=2776503072&perks=3661387068,3230963543,2869569095,2848615171
+dimwishlist:item=2776503072&perks=839105230,2869569095,2458213969
+dimwishlist:item=2776503072&perks=839105230,2869569095,2848615171
+dimwishlist:item=2776503072&perks=3661387068,2869569095,2458213969
+dimwishlist:item=2776503072&perks=3661387068,2869569095,2848615171
+
+//Royal Chase
+//notes: adam (PvP / optimal): A bad, slow-to-kill archetype by default, but Multikill Clip can help improve that TTK. It's the only potentially competitive roll on this.|tags:PvP
+dimwishlist:item=2776503072&perks=839105230,3177308360,2866798147,2458213969
+dimwishlist:item=2776503072&perks=839105230,3177308360,2039302152,2458213969
+dimwishlist:item=2776503072&perks=839105230,3230963543,2866798147,2458213969
+dimwishlist:item=2776503072&perks=839105230,3230963543,2039302152,2458213969
+dimwishlist:item=2776503072&perks=839105230,3177308360,2458213969
+dimwishlist:item=2776503072&perks=839105230,3230963543,2458213969
+
+//Royal Chase
+//notes: adam (PvP): A bad, slow-to-kill archetype by default, but Multikill Clip can help improve that TTK. It's the only potentially competitive roll on this.|tags:PvP
+dimwishlist:item=2776503072&perks=3661387068,3177308360,2866798147,2458213969
+dimwishlist:item=2776503072&perks=3661387068,3177308360,2039302152,2458213969
+dimwishlist:item=2776503072&perks=3661387068,3230963543,2866798147,2458213969
+dimwishlist:item=2776503072&perks=3661387068,3230963543,2039302152,2458213969
+dimwishlist:item=2776503072&perks=3661387068,3177308360,2458213969
+dimwishlist:item=2776503072&perks=3661387068,3230963543,2458213969
+
+//Deafening Whisper
+//notes: adam (PvE / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3592538738
+dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738
+dimwishlist:item=981718087&perks=3525010810,2010801679,3592538738
+dimwishlist:item=981718087&perks=3798852852,2010801679,3592538738
+dimwishlist:item=981718087&perks=2822142346,2010801679,3592538738
+dimwishlist:item=981718087&perks=2010801679,3592538738
+
+//Deafening Whisper
+//notes: adam (PvE), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,4071163871
+dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,4071163871
+dimwishlist:item=981718087&perks=3525010810,2010801679,4071163871
+dimwishlist:item=981718087&perks=3798852852,2010801679,4071163871
+dimwishlist:item=981718087&perks=2822142346,2010801679,4071163871
+dimwishlist:item=981718087&perks=2010801679,4071163871
+
+//Deafening Whisper
+//notes: adam (PvE / optimal): The only Season of the Hunt weapon worth actively grinding for: this is the only wave-frame GL in the game at the moment, which makes it the best add-clear special GL available. The perk options are solid, though not perfect. Ambitious Assassin is the best option in Slot 3 (mostly due to the lack of any great alternatives), allowing you to have 2 shots after almost every reload. Since this can clear groups with ease, Wellspring will provide a lot of utility and is my preferred pick in Slot 4, but Threat Detector could also be a good option as a reload perk. The only potential hiccup is that you might annihilate everything in Threat Detector range before the reload. Blast Radius is a wasted stat on this one, partly because it doesn't affect the wave size and damage (only the explosion around the initial projectile impact), and because there is a hard cap of 55 on these, which this already hits by default. Danger Zone appears to be the only perk option that can push past that, and it's not available here.|tags:PvE
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3592538738
+dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738
+dimwishlist:item=981718087&perks=3525010810,2010801679,3592538738
+dimwishlist:item=981718087&perks=3798852852,2010801679,3592538738
+dimwishlist:item=981718087&perks=2822142346,2010801679,3592538738
+dimwishlist:item=981718087&perks=2010801679,3592538738
+
+//Deafening Whisper
+//notes: adam (PvE): The only Season of the Hunt weapon worth actively grinding for: this is the only wave-frame GL in the game at the moment, which makes it the best add-clear special GL available. The perk options are solid, though not perfect. Ambitious Assassin is the best option in Slot 3 (mostly due to the lack of any great alternatives), allowing you to have 2 shots after almost every reload. Since this can clear groups with ease, Wellspring will provide a lot of utility and is my preferred pick in Slot 4, but Threat Detector could also be a good option as a reload perk. The only potential hiccup is that you might annihilate everything in Threat Detector range before the reload. Blast Radius is a wasted stat on this one, partly because it doesn't affect the wave size and damage (only the explosion around the initial projectile impact), and because there is a hard cap of 55 on these, which this already hits by default. Danger Zone appears to be the only perk option that can push past that, and it's not available here.|tags:PvE
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3425386926
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,4071163871
+dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3425386926
+dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,4071163871
+dimwishlist:item=981718087&perks=3525010810,2010801679,3425386926
+dimwishlist:item=981718087&perks=3525010810,2010801679,4071163871
+dimwishlist:item=981718087&perks=3798852852,2010801679,3425386926
+dimwishlist:item=981718087&perks=3798852852,2010801679,4071163871
+dimwishlist:item=981718087&perks=2822142346,2010801679,3425386926
+dimwishlist:item=981718087&perks=2822142346,2010801679,4071163871
+dimwishlist:item=981718087&perks=2010801679,3425386926
+dimwishlist:item=981718087&perks=2010801679,4071163871
+
+//Deafening Whisper
+//notes: adam (PvP / optimal)|tags:PvP
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3592538738
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,4071163871
+dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738
+dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,4071163871
+dimwishlist:item=981718087&perks=3525010810,2010801679,3592538738
+dimwishlist:item=981718087&perks=3525010810,2010801679,4071163871
+dimwishlist:item=981718087&perks=3798852852,2010801679,3592538738
+dimwishlist:item=981718087&perks=3798852852,2010801679,4071163871
+dimwishlist:item=981718087&perks=2822142346,2010801679,3592538738
+dimwishlist:item=981718087&perks=2822142346,2010801679,4071163871
+dimwishlist:item=981718087&perks=2010801679,3592538738
+dimwishlist:item=981718087&perks=2010801679,4071163871
+
+//Corsair's Wrath
+//notes: adam (PvE), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2714022207&perks=839105230,689005463,588594999,1015611457
+dimwishlist:item=2714022207&perks=1840239774,689005463,588594999,1015611457
+dimwishlist:item=2714022207&perks=4090651448,689005463,588594999,1015611457
+dimwishlist:item=2714022207&perks=689005463,588594999,1015611457
+
+//Corsair's Wrath
+//notes: adam (PvE), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2714022207&perks=839105230,689005463,2450788523,1015611457
+dimwishlist:item=2714022207&perks=839105230,689005463,2866798147,1015611457
+dimwishlist:item=2714022207&perks=1840239774,689005463,2450788523,1015611457
+dimwishlist:item=2714022207&perks=1840239774,689005463,2866798147,1015611457
+dimwishlist:item=2714022207&perks=4090651448,689005463,2450788523,1015611457
+dimwishlist:item=2714022207&perks=4090651448,689005463,2866798147,1015611457
+dimwishlist:item=2714022207&perks=689005463,2450788523,1015611457
+dimwishlist:item=2714022207&perks=689005463,2866798147,1015611457
+
+//Corsair's Wrath
+//notes: adam (PvE / optimal): Only recommend this for element coverage, Threaded Needle has much, much better PvE rolls across the board.|tags:PvE
+dimwishlist:item=2714022207&perks=839105230,2680121939,1168162263,2213355989
+dimwishlist:item=2714022207&perks=839105230,2680121939,1168162263,1015611457
+dimwishlist:item=2714022207&perks=839105230,2680121939,972757866,2213355989
+dimwishlist:item=2714022207&perks=839105230,2680121939,972757866,1015611457
+dimwishlist:item=2714022207&perks=1840239774,2680121939,1168162263,2213355989
+dimwishlist:item=2714022207&perks=1840239774,2680121939,1168162263,1015611457
+dimwishlist:item=2714022207&perks=1840239774,2680121939,972757866,2213355989
+dimwishlist:item=2714022207&perks=1840239774,2680121939,972757866,1015611457
+dimwishlist:item=2714022207&perks=4090651448,2680121939,1168162263,2213355989
+dimwishlist:item=2714022207&perks=4090651448,2680121939,1168162263,1015611457
+dimwishlist:item=2714022207&perks=4090651448,2680121939,972757866,2213355989
+dimwishlist:item=2714022207&perks=4090651448,2680121939,972757866,1015611457
+dimwishlist:item=2714022207&perks=839105230,2680121939,2213355989
+dimwishlist:item=2714022207&perks=839105230,2680121939,1015611457
+dimwishlist:item=2714022207&perks=1840239774,2680121939,2213355989
+dimwishlist:item=2714022207&perks=1840239774,2680121939,1015611457
+dimwishlist:item=2714022207&perks=4090651448,2680121939,2213355989
+dimwishlist:item=2714022207&perks=4090651448,2680121939,1015611457
+dimwishlist:item=2714022207&perks=2680121939,1168162263,2213355989
+dimwishlist:item=2714022207&perks=2680121939,1168162263,1015611457
+dimwishlist:item=2714022207&perks=2680121939,972757866,2213355989
+dimwishlist:item=2714022207&perks=2680121939,972757866,1015611457
+dimwishlist:item=2714022207&perks=2680121939,2213355989
+dimwishlist:item=2714022207&perks=2680121939,1015611457
+
+//Corsair's Wrath
+//notes: adam (PvE): Only recommend this for element coverage, Threaded Needle has much, much better PvE rolls across the board.|tags:PvE
+dimwishlist:item=2714022207&perks=839105230,689005463,1168162263,2213355989
+dimwishlist:item=2714022207&perks=839105230,689005463,1168162263,1015611457
+dimwishlist:item=2714022207&perks=839105230,689005463,972757866,2213355989
+dimwishlist:item=2714022207&perks=839105230,689005463,972757866,1015611457
+dimwishlist:item=2714022207&perks=1840239774,689005463,1168162263,2213355989
+dimwishlist:item=2714022207&perks=1840239774,689005463,1168162263,1015611457
+dimwishlist:item=2714022207&perks=1840239774,689005463,972757866,2213355989
+dimwishlist:item=2714022207&perks=1840239774,689005463,972757866,1015611457
+dimwishlist:item=2714022207&perks=4090651448,689005463,1168162263,2213355989
+dimwishlist:item=2714022207&perks=4090651448,689005463,1168162263,1015611457
+dimwishlist:item=2714022207&perks=4090651448,689005463,972757866,2213355989
+dimwishlist:item=2714022207&perks=4090651448,689005463,972757866,1015611457
+dimwishlist:item=2714022207&perks=839105230,689005463,2213355989
+dimwishlist:item=2714022207&perks=839105230,689005463,1015611457
+dimwishlist:item=2714022207&perks=1840239774,689005463,2213355989
+dimwishlist:item=2714022207&perks=1840239774,689005463,1015611457
+dimwishlist:item=2714022207&perks=4090651448,689005463,2213355989
+dimwishlist:item=2714022207&perks=4090651448,689005463,1015611457
+dimwishlist:item=2714022207&perks=689005463,1168162263,2213355989
+dimwishlist:item=2714022207&perks=689005463,1168162263,1015611457
+dimwishlist:item=2714022207&perks=689005463,972757866,2213355989
+dimwishlist:item=2714022207&perks=689005463,972757866,1015611457
+dimwishlist:item=2714022207&perks=689005463,2213355989
+dimwishlist:item=2714022207&perks=689005463,1015611457
+
+//Corsair's Wrath
+//notes: adam (PvP / optimal)|tags:PvP
+dimwishlist:item=2714022207&perks=839105230,689005463,588594999,1015611457
+dimwishlist:item=2714022207&perks=1840239774,689005463,588594999,1015611457
+dimwishlist:item=2714022207&perks=4090651448,689005463,588594999,1015611457
+dimwishlist:item=2714022207&perks=689005463,588594999,1015611457
+
+//Corsair's Wrath
+//notes: adam (PvP)|tags:PvP
+dimwishlist:item=2714022207&perks=839105230,689005463,2450788523,1015611457
+dimwishlist:item=2714022207&perks=839105230,689005463,2866798147,1015611457
+dimwishlist:item=2714022207&perks=1840239774,689005463,2450788523,1015611457
+dimwishlist:item=2714022207&perks=1840239774,689005463,2866798147,1015611457
+dimwishlist:item=2714022207&perks=4090651448,689005463,2450788523,1015611457
+dimwishlist:item=2714022207&perks=4090651448,689005463,2866798147,1015611457
+dimwishlist:item=2714022207&perks=689005463,2450788523,1015611457
+dimwishlist:item=2714022207&perks=689005463,2866798147,1015611457
+
+//Blast Battue
+//notes: adam (PvE / add clear / optimal)|tags:PvE
+dimwishlist:item=2453357042&perks=1441682018,2985827016,4071163871,2396489472
+dimwishlist:item=2453357042&perks=1441682018,2985827016,2284787283,2396489472
+dimwishlist:item=2453357042&perks=332773068,2985827016,4071163871,2396489472
+dimwishlist:item=2453357042&perks=332773068,2985827016,2284787283,2396489472
+dimwishlist:item=2453357042&perks=1844523823,2985827016,4071163871,2396489472
+dimwishlist:item=2453357042&perks=1844523823,2985827016,2284787283,2396489472
+dimwishlist:item=2453357042&perks=2985827016,4071163871,2396489472
+dimwishlist:item=2453357042&perks=2985827016,2284787283,2396489472
+
+//Blast Battue
+//notes: adam (PvE / add clear)|tags:PvE
+dimwishlist:item=2453357042&perks=1441682018,2985827016,4071163871,2396489472
+dimwishlist:item=2453357042&perks=1441682018,2985827016,4071163871,3592538738
+dimwishlist:item=2453357042&perks=1441682018,2985827016,2284787283,2396489472
+dimwishlist:item=2453357042&perks=1441682018,2985827016,2284787283,3592538738
+dimwishlist:item=2453357042&perks=1441682018,2985827016,972757866,2396489472
+dimwishlist:item=2453357042&perks=1441682018,2985827016,972757866,3592538738
+dimwishlist:item=2453357042&perks=1441682018,2822142346,4071163871,2396489472
+dimwishlist:item=2453357042&perks=1441682018,2822142346,4071163871,3592538738
+dimwishlist:item=2453357042&perks=1441682018,2822142346,2284787283,2396489472
+dimwishlist:item=2453357042&perks=1441682018,2822142346,2284787283,3592538738
+dimwishlist:item=2453357042&perks=1441682018,2822142346,972757866,2396489472
+dimwishlist:item=2453357042&perks=1441682018,2822142346,972757866,3592538738
+dimwishlist:item=2453357042&perks=332773068,2985827016,4071163871,2396489472
+dimwishlist:item=2453357042&perks=332773068,2985827016,4071163871,3592538738
+dimwishlist:item=2453357042&perks=332773068,2985827016,2284787283,2396489472
+dimwishlist:item=2453357042&perks=332773068,2985827016,2284787283,3592538738
+dimwishlist:item=2453357042&perks=332773068,2985827016,972757866,2396489472
+dimwishlist:item=2453357042&perks=332773068,2985827016,972757866,3592538738
+dimwishlist:item=2453357042&perks=332773068,2822142346,4071163871,2396489472
+dimwishlist:item=2453357042&perks=332773068,2822142346,4071163871,3592538738
+dimwishlist:item=2453357042&perks=332773068,2822142346,2284787283,2396489472
+dimwishlist:item=2453357042&perks=332773068,2822142346,2284787283,3592538738
+dimwishlist:item=2453357042&perks=332773068,2822142346,972757866,2396489472
+dimwishlist:item=2453357042&perks=332773068,2822142346,972757866,3592538738
+dimwishlist:item=2453357042&perks=1844523823,2985827016,4071163871,2396489472
+dimwishlist:item=2453357042&perks=1844523823,2985827016,4071163871,3592538738
+dimwishlist:item=2453357042&perks=1844523823,2985827016,2284787283,2396489472
+dimwishlist:item=2453357042&perks=1844523823,2985827016,2284787283,3592538738
+dimwishlist:item=2453357042&perks=1844523823,2985827016,972757866,2396489472
+dimwishlist:item=2453357042&perks=1844523823,2985827016,972757866,3592538738
+dimwishlist:item=2453357042&perks=1844523823,2822142346,4071163871,2396489472
+dimwishlist:item=2453357042&perks=1844523823,2822142346,4071163871,3592538738
+dimwishlist:item=2453357042&perks=1844523823,2822142346,2284787283,2396489472
+dimwishlist:item=2453357042&perks=1844523823,2822142346,2284787283,3592538738
+dimwishlist:item=2453357042&perks=1844523823,2822142346,972757866,2396489472
+dimwishlist:item=2453357042&perks=1844523823,2822142346,972757866,3592538738
+dimwishlist:item=2453357042&perks=2985827016,4071163871,2396489472
+dimwishlist:item=2453357042&perks=2985827016,4071163871,3592538738
+dimwishlist:item=2453357042&perks=2985827016,2284787283,2396489472
+dimwishlist:item=2453357042&perks=2985827016,2284787283,3592538738
+dimwishlist:item=2453357042&perks=2985827016,972757866,2396489472
+dimwishlist:item=2453357042&perks=2985827016,972757866,3592538738
+dimwishlist:item=2453357042&perks=2822142346,4071163871,2396489472
+dimwishlist:item=2453357042&perks=2822142346,4071163871,3592538738
+dimwishlist:item=2453357042&perks=2822142346,2284787283,2396489472
+dimwishlist:item=2453357042&perks=2822142346,2284787283,3592538738
+dimwishlist:item=2453357042&perks=2822142346,972757866,2396489472
+dimwishlist:item=2453357042&perks=2822142346,972757866,3592538738
+
+//Blast Battue
+//notes: adam (PvE / boss dps / optimal)|tags:PvE
+dimwishlist:item=2453357042&perks=981914802,3301904089,972757866,3300816228
+dimwishlist:item=2453357042&perks=981914802,3301904089,972757866
+dimwishlist:item=2453357042&perks=3301904089,972757866,3300816228
+dimwishlist:item=2453357042&perks=3301904089,972757866
+
+//Blast Battue
+//notes: adam (PvE / boss dps)|tags:PvE
+dimwishlist:item=2453357042&perks=981914802,3301904089,2284787283,3300816228
+dimwishlist:item=2453357042&perks=981914802,3301904089,2284787283
+dimwishlist:item=2453357042&perks=3301904089,2284787283,3300816228
+dimwishlist:item=2453357042&perks=3301904089,2284787283
+
+//Blast Battue
+//notes: adam (PvP / optimal)|tags:PvP
+dimwishlist:item=2453357042&perks=1441682018,409831596,2450788523,2396489472
+dimwishlist:item=2453357042&perks=1441682018,409831596,2450788523,1683379515
+dimwishlist:item=2453357042&perks=1441682018,409831596,706527188,2396489472
+dimwishlist:item=2453357042&perks=1441682018,409831596,706527188,1683379515
+dimwishlist:item=2453357042&perks=332773068,409831596,2450788523,2396489472
+dimwishlist:item=2453357042&perks=332773068,409831596,2450788523,1683379515
+dimwishlist:item=2453357042&perks=332773068,409831596,706527188,2396489472
+dimwishlist:item=2453357042&perks=332773068,409831596,706527188,1683379515
+dimwishlist:item=2453357042&perks=1844523823,409831596,2450788523,2396489472
+dimwishlist:item=2453357042&perks=1844523823,409831596,2450788523,1683379515
+dimwishlist:item=2453357042&perks=1844523823,409831596,706527188,2396489472
+dimwishlist:item=2453357042&perks=1844523823,409831596,706527188,1683379515
+dimwishlist:item=2453357042&perks=409831596,2450788523,2396489472
+dimwishlist:item=2453357042&perks=409831596,2450788523,1683379515
+dimwishlist:item=2453357042&perks=409831596,706527188,2396489472
+dimwishlist:item=2453357042&perks=409831596,706527188,1683379515
+dimwishlist:item=2453357042&perks=1441682018,409831596,2396489472
+dimwishlist:item=2453357042&perks=1441682018,409831596,1683379515
+dimwishlist:item=2453357042&perks=332773068,409831596,2396489472
+dimwishlist:item=2453357042&perks=332773068,409831596,1683379515
+dimwishlist:item=2453357042&perks=1844523823,409831596,2396489472
+dimwishlist:item=2453357042&perks=1844523823,409831596,1683379515
+dimwishlist:item=2453357042&perks=1441682018,409831596,2450788523
+dimwishlist:item=2453357042&perks=1441682018,409831596,706527188
+dimwishlist:item=2453357042&perks=332773068,409831596,2450788523
+dimwishlist:item=2453357042&perks=332773068,409831596,706527188
+dimwishlist:item=2453357042&perks=1844523823,409831596,2450788523
+dimwishlist:item=2453357042&perks=1844523823,409831596,706527188
+dimwishlist:item=2453357042&perks=1441682018,409831596
+dimwishlist:item=2453357042&perks=332773068,409831596
+dimwishlist:item=2453357042&perks=1844523823,409831596
+dimwishlist:item=2453357042&perks=409831596,2450788523
+dimwishlist:item=2453357042&perks=409831596,706527188
+dimwishlist:item=2453357042&perks=409831596,2396489472
+dimwishlist:item=2453357042&perks=409831596,1683379515
+dimwishlist:item=2453357042&perks=409831596
+
+//IKELOS_HC_v1.0.2
+//notes: adam (PvE / regular, non-endgame content / optimal), (PvE / high PL content, GMs / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=1200824700&perks=1467527085,1140096971,4071163871,3425386926
+dimwishlist:item=1200824700&perks=1840239774,1140096971,4071163871,3425386926
+dimwishlist:item=1200824700&perks=3250034553,1140096971,4071163871,3425386926
+dimwishlist:item=1200824700&perks=4090651448,1140096971,4071163871,3425386926
+dimwishlist:item=1200824700&perks=1140096971,4071163871,3425386926
+
+//IKELOS_HC_v1.0.2
+//notes: adam (PvE / high PL content, GMs / optimal), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=1200824700&perks=3250034553,1140096971,4071163871,1683379515
+
+//IKELOS_HC_v1.0.2
+//notes: adam (PvE / high PL content, GMs), (PvP / optimal) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=1200824700&perks=3250034553,1140096971,3400784728,1683379515
+dimwishlist:item=1200824700&perks=3250034553,1140096971,3096702027,1683379515
+
+//IKELOS_HC_v1.0.2
+//notes: adam (PvE / regular, non-endgame content / optimal): Not the best void hand cannon, not the best 180rpm hand cannon, and not the best warmind cell hand cannon (the Seraph Officer Revolver has it beat) but it's still useful to fill some niche loadout requirements if you need a void warmind cell gun. Seraph Rounds are incredible on anything that can roll them, Threat Detector is your best reload perk, and Rampage is the only traditional damage perk available.|tags:PvE
+dimwishlist:item=1200824700&perks=1467527085,1140096971,4071163871,3425386926
+dimwishlist:item=1200824700&perks=1840239774,1140096971,4071163871,3425386926
+dimwishlist:item=1200824700&perks=3250034553,1140096971,4071163871,3425386926
+dimwishlist:item=1200824700&perks=4090651448,1140096971,4071163871,3425386926
+dimwishlist:item=1200824700&perks=1140096971,4071163871,3425386926
+
+//IKELOS_HC_v1.0.2
+//notes: adam (PvE / regular, non-endgame content): Not the best void hand cannon, not the best 180rpm hand cannon, and not the best warmind cell hand cannon (the Seraph Officer Revolver has it beat) but it's still useful to fill some niche loadout requirements if you need a void warmind cell gun. Seraph Rounds are incredible on anything that can roll them, Threat Detector is your best reload perk, and Rampage is the only traditional damage perk available.|tags:PvE
+dimwishlist:item=1200824700&perks=1467527085,1140096971,1820235745,3425386926
+dimwishlist:item=1200824700&perks=1467527085,1140096971,2039302152,3425386926
+dimwishlist:item=1200824700&perks=1840239774,1140096971,1820235745,3425386926
+dimwishlist:item=1200824700&perks=1840239774,1140096971,2039302152,3425386926
+dimwishlist:item=1200824700&perks=3250034553,1140096971,1820235745,3425386926
+dimwishlist:item=1200824700&perks=3250034553,1140096971,2039302152,3425386926
+dimwishlist:item=1200824700&perks=4090651448,1140096971,1820235745,3425386926
+dimwishlist:item=1200824700&perks=4090651448,1140096971,2039302152,3425386926
+dimwishlist:item=1200824700&perks=1140096971,1820235745,3425386926
+dimwishlist:item=1200824700&perks=1140096971,2039302152,3425386926
+
+//IKELOS_HC_v1.0.2
+//notes: adam (PvE / high PL content, GMs / optimal)|tags:PvE
+dimwishlist:item=1200824700&perks=1467527085,1140096971,4071163871,1683379515
+dimwishlist:item=1200824700&perks=1467527085,1140096971,4071163871,2213355989
+dimwishlist:item=1200824700&perks=1840239774,1140096971,4071163871,1683379515
+dimwishlist:item=1200824700&perks=1840239774,1140096971,4071163871,2213355989
+dimwishlist:item=1200824700&perks=3250034553,1140096971,4071163871,1683379515
+dimwishlist:item=1200824700&perks=3250034553,1140096971,4071163871,2213355989
+dimwishlist:item=1200824700&perks=4090651448,1140096971,4071163871,1683379515
+dimwishlist:item=1200824700&perks=4090651448,1140096971,4071163871,2213355989
+dimwishlist:item=1200824700&perks=1467527085,1140096971,4071163871
+dimwishlist:item=1200824700&perks=1840239774,1140096971,4071163871
+dimwishlist:item=1200824700&perks=3250034553,1140096971,4071163871
+dimwishlist:item=1200824700&perks=4090651448,1140096971,4071163871
+dimwishlist:item=1200824700&perks=1140096971,4071163871,1683379515
+dimwishlist:item=1200824700&perks=1140096971,4071163871,2213355989
+dimwishlist:item=1200824700&perks=1140096971,4071163871
+
+//IKELOS_HC_v1.0.2
+//notes: adam (PvE / high PL content, GMs)|tags:PvE
+dimwishlist:item=1200824700&perks=1467527085,1140096971,3400784728,1683379515
+dimwishlist:item=1200824700&perks=1467527085,1140096971,3400784728,2213355989
+dimwishlist:item=1200824700&perks=1467527085,1140096971,3096702027,1683379515
+dimwishlist:item=1200824700&perks=1467527085,1140096971,3096702027,2213355989
+dimwishlist:item=1200824700&perks=1840239774,1140096971,3400784728,1683379515
+dimwishlist:item=1200824700&perks=1840239774,1140096971,3400784728,2213355989
+dimwishlist:item=1200824700&perks=1840239774,1140096971,3096702027,1683379515
+dimwishlist:item=1200824700&perks=1840239774,1140096971,3096702027,2213355989
+dimwishlist:item=1200824700&perks=3250034553,1140096971,3400784728,1683379515
+dimwishlist:item=1200824700&perks=3250034553,1140096971,3400784728,2213355989
+dimwishlist:item=1200824700&perks=3250034553,1140096971,3096702027,1683379515
+dimwishlist:item=1200824700&perks=3250034553,1140096971,3096702027,2213355989
+dimwishlist:item=1200824700&perks=4090651448,1140096971,3400784728,1683379515
+dimwishlist:item=1200824700&perks=4090651448,1140096971,3400784728,2213355989
+dimwishlist:item=1200824700&perks=4090651448,1140096971,3096702027,1683379515
+dimwishlist:item=1200824700&perks=4090651448,1140096971,3096702027,2213355989
+dimwishlist:item=1200824700&perks=1467527085,1140096971,3400784728
+dimwishlist:item=1200824700&perks=1467527085,1140096971,3096702027
+dimwishlist:item=1200824700&perks=1840239774,1140096971,3400784728
+dimwishlist:item=1200824700&perks=1840239774,1140096971,3096702027
+dimwishlist:item=1200824700&perks=3250034553,1140096971,3400784728
+dimwishlist:item=1200824700&perks=3250034553,1140096971,3096702027
+dimwishlist:item=1200824700&perks=4090651448,1140096971,3400784728
+dimwishlist:item=1200824700&perks=4090651448,1140096971,3096702027
+dimwishlist:item=1200824700&perks=1140096971,3400784728,1683379515
+dimwishlist:item=1200824700&perks=1140096971,3400784728,2213355989
+dimwishlist:item=1200824700&perks=1140096971,3096702027,1683379515
+dimwishlist:item=1200824700&perks=1140096971,3096702027,2213355989
+dimwishlist:item=1200824700&perks=1140096971,3400784728
+dimwishlist:item=1200824700&perks=1140096971,3096702027
+
+//IKELOS_HC_v1.0.2
+//notes: adam (PvP / optimal): Posterity and Survivor's Epitaph are superior 180rpm options but if you feel like giving this a shot, just increase its range and accuracy/consistency as much as possible, you will need it to outgun all the 120s roaming around.|tags:PvP
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,699525795
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,1546637391
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,1683379515
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,699525795
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,1546637391
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,1683379515
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,699525795
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,1546637391
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,1683379515
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,699525795
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,1546637391
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,1683379515
+dimwishlist:item=1200824700&perks=3250034553,1140096971,2039302152,699525795
+dimwishlist:item=1200824700&perks=3250034553,1140096971,2039302152,1546637391
+dimwishlist:item=1200824700&perks=3250034553,1140096971,2039302152,1683379515
+dimwishlist:item=1200824700&perks=3250034553,1140096971,2039302152,699525795
+dimwishlist:item=1200824700&perks=3250034553,1140096971,2039302152,1546637391
+dimwishlist:item=1200824700&perks=3250034553,1140096971,2039302152,1683379515
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,699525795
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,1546637391
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,1683379515
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,699525795
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,1546637391
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,1683379515
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,699525795
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,1546637391
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,1683379515
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,699525795
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,1546637391
+dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,1683379515
+dimwishlist:item=1200824700&perks=3250034553,1140096971,2039302152,699525795
+dimwishlist:item=1200824700&perks=3250034553,1140096971,2039302152,1546637391
+dimwishlist:item=1200824700&perks=3250034553,1140096971,2039302152,1683379515
+dimwishlist:item=1200824700&perks=3250034553,1140096971,2039302152,699525795
+dimwishlist:item=1200824700&perks=3250034553,1140096971,2039302152,1546637391
+dimwishlist:item=1200824700&perks=3250034553,1140096971,2039302152,1683379515
+dimwishlist:item=1200824700&perks=3250034553,3142289711,699525795
+dimwishlist:item=1200824700&perks=3250034553,3142289711,1546637391
+dimwishlist:item=1200824700&perks=3250034553,3142289711,1683379515
+dimwishlist:item=1200824700&perks=3250034553,3142289711,699525795
+dimwishlist:item=1200824700&perks=3250034553,3142289711,1546637391
+dimwishlist:item=1200824700&perks=3250034553,3142289711,1683379515
+dimwishlist:item=1200824700&perks=3250034553,1140096971,699525795
+dimwishlist:item=1200824700&perks=3250034553,1140096971,1546637391
+dimwishlist:item=1200824700&perks=3250034553,1140096971,1683379515
+dimwishlist:item=1200824700&perks=3250034553,3142289711,699525795
+dimwishlist:item=1200824700&perks=3250034553,3142289711,1546637391
+dimwishlist:item=1200824700&perks=3250034553,3142289711,1683379515
+dimwishlist:item=1200824700&perks=3250034553,3142289711,699525795
+dimwishlist:item=1200824700&perks=3250034553,3142289711,1546637391
+dimwishlist:item=1200824700&perks=3250034553,3142289711,1683379515
+dimwishlist:item=1200824700&perks=3250034553,1140096971,699525795
+dimwishlist:item=1200824700&perks=3250034553,1140096971,1546637391
+dimwishlist:item=1200824700&perks=3250034553,1140096971,1683379515
+
+//Death Adder
+//notes: adam (PvE / high PL content, GMs), (PvP) Multiroll. See the original spreadsheets for individual notes: https://docs.google.com/spreadsheets/d/1UZLzMOq3pyQ670ozagR5TwXHUI7yA0nIxKeGOoY6vCo/edit?usp=sharing
+dimwishlist:item=2742490609&perks=1482024992,3142289711,1359896290,2846385770
+dimwishlist:item=2742490609&perks=1482024992,3177308360,1359896290,2846385770
+dimwishlist:item=2742490609&perks=3250034553,3142289711,1359896290,2846385770
+dimwishlist:item=2742490609&perks=3250034553,3177308360,1359896290,2846385770
+dimwishlist:item=2742490609&perks=4090651448,3142289711,1359896290,2846385770
+dimwishlist:item=2742490609&perks=4090651448,3177308360,1359896290,2846385770
+dimwishlist:item=2742490609&perks=1392496348,3142289711,1359896290,2846385770
+dimwishlist:item=2742490609&perks=1392496348,3177308360,1359896290,2846385770
+dimwishlist:item=2742490609&perks=3142289711,1359896290,2846385770
+dimwishlist:item=2742490609&perks=3177308360,1359896290,2846385770
+
+//Death Adder
+//notes: adam (PvE / regular, non-endgame content / optimal): I personally find this one a little hard to control but if you can tame it, there is a solid add clear SMG in here. With no traditional damage perks, Dragonfly is the obvious choice in Slot 4, especially with the solar element allowing you to proc Wrath of Rasputin with the explosions. 900 rpms run out of ammo real quick, so Feeding Frenzy is very good to have, with everything else spent on increasing Stability to get its kick under control.|tags:PvE
+dimwishlist:item=2742490609&perks=1482024992,3177308360,2779035018,2848615171
+dimwishlist:item=2742490609&perks=1482024992,106909392,2779035018,2848615171
+dimwishlist:item=2742490609&perks=1392496348,3177308360,2779035018,2848615171
+dimwishlist:item=2742490609&perks=1392496348,106909392,2779035018,2848615171
+dimwishlist:item=2742490609&perks=4090651448,3177308360,2779035018,2848615171
+dimwishlist:item=2742490609&perks=4090651448,106909392,2779035018,2848615171
+dimwishlist:item=2742490609&perks=1482024992,2779035018,2848615171
+dimwishlist:item=2742490609&perks=1392496348,2779035018,2848615171
+dimwishlist:item=2742490609&perks=4090651448,2779035018,2848615171
+dimwishlist:item=2742490609&perks=3177308360,2779035018,2848615171
+dimwishlist:item=2742490609&perks=106909392,2779035018,2848615171
+dimwishlist:item=2742490609&perks=2779035018,2848615171
+
+//Death Adder
+//notes: adam (PvE / regular, non-endgame content): I personally find this one a little hard to control but if you can tame it, there is a solid add clear SMG in here. With no traditional damage perks, Dragonfly is the obvious choice in Slot 4, especially with the solar element allowing you to proc Wrath of Rasputin with the explosions. 900 rpms run out of ammo real quick, so Feeding Frenzy is very good to have, with everything else spent on increasing Stability to get its kick under control.|tags:PvE
+dimwishlist:item=2742490609&perks=1482024992,3177308360,3337692349,2848615171
+dimwishlist:item=2742490609&perks=1482024992,3177308360,1359896290,2848615171
+dimwishlist:item=2742490609&perks=1482024992,106909392,3337692349,2848615171
+dimwishlist:item=2742490609&perks=1482024992,106909392,1359896290,2848615171
+dimwishlist:item=2742490609&perks=1392496348,3177308360,3337692349,2848615171
+dimwishlist:item=2742490609&perks=1392496348,3177308360,1359896290,2848615171
+dimwishlist:item=2742490609&perks=1392496348,106909392,3337692349,2848615171
+dimwishlist:item=2742490609&perks=1392496348,106909392,1359896290,2848615171
+dimwishlist:item=2742490609&perks=4090651448,3177308360,3337692349,2848615171
+dimwishlist:item=2742490609&perks=4090651448,3177308360,1359896290,2848615171
+dimwishlist:item=2742490609&perks=4090651448,106909392,3337692349,2848615171
+dimwishlist:item=2742490609&perks=4090651448,106909392,1359896290,2848615171
+dimwishlist:item=2742490609&perks=1482024992,3337692349,2848615171
+dimwishlist:item=2742490609&perks=1482024992,1359896290,2848615171
+dimwishlist:item=2742490609&perks=1392496348,3337692349,2848615171
+dimwishlist:item=2742490609&perks=1392496348,1359896290,2848615171
+dimwishlist:item=2742490609&perks=4090651448,3337692349,2848615171
+dimwishlist:item=2742490609&perks=4090651448,1359896290,2848615171
+dimwishlist:item=2742490609&perks=3177308360,3337692349,2848615171
+dimwishlist:item=2742490609&perks=3177308360,1359896290,2848615171
+dimwishlist:item=2742490609&perks=106909392,3337692349,2848615171
+dimwishlist:item=2742490609&perks=106909392,1359896290,2848615171
+dimwishlist:item=2742490609&perks=3337692349,2848615171
+dimwishlist:item=2742490609&perks=1359896290,2848615171
+
+//Death Adder
+//notes: adam (PvE / high PL content, GMs / optimal): You're gonna be much better off with the Gambit solar SMG if you have a decent roll on it, but since it's hard to come by, this can be a niche roll for some elemental coverage on SMG-champion-mod seasons. Ultimately, you're probably better off just freeing that vault space. If you do feel like keeping one, you'll have to play a delicate balancing act with range (to cover GM engagement distances), reload, and stability boosts.|tags:PvE
+dimwishlist:item=2742490609&perks=1482024992,106909392,1359896290,1683379515
+dimwishlist:item=2742490609&perks=1482024992,3230963543,1359896290,1683379515
+dimwishlist:item=2742490609&perks=3250034553,106909392,1359896290,1683379515
+dimwishlist:item=2742490609&perks=3250034553,3230963543,1359896290,1683379515
+dimwishlist:item=2742490609&perks=4090651448,106909392,1359896290,1683379515
+dimwishlist:item=2742490609&perks=4090651448,3230963543,1359896290,1683379515
+dimwishlist:item=2742490609&perks=1482024992,1359896290,1683379515
+dimwishlist:item=2742490609&perks=3250034553,1359896290,1683379515
+dimwishlist:item=2742490609&perks=4090651448,1359896290,1683379515
+dimwishlist:item=2742490609&perks=106909392,1359896290,1683379515
+dimwishlist:item=2742490609&perks=3230963543,1359896290,1683379515
+dimwishlist:item=2742490609&perks=1359896290,1683379515
+
+//Death Adder
+//notes: adam (PvE / high PL content, GMs): You're gonna be much better off with the Gambit solar SMG if you have a decent roll on it, but since it's hard to come by, this can be a niche roll for some elemental coverage on SMG-champion-mod seasons. Ultimately, you're probably better off just freeing that vault space. If you do feel like keeping one, you'll have to play a delicate balancing act with range (to cover GM engagement distances), reload, and stability boosts.|tags:PvE
+dimwishlist:item=2742490609&perks=1482024992,106909392,1359896290,1683379515
+dimwishlist:item=2742490609&perks=1482024992,106909392,1359896290,2846385770
+dimwishlist:item=2742490609&perks=1482024992,106909392,3337692349,1683379515
+dimwishlist:item=2742490609&perks=1482024992,106909392,3337692349,2846385770
+dimwishlist:item=2742490609&perks=1482024992,3230963543,1359896290,1683379515
+dimwishlist:item=2742490609&perks=1482024992,3230963543,1359896290,2846385770
+dimwishlist:item=2742490609&perks=1482024992,3230963543,3337692349,1683379515
+dimwishlist:item=2742490609&perks=1482024992,3230963543,3337692349,2846385770
+dimwishlist:item=2742490609&perks=3250034553,106909392,1359896290,1683379515
+dimwishlist:item=2742490609&perks=3250034553,106909392,1359896290,2846385770
+dimwishlist:item=2742490609&perks=3250034553,106909392,3337692349,1683379515
+dimwishlist:item=2742490609&perks=3250034553,106909392,3337692349,2846385770
+dimwishlist:item=2742490609&perks=3250034553,3230963543,1359896290,1683379515
+dimwishlist:item=2742490609&perks=3250034553,3230963543,1359896290,2846385770
+dimwishlist:item=2742490609&perks=3250034553,3230963543,3337692349,1683379515
+dimwishlist:item=2742490609&perks=3250034553,3230963543,3337692349,2846385770
+dimwishlist:item=2742490609&perks=4090651448,106909392,1359896290,1683379515
+dimwishlist:item=2742490609&perks=4090651448,106909392,1359896290,2846385770
+dimwishlist:item=2742490609&perks=4090651448,106909392,3337692349,1683379515
+dimwishlist:item=2742490609&perks=4090651448,106909392,3337692349,2846385770
+dimwishlist:item=2742490609&perks=4090651448,3230963543,1359896290,1683379515
+dimwishlist:item=2742490609&perks=4090651448,3230963543,1359896290,2846385770
+dimwishlist:item=2742490609&perks=4090651448,3230963543,3337692349,1683379515
+dimwishlist:item=2742490609&perks=4090651448,3230963543,3337692349,2846385770
+dimwishlist:item=2742490609&perks=1482024992,1359896290,1683379515
+dimwishlist:item=2742490609&perks=1482024992,1359896290,2846385770
+dimwishlist:item=2742490609&perks=1482024992,3337692349,1683379515
+dimwishlist:item=2742490609&perks=1482024992,3337692349,2846385770
+dimwishlist:item=2742490609&perks=3250034553,1359896290,1683379515
+dimwishlist:item=2742490609&perks=3250034553,1359896290,2846385770
+dimwishlist:item=2742490609&perks=3250034553,3337692349,1683379515
+dimwishlist:item=2742490609&perks=3250034553,3337692349,2846385770
+dimwishlist:item=2742490609&perks=4090651448,1359896290,1683379515
+dimwishlist:item=2742490609&perks=4090651448,1359896290,2846385770
+dimwishlist:item=2742490609&perks=4090651448,3337692349,1683379515
+dimwishlist:item=2742490609&perks=4090651448,3337692349,2846385770
+dimwishlist:item=2742490609&perks=106909392,1359896290,1683379515
+dimwishlist:item=2742490609&perks=106909392,1359896290,2846385770
+dimwishlist:item=2742490609&perks=106909392,3337692349,1683379515
+dimwishlist:item=2742490609&perks=106909392,3337692349,2846385770
+dimwishlist:item=2742490609&perks=3230963543,1359896290,1683379515
+dimwishlist:item=2742490609&perks=3230963543,1359896290,2846385770
+dimwishlist:item=2742490609&perks=3230963543,3337692349,1683379515
+dimwishlist:item=2742490609&perks=3230963543,3337692349,2846385770
+dimwishlist:item=2742490609&perks=1359896290,1683379515
+dimwishlist:item=2742490609&perks=1359896290,2846385770
+dimwishlist:item=2742490609&perks=3337692349,1683379515
+dimwishlist:item=2742490609&perks=3337692349,2846385770
+
+//Death Adder
+//notes: adam (PvP / optimal): Would only recommend using this if you don't have any of the dominant PvP SMGs (Multimach, Shayura's Wrath, Friction Fire) but you reaally want to use an SMG. If this unlikely situation ever arises, you should do everything you can to increase both range and stability as much as you can, because it needs both to even come close to competing.|tags:PvP
+dimwishlist:item=2742490609&perks=1482024992,3142289711,1359896290,588594999
+dimwishlist:item=2742490609&perks=3250034553,3142289711,1359896290,588594999
+dimwishlist:item=2742490609&perks=4090651448,3142289711,1359896290,588594999
+dimwishlist:item=2742490609&perks=1392496348,3142289711,1359896290,588594999
+dimwishlist:item=2742490609&perks=3142289711,1359896290,588594999
+
+//Death Adder
+//notes: adam (PvP): Would only recommend using this if you don't have any of the dominant PvP SMGs (Multimach, Shayura's Wrath, Friction Fire) but you reaally want to use an SMG. If this unlikely situation ever arises, you should do everything you can to increase both range and stability as much as you can, because it needs both to even come close to competing.|tags:PvP
+dimwishlist:item=2742490609&perks=1482024992,3142289711,1359896290,588594999
+dimwishlist:item=2742490609&perks=1482024992,3142289711,1359896290,699525795
+dimwishlist:item=2742490609&perks=1482024992,3142289711,1359896290,2846385770
+dimwishlist:item=2742490609&perks=1482024992,3177308360,1359896290,588594999
+dimwishlist:item=2742490609&perks=1482024992,3177308360,1359896290,699525795
+dimwishlist:item=2742490609&perks=1482024992,3177308360,1359896290,2846385770
+dimwishlist:item=2742490609&perks=3250034553,3142289711,1359896290,588594999
+dimwishlist:item=2742490609&perks=3250034553,3142289711,1359896290,699525795
+dimwishlist:item=2742490609&perks=3250034553,3142289711,1359896290,2846385770
+dimwishlist:item=2742490609&perks=3250034553,3177308360,1359896290,588594999
+dimwishlist:item=2742490609&perks=3250034553,3177308360,1359896290,699525795
+dimwishlist:item=2742490609&perks=3250034553,3177308360,1359896290,2846385770
+dimwishlist:item=2742490609&perks=4090651448,3142289711,1359896290,588594999
+dimwishlist:item=2742490609&perks=4090651448,3142289711,1359896290,699525795
+dimwishlist:item=2742490609&perks=4090651448,3142289711,1359896290,2846385770
+dimwishlist:item=2742490609&perks=4090651448,3177308360,1359896290,588594999
+dimwishlist:item=2742490609&perks=4090651448,3177308360,1359896290,699525795
+dimwishlist:item=2742490609&perks=4090651448,3177308360,1359896290,2846385770
+dimwishlist:item=2742490609&perks=1392496348,3142289711,1359896290,588594999
+dimwishlist:item=2742490609&perks=1392496348,3142289711,1359896290,699525795
+dimwishlist:item=2742490609&perks=1392496348,3142289711,1359896290,2846385770
+dimwishlist:item=2742490609&perks=1392496348,3177308360,1359896290,588594999
+dimwishlist:item=2742490609&perks=1392496348,3177308360,1359896290,699525795
+dimwishlist:item=2742490609&perks=1392496348,3177308360,1359896290,2846385770
+dimwishlist:item=2742490609&perks=3142289711,1359896290,588594999
+dimwishlist:item=2742490609&perks=3142289711,1359896290,699525795
+dimwishlist:item=2742490609&perks=3142289711,1359896290,2846385770
+dimwishlist:item=2742490609&perks=3177308360,1359896290,588594999
+dimwishlist:item=2742490609&perks=3177308360,1359896290,699525795
+dimwishlist:item=2742490609&perks=3177308360,1359896290,2846385770
+
+//Widow's Bite
+//notes: adam (PvP / optimal): Mostly an instant shard weapon but if you're really into rapid fire frames, you can stack a bunch of accuracy + aim assist increases on it, and give it a shot. For PvE, Ikelos sniper is a solar rapid fire with much better rolls and warmind cells.|tags:PvP
+dimwishlist:item=1271343896&perks=839105230,3142289711,280464955,47981717
+dimwishlist:item=1271343896&perks=839105230,3142289711,3161816588,47981717
+dimwishlist:item=1271343896&perks=839105230,280464955,47981717
+dimwishlist:item=1271343896&perks=839105230,3161816588,47981717
+
+//Widow's Bite
+//notes: adam (PvP): Mostly an instant shard weapon but if you're really into rapid fire frames, you can stack a bunch of accuracy + aim assist increases on it, and give it a shot. For PvE, Ikelos sniper is a solar rapid fire with much better rolls and warmind cells.|tags:PvP
+dimwishlist:item=1271343896&perks=1840239774,3142289711,280464955,47981717
+dimwishlist:item=1271343896&perks=1840239774,3142289711,3161816588,47981717
+dimwishlist:item=1271343896&perks=1840239774,280464955,47981717
+dimwishlist:item=1271343896&perks=1840239774,3161816588,47981717
+
+//IKELOS_SG_v1.0.2
+//notes: adam (PvE / optimal): The Rapid-fire archetype's fast RPM should let you get a nice chunk of burst damage out with Trench Barrel (which no other rapid-fire can roll), but the need to refresh the buff after every 3 shots makes it an overall lower DPS option than Vorpal, which provides a smaller damage increase but does so passively. Pellet shotguns aren't really part of the current DPS meta but this is a strong option to keep in your vault in case they ever get a blanket buff, and its warmind cell generating capabilities already give it enough utility to make it a viable option if you ever feel like switching things up. As a rapid fire frame, it eats through ammo real quick so try to get some reload boosts, with the rest of the stat boosts spent on handling where possible.|tags:PvE
+dimwishlist:item=1096206669&perks=839105230,679225683,4071163871,1546637391
+dimwishlist:item=1096206669&perks=839105230,679225683,4071163871,3708227201
+dimwishlist:item=1096206669&perks=839105230,106909392,4071163871,1546637391
+dimwishlist:item=1096206669&perks=839105230,106909392,4071163871,3708227201
+dimwishlist:item=1096206669&perks=1840239774,679225683,4071163871,1546637391
+dimwishlist:item=1096206669&perks=1840239774,679225683,4071163871,3708227201
+dimwishlist:item=1096206669&perks=1840239774,106909392,4071163871,1546637391
+dimwishlist:item=1096206669&perks=1840239774,106909392,4071163871,3708227201
+dimwishlist:item=1096206669&perks=1467527085,679225683,4071163871,1546637391
+dimwishlist:item=1096206669&perks=1467527085,679225683,4071163871,3708227201
+dimwishlist:item=1096206669&perks=1467527085,106909392,4071163871,1546637391
+dimwishlist:item=1096206669&perks=1467527085,106909392,4071163871,3708227201
+dimwishlist:item=1096206669&perks=3661387068,679225683,4071163871,1546637391
+dimwishlist:item=1096206669&perks=3661387068,679225683,4071163871,3708227201
+dimwishlist:item=1096206669&perks=3661387068,106909392,4071163871,1546637391
+dimwishlist:item=1096206669&perks=3661387068,106909392,4071163871,3708227201
+dimwishlist:item=1096206669&perks=839105230,4071163871,1546637391
+dimwishlist:item=1096206669&perks=839105230,4071163871,3708227201
+dimwishlist:item=1096206669&perks=1840239774,4071163871,1546637391
+dimwishlist:item=1096206669&perks=1840239774,4071163871,3708227201
+dimwishlist:item=1096206669&perks=1467527085,4071163871,1546637391
+dimwishlist:item=1096206669&perks=1467527085,4071163871,3708227201
+dimwishlist:item=1096206669&perks=3661387068,4071163871,1546637391
+dimwishlist:item=1096206669&perks=3661387068,4071163871,3708227201
+dimwishlist:item=1096206669&perks=679225683,4071163871,1546637391
+dimwishlist:item=1096206669&perks=679225683,4071163871,3708227201
+dimwishlist:item=1096206669&perks=106909392,4071163871,1546637391
+dimwishlist:item=1096206669&perks=106909392,4071163871,3708227201
+dimwishlist:item=1096206669&perks=4071163871,1546637391
+dimwishlist:item=1096206669&perks=4071163871,3708227201
+
+//IKELOS_SG_v1.0.2
+//notes: adam (PvE): The Rapid-fire archetype's fast RPM should let you get a nice chunk of burst damage out with Trench Barrel (which no other rapid-fire can roll), but the need to refresh the buff after every 3 shots makes it an overall lower DPS option than Vorpal, which provides a smaller damage increase but does so passively. Pellet shotguns aren't really part of the current DPS meta but this is a strong option to keep in your vault in case they ever get a blanket buff, and its warmind cell generating capabilities already give it enough utility to make it a viable option if you ever feel like switching things up. As a rapid fire frame, it eats through ammo real quick so try to get some reload boosts, with the rest of the stat boosts spent on handling where possible.|tags:PvE
+dimwishlist:item=1096206669&perks=839105230,679225683,4071163871,1546637391
+dimwishlist:item=1096206669&perks=839105230,679225683,4071163871,3708227201
+dimwishlist:item=1096206669&perks=839105230,679225683,4071163871,806159697
+dimwishlist:item=1096206669&perks=839105230,679225683,972757866,1546637391
+dimwishlist:item=1096206669&perks=839105230,679225683,972757866,3708227201
+dimwishlist:item=1096206669&perks=839105230,679225683,972757866,806159697
+dimwishlist:item=1096206669&perks=839105230,679225683,2779035018,1546637391
+dimwishlist:item=1096206669&perks=839105230,679225683,2779035018,3708227201
+dimwishlist:item=1096206669&perks=839105230,679225683,2779035018,806159697
+dimwishlist:item=1096206669&perks=839105230,106909392,4071163871,1546637391
+dimwishlist:item=1096206669&perks=839105230,106909392,4071163871,3708227201
+dimwishlist:item=1096206669&perks=839105230,106909392,4071163871,806159697
+dimwishlist:item=1096206669&perks=839105230,106909392,972757866,1546637391
+dimwishlist:item=1096206669&perks=839105230,106909392,972757866,3708227201
+dimwishlist:item=1096206669&perks=839105230,106909392,972757866,806159697
+dimwishlist:item=1096206669&perks=839105230,106909392,2779035018,1546637391
+dimwishlist:item=1096206669&perks=839105230,106909392,2779035018,3708227201
+dimwishlist:item=1096206669&perks=839105230,106909392,2779035018,806159697
+dimwishlist:item=1096206669&perks=1840239774,679225683,4071163871,1546637391
+dimwishlist:item=1096206669&perks=1840239774,679225683,4071163871,3708227201
+dimwishlist:item=1096206669&perks=1840239774,679225683,4071163871,806159697
+dimwishlist:item=1096206669&perks=1840239774,679225683,972757866,1546637391
+dimwishlist:item=1096206669&perks=1840239774,679225683,972757866,3708227201
+dimwishlist:item=1096206669&perks=1840239774,679225683,972757866,806159697
+dimwishlist:item=1096206669&perks=1840239774,679225683,2779035018,1546637391
+dimwishlist:item=1096206669&perks=1840239774,679225683,2779035018,3708227201
+dimwishlist:item=1096206669&perks=1840239774,679225683,2779035018,806159697
+dimwishlist:item=1096206669&perks=1840239774,106909392,4071163871,1546637391
+dimwishlist:item=1096206669&perks=1840239774,106909392,4071163871,3708227201
+dimwishlist:item=1096206669&perks=1840239774,106909392,4071163871,806159697
+dimwishlist:item=1096206669&perks=1840239774,106909392,972757866,1546637391
+dimwishlist:item=1096206669&perks=1840239774,106909392,972757866,3708227201
+dimwishlist:item=1096206669&perks=1840239774,106909392,972757866,806159697
+dimwishlist:item=1096206669&perks=1840239774,106909392,2779035018,1546637391
+dimwishlist:item=1096206669&perks=1840239774,106909392,2779035018,3708227201
+dimwishlist:item=1096206669&perks=1840239774,106909392,2779035018,806159697
+dimwishlist:item=1096206669&perks=1467527085,679225683,4071163871,1546637391
+dimwishlist:item=1096206669&perks=1467527085,679225683,4071163871,3708227201
+dimwishlist:item=1096206669&perks=1467527085,679225683,4071163871,806159697
+dimwishlist:item=1096206669&perks=1467527085,679225683,972757866,1546637391
+dimwishlist:item=1096206669&perks=1467527085,679225683,972757866,3708227201
+dimwishlist:item=1096206669&perks=1467527085,679225683,972757866,806159697
+dimwishlist:item=1096206669&perks=1467527085,679225683,2779035018,1546637391
+dimwishlist:item=1096206669&perks=1467527085,679225683,2779035018,3708227201
+dimwishlist:item=1096206669&perks=1467527085,679225683,2779035018,806159697
+dimwishlist:item=1096206669&perks=1467527085,106909392,4071163871,1546637391
+dimwishlist:item=1096206669&perks=1467527085,106909392,4071163871,3708227201
+dimwishlist:item=1096206669&perks=1467527085,106909392,4071163871,806159697
+dimwishlist:item=1096206669&perks=1467527085,106909392,972757866,1546637391
+dimwishlist:item=1096206669&perks=1467527085,106909392,972757866,3708227201
+dimwishlist:item=1096206669&perks=1467527085,106909392,972757866,806159697
+dimwishlist:item=1096206669&perks=1467527085,106909392,2779035018,1546637391
+dimwishlist:item=1096206669&perks=1467527085,106909392,2779035018,3708227201
+dimwishlist:item=1096206669&perks=1467527085,106909392,2779035018,806159697
+dimwishlist:item=1096206669&perks=3661387068,679225683,4071163871,1546637391
+dimwishlist:item=1096206669&perks=3661387068,679225683,4071163871,3708227201
+dimwishlist:item=1096206669&perks=3661387068,679225683,4071163871,806159697
+dimwishlist:item=1096206669&perks=3661387068,679225683,972757866,1546637391
+dimwishlist:item=1096206669&perks=3661387068,679225683,972757866,3708227201
+dimwishlist:item=1096206669&perks=3661387068,679225683,972757866,806159697
+dimwishlist:item=1096206669&perks=3661387068,679225683,2779035018,1546637391
+dimwishlist:item=1096206669&perks=3661387068,679225683,2779035018,3708227201
+dimwishlist:item=1096206669&perks=3661387068,679225683,2779035018,806159697
+dimwishlist:item=1096206669&perks=3661387068,106909392,4071163871,1546637391
+dimwishlist:item=1096206669&perks=3661387068,106909392,4071163871,3708227201
+dimwishlist:item=1096206669&perks=3661387068,106909392,4071163871,806159697
+dimwishlist:item=1096206669&perks=3661387068,106909392,972757866,1546637391
+dimwishlist:item=1096206669&perks=3661387068,106909392,972757866,3708227201
+dimwishlist:item=1096206669&perks=3661387068,106909392,972757866,806159697
+dimwishlist:item=1096206669&perks=3661387068,106909392,2779035018,1546637391
+dimwishlist:item=1096206669&perks=3661387068,106909392,2779035018,3708227201
+dimwishlist:item=1096206669&perks=3661387068,106909392,2779035018,806159697
+dimwishlist:item=1096206669&perks=839105230,4071163871,1546637391
+dimwishlist:item=1096206669&perks=839105230,4071163871,3708227201
+dimwishlist:item=1096206669&perks=839105230,4071163871,806159697
+dimwishlist:item=1096206669&perks=839105230,972757866,1546637391
+dimwishlist:item=1096206669&perks=839105230,972757866,3708227201
+dimwishlist:item=1096206669&perks=839105230,972757866,806159697
+dimwishlist:item=1096206669&perks=839105230,2779035018,1546637391
+dimwishlist:item=1096206669&perks=839105230,2779035018,3708227201
+dimwishlist:item=1096206669&perks=839105230,2779035018,806159697
+dimwishlist:item=1096206669&perks=1840239774,4071163871,1546637391
+dimwishlist:item=1096206669&perks=1840239774,4071163871,3708227201
+dimwishlist:item=1096206669&perks=1840239774,4071163871,806159697
+dimwishlist:item=1096206669&perks=1840239774,972757866,1546637391
+dimwishlist:item=1096206669&perks=1840239774,972757866,3708227201
+dimwishlist:item=1096206669&perks=1840239774,972757866,806159697
+dimwishlist:item=1096206669&perks=1840239774,2779035018,1546637391
+dimwishlist:item=1096206669&perks=1840239774,2779035018,3708227201
+dimwishlist:item=1096206669&perks=1840239774,2779035018,806159697
+dimwishlist:item=1096206669&perks=1467527085,4071163871,1546637391
+dimwishlist:item=1096206669&perks=1467527085,4071163871,3708227201
+dimwishlist:item=1096206669&perks=1467527085,4071163871,806159697
+dimwishlist:item=1096206669&perks=1467527085,972757866,1546637391
+dimwishlist:item=1096206669&perks=1467527085,972757866,3708227201
+dimwishlist:item=1096206669&perks=1467527085,972757866,806159697
+dimwishlist:item=1096206669&perks=1467527085,2779035018,1546637391
+dimwishlist:item=1096206669&perks=1467527085,2779035018,3708227201
+dimwishlist:item=1096206669&perks=1467527085,2779035018,806159697
+dimwishlist:item=1096206669&perks=3661387068,4071163871,1546637391
+dimwishlist:item=1096206669&perks=3661387068,4071163871,3708227201
+dimwishlist:item=1096206669&perks=3661387068,4071163871,806159697
+dimwishlist:item=1096206669&perks=3661387068,972757866,1546637391
+dimwishlist:item=1096206669&perks=3661387068,972757866,3708227201
+dimwishlist:item=1096206669&perks=3661387068,972757866,806159697
+dimwishlist:item=1096206669&perks=3661387068,2779035018,1546637391
+dimwishlist:item=1096206669&perks=3661387068,2779035018,3708227201
+dimwishlist:item=1096206669&perks=3661387068,2779035018,806159697
+dimwishlist:item=1096206669&perks=679225683,4071163871,1546637391
+dimwishlist:item=1096206669&perks=679225683,4071163871,3708227201
+dimwishlist:item=1096206669&perks=679225683,4071163871,806159697
+dimwishlist:item=1096206669&perks=679225683,972757866,1546637391
+dimwishlist:item=1096206669&perks=679225683,972757866,3708227201
+dimwishlist:item=1096206669&perks=679225683,972757866,806159697
+dimwishlist:item=1096206669&perks=679225683,2779035018,1546637391
+dimwishlist:item=1096206669&perks=679225683,2779035018,3708227201
+dimwishlist:item=1096206669&perks=679225683,2779035018,806159697
+dimwishlist:item=1096206669&perks=106909392,4071163871,1546637391
+dimwishlist:item=1096206669&perks=106909392,4071163871,3708227201
+dimwishlist:item=1096206669&perks=106909392,4071163871,806159697
+dimwishlist:item=1096206669&perks=106909392,972757866,1546637391
+dimwishlist:item=1096206669&perks=106909392,972757866,3708227201
+dimwishlist:item=1096206669&perks=106909392,972757866,806159697
+dimwishlist:item=1096206669&perks=106909392,2779035018,1546637391
+dimwishlist:item=1096206669&perks=106909392,2779035018,3708227201
+dimwishlist:item=1096206669&perks=106909392,2779035018,806159697
+dimwishlist:item=1096206669&perks=4071163871,1546637391
+dimwishlist:item=1096206669&perks=4071163871,3708227201
+dimwishlist:item=1096206669&perks=4071163871,806159697
+dimwishlist:item=1096206669&perks=972757866,1546637391
+dimwishlist:item=1096206669&perks=972757866,3708227201
+dimwishlist:item=1096206669&perks=972757866,806159697
+dimwishlist:item=1096206669&perks=2779035018,1546637391
+dimwishlist:item=1096206669&perks=2779035018,3708227201
+dimwishlist:item=1096206669&perks=2779035018,806159697
+
+//Negative Space
+//notes: adam (PvE / general use / optimal): The only solar Adaptive sword in the game, which makes it slightly notable for element coverage, and it has solid rolls available.|tags:PvE
+dimwishlist:item=3629968765&perks=1261178282,269888150,2590710093,3708227201
+dimwishlist:item=3629968765&perks=1261178282,269888150,2590710093
+dimwishlist:item=3629968765&perks=1261178282,2590710093,3708227201
+dimwishlist:item=3629968765&perks=1261178282,2590710093
+
+//Negative Space
+//notes: adam (PvE / general use): The only solar Adaptive sword in the game, which makes it slightly notable for element coverage, and it has solid rolls available.|tags:PvE
+dimwishlist:item=3629968765&perks=436053704,269888150,2590710093,3708227201
+dimwishlist:item=3629968765&perks=436053704,269888150,2590710093
+dimwishlist:item=3629968765&perks=436053704,2590710093,3708227201
+dimwishlist:item=3629968765&perks=436053704,2590710093
+
+//Negative Space
+//notes: adam (PvE / boss dps / optimal): The only solar Adaptive sword in the game, which makes it slightly notable for element coverage, and it has solid rolls available.|tags:PvE
+dimwishlist:item=3629968765&perks=1261178282,269888150,1749209109,3913600130
+dimwishlist:item=3629968765&perks=436053704,269888150,1749209109,3913600130
+dimwishlist:item=3629968765&perks=269888150,1749209109,3913600130
 
